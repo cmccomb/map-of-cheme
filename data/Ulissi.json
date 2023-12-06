@@ -1,0 +1,680 @@
+[
+    {
+        "title": "2D equation-of-state model for corona phase molecular recognition on single-walled carbon nanotube and graphene surfaces",
+        "pub_year": "2015",
+        "citation": "Langmuir 31 (1), 628-636, 2015"
+    },
+    {
+        "title": "A mathematical formulation and solution of the CoPhMoRe inverse problem for helically wrapping polymer corona phases on cylindrical substrates",
+        "pub_year": "2015",
+        "citation": "The Journal of Physical Chemistry C 119 (24), 13876-13886, 2015"
+    },
+    {
+        "title": "A quantitative and predictive model of electromigration-induced breakdown of metal nanowires",
+        "pub_year": "2013",
+        "citation": "The Journal of Physical Chemistry C 117 (23), 12373-12378, 2013"
+    },
+    {
+        "title": "Accelerated discovery of CO2 electrocatalysts using active machine learning",
+        "pub_year": "2020",
+        "citation": "Nature 581 (7807), 178-183, 2020"
+    },
+    {
+        "title": "Accelerating on-the-Fly Active Learning of Catalyst Simulations Using Large Scale Pretrained Models",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
+        "title": "Active Learning across Intermetallics Guides Discovery of Electrocatalysts for Carbon Dioxide Reduction and Hydrogen Evolution",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution",
+        "pub_year": "2018",
+        "citation": "Nature Catalysis 1 (9), 696-703, 2018"
+    },
+    {
+        "title": "Addressing chemical complexity with surrogate models in computational catalyst design",
+        "pub_year": "2018",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+    },
+    {
+        "title": "AdsorbML: a leap in efficiency for adsorption energy calculations using generalizable machine learning potentials",
+        "pub_year": "2023",
+        "citation": "npj Computational Materials 9 (1), 172, 2023"
+    },
+    {
+        "title": "Adsorbml: Accelerating adsorption energy calculations with machine learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2211.16486, 2022"
+    },
+    {
+        "title": "All-Atom Molecular Dynamics Study for O2 Permeation in a Nafion Polyelectrolyte Membrane",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+    },
+    {
+        "title": "AmpTorch: A Python package for scalable fingerprint-based neural network training on multi-element systems with integrated uncertainty quantification",
+        "pub_year": "2023",
+        "citation": "Journal of Open Source Software 8 (87), 5035, 2023"
+    },
+    {
+        "title": "An Active Learning Framework for Accelerating Saddle Point Searches Applied to Propylene Epoxidation",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+    },
+    {
+        "title": "An Efficient Discovery of Active",
+        "pub_year": "2020",
+        "citation": ""
+    },
+    {
+        "title": "An introduction to electrocatalyst design using machine learning for renewable energy storage",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2010.09435, 2020"
+    },
+    {
+        "title": "Applicability of birth–death Markov modeling for single-molecule counting using single-walled carbon nanotube fluorescent sensor arrays",
+        "pub_year": "2011",
+        "citation": "The Journal of Physical Chemistry Letters 2 (14), 1690-1694, 2011"
+    },
+    {
+        "title": "Applications of Data Science in Catalysis and Reaction Engineering",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
+        "title": "Applications of Data Science in Catalysis and Reaction Engineering I",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
+        "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_rev Dataset",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
+        "title": "Automated DFT Calculations for the High-Throughput Screening of Oxygen Evolution Reaction Catalysts",
+        "pub_year": "2019",
+        "citation": "2019 AIChE Annual Meeting, 2019"
+    },
+    {
+        "title": "Automated discovery and construction of surface phase diagrams using machine learning",
+        "pub_year": "2016",
+        "citation": "The journal of physical chemistry letters 7 (19), 3931-3935, 2016"
+    },
+    {
+        "title": "Beyond independent error assumptions in large GNN atomistic models",
+        "pub_year": "2023",
+        "citation": "The Journal of Chemical Physics 158 (21), 2023"
+    },
+    {
+        "title": "Capturing Non-Ideal Surfactant/Nanoparticle Interfacial Structure with Variable Coverage Molecular Simulations",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Capturing structural transitions in surfactant adsorption isotherms at solid/solution interfaces",
+        "pub_year": "2019",
+        "citation": "Langmuir 36 (3), 819-826, 2019"
+    },
+    {
+        "title": "Carbon nanotubes as molecular conduits: advances and challenges for transport through isolated sub-2 nm pores",
+        "pub_year": "2011",
+        "citation": "The Journal of Physical Chemistry Letters 2 (22), 2892-2896, 2011"
+    },
+    {
+        "title": "Catlas: an automated framework for catalyst discovery demonstrated for direct syngas conversion",
+        "pub_year": "2022",
+        "citation": "Catalysis Science & Technology 12 (20), 6256-6267, 2022"
+    },
+    {
+        "title": "Charge transfer at junctions of a single layer of graphene and a metallic single walled carbon nanotube",
+        "pub_year": "2013",
+        "citation": "Small 9 (11), 1954-1963, 2013"
+    },
+    {
+        "title": "Chemical Properties from Graph Neural Network-Predicted Electron Densities",
+        "pub_year": "2023",
+        "citation": "The Journal of Physical Chemistry C, 2023"
+    },
+    {
+        "title": "Cluster-MLP: An Active Learning Genetic Algorithm Framework for Accelerated Discovery of Global Minimum Configurations of Pure and Alloyed Nanoclusters",
+        "pub_year": "2023",
+        "citation": "Journal of Chemical Information and Modeling 63 (20), 6192-6197, 2023"
+    },
+    {
+        "title": "Compact Polarization Camera with Liquid-Crystal Retarder for Patterning of Biological Textures",
+        "pub_year": "2008",
+        "citation": "Biomedical Optics, BTuF48, 2008"
+    },
+    {
+        "title": "Computational catalyst discovery: Active classification through myopic multiscale sampling",
+        "pub_year": "2021",
+        "citation": "The Journal of Chemical Physics 154 (12), 2021"
+    },
+    {
+        "title": "Computational notebooks in chemical engineering curricula",
+        "pub_year": "2020",
+        "citation": "Chemical engineering education 54 (3), 2020"
+    },
+    {
+        "title": "Content Types",
+        "citation": ""
+    },
+    {
+        "title": "Control of nano and microchemical systems",
+        "pub_year": "2013",
+        "citation": "Computers & chemical engineering 51, 149-156, 2013"
+    },
+    {
+        "title": "Convolutional neural network of atomic surface structures to predict binding energies for high-throughput screening of catalysts",
+        "pub_year": "2019",
+        "citation": "The journal of physical chemistry letters 10 (15), 4401-4408, 2019"
+    },
+    {
+        "title": "Copper silver thin films with metastable miscibility for oxygen reduction electrocatalysis in alkaline electrolytes",
+        "pub_year": "2018",
+        "citation": "ACS Applied Energy Materials 1 (5), 1990-1999, 2018"
+    },
+    {
+        "title": "DFT Screening of Electrocatalysts Using Active Optimization",
+        "pub_year": "2019",
+        "citation": "2019 North American Catalysis Society Meeting, 2019"
+    },
+    {
+        "title": "Data Science & Machine Learning Approaches to Catalysis II: AI-Accelerated Modeling of Catalysts and Materials",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
+        "title": "Data Science in Catalysis I",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Data Science in Catalysis II",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy",
+        "pub_year": "2021",
+        "citation": "Machine Learning: Science and Technology 2 (4), 045018, 2021"
+    },
+    {
+        "title": "Design and synthesis of synthetic antibodies, CoPhMoRe and the inverse CoPhMoRe problem for helically wrapping polymers on single-wall carbon nanotubes",
+        "pub_year": "2015",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 250, 2015"
+    },
+    {
+        "title": "Design of Optimal Metallic Surface Reconstructions for Heterogeneous Catalysis",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Detailed microkinetics for the oxidation of exhaust gas emissions through automated mechanism generation",
+        "pub_year": "2022",
+        "citation": "ACS Catalysis 12 (18), 11137-11151, 2022"
+    },
+    {
+        "title": "Deterministic modelling of carbon nanotube near-infrared solar cells",
+        "pub_year": "2014",
+        "citation": "Energy & Environmental Science 7 (11), 3769-3781, 2014"
+    },
+    {
+        "title": "Development of Polymer Electrolyte Fuel Cell (PEFC) Cathodes with High Oxygen Permeability Ionomer (HOPI) for High Performance and Durability",
+        "pub_year": "2021",
+        "citation": "Electrochemical Society Meeting Abstracts 240, 1188-1188, 2021"
+    },
+    {
+        "title": "Diameter-dependent ion transport through the interior of isolated single-walled carbon nanotubes",
+        "pub_year": "2013",
+        "citation": "Nature communications 4 (1), 2397, 2013"
+    },
+    {
+        "title": "Differentiable optimization for the prediction of ground state structures (DOGSS)",
+        "pub_year": "2020",
+        "citation": "Physical Review Letters 125 (17), 173001, 2020"
+    },
+    {
+        "title": "Discovery of acid-stable oxygen evolution catalysts: high-throughput computational screening of equimolar bimetallic oxides",
+        "pub_year": "2020",
+        "citation": "ACS applied materials & interfaces 12 (34), 38256-38265, 2020"
+    },
+    {
+        "title": "Dynamic workflows for routine materials discovery in surface science",
+        "pub_year": "2018",
+        "citation": "Journal of chemical information and modeling 58 (12), 2392-2400, 2018"
+    },
+    {
+        "title": "Effect of multiscale model uncertainty on identification of optimal catalyst properties",
+        "pub_year": "2011",
+        "citation": "Journal of catalysis 281 (2), 339-344, 2011"
+    },
+    {
+        "title": "Efficient Discovery of Active, Selective, and Stable Catalysts for Electrochemical H2O2 Synthesis through Active Motif Screening",
+        "pub_year": "2021",
+        "citation": "ACS Catalysis 11 (5), 2483-2491, 2021"
+    },
+    {
+        "title": "Elimination of multidrug-resistant bacteria by transition metal dichalcogenides encapsulated by synthetic single-stranded DNA",
+        "pub_year": "2021",
+        "citation": "ACS Applied Materials & Interfaces 13 (7), 8082-8094, 2021"
+    },
+    {
+        "title": "Enabling Catalyst Data Science with High-Throughput Calculations and Machine Learning",
+        "pub_year": "2019",
+        "citation": "2019 North American Catalysis Society Meeting, 2019"
+    },
+    {
+        "title": "Enabling robust offline active learning for machine learning potentials using simple physics-based priors",
+        "pub_year": "2020",
+        "citation": "Machine Learning: Science and Technology 2 (2), 025007, 2020"
+    },
+    {
+        "title": "Evaluation of High Oxygen Permeability Ionomer (HOPI) Oxygen Permeability for Proton Exchange Membrane Fuel Cells (PEMFCs)",
+        "pub_year": "2022",
+        "citation": "Electrochemical Society Meeting Abstracts 242, 1514-1514, 2022"
+    },
+    {
+        "title": "FINETUNA: fine-tuning accelerated molecular simulations",
+        "pub_year": "2022",
+        "citation": "Machine Learning: Science and Technology 3 (3), 03LT01, 2022"
+    },
+    {
+        "title": "Fine-Tuned Language Models Generate Stable Inorganic Materials as Text",
+        "pub_year": "2023",
+        "citation": "AI for Accelerated Materials Design-NeurIPS 2023 Workshop, 2023"
+    },
+    {
+        "title": "From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.16802, 2023"
+    },
+    {
+        "title": "Gemnet-oc: developing graph neural networks for large and diverse molecular simulation datasets",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2204.02782, 2022"
+    },
+    {
+        "title": "Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.01987, 2023"
+    },
+    {
+        "title": "Graph Convolutional Machine Learning Methods for the Predictions of Adsorption and Thermochemistry and Surface Stability",
+        "pub_year": "2019",
+        "citation": "2019 AIChE Annual Meeting, 2019"
+    },
+    {
+        "title": "Heterogeneous catalysis in grammar school",
+        "pub_year": "2022",
+        "citation": "The Journal of Physical Chemistry C 126 (6), 2931-2936, 2022"
+    },
+    {
+        "title": "High throughput multiscale modeling for design of experiments, catalysts, and reactors: Application to hydrogen production from ammonia",
+        "pub_year": "2010",
+        "citation": "Chemical Engineering Science 65 (1), 240-246, 2010"
+    },
+    {
+        "title": "High-Throughput Determination of Active Site Nuclearity Distribution across Binary Intermetallics for Ethylene Hydrogenation",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+    },
+    {
+        "title": "How do graph networks generalize to large and diverse molecular systems",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv 2204, 2022"
+    },
+    {
+        "title": "How to Model Complex Catalyst Systems Beyond Metals?",
+        "pub_year": "2019",
+        "citation": "2019 North American Catalysis Society Meeting, 2019"
+    },
+    {
+        "title": "Hydrogen Adsorption Energy Necessary but Not Sufficient for HER Catalysis: Connecting Machine-Learned Descriptors with High-Throughput Experimental Catalysis over Bimetallic …",
+        "pub_year": "2022",
+        "citation": ""
+    },
+    {
+        "title": "Identifying limitations in screening high-throughput photocatalytic bimetallic nanoparticles with machine-learned hydrogen adsorptions",
+        "pub_year": "2023",
+        "citation": "Applied Catalysis B: Environmental 320, 121959, 2023"
+    },
+    {
+        "title": "In silico discovery of active, stable, CO-tolerant and cost-effective electrocatalysts for hydrogen evolution and oxidation",
+        "pub_year": "2020",
+        "citation": "Physical Chemistry Chemical Physics 22 (35), 19454-19458, 2020"
+    },
+    {
+        "title": "Incorporation of Covariance of DFT Energy Ensembles into Gnn Models for the Trustworthy Catalyst Design Method",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
+        "title": "Low dimensional carbon materials for applications in mass and energy transport",
+        "pub_year": "2014",
+        "citation": "Chemistry of Materials 26 (1), 172-183, 2014"
+    },
+    {
+        "title": "MTL ANNUAL RESEARCH REPORT 2013",
+        "citation": ""
+    },
+    {
+        "title": "Machine Learning Enabled Catalyst Performance Predictions for Oxygen Reduction Reaction",
+        "pub_year": "2019",
+        "citation": "2019 North American Catalysis Society Meeting, 2019"
+    },
+    {
+        "title": "Machine-Learning Methods Enable Exhaustive Searches for Active Bimetallic Facets and Reveal Active Site Motifs for CO2 Reduction",
+        "pub_year": "2017",
+        "citation": "Acs Catalysis 7 (10), 6600-6608, 2017"
+    },
+    {
+        "title": "Mass parallelized screening of structurally diverse iridium photocatalysts and bimetallic nanoparticulate co-catalysts for water reduction reactions",
+        "pub_year": "2020",
+        "citation": "American Chemical Society SciMeetings 1 (1), 2020"
+    },
+    {
+        "title": "Methods for comparing uncertainty quantifications for material property predictions",
+        "pub_year": "2020",
+        "citation": "Machine Learning: Science and Technology 1 (2), 025006, 2020"
+    },
+    {
+        "title": "Methods to Exploit Large Datasets in Catalysis",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Modeling and Simulation: Electrocatalysis and Photoelectrocatalysis",
+        "pub_year": "2019",
+        "citation": "2019 North American Catalysis Society Meeting, 2019"
+    },
+    {
+        "title": "Modeling and simulation of stochastic phenomena in carbon nanotube-based single molecule sensors",
+        "pub_year": "2015",
+        "citation": "Massachusetts Institute of Technology, 2015"
+    },
+    {
+        "title": "Modelling and development of photoelectrochemical reactor for H2 production",
+        "pub_year": "2012",
+        "citation": "International Journal of Hydrogen Energy 37 (3), 2911-2923, 2012"
+    },
+    {
+        "title": "Molecular recognition using corona phase complexes made of synthetic polymers adsorbed on carbon nanotubes",
+        "pub_year": "2013",
+        "citation": "Nature nanotechnology 8 (12), 959-968, 2013"
+    },
+    {
+        "title": "Molecular recognition using corona phase complexes made of synthetic polymers adsorbed on carbon nanotubes",
+        "pub_year": "2014",
+        "citation": "Sensors 2014-Topical Conference at the 2014 AIChE Annual Meeting, 20-21, 2014"
+    },
+    {
+        "title": "Molecular recognition using nanotube-adsorbed polymer phases: nanotube antibodies",
+        "pub_year": "2013",
+        "citation": "Nature nanotechnology 8 (12), 959, 2013"
+    },
+    {
+        "title": "Multi-Descriptor Design of Ruthenium Catalysts for Durable Acidic Water Oxidation",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
+        "title": "Multi-Task Machine Learning to Predict ORR Catalyst Descriptors and Performance across Surface Composition",
+        "pub_year": "2019",
+        "citation": "2019 AIChE Annual Meeting, 2019"
+    },
+    {
+        "title": "Neural Networks Learn Fundamental Adsorption Energy Scaling Relations",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
+        "title": "NeuralNEB—neural networks can find reaction paths fast",
+        "citation": ""
+    },
+    {
+        "title": "Nuclearity As a Descriptor for Site and Surface Selection",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
+        "title": "Observation of oscillatory surface reactions of riboflavin, trolox, and singlet oxygen using single carbon nanotube fluorescence spectroscopy",
+        "pub_year": "2012",
+        "citation": "ACS nano 6 (12), 10632-10645, 2012"
+    },
+    {
+        "title": "Open catalyst 2020 (OC20) dataset and community challenges",
+        "pub_year": "2021",
+        "citation": "Acs Catalysis 11 (10), 6059-6072, 2021"
+    },
+    {
+        "title": "Open challenges in developing generalizable large-scale machine-learning models for catalyst discovery",
+        "pub_year": "2022",
+        "citation": "ACS Catalysis 12 (14), 8572-8581, 2022"
+    },
+    {
+        "title": "Optimization of High-Throughput Photocatalyzed Bimetallic Nanoparticles Using Online Active Learning",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
+        "title": "Optimization-based design of active and stable nanostructured surfaces",
+        "pub_year": "2019",
+        "citation": "The Journal of Physical Chemistry C 123 (48), 29209-29218, 2019"
+    },
+    {
+        "title": "Parallelized screening of characterized and DFT-modeled bimetallic colloidal cocatalysts for photocatalytic hydrogen evolution",
+        "pub_year": "2020",
+        "citation": "ACS Catalysis 10 (7), 4244-4252, 2020"
+    },
+    {
+        "title": "Persistently auxetic materials: Engineering the poisson ratio of 2d self-avoiding membranes under conditions of non-zero anisotropic strain",
+        "pub_year": "2016",
+        "citation": "ACS nano 10 (8), 7542-7549, 2016"
+    },
+    {
+        "title": "Phase Thermodynamics and Ab Initio Simulations to Optimize Oxidation Resistance of High Entropy Alloys in Additive Manufacturing",
+        "pub_year": "2019",
+        "citation": "2019 AIChE Annual Meeting, 2019"
+    },
+    {
+        "title": "Polarimetric accessory for colposcope",
+        "pub_year": "2017",
+        "citation": "US Patent 9,801,536, 2017"
+    },
+    {
+        "title": "Practical Applications of Machine Learning to Catalyst Design and Discovery",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Practical deep-learning representation for fast heterogeneous catalyst screening",
+        "pub_year": "2020",
+        "citation": "The journal of physical chemistry letters 11 (9), 3185-3191, 2020"
+    },
+    {
+        "title": "Predicting Intermetallic Surface Energies with High-Throughput DFT and Convolutional Neural Networks",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
+        "pub_year": "2022",
+        "citation": "Oxidation of Metals 98 (5-6), 429-450, 2022"
+    },
+    {
+        "title": "Prediction of Surface Energies for Complex Pt Structures from Coordination Number and Generalized Coordination Number",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Quantitative theory of adsorptive separation for the electronic sorting of single-walled carbon nanotubes",
+        "pub_year": "2014",
+        "citation": "ACS nano 8 (4), 3367-3379, 2014"
+    },
+    {
+        "title": "Replica-Exchange Molecular Dynamics on Hadoop 18.337 Final Report",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials",
+        "pub_year": "2022",
+        "citation": "Machine Learning: Science and Technology 3 (4), 045028, 2022"
+    },
+    {
+        "title": "Rotation invariant graph neural networks using spin convolutions",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2106.09575, 2021"
+    },
+    {
+        "title": "Scaling graph models for large computational catalysis datasets to thousands of GPUs on Perlmutter",
+        "pub_year": "2022",
+        "citation": "APS March Meeting Abstracts 2022, M48. 002, 2022"
+    },
+    {
+        "title": "Screening of bimetallic electrocatalysts for water purification with machine learning",
+        "pub_year": "2022",
+        "citation": "The Journal of chemical physics 157 (7), 2022"
+    },
+    {
+        "title": "Site Geometry as a Descriptor for Catalystsite Geometry as a Descriptor for Catalyst Selectivity in Intermetallicsselectivity in Interme",
+        "citation": "Available at SSRN 4145497, 0"
+    },
+    {
+        "title": "Spatiotemporal intracellular nitric oxide signaling captured using internalized, near-infrared fluorescent carbon nanotube nanosensors",
+        "pub_year": "2014",
+        "citation": "Nano letters 14 (8), 4887-4894, 2014"
+    },
+    {
+        "title": "Spherical channels for modeling atomic interactions",
+        "pub_year": "2022",
+        "citation": "Advances in Neural Information Processing Systems 35, 8054-8067, 2022"
+    },
+    {
+        "title": "Stochastic pore blocking and gating in PDMS–glass nanopores from vapor–liquid phase transitions",
+        "pub_year": "2013",
+        "citation": "The Journal of Physical Chemistry C 117 (19), 9641-9651, 2013"
+    },
+    {
+        "title": "Supporting Information for “An Efficient Discovery of Active, Selective and Stable Catalysts for Electrochemical H2O2 Synthesis through Active Motif Screening”",
+        "citation": ""
+    },
+    {
+        "title": "Supporting Information for” Discovery of Acid-Stable Oxygen Evolution Catalysts: High-throughput Computational Screening of Equimolar Bimetallic Oxides”",
+        "citation": ""
+    },
+    {
+        "title": "Supporting Information: Deterministic Modelling of Carbon Nanotube Near-Infrared Solar Cells",
+        "citation": ""
+    },
+    {
+        "title": "Systems nanotechnology: Identification, estimation, and control of nanoscale systems",
+        "pub_year": "2012",
+        "citation": "2012 American Control Conference (ACC), 1-7, 2012"
+    },
+    {
+        "title": "The Open Catalyst 2020 (OC20) Dataset and Community Challenges. arXiv e-prints 2020",
+        "pub_year": "2010",
+        "citation": "arXiv preprint arXiv:2010.09990, 2010"
+    },
+    {
+        "title": "The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts",
+        "pub_year": "2023",
+        "citation": "ACS Catalysis 13 (5), 3066-3084, 2023"
+    },
+    {
+        "title": "The Open Catalyst Challenge 2021: Competition Report.",
+        "pub_year": "2021",
+        "citation": "NeurIPS (Competition and Demos), 29-40, 2021"
+    },
+    {
+        "title": "The Open Catalyst Project Dataset",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+    },
+    {
+        "title": "The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.00341, 2023"
+    },
+    {
+        "title": "The chemical dynamics of nanosensors capable of single-molecule detection",
+        "pub_year": "2011",
+        "citation": "The Journal of chemical physics 135 (8), 2011"
+    },
+    {
+        "title": "Theoretical investigations of transition metal surface energies under lattice strain and CO environment",
+        "pub_year": "2018",
+        "citation": "The Journal of Physical Chemistry C 122 (26), 14481-14487, 2018"
+    },
+    {
+        "title": "Thermodynamic Techniques to Capture Non-Ideal Surfactant Assembly at Hard Nanoscale Interfaces",
+        "pub_year": "2019",
+        "citation": "2019 AIChE Annual Meeting, 2019"
+    },
+    {
+        "title": "Tmqm++ Dataset and Machine Learning Model Benchmarks",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
+        "title": "To address surface reaction network complexity using scaling relations machine learning and DFT calculations",
+        "pub_year": "2017",
+        "citation": "Nature communications 8 (1), 14621, 2017"
+    },
+    {
+        "title": "Toward a design of active oxygen evolution catalysts: insights from automated density functional theory calculations and machine learning",
+        "pub_year": "2019",
+        "citation": "Acs Catalysis 9 (9), 7651-7659, 2019"
+    },
+    {
+        "title": "Toward predicting intermetallics surface properties with high-throughput DFT and convolutional neural networks",
+        "pub_year": "2019",
+        "citation": "Journal of chemical information and modeling 59 (11), 4742-4749, 2019"
+    },
+    {
+        "title": "Towards Design of Active Site Requirements of Selective Hydrogenation of Different Functionalities",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+    },
+    {
+        "title": "Towards a Design of Active Oxygen",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Transfer Learning of Graph Neural Networks As a General Approach to Accelerate Computational Catalysis Modeling",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
+        "title": "Transfer learning using attentions across atomic systems with graph neural networks (TAAG)",
+        "pub_year": "2022",
+        "citation": "The Journal of Chemical Physics 156 (18), 2022"
+    },
+    {
+        "title": "Using Data Science to Reduce Large Reaction Networks in Catalysis",
+        "pub_year": "2018",
+        "citation": "2018 AIChE Annual Meeting, 2018"
+    },
+    {
+        "title": "Using Machine Learning to Model the Enantiospecific Decomposition of Tartaric Acid on Copper Surface Orientations",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
+    },
+    {
+        "title": "Visualization of biological texture using correlation coefficient images",
+        "pub_year": "2006",
+        "citation": "Journal of biomedical optics 11 (6), 060504-060504-3, 2006"
+    },
+    {
+        "title": "WhereWulff: A Semiautonomous Workflow for Systematic Catalyst Surface Reactivity under Reaction Conditions",
+        "pub_year": "2023",
+        "citation": "Journal of Chemical Information and Modeling 63 (8), 2427-2437, 2023"
+    }
+]

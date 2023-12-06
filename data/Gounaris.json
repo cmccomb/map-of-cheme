@@ -1,0 +1,400 @@
+[
+    {
+        "title": "A branch-and-cut framework for the consistent traveling salesman problem",
+        "pub_year": "2016",
+        "citation": "European Journal of Operational Research 248 (2), 384-395, 2016"
+    },
+    {
+        "title": "A customized branch-and-bound approach for irregular shape nesting",
+        "pub_year": "2018",
+        "citation": "Journal of Global Optimization 71, 935-955, 2018"
+    },
+    {
+        "title": "A decomposition algorithm for the consistent traveling salesman problem with vehicle idling",
+        "pub_year": "2018",
+        "citation": "Transportation Science 52 (2), 386-401, 2018"
+    },
+    {
+        "title": "A framework for optimizing oxygen vacancy formation in doped perovskites",
+        "pub_year": "2019",
+        "citation": "Computers & Chemical Engineering 126, 168-177, 2019"
+    },
+    {
+        "title": "A generalized cutting‐set approach for nonlinear robust optimization in process systems engineering",
+        "pub_year": "2021",
+        "citation": "AIChE Journal 67 (5), e17175, 2021"
+    },
+    {
+        "title": "A hybrid branch-and-cut approach for the capacitated vehicle routing problem",
+        "pub_year": "2011",
+        "citation": "Computer Aided Chemical Engineering 29, 507-511, 2011"
+    },
+    {
+        "title": "A mathematical optimization framework for the design of nanopatterned surfaces",
+        "pub_year": "2016",
+        "citation": "AIChE Journal 62 (9), 3250-3263, 2016"
+    },
+    {
+        "title": "A preface to the special issue in memory of Professor Christodoulos A. Floudas",
+        "pub_year": "2020",
+        "citation": "Optimization Letters 14 (4), 797-800, 2020"
+    },
+    {
+        "title": "A preface to the special issue on enterprise-wide optimization",
+        "pub_year": "2019",
+        "citation": "Optimization and Engineering 20, 965-968, 2019"
+    },
+    {
+        "title": "A priority rule for scheduling shared due dates in the resource-constrained project scheduling problem",
+        "pub_year": "2023",
+        "citation": "Computers & Industrial Engineering 183, 109442, 2023"
+    },
+    {
+        "title": "A review of recent advances in global optimization",
+        "pub_year": "2009",
+        "citation": "Journal of Global Optimization 45, 3-38, 2009"
+    },
+    {
+        "title": "A scenario decomposition algorithm for strategic time window assignment vehicle routing problems",
+        "pub_year": "2018",
+        "citation": "Transportation Research Part B: Methodological 117, 296-317, 2018"
+    },
+    {
+        "title": "Adjustable Robust Optimization for multi-tasking scheduling with reprocessing due to imperfect tasks",
+        "pub_year": "2019",
+        "citation": "Optimization and Engineering 20, 1117-1159, 2019"
+    },
+    {
+        "title": "Adsorption of fermentation inhibitors from lignocellulosic biomass hydrolyzates for improved ethanol yield and value-added product recovery",
+        "pub_year": "2009",
+        "citation": "Microporous and Mesoporous Materials 122 (1), 143-148, 2009"
+    },
+    {
+        "title": "Advances in Global Optimization for Standard, Generalized, and Extended Pooling Problems with the (EPA) Complex Emissions Model Constraints",
+        "pub_year": "2009",
+        "citation": "Design for Energy and the Environment, 1079-1100, 2009"
+    },
+    {
+        "title": "Advances in Robust Optimization and Opportunities for Process Operations",
+        "citation": ""
+    },
+    {
+        "title": "An Overview of Advances in Global Optimization During",
+        "pub_year": "2009",
+        "citation": "Lectures on global optimization 55, 105, 2009"
+    },
+    {
+        "title": "An adaptive memory programming framework for the robust capacitated vehicle routing problem",
+        "pub_year": "2016",
+        "citation": "Transportation Science 50 (4), 1239-1260, 2016"
+    },
+    {
+        "title": "An ontology to describe small molecule pharmaceutical product development and methodology for optimal activity scheduling",
+        "pub_year": "2021",
+        "citation": "Journal of Pharmaceutical Innovation, 1-15, 2021"
+    },
+    {
+        "title": "Catalyst Design Based on Morphology-and Environment-Dependent Adsorption on Metal Nanoparticles",
+        "pub_year": "2015",
+        "citation": "ACS Catalysis 5 (11), 6296-6301, 2015"
+    },
+    {
+        "title": "Comparison of continuous-time models for adjustable robust optimization in process scheduling under uncertainty",
+        "pub_year": "2016",
+        "citation": "Computer Aided Chemical Engineering 38, 391-396, 2016"
+    },
+    {
+        "title": "Computational characterization of zeolite porous networks: an automated approach",
+        "pub_year": "2011",
+        "citation": "Physical Chemistry Chemical Physics 13 (38), 17339-17358, 2011"
+    },
+    {
+        "title": "Computational comparison of piecewise− linear relaxations for pooling problems",
+        "pub_year": "2009",
+        "citation": "Industrial & Engineering Chemistry Research 48 (12), 5742-5766, 2009"
+    },
+    {
+        "title": "Computational discovery of Metal–Organic Frameworks for sustainable energy systems: Open challenges",
+        "pub_year": "2022",
+        "citation": "Computers & Chemical Engineering 167, 108022, 2022"
+    },
+    {
+        "title": "Convex relaxation for solving posynomial programs",
+        "pub_year": "2010",
+        "citation": "Journal of Global Optimization 46 (1), 147-154, 2010"
+    },
+    {
+        "title": "Convexity of products of univariate functions and convexification transformations for geometric programming",
+        "pub_year": "2008",
+        "citation": "Journal of Optimization Theory and Applications 138 (3), 407-427, 2008"
+    },
+    {
+        "title": "Design of doped perovskite oxygen carriers using mathematical optimization",
+        "pub_year": "2018",
+        "citation": "Computer Aided Chemical Engineering 44, 2461-2466, 2018"
+    },
+    {
+        "title": "Designing networks with resiliency to edge failures using two-stage robust optimization",
+        "pub_year": "2019",
+        "citation": "European Journal of Operational Research 279 (3), 704-720, 2019"
+    },
+    {
+        "title": "Designing networks: A mixed‐integer linear optimization approach",
+        "pub_year": "2016",
+        "citation": "Networks 68 (4), 283-301, 2016"
+    },
+    {
+        "title": "Developing perovskite materials for oxidation reactions",
+        "pub_year": "2017",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254, 2017"
+    },
+    {
+        "title": "Editorial overview: Frontiers of chemical engineering: chemical product design II",
+        "pub_year": "2022",
+        "citation": "Current Opinion in Chemical Engineering 35, 100783, 2022"
+    },
+    {
+        "title": "Estimating the marginal cost to deliver to individual customers",
+        "pub_year": "2023",
+        "citation": "Optimization and Engineering, 1-39, 2023"
+    },
+    {
+        "title": "Estimation of diffusion anisotropy in microporous crystalline materials and optimization of crystal orientation in membranes",
+        "pub_year": "2013",
+        "citation": "The Journal of Chemical Physics 139 (12), 2013"
+    },
+    {
+        "title": "Estimation of marginal cost to serve individual customers",
+        "pub_year": "2020",
+        "citation": "Optimization Online, 2020"
+    },
+    {
+        "title": "Explicit model predictive controller under uncertainty: An adjustable robust optimization approach",
+        "pub_year": "2019",
+        "citation": "Journal of Process Control 84, 115-132, 2019"
+    },
+    {
+        "title": "Extended Pooling Problem with the Summer Time (EPA) Complex Emissions Constraints",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "Generalized Hose uncertainty in single-commodity robust network design",
+        "pub_year": "2020",
+        "citation": "Optimization Letters 14 (4), 925-944, 2020"
+    },
+    {
+        "title": "Generation of networks with prescribed degree-dependent clustering",
+        "pub_year": "2011",
+        "citation": "Optimization Letters 5, 435-451, 2011"
+    },
+    {
+        "title": "Global Optimization and Parametric Analysis of Large-Scale Extended Pooling Problems",
+        "pub_year": "2010",
+        "citation": "Computer Aided Chemical Engineering 28, 847-852, 2010"
+    },
+    {
+        "title": "Global optimization of gas lifting operations: A comparative study of piecewise linear formulations",
+        "pub_year": "2009",
+        "citation": "Industrial & Engineering Chemistry Research 48 (13), 6098-6104, 2009"
+    },
+    {
+        "title": "Identification of optimally stable nanocluster geometries via mathematical optimization and density-functional theory",
+        "pub_year": "2020",
+        "citation": "Molecular Systems Design & Engineering 5 (1), 232-244, 2020"
+    },
+    {
+        "title": "Ignacio Grossmann of Carnegie Mellon University",
+        "pub_year": "2019",
+        "citation": "Chemical Engineering Education 53 (3), 134-134, 2019"
+    },
+    {
+        "title": "K-adaptability in two-stage mixed-integer robust optimization",
+        "pub_year": "2020",
+        "citation": "Mathematical Programming Computation 12, 193-224, 2020"
+    },
+    {
+        "title": "MatOpt: A Python Package for Nanomaterials Design Using Discrete Optimization",
+        "pub_year": "2022",
+        "citation": "Journal of Chemical Information and Modeling 62 (2), 295-308, 2022"
+    },
+    {
+        "title": "Mathematical modeling and global optimization of large-scale extended pooling problems with the (EPA) complex emissions constraints",
+        "pub_year": "2010",
+        "citation": "Computers & chemical engineering 34 (9), 1432-1456, 2010"
+    },
+    {
+        "title": "Methodology and applications of robust optimization",
+        "pub_year": "2022",
+        "citation": "Optimization and Engineering 23 (4), 1761-1764, 2022"
+    },
+    {
+        "title": "Mixed-integer linear optimization for full truckload pickup and delivery",
+        "pub_year": "2021",
+        "citation": "Optimization Letters 15 (6), 1847-1863, 2021"
+    },
+    {
+        "title": "Modelling of the performance of industrial HDS reactors using a hybrid neural network approach",
+        "pub_year": "2005",
+        "citation": "Chemical Engineering and Processing: Process Intensification 44 (5), 505-515, 2005"
+    },
+    {
+        "title": "Multi-mode Resource Constrained Project Scheduling with Alternative Prerequisites: New Models and Computational Studies",
+        "pub_year": "2019",
+        "citation": "Industrial & Engineering Chemistry Research 58 (39), 18253-18266, 2019"
+    },
+    {
+        "title": "Multidimensional Piecewise-Affine Approximations for Gas Lifting and Pooling Applications",
+        "pub_year": "2009",
+        "citation": "Design for Energy and the Environment, 913-922, 2009"
+    },
+    {
+        "title": "Multi‐stage adjustable robust optimization for process scheduling under uncertainty",
+        "pub_year": "2016",
+        "citation": "AIChE Journal 62 (5), 1646-1667, 2016"
+    },
+    {
+        "title": "Next generation multi-scale process systems engineering framework",
+        "pub_year": "2018",
+        "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018"
+    },
+    {
+        "title": "On tackling reverse convex constraints for non-overlapping of unequal circles",
+        "pub_year": "2021",
+        "citation": "Journal of Global Optimization 80, 357-385, 2021"
+    },
+    {
+        "title": "Optimization-Based Design of Active and Stable Nanostructured Surfaces",
+        "pub_year": "2019",
+        "citation": "The Journal of Physical Chemistry C 123 (48), 29209-29218, 2019"
+    },
+    {
+        "title": "Portfolio-wide optimization of pharmaceutical R&D activities using mathematical programming",
+        "pub_year": "2021",
+        "citation": "INFORMS Journal on Applied Analytics 51 (4), 262-279, 2021"
+    },
+    {
+        "title": "Predictive Framework for Shape-Selective Separations in Three-Dimensional Zeolites and Metal–Organic Frameworks",
+        "pub_year": "2013",
+        "citation": "Langmuir 29 (18), 5599-5608, 2013"
+    },
+    {
+        "title": "Quantifying the impact of delivery day flexibility on last-mile delivery costs",
+        "pub_year": "2022",
+        "citation": "Digital Chemical Engineering 5, 100057, 2022"
+    },
+    {
+        "title": "Rational design of shape selective separation and catalysis—I: Concepts and analysis",
+        "pub_year": "2006",
+        "citation": "Chemical engineering science 61 (24), 7933-7948, 2006"
+    },
+    {
+        "title": "Rational design of shape selective separation and catalysis—II: Mathematical model and computational studies",
+        "pub_year": "2006",
+        "citation": "Chemical engineering science 61 (24), 7949-7962, 2006"
+    },
+    {
+        "title": "Rational design of shape selective separations and catalysis: Lattice relaxation and effective aperture size",
+        "pub_year": "2010",
+        "citation": "AIChE Journal 56 (3), 611-632, 2010"
+    },
+    {
+        "title": "Robust Multiperiod Vehicle Routing Under Customer Order Uncertainty",
+        "pub_year": "2021",
+        "citation": "Operations Research 69 (1), 30-60, 2021"
+    },
+    {
+        "title": "Robust optimization for decision-making under endogenous uncertainty",
+        "pub_year": "2018",
+        "citation": "Computers & Chemical Engineering 111, 252-266, 2018"
+    },
+    {
+        "title": "Robust optimization of a broad class of heterogeneous vehicle routing problems under demand uncertainty",
+        "pub_year": "2020",
+        "citation": "INFORMS Journal on Computing 32 (3), 661-681, 2020"
+    },
+    {
+        "title": "Robust vehicle routing under uncertainty via branch-price-and-cut",
+        "pub_year": "2021",
+        "citation": "Optimization and Engineering, 1-54, 2021"
+    },
+    {
+        "title": "Search engines for shape selectivity",
+        "pub_year": "2009",
+        "citation": "Catalysis letters 133 (1-2), 234-241, 2009"
+    },
+    {
+        "title": "Search methods for inorganic materials crystal structure prediction",
+        "pub_year": "2022",
+        "citation": "Current Opinion in Chemical Engineering 35, 100726, 2022"
+    },
+    {
+        "title": "Special issue on vehicle routing and scheduling: recent trends and advances",
+        "pub_year": "2013",
+        "citation": "Optimization Letters 7, 1399-1403, 2013"
+    },
+    {
+        "title": "Special issue on “Vehicle Routing and Scheduling: Recent Trends and Advances”",
+        "citation": ""
+    },
+    {
+        "title": "Stereochemically Consistent Reaction Mapping and Identification of Multiple Reaction Mechanisms through Integer Linear Optimization",
+        "pub_year": "2012",
+        "citation": "Journal of chemical information and modeling 52 (1), 84-92, 2012"
+    },
+    {
+        "title": "Strategic allocation of time windows in vehicle routing problems under uncertainty",
+        "pub_year": "2017",
+        "citation": "Proc. Found. Comput.-Aided Process Oper./Chemical Process Control, Tucson, AZ 62, 2017"
+    },
+    {
+        "title": "The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty",
+        "pub_year": "2013",
+        "citation": "Operations Research 61 (3), 677-693, 2013"
+    },
+    {
+        "title": "The use of decision-dependent uncertainty sets in robust optimization",
+        "pub_year": "2017",
+        "citation": "Proceedings of Foundations of Computer-Aided Process Operations/Chemical …, 2017"
+    },
+    {
+        "title": "Theoretical and computational comparison of continuous‐time process scheduling models for adjustable robust optimization",
+        "pub_year": "2018",
+        "citation": "AIChE Journal 64 (8), 3055-3070, 2018"
+    },
+    {
+        "title": "Tight convex underestimators for C(2)-continuous problems: II. multivariate functions",
+        "pub_year": "2008",
+        "citation": "Journal of Global Optimization 42 (1), 69-89, 2008"
+    },
+    {
+        "title": "Tight convex underestimators for C2-continuous functions: I. Univariate functions",
+        "pub_year": "2008",
+        "citation": "J. Glob. Optim 42, 51-67, 2008"
+    },
+    {
+        "title": "Tight convex underestimators for InlineEquation ID=\" IEq1\"> ImageObject FileRef=\" 1089820089287ArticleIEq1. gif\" Format=\" GIF\" Color=\" BlackWhite\" Type=\" Linedraw\" Rendition …",
+        "pub_year": "2008",
+        "citation": "Journal of Global Optimization 42 (1), 51-68, 2008"
+    },
+    {
+        "title": "Tight convex underestimators for InlineEquation ID=\" IEq1\"> ImageObject FileRef=\" 1089820089288ArticleIEq1. gif\" Format=\" GIF\" Color=\" BlackWhite\" Type=\" Linedraw\" Rendition …",
+        "pub_year": "2008",
+        "citation": "Journal of Global Optimization 42 (1), 69-90, 2008"
+    },
+    {
+        "title": "Tight convex underestimators for-continuous problems: II. Multivariate functions",
+        "pub_year": "2008",
+        "citation": "Journal of Global Optimization 42 (1), 69-89, 2008"
+    },
+    {
+        "title": "Tight convex underestimators for-continuous problems: II. Multivariate functions",
+        "pub_year": "2008",
+        "citation": "Journal of Global Optimization 42 (1), 69-89, 2008"
+    },
+    {
+        "title": "Vehicle routing with endogenous learning: Application to offshore plug and abandonment campaign planning",
+        "pub_year": "2021",
+        "citation": "European Journal of Operational Research 289 (1), 93-106, 2021"
+    }
+]
