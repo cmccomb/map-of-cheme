@@ -883,6 +883,11 @@
         "citation": "Computers & Chemical Engineering 11 (6), 675-693, 1987"
     },
     {
+        "title": "Advanced Solution Techniques for Event Constrained Programming",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
+    },
+    {
         "title": "Advanced optimization for process systems engineering",
         "pub_year": "2021",
         "citation": "Cambridge University Press, 2021"
@@ -1738,7 +1743,7 @@
     {
         "title": "Design of an optimal process for enhanced production of bioethanol and biodiesel from algae oil via glycerol fermentation",
         "pub_year": "2014",
-        "citation": "Applied energy, 2014"
+        "citation": "Applied Energy 135 (19), 2014"
     },
     {
         "title": "Design of distillation sequences: from conventional to fully thermally coupled distillation systems",
@@ -1839,6 +1844,11 @@
         "title": "Discrete optimization methods and their role in the integration of planning and scheduling",
         "pub_year": "2002",
         "citation": "AIChE Symposium Series, 150-168, 2002"
+    },
+    {
+        "title": "Discrete-Steepest Descent: A Solution Method for Process Synthesis Generalized Disjunctive Programs",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
     },
     {
         "title": "Disjunctive Models for Strategic Midstream Delivery Agreements in Shale Gas Development",
@@ -3166,6 +3176,11 @@
         "citation": "Industrial & engineering chemistry research 42 (17), 4009-4018, 2003"
     },
     {
+        "title": "Mathematical programming model for the optimal management of carbon intensity indicators in global supply chains",
+        "pub_year": "2023",
+        "citation": "Computers & Chemical Engineering, 108546, 2023"
+    },
+    {
         "title": "Mathematical programming techniques for optimization under uncertainty and their application in process systems engineering",
         "pub_year": "2017",
         "citation": "Theoretical Foundations of Chemical Engineering 51, 893-909, 2017"
@@ -3809,7 +3824,7 @@
     {
         "title": "Optimal Integration of Algaeâ Switchgrass Facility for the Production of Methanol and Biodiesel",
         "pub_year": "2016",
-        "citation": "ACS sustainable chemistry, 2016"
+        "citation": "ACS sustainable chemistry 4 (10), 2016"
     },
     {
         "title": "Optimal Integration of Planning and Scheduling for Parallel Multi-Product Batch Reactors",
@@ -3858,6 +3873,11 @@
     {
         "title": "Optimal Supply Chain Redesign in the Electric Motor Industry",
         "citation": ""
+    },
+    {
+        "title": "Optimal Synthesis and Heat Integration Using Generalized Disjunctive Programming with Hybrid Models",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
     },
     {
         "title": "Optimal Synthesis of Integrated Gasification Combined Cycle (IGCC) Systems",
@@ -4843,8 +4863,8 @@
     },
     {
         "title": "Reformulations, relaxations and cutting planes for linear generalized disjunctive programming",
-        "pub_year": "2012",
-        "citation": "European Journal of Operational Research 216, 70-82, 2012"
+        "pub_year": "2008",
+        "citation": "Carnegie Mellon University, Department of Chemical Engineering, Pittsburgh …, 2008"
     },
     {
         "title": "Relation between MILP modelling and logical inference for chemical process synthesis",
@@ -5098,6 +5118,11 @@
         "title": "Selection of decision and torn variables in process design computation",
         "pub_year": "1982",
         "citation": "Design Research Center, Carnegie Mellon University, 1982"
+    },
+    {
+        "title": "Selective Tightening Algorithm for the Optimization of Pipeline Network Designs in the Energy Industry",
+        "pub_year": "2023",
+        "citation": "Computers & Chemical Engineering, 108537, 2023"
     },
     {
         "title": "Self-sufficient integrated algae based facility for diesel susbtitutes: FAEE and glycerol ethers",
@@ -5691,7 +5716,7 @@
     {
         "title": "Synthesis of renewable energy supply networks considering different frequencies of fluctuations in supply and demand",
         "pub_year": "2016",
-        "citation": "AIChE annual meeting, 2016"
+        "citation": "2016 AIChE Annual Meeting, 1-1, 2016"
     },
     {
         "title": "Systematic Comparison of CO2 Capture Towards the Renewable Production of Methanol and  Methane: Spain Case",

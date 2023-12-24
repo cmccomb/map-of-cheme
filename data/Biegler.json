@@ -1724,7 +1724,7 @@
     {
         "title": "Feasibility Restoration Based on Projected Gradient Methods for Reduced Space Barrier NLP Algorithm",
         "pub_year": "2014",
-        "citation": "华东理工大学学报 (自然科学版), 332-337, 2014"
+        "citation": "Journal of East China University of Science and Technology, 332-337, 2014"
     },
     {
         "title": "Feasible path optimization with sequential modular simulators",
@@ -1952,6 +1952,11 @@
         "citation": "2021 AIChE Annual Meeting, 2021"
     },
     {
+        "title": "Including CFD rigorous models in the optimal design of carbon capture plants through trust-region methods",
+        "pub_year": "2023",
+        "citation": "Chemical Engineering Science, 119646, 2023"
+    },
+    {
         "title": "Incorporating Materials Surrogate Models into Process Models for Adsorption-Based Gas Seperations",
         "pub_year": "2022",
         "citation": "2022 AIChE Annual Meeting, 2022"
@@ -1978,6 +1983,11 @@
     {
         "title": "Intan Munirah Hamdan",
         "citation": ""
+    },
+    {
+        "title": "Integrated Design and NMPC-Based Control Under Uncertainty and Naturally Ordered Structural Decisions: A Discrete-Steepest Descent Approach.",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
         "title": "Integrated Dynamic Optimization and Scheduling of Polymerization Processes with First Principle Models",
@@ -2027,7 +2037,7 @@
     {
         "title": "Interactive multi-objective optimization of Simulated Moving Bed processes using IND-NIMBUS and IPOPT",
         "pub_year": "2006",
-        "citation": "Helsinki School of Economics Print, 2006"
+        "citation": "Helsinki: Helsinki School of Economics, 2006"
     },
     {
         "title": "Interactive multiobjective optimization of superstructure SMB processes",
@@ -2116,6 +2126,11 @@
         "title": "Kinetic Model Building through Simultaneous Optimization from Spectral Data",
         "pub_year": "2023",
         "citation": "2023 AIChE Annual Meeting, 2023"
+    },
+    {
+        "title": "Kinetic Model Building through Simultaneous Optimization with Spectral Data: 1, 2-Butylene Oxide Polymerization Case Study",
+        "pub_year": "2023",
+        "citation": "Industrial & Engineering Chemistry Research, 2023"
     },
     {
         "title": "Kinetic Modeling of Semi‐Interpenetrating Polymer Network (SIPN) Process‐A Comprehensive Study on the Case of Polyethylene/Polystyrene Semi‐I IPN",
@@ -3982,7 +3997,7 @@
     {
         "title": "Simultaneous design and NMPC control under uncertainty and structural decisions: A discrete‐steepest descent algorithm",
         "pub_year": "2023",
-        "citation": "AIChE Journal, e18188, 2023"
+        "citation": "AIChE Journal 69 (11), e18188, 2023"
     },
     {
         "title": "Simultaneous dynamic optimization strategies: Recent advances and challenges",

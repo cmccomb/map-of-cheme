@@ -14,9 +14,14 @@
         "citation": "Journal of the American Chemical Society 144 (3), 1205-1217, 2022"
     },
     {
-        "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_rev Dataset",
+        "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "Journal of Chemical Information and Modeling, 2023"
+    },
+    {
+        "title": "Autonomous chemical research with large language models",
+        "pub_year": "2023",
+        "citation": "Nature 624 (7992), 570-578, 2023"
     },
     {
         "title": "Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES",
@@ -102,6 +107,11 @@
         "title": "Five Roads That Converge at the Cyclic Peroxy-Criegee Intermediates: BF3-Catalyzed Synthesis of β-Hydroperoxy-β-peroxylactones",
         "pub_year": "2018",
         "citation": "The Journal of organic chemistry 83 (21), 13427-13445, 2018"
+    },
+    {
+        "title": "Flow synthesis of triptycene via triple cycloaddition of ynolate to benzyne",
+        "pub_year": "2020",
+        "citation": "Synlett 31 (19), 1903-1906, 2020"
     },
     {
         "title": "Formaldehyde‐Extruding Homolytic Aromatic Substitution via C→ O Transposition: Selective ‘Traceless‐Linker’access to Congested Biaryl Bonds",
@@ -202,6 +212,11 @@
         "title": "Radical Alkyne peri‐Annulation Reactions for the Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene",
         "pub_year": "2018",
         "citation": "Angewandte Chemie 130 (14), 3713-3717, 2018"
+    },
+    {
+        "title": "Radical Strategy for the Transition-Metal-Catalyzed Synthesis of γ-Lactones: A Review",
+        "pub_year": "2020",
+        "citation": "Synthesis 52 (24), 3855-3865, 2020"
     },
     {
         "title": "Regioselective one‐pot synthesis of triptycenes via triple‐cycloadditions of arynes to ynolates",

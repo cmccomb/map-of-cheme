@@ -95,6 +95,11 @@
         "citation": ""
     },
     {
+        "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
+        "pub_year": "2023",
+        "citation": "Journal of Chemical Information and Modeling, 2023"
+    },
+    {
         "title": "Automated DFT Calculations for the High-Throughput Screening of Oxygen Evolution Reaction Catalysts",
         "pub_year": "2019",
         "citation": "2019 AIChE Annual Meeting, 2019"
@@ -257,6 +262,11 @@
         "title": "Efficient Discovery of Active, Selective, and Stable Catalysts for Electrochemical H2O2 Synthesis through Active Motif Screening",
         "pub_year": "2021",
         "citation": "ACS Catalysis 11 (5), 2483-2491, 2021"
+    },
+    {
+        "title": "Electron Density Prediction with Graph Neural Networks on Large Catalyst Datasets",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
     },
     {
         "title": "Elimination of multidrug-resistant bacteria by transition metal dichalcogenides encapsulated by synthetic single-stranded DNA",
@@ -445,6 +455,11 @@
         "title": "Observation of oscillatory surface reactions of riboflavin, trolox, and singlet oxygen using single carbon nanotube fluorescence spectroscopy",
         "pub_year": "2012",
         "citation": "ACS nano 6 (12), 10632-10645, 2012"
+    },
+    {
+        "title": "Open Catalyst Project: Advancements and Challenges in Building a Flexible Machine Learning Potential",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
     },
     {
         "title": "Open catalyst 2020 (OC20) dataset and community challenges",

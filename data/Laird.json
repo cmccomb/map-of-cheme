@@ -232,7 +232,7 @@
     {
         "title": "Models of a post-combustion absorption unit for simulation, optimization and non-linear model predictive control schemes",
         "pub_year": "2011",
-        "citation": "8th International Modelica Conference, 2011"
+        "citation": "8th International Modelica Conference 2011, 2011"
     },
     {
         "title": "Next generation multi-scale process systems engineering framework",
@@ -290,6 +290,11 @@
         "citation": "AIChE Journal 62 (8), 2728-2739, 2016"
     },
     {
+        "title": "Optimization with Neural Network Feasibility Surrogates: Formulations and Application to Security-Constrained Optimal Power Flow",
+        "pub_year": "2023",
+        "citation": "Energies 16 (16), 5913, 2023"
+    },
+    {
         "title": "Parallel solution of large-scale dynamic optimization problems",
         "pub_year": "2011",
         "citation": "Computer Aided Chemical Engineering 29, 813-817, 2011"
@@ -303,6 +308,11 @@
         "title": "Parallel solution of robust nonlinear model predictive control problems in batch crystallization",
         "pub_year": "2016",
         "citation": "Processes 4 (3), 20, 2016"
+    },
+    {
+        "title": "Perspectives on the integration between first-principles and data-driven modeling",
+        "pub_year": "2022",
+        "citation": "Computers & Chemical Engineering 166, 107898, 2022"
     },
     {
         "title": "Proactive operations and investment planning via stochastic optimization to enhance power systems’ extreme weather resilience",
@@ -418,5 +428,10 @@
         "title": "Tightening McCormick relaxations toward global solution of the ACOPF problem",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 814-817, 2018"
+    },
+    {
+        "title": "Verification of Neural Network Surrogates",
+        "pub_year": "2022",
+        "citation": "Computer Aided Chemical Engineering 51, 583-588, 2022"
     }
 ]
