@@ -1980,6 +1980,11 @@
         "citation": "Industrial & Engineering Chemistry Research 58 (15), 5873-5886, 2019"
     },
     {
+        "title": "Efficient Computational Strategies for a Mathematical Programming Model for Multi-Echelon Inventory Optimization based on the Guaranteed-Service Approach",
+        "pub_year": "2023",
+        "citation": "Computers & Chemical Engineering, 108567, 2023"
+    },
+    {
         "title": "Efficient MILP-based solution strategies for large-scale industrial batch scheduling problems",
         "pub_year": "2006",
         "citation": "Computer Aided Chemical Engineering 21, 2231-2236, 2006"
@@ -3150,6 +3155,11 @@
         "title": "Mathematical Programming Models for Shale Oil & Gas Development: A Review and Perspective",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering, 108317, 2023"
+    },
+    {
+        "title": "Mathematical Programming Techniques for Optimization under Uncertainty and Their Application in Process Systems Engineering",
+        "pub_year": "2017",
+        "citation": "Theoretical Foundations of Chemical Engineering 51 (6), 893-909, 2017"
     },
     {
         "title": "Mathematical Research Challenges in Optimization of Fossil Energy Power Generation Systems",
@@ -4501,6 +4511,10 @@
         "title": "PLANNING-Disjunctive Multiperiod Optimization Models for Process Networks",
         "pub_year": "1998",
         "citation": "AIChE Symposium Series 94 (320), 210-216, 1998"
+    },
+    {
+        "title": "POWER PLANT",
+        "citation": ""
     },
     {
         "title": "PROCESS DESIGN AND CONTROL-A Lagrangean Decomposition Heuristic for the Design and Planning of Offshore Hydrocarbon Field Infrastructures with Complex Economic Objectives",
