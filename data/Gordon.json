@@ -34,9 +34,9 @@
         "citation": "Physical Review D 87 (7), 072004, 2013"
     },
     {
-        "title": "An Overview of Aerosol-Cloud Interactions",
+        "title": "An Overview of Aerosol‐Cloud Interactions",
         "pub_year": "2023",
-        "citation": "Clouds and Their Climatic Impact: Radiation, Circulation, and Precipitation …, 2023"
+        "citation": "Clouds and their Climatic Impacts: Radiation, Circulation, and Precipitation …, 2023"
     },
     {
         "title": "Analysis of the resonant components in ",
@@ -122,6 +122,11 @@
         "title": "Constraining aerosol forcing uncertainty and retuning models using satellite data and perturbed parameter ensembles",
         "pub_year": "2021",
         "citation": "AGU Fall Meeting Abstracts 2021, A51A-01, 2021"
+    },
+    {
+        "title": "Constraining aerosol-cloud adjustments in the CAM6 perturbed parameter ensemble (PPE) using surface observations from the East North Atlantic (ENA)",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
     },
     {
         "title": "Constraints on global aerosol number concentration, SO2 and condensation sink in UKESM1 using ATom measurements",
@@ -327,6 +332,11 @@
         "title": "Formation of highly oxygenated organic molecules from α-pinene ozonolysis: chemical characteristics, mechanism, and kinetic model development",
         "pub_year": "2019",
         "citation": "ACS Earth and Space Chemistry 3 (5), 873-883, 2019"
+    },
+    {
+        "title": "Frontal cloud albedo strongly influenced by Aitken-mode aerosols",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
     },
     {
         "title": "Global Evaluation of Aerosol Number Concentrations using the United Kingdom Earth System Model",
@@ -1059,6 +1069,16 @@
         "citation": "Science Advances 9 (36), eadi5297, 2023"
     },
     {
+        "title": "Search for  Violation in  Decays with Data Collected at LHCb in 2010",
+        "pub_year": "2014",
+        "citation": "Searches for CP Violation in Charmed Meson Decays: A Study of D+→ K-K+∏+ …, 2014"
+    },
+    {
+        "title": "Search for  Violation in  Decays with Data Collected at LHCb in 2011",
+        "pub_year": "2014",
+        "citation": "Searches for CP Violation in Charmed Meson Decays: A Study of D+→ K-K+∏+ …, 2014"
+    },
+    {
         "title": "Search for  violation in  decays",
         "pub_year": "2011",
         "citation": "Physical Review D 84 (11), 112008, 2011"
@@ -1172,6 +1192,11 @@
         "title": "Searches for violation of lepton flavour and baryon number in tau lepton decays at LHCb",
         "pub_year": "2013",
         "citation": "Physics Letters B 724 (1-3), 36-45, 2013"
+    },
+    {
+        "title": "Simulating Cloud Effects on Aerosols and Chemistry in the Korean Peninsula with the Met Office Unified Model",
+        "pub_year": "2022",
+        "citation": "102nd American Meteorological Society Annual Meeting, 2022"
     },
     {
         "title": "Simulating Cloud Effects on Aerosols and Chemistry in the Korean Peninsula with the New UM-Chem Configuration of the Met Office Unified Model",

@@ -198,6 +198,11 @@
         "citation": ""
     },
     {
+        "title": "A Transactional Digital Twin for Optimizing Supply Chain Business Processes",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
         "title": "A bi-level decomposition scheme for the integration of planning and scheduling in parallel multi-product batch reactors",
         "pub_year": "2007",
         "citation": "Computer Aided Chemical Engineering 24, 625-630, 2007"
@@ -972,6 +977,11 @@
         "citation": "Computers & chemical engineering 60, 376-380, 2014"
     },
     {
+        "title": "Alternative Regularization Schemes in Outer-Approximation Algorithms for Convex MINLP",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
         "title": "Alternative bounding approximations for the global optimization of various engineering design problems",
         "pub_year": "1996",
         "citation": "Global Optimization in Engineering Design, 309-331, 1996"
@@ -1187,7 +1197,7 @@
     {
         "title": "An outer-approximation algorithm for a class of mixed-integer nonlinear programs",
         "pub_year": "1987",
-        "citation": "Mathematical Programming 39 (3), 337-337, 1987"
+        "citation": "Mathematical Programming: Series A and B 39 (3), 337-337, 1987"
     },
     {
         "title": "An outer-approximation method for multiperiod design optimization",
@@ -1708,6 +1718,11 @@
         "citation": "2019 AIChE Annual Meeting, 2019"
     },
     {
+        "title": "Design Centering through Derivative-Free Optimization",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
         "title": "Design Space Via Symbolic Computation",
         "pub_year": "2020",
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
@@ -1980,11 +1995,6 @@
         "citation": "Industrial & Engineering Chemistry Research 58 (15), 5873-5886, 2019"
     },
     {
-        "title": "Efficient Computational Strategies for a Mathematical Programming Model for Multi-Echelon Inventory Optimization based on the Guaranteed-Service Approach",
-        "pub_year": "2023",
-        "citation": "Computers & Chemical Engineering, 108567, 2023"
-    },
-    {
         "title": "Efficient MILP-based solution strategies for large-scale industrial batch scheduling problems",
         "pub_year": "2006",
         "citation": "Computer Aided Chemical Engineering 21, 2231-2236, 2006"
@@ -1992,6 +2002,11 @@
     {
         "title": "Efficient Mathematical Programming Model for Multi-Echelon Inventory Optimization based on the Guaranteed-Service Approach",
         "citation": ""
+    },
+    {
+        "title": "Efficient computational strategies for a mathematical programming model for multi-echelon inventory optimization based on the guaranteed-service approach",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering 182, 108567, 2024"
     },
     {
         "title": "Efficient formulations for dynamic warehouse location under discrete transportation costs",
@@ -2538,6 +2553,11 @@
         "citation": "Computer Aided Chemical Engineering 29, 915-919, 2011"
     },
     {
+        "title": "Impact of Chris Floudas on Recent Developments in Process Synthesis and Flexibility Analysis",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
         "title": "Impact of model resolution on scenario outcomes for electricity sector system expansion",
         "pub_year": "2018",
         "citation": "Energy 163, 1231-1244, 2018"
@@ -2929,6 +2949,11 @@
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2002"
     },
     {
+        "title": "Life cycle optimization of power generation and transmission expansion planning",
+        "pub_year": "2023",
+        "citation": "Foundations of Computer-Aided Process Operations and Chemical Process …, 2023"
+    },
+    {
         "title": "Linear coupled component automata for MILP modeling of hybrid systems",
         "pub_year": "2009",
         "citation": "Computers & Chemical Engineering 33 (1), 162-175, 2009"
@@ -3218,6 +3243,10 @@
         "title": "Mixed-Integer Models for Simultaneous Optimization of Safety Stock and Inventory Policies in Supply Chain Planning",
         "pub_year": "2017",
         "citation": "2017 AIChE Annual Meeting, 2017"
+    },
+    {
+        "title": "Mixed-Integer Nonlinear Programming Model For Optimal Field Management For Carbon Capture and Storage",
+        "citation": ""
     },
     {
         "title": "Mixed-Integer Nonlinear Programming Models for Line Pressure Optimization in Shale Gas Gathering Systems",
@@ -3575,6 +3604,11 @@
         "title": "Multiscale Optimization Strategies for the Integrated Design, Planning and Scheduling of Process Systems",
         "pub_year": "2017",
         "citation": "2017 AIChE Annual Meeting, 2017"
+    },
+    {
+        "title": "Multiscale analysis for the utilization of CO2 towards the production of chemicals at the country level: Case study of Spain",
+        "pub_year": "2024",
+        "citation": "Journal of Cleaner Production, 140551, 2024"
     },
     {
         "title": "Multiscale production routing in industrial gas supply chains",
@@ -4877,8 +4911,8 @@
     },
     {
         "title": "Reformulations, relaxations and cutting planes for linear generalized disjunctive programming",
-        "pub_year": "2008",
-        "citation": "Carnegie Mellon University, Department of Chemical Engineering, Pittsburgh …, 2008"
+        "pub_year": "2012",
+        "citation": "European Journal of Operational Research 216, 70-82, 2012"
     },
     {
         "title": "Relation between MILP modelling and logical inference for chemical process synthesis",
@@ -5730,7 +5764,7 @@
     {
         "title": "Synthesis of renewable energy supply networks considering different frequencies of fluctuations in supply and demand",
         "pub_year": "2016",
-        "citation": "2016 AIChE Annual Meeting, 1-1, 2016"
+        "citation": "AIChE annual meeting, 2016"
     },
     {
         "title": "Systematic Comparison of CO2 Capture Towards the Renewable Production of Methanol and  Methane: Spain Case",

@@ -96,7 +96,7 @@
     {
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
         "pub_year": "2023",
-        "citation": "Journal of Chemical Information and Modeling, 2023"
+        "citation": "Journal of Chemical Information and Modeling 63 (24), 7642-7654, 2023"
     },
     {
         "title": "Approaches to tuning oxide reactivity through composition and structure",
@@ -166,7 +166,7 @@
     {
         "title": "Chemical Properties from Graph Neural Network-Predicted Electron Densities",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry C, 2023"
+        "citation": "The Journal of Physical Chemistry C 127 (48), 23459-23466, 2023"
     },
     {
         "title": "Chemical and Molecular Descriptors for the Reactivity of Amines with CO2",
@@ -197,6 +197,16 @@
         "title": "Configurational correlations in the coverage dependent adsorption energies of oxygen atoms on late transition metal fcc (111) surfaces",
         "pub_year": "2011",
         "citation": "The Journal of chemical physics 134 (10), 2011"
+    },
+    {
+        "title": "Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo2N Model Surfaces and Powder Catalysts",
+        "pub_year": "2024",
+        "citation": "ACS Catalysis 14, 1653-1662, 2024"
+    },
+    {
+        "title": "Controlling C‒O, C–C, and C–H Bond Scission Pathways on Metal-Modified Molybdenum Nitride Catalysts",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
         "title": "Core level shifts in Cu–Pd alloys as a function of bulk composition and structure",
@@ -441,6 +451,11 @@
         "title": "Ligand enhanced activity of in situ formed nanoparticles for photocatalytic hydrogen evolution",
         "pub_year": "2021",
         "citation": "ChemCatChem 14 (2), 2021"
+    },
+    {
+        "title": "Machine Learning Electron Density for Chemical Property Predictions in Catalysis",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
         "title": "Machine learning in catalysis",

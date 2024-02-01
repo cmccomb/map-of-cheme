@@ -1,5 +1,10 @@
 [
     {
+        "title": "10-Membered Azaenediyne Fused to a Benzothiophene through the Nicholas Macrocyclization: Synthesis and DNA Cleavage Ability",
+        "pub_year": "2019",
+        "citation": "Synlett 30 (02), 161-166, 2019"
+    },
+    {
         "title": "6º CONGRESSO BRASILEIRO DE PESQUISA E DESENVOLVIMENTO EM PETRÓLEO E GÁS",
         "citation": ""
     },
@@ -16,7 +21,7 @@
     {
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
         "pub_year": "2023",
-        "citation": "Journal of Chemical Information and Modeling, 2023"
+        "citation": "Journal of Chemical Information and Modeling 63 (24), 7642-7654, 2023"
     },
     {
         "title": "Autonomous chemical research with large language models",
@@ -99,6 +104,10 @@
         "citation": "arXiv preprint arXiv:2304.05332, 2023"
     },
     {
+        "title": "Emergent autonomous scientific research capabilities of large language models. arXiv(2023) doi: 10.48550",
+        "citation": "arXiv preprint arxiv.2304.05332, 0"
+    },
+    {
         "title": "Evaluation of long-range hyperconjugation in constrained eight-membered rings",
         "pub_year": "2018",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
@@ -122,6 +131,11 @@
         "title": "Fused catechol ethers from gold (I)-catalyzed intramolecular reaction of propargyl ethers with acetals",
         "pub_year": "2016",
         "citation": "Organic letters 18 (5), 928-931, 2016"
+    },
+    {
+        "title": "Ground state cross-coupling of haloarenes with arenes initiated by organic electron donors, formed in situ: an overview",
+        "pub_year": "2020",
+        "citation": "Synthesis 52 (03), 327-336, 2020"
     },
     {
         "title": "Guided Discovery of Chemical Reaction Pathways with Imposed Activation",
@@ -279,6 +293,11 @@
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 253, 2017"
     },
     {
+        "title": "Synthesis of Optically Active 2, 3-Disubstituted Indoline Derivatives through Cycloaddition Reactions between Benzynes and α, β-Unsaturated γ-Aminobutyronitriles",
+        "pub_year": "2018",
+        "citation": "Synlett 29 (04), 530-536, 2018"
+    },
+    {
         "title": "Synthesis of functionalized phenanthrenes via regioselective oxidative radical cyclization",
         "pub_year": "2015",
         "citation": "The Journal of Organic Chemistry 80 (23), 11706-11717, 2015"
@@ -327,5 +346,10 @@
         "title": "tert-Butyl Carbocation in Condensed Phases: Stabilization via Hyperconjugation, Polarization, and Hydrogen Bonding",
         "pub_year": "2015",
         "citation": "The Journal of Physical Chemistry A 119 (32), 8619-8629, 2015"
+    },
+    {
+        "title": "’, AA Korlyukov, GI Nikishin, IV Alabugin and AO Terent'ev, Ozone-Free Synthesis of Ozonides: Assembling Bicyclic Structures from 1, 5-Diketones and Hydrogen Peroxide",
+        "pub_year": "2018",
+        "citation": "J. Org. Chem 83 (8), 4402-4426, 2018"
     }
 ]

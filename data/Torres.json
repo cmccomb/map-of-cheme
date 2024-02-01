@@ -10,11 +10,6 @@
         "citation": "Computer Aided Chemical Engineering 37, 1175-1180, 2015"
     },
     {
-        "title": "A ROBUST DISJUNCTIVE FORMULATION FOR THE REDESIGN OF FOREST BIOMASS-BASED FUELS SUPPLY CHAIN UNDER MULTIPLE FACTORS OF UNCERTAINTY",
-        "pub_year": "2023",
-        "citation": "Computers & Chemical Engineering, 108540, 2023"
-    },
-    {
         "title": "A comparative study on the numerical performance of kaizen programming and genetic programming for symbolic regression problems",
         "pub_year": "2019",
         "citation": "2019 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 1-6, 2019"
@@ -33,6 +28,11 @@
         "title": "A multi-output machine learning approach for generation of surrogate models in process engineering",
         "pub_year": "2022",
         "citation": "Computer Aided Chemical Engineering 49, 1771-1776, 2022"
+    },
+    {
+        "title": "A robust disjunctive formulation for the redesign of forest biomass-based fuels supply chain under multiple factors of uncertainty",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering 181, 108540, 2024"
     },
     {
         "title": "Advances in Process Design",
@@ -128,6 +128,11 @@
         "citation": "Computers & Chemical Engineering 161, 107756, 2022"
     },
     {
+        "title": "Does Kaizen Programming need a physic-informed mechanism to improve the search?",
+        "pub_year": "2023",
+        "citation": "2023 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 1-6, 2023"
+    },
+    {
         "title": "EN Pistikopoulos, MC Georgiadis and A. Kokossis",
         "citation": ""
     },
@@ -221,7 +226,7 @@
         "citation": "The Journal of Supercritical Fluids 45 (2), 177-180, 2008"
     },
     {
-        "title": "Learning interpretable multi-output models: Kaizen Programming based symbolic regression for estimating outlet concentrations of a splitter",
+        "title": "Learning interpretable multi-output models: Kaizen programming based symbolic regression for estimating outlet concentrations of a splitter",
         "pub_year": "2023",
         "citation": "Computer Aided Chemical Engineering 52, 1107-1112, 2023"
     },
@@ -294,6 +299,11 @@
         "title": "Prevalencia de la actividad física en mujeres embarazadas 2019: Hospital Regional Salto-Hospital Escuela del Litoral Paysandú, Uruguay",
         "pub_year": "2021",
         "citation": "Udelar. FM, 2021"
+    },
+    {
+        "title": "Proceedings of the 3rd IPLeiria’s International Health Congress: Leiria, Portugal. 6-7 May 2016",
+        "pub_year": "2016",
+        "citation": "BMC Health Services Research 16, 111-242, 2016"
     },
     {
         "title": "Process Design: Conceptualization and Analysis of Chemical Processes II",

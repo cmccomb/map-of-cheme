@@ -97,7 +97,7 @@
     {
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
         "pub_year": "2023",
-        "citation": "Journal of Chemical Information and Modeling, 2023"
+        "citation": "Journal of Chemical Information and Modeling 63 (24), 7642-7654, 2023"
     },
     {
         "title": "Automated DFT Calculations for the High-Throughput Screening of Oxygen Evolution Reaction Catalysts",
@@ -142,7 +142,7 @@
     {
         "title": "Chemical Properties from Graph Neural Network-Predicted Electron Densities",
         "pub_year": "2023",
-        "citation": "The Journal of Physical Chemistry C, 2023"
+        "citation": "The Journal of Physical Chemistry C 127 (48), 23459-23466, 2023"
     },
     {
         "title": "Cluster-MLP: An Active Learning Genetic Algorithm Framework for Accelerated Discovery of Global Minimum Configurations of Pure and Alloyed Nanoclusters",
@@ -371,6 +371,11 @@
     {
         "title": "MTL ANNUAL RESEARCH REPORT 2013",
         "citation": ""
+    },
+    {
+        "title": "Machine Learning Electron Density for Chemical Property Predictions in Catalysis",
+        "pub_year": "2023",
+        "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
         "title": "Machine Learning Enabled Catalyst Performance Predictions for Oxygen Reduction Reaction",
@@ -613,7 +618,7 @@
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
     },
     {
-        "title": "The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture",
+        "title": "The Open DAC 2023 dataset and challenges for sorbent discovery in direct air capture",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.00341, 2023"
     },
