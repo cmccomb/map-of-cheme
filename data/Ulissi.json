@@ -295,8 +295,8 @@
     },
     {
         "title": "Fine-Tuned Language Models Generate Stable Inorganic Materials as Text",
-        "pub_year": "2023",
-        "citation": "AI for Accelerated Materials Design-NeurIPS 2023 Workshop, 2023"
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.04379, 2024"
     },
     {
         "title": "From molecules to materials: Pre-training large generalizable models for atomic property prediction",
@@ -562,6 +562,11 @@
         "citation": "The Journal of chemical physics 157 (7), 2022"
     },
     {
+        "title": "Site Geometry Driven Selective Hydrogenation on Intermetallic Catalysts",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022"
+    },
+    {
         "title": "Site Geometry as a Descriptor for Catalystsite Geometry as a Descriptor for Catalyst Selectivity in Intermetallicsselectivity in Interme",
         "citation": "Available at SSRN 4145497, 0"
     },
@@ -608,11 +613,6 @@
         "citation": "ACS Catalysis 13 (5), 3066-3084, 2023"
     },
     {
-        "title": "The Open Catalyst Challenge 2021: Competition Report.",
-        "pub_year": "2021",
-        "citation": "NeurIPS (Competition and Demos), 29-40, 2021"
-    },
-    {
         "title": "The Open Catalyst Project Dataset",
         "pub_year": "2020",
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
@@ -626,6 +626,11 @@
         "title": "The chemical dynamics of nanosensors capable of single-molecule detection",
         "pub_year": "2011",
         "citation": "The Journal of chemical physics 135 (8), 2011"
+    },
+    {
+        "title": "The open catalyst challenge 2021: Competition report",
+        "pub_year": "2022",
+        "citation": "Proceedings of Machine Learning Research, PMLR 176, 29-40, 2022"
     },
     {
         "title": "Theoretical investigations of transition metal surface energies under lattice strain and CO environment",

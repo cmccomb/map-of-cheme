@@ -1577,6 +1577,11 @@
         "citation": "arXiv preprint arXiv:2109.09657, 2021"
     },
     {
+        "title": "Convex mixed-integer nonlinear programs derived from generalized disjunctive programming using cones",
+        "pub_year": "2024",
+        "citation": "Computational Optimization and Applications, 1-62, 2024"
+    },
+    {
         "title": "Coproduction of ethylene and propylene based on ethane and propane feedstocks",
         "pub_year": "2020",
         "citation": "Computer Aided Chemical Engineering 48, 907-912, 2020"
@@ -1678,6 +1683,11 @@
         "citation": "Industrial & engineering chemistry research 54 (29), 7261-7272, 2015"
     },
     {
+        "title": "Data-independent Model for the Synthesis of Renewable Supply Networks considering Fluctuations in Supply and Demand",
+        "pub_year": "2016",
+        "citation": "Slovenski kemijski dnevi 2016, 1-1, 2016"
+    },
+    {
         "title": "Decision automation for oil and gas well startup scheduling using MILP",
         "pub_year": "2017",
         "citation": "Computer Aided Chemical Engineering 40, 1399-1404, 2017"
@@ -1772,8 +1782,8 @@
     },
     {
         "title": "Design of hydrogen supply chains under demand uncertainty–a case study of passenger transport in Germany",
-        "pub_year": "2021",
-        "citation": "Physical Sciences Reviews 8 (6), 741-762, 2021"
+        "pub_year": "2023",
+        "citation": "Physical Sciences Reviews 8 (6), 741-762, 2023"
     },
     {
         "title": "Design of multi-product batch plant",
@@ -2417,6 +2427,10 @@
         "title": "Global optimization of nonlinear generalized disjunctive programming with bilinear equality constraints: applications to process networks",
         "pub_year": "2003",
         "citation": "Computers & chemical engineering 27 (11), 1557-1575, 2003"
+    },
+    {
+        "title": "Global optimization of process networks with multicomponent flows",
+        "citation": ""
     },
     {
         "title": "Global superstructure optimization for the design of integrated process water networks",
@@ -3182,11 +3196,6 @@
         "citation": "Computers & Chemical Engineering, 108317, 2023"
     },
     {
-        "title": "Mathematical Programming Techniques for Optimization under Uncertainty and Their Application in Process Systems Engineering",
-        "pub_year": "2017",
-        "citation": "Theoretical Foundations of Chemical Engineering 51 (6), 893-909, 2017"
-    },
-    {
         "title": "Mathematical Research Challenges in Optimization of Fossil Energy Power Generation Systems",
         "citation": ""
     },
@@ -3212,8 +3221,8 @@
     },
     {
         "title": "Mathematical programming model for the optimal management of carbon intensity indicators in global supply chains",
-        "pub_year": "2023",
-        "citation": "Computers & Chemical Engineering, 108546, 2023"
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering 182, 108546, 2024"
     },
     {
         "title": "Mathematical programming techniques for optimization under uncertainty and their application in process systems engineering",
@@ -3608,7 +3617,7 @@
     {
         "title": "Multiscale analysis for the utilization of CO2 towards the production of chemicals at the country level: Case study of Spain",
         "pub_year": "2024",
-        "citation": "Journal of Cleaner Production, 140551, 2024"
+        "citation": "Journal of Cleaner Production 437, 140551, 2024"
     },
     {
         "title": "Multiscale production routing in industrial gas supply chains",
@@ -3900,11 +3909,6 @@
         "citation": "Industrial & Engineering Chemistry Research 55 (12), 2016"
     },
     {
-        "title": "Optimal Retrofitting of Conventional Oil Refinery into Sustainable Bio-refinery under Uncertainty",
-        "pub_year": "2023",
-        "citation": "Computer Aided Chemical Engineering 52, 247-253, 2023"
-    },
-    {
         "title": "Optimal Scheduling Under Variable Electricity Pricing and Availability",
         "pub_year": "2009",
         "citation": "Computer Aided Chemical Engineering 27, 1695-1700, 2009"
@@ -4152,6 +4156,11 @@
         "title": "Optimal retrofit design of multiproduct batch plants",
         "pub_year": "1987",
         "citation": "Industrial & engineering chemistry research 26 (4), 718-726, 1987"
+    },
+    {
+        "title": "Optimal retrofitting of conventional oil refinery into sustainable bio-refinery under uncertainty",
+        "pub_year": "2023",
+        "citation": "Computer Aided Chemical Engineering 52, 247-253, 2023"
     },
     {
         "title": "Optimal scheduling for power-intensive processes under time-sensitive electricity prices",
@@ -4911,8 +4920,8 @@
     },
     {
         "title": "Reformulations, relaxations and cutting planes for linear generalized disjunctive programming",
-        "pub_year": "2012",
-        "citation": "European Journal of Operational Research 216, 70-82, 2012"
+        "pub_year": "2008",
+        "citation": "Carnegie Mellon University, Department of Chemical Engineering, Pittsburgh …, 2008"
     },
     {
         "title": "Relation between MILP modelling and logical inference for chemical process synthesis",
@@ -5168,9 +5177,9 @@
         "citation": "Design Research Center, Carnegie Mellon University, 1982"
     },
     {
-        "title": "Selective Tightening Algorithm for the Optimization of Pipeline Network Designs in the Energy Industry",
-        "pub_year": "2023",
-        "citation": "Computers & Chemical Engineering, 108537, 2023"
+        "title": "Selective tightening algorithm for the optimization of pipeline network designs in the energy industry",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering 182, 108537, 2024"
     },
     {
         "title": "Self-sufficient integrated algae based facility for diesel susbtitutes: FAEE and glycerol ethers",
@@ -5764,7 +5773,7 @@
     {
         "title": "Synthesis of renewable energy supply networks considering different frequencies of fluctuations in supply and demand",
         "pub_year": "2016",
-        "citation": "AIChE annual meeting, 2016"
+        "citation": "2016 AIChE Annual Meeting, 1-1, 2016"
     },
     {
         "title": "Systematic Comparison of CO2 Capture Towards the Renewable Production of Methanol and  Methane: Spain Case",

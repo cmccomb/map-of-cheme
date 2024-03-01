@@ -192,8 +192,8 @@
     },
     {
         "title": "An intercomparison study of four different techniques for measuring the chemical composition of nanoparticles",
-        "pub_year": "2023",
-        "citation": "Atmospheric Chemistry and Physics 23 (11), 6613-6631, 2023"
+        "pub_year": "2022",
+        "citation": "Atmospheric Chemistry and Physics Discussions 2022, 1-24, 2022"
     },
     {
         "title": "Anthropogenic influence on biogenic secondary organic aerosol",
@@ -218,7 +218,12 @@
     {
         "title": "Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer",
         "pub_year": "2024",
-        "citation": "Environmental Science: Atmospheres, 2024"
+        "citation": "Environmental science: atmospheres 4 (2), 265-274, 2024"
+    },
+    {
+        "title": "Assessing the mechanisms and impacts of new-particle formation and growth in China with numerical modeling",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
     },
     {
         "title": "Assessment of the inhalation exposure and incremental lifetime cancer risk of PM2.5 bounded polycyclic aromatic hydrocarbons (PAHs) by different toxic …",
@@ -754,7 +759,7 @@
     {
         "title": "Environmental Science: Atmospheres is four and so much more",
         "pub_year": "2024",
-        "citation": "Environmental Science: Atmospheres, 2024"
+        "citation": "Environmental Science: Atmospheres 4 (1), 7-8, 2024"
     },
     {
         "title": "Equilibration time scales of organic aerosol inside thermodenuders: Evaporation kinetics versus thermodynamics",
@@ -1323,8 +1328,8 @@
     },
     {
         "title": "Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers",
-        "pub_year": "2021",
-        "citation": "Atmospheric Measurement Techniques 14 (6), 4187-4202, 2021"
+        "pub_year": "2020",
+        "citation": "Atmospheric Measurement Techniques Discussions 2020, 1-23, 2020"
     },
     {
         "title": "Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers",
@@ -1562,8 +1567,8 @@
     },
     {
         "title": "Nitrate radicals suppress biogenic new particle formation from monoterpene oxidation",
-        "pub_year": "2023",
-        "citation": "Environmental Science & Technology, 2023"
+        "pub_year": "2024",
+        "citation": "Environmental Science & Technology 58 (3), 1601-1614, 2024"
     },
     {
         "title": "Nonmethane hydrocarbon chemistry in the remote marine atmosphere",
@@ -2246,6 +2251,11 @@
         "title": "Spatial variability of sources and mixing state of atmospheric particles in a metropolitan area",
         "pub_year": "2018",
         "citation": "Environmental science & technology 52 (12), 6807-6815, 2018"
+    },
+    {
+        "title": "Species-Level Understanding of the Evolution of Secondary Organic Aerosol from Wildfires over Long-Time Photochemical Aging",
+        "pub_year": "2023",
+        "citation": "AGU23, 2023"
     },
     {
         "title": "Sulfur dioxide transported from the residual layer drives atmospheric nucleation during haze periods in Beijing",
