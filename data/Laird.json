@@ -257,7 +257,7 @@
     {
         "title": "OMLT: Optimization & machine learning toolkit",
         "pub_year": "2022",
-        "citation": "The Journal of Machine Learning Research 23 (1), 15829-15836, 2022"
+        "citation": "Journal of Machine Learning Research 23 (349), 1-8, 2022"
     },
     {
         "title": "Optimal design of cryogenic air separation columns under uncertainty",
@@ -417,7 +417,7 @@
     {
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
-        "citation": "Journal of Advanced Manufacturing and Processing 3 (3), e10095, 2021"
+        "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021"
     },
     {
         "title": "The unit commitment problem with AC optimal power flow constraints",
@@ -430,7 +430,7 @@
         "citation": "IEEE Transactions on Power Systems 34 (1), 814-817, 2018"
     },
     {
-        "title": "Verification of Neural Network Surrogates",
+        "title": "Verification of neural network surrogates",
         "pub_year": "2022",
         "citation": "Computer Aided Chemical Engineering 51, 583-588, 2022"
     }

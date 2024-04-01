@@ -74,11 +74,6 @@
         "citation": "Computer Aided Chemical Engineering 44, 787-792, 2018"
     },
     {
-        "title": "A MULTIPLIER-FREE, REDUCED HESSIAN METHOD",
-        "pub_year": "2012",
-        "citation": "Large-Scale Optimization with Applications: Part II: Optimal Design and …, 2012"
-    },
-    {
         "title": "A Mixed Integer Approach for Obtaining Unique Solutions in Source Inversion of Drinking Water Networks1",
         "citation": ""
     },
@@ -130,11 +125,6 @@
         "title": "A Sensitivity-Based Nonlinear Model Predictive Control and State-Estimation Framework in Python.",
         "pub_year": "2018",
         "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2018"
-    },
-    {
-        "title": "A Simultaneous Parameter and State Estimator for Polymerization Process Based on Molecular Weight Distribution",
-        "pub_year": "2018",
-        "citation": "Computer Aided Chemical Engineering 43, 1117-1122, 2018"
     },
     {
         "title": "A Smooth, Square Flash Formulation for Equation-Oriented Flowsheet Optimization",
@@ -344,7 +334,7 @@
     {
         "title": "A robust and efficient mixed-integer non-linear dynamic optimization approach for simultaneous design and control",
         "pub_year": "2005",
-        "citation": "Computer Aided Chemical Engineering 20, 67-72, 2005"
+        "citation": "Computer aided chemical engineering 20, 67-72, 2005"
     },
     {
         "title": "A robust technique for process flowsheet optimization using simplified model approximations",
@@ -365,6 +355,11 @@
         "title": "A simultaneous approach for singular optimal control based on partial moving grid",
         "pub_year": "2019",
         "citation": "AIChE Journal 65 (6), e16584, 2019"
+    },
+    {
+        "title": "A simultaneous parameter and state estimator for polymerization process based on molecular weight distribution",
+        "pub_year": "2018",
+        "citation": "Computer Aided Chemical Engineering 43, 1117-1122, 2018"
     },
     {
         "title": "A smooth, square flash formulation for equation-oriented flowsheet optimization",
@@ -415,11 +410,6 @@
         "title": "A tailored optimization strategy for PDE-based design: application to a CVD reactor",
         "pub_year": "2004",
         "citation": "Computers & chemical engineering 28 (3), 291-302, 2004"
-    },
-    {
-        "title": "A tool to analyze robust stability for constrained MPC",
-        "pub_year": "2004",
-        "citation": "IFAC Proceedings Volumes 37 (1), 487-492, 2004"
     },
     {
         "title": "A tool to analyze robust stability for constrained nonlinear mpc",
@@ -807,7 +797,7 @@
     {
         "title": "An optimization model for assessment of membrane-based post-combustion gas upcycling into hydrogen or syngas",
         "pub_year": "2018",
-        "citation": "Journal of Membrane Science 563, 83-92, 2018"
+        "citation": "Journal of membrane science 563, 83-92, 2018"
     },
     {
         "title": "An optimization model for the treatment of perfluorocarboxylic acids considering membrane preconcentration and BDD electrooxidation",
@@ -982,6 +972,11 @@
         "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
+        "title": "COFIR: coarse and fine image registration",
+        "pub_year": "2007",
+        "citation": "Real-Time PDE-Constrained Optimization, 37-49, 2007"
+    },
+    {
         "title": "CONVEX ATTAINABLE REGION PROJECTIONS FOR REACTOR NETWORK SYNTHESIS",
         "citation": ""
     },
@@ -1065,7 +1060,7 @@
         "citation": ""
     },
     {
-        "title": "Conflict-Based Model Predictive Control for Scalable Multi-Robot Motion Planning",
+        "title": "Conflict-based model predictive control for scalable multi-robot motion planning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.01619, 2023"
     },
@@ -1478,11 +1473,6 @@
         "citation": "Computers & Chemical Engineering 27 (11), 1513-1531, 2003"
     },
     {
-        "title": "Dynamic optimization strategies for 3d conflict resolution of multiple aircraft",
-        "pub_year": "2003",
-        "citation": "AIAA Journal of Guidance, Control and Dynamics, to appear, 2003"
-    },
-    {
         "title": "Dynamic optimization strategies for three-dimensional conflict resolution of multiple aircraft",
         "pub_year": "2004",
         "citation": "Journal of guidance, control, and dynamics 27 (4), 586-594, 2004"
@@ -1577,11 +1567,6 @@
         "citation": "The 2007 Annual Meeting, 2007"
     },
     {
-        "title": "Efficient Solution of Dynamic Optimization",
-        "pub_year": "2012",
-        "citation": "Nonlinear Model Predictive Control 26, 219, 2012"
-    },
-    {
         "title": "Efficient formulation and solution of nonlinear model predictive control problem",
         "pub_year": "2000",
         "citation": "Latin American Applied Research 30 (4), 315-324, 2000"
@@ -1614,7 +1599,7 @@
     {
         "title": "Equation-Oriented Optimization Applied to the Optimal Design of Carbon Capture Plants Using Rigorous Models",
         "pub_year": "2023",
-        "citation": "Industrial & Engineering Chemistry Research, 2023"
+        "citation": "Industrial & Engineering Chemistry Research 62 (19), 7539-7553, 2023"
     },
     {
         "title": "Equation-Oriented Optimization of Cryogenic Systems for Coal Oxycombustion Power Plants",
@@ -1629,7 +1614,7 @@
     {
         "title": "Equation-oriented framework for optimal synthesis of integrated reactive distillation systems for Fischer–Tropsch processes",
         "pub_year": "2018",
-        "citation": "Energy & Fuels 32 (6), 7199-7209, 2018"
+        "citation": "Energy & fuels 32 (6), 7199-7209, 2018"
     },
     {
         "title": "Equation-oriented optimization of cryogenic systems for coal oxycombustion power generation",
@@ -1772,7 +1757,7 @@
         "citation": "American Institute of Chemical Engineers, 1995"
     },
     {
-        "title": "From nonlinear programming theory to practical optimization algorithms: a process engineering viewpoint",
+        "title": "From nonlinear programming theory to practical optimization algorithms: A process engineering viewpoint",
         "pub_year": "1992",
         "citation": "Carnegie Mellon University, 1992"
     },
@@ -1990,6 +1975,10 @@
         "citation": ""
     },
     {
+        "title": "Integrated Bayesian parameter estimation with model‐based design of experiments for dynamic processes",
+        "citation": "AIChE Journal, e18418, 0"
+    },
+    {
         "title": "Integrated Design and NMPC-Based Control Under Uncertainty and Naturally Ordered Structural Decisions: A Discrete-Steepest Descent Approach.",
         "pub_year": "2023",
         "citation": "2023 AIChE Annual Meeting, 2023"
@@ -2096,7 +2085,7 @@
     {
         "title": "Ipopt and neural dynamics: Tips, tricks and diagnostics",
         "pub_year": "2007",
-        "citation": "Technical report, Department of Biological Statistics and Computational …, 2007"
+        "citation": "Technical report, Department of Biological Statistics and Computational Biology, 2007"
     },
     {
         "title": "Issues and trends in the teaching of process and product design",
@@ -2148,11 +2137,6 @@
         "citation": "2019 AIChE Annual Meeting, 2019"
     },
     {
-        "title": "Kinetic Parameter Estimation from Spectroscopic Data for a Multi-Stage Solid–Liquid Pharmaceutical Process",
-        "pub_year": "2020",
-        "citation": "Organic Process Research & Development 25 (3), 373-383, 2020"
-    },
-    {
         "title": "Kinetic model development and Bayesian uncertainty quantification for the complete reduction of Fe-based oxygen carriers with CH4, CO, and H2 for chemical looping combustion",
         "pub_year": "2022",
         "citation": "Chemical Engineering Science 252, 117512, 2022"
@@ -2161,6 +2145,11 @@
         "title": "Kinetic parameter estimation based on spectroscopic data with unknown absorbing species",
         "pub_year": "2018",
         "citation": "AIChE Journal 64 (10), 3595-3613, 2018"
+    },
+    {
+        "title": "Kinetic parameter estimation from spectroscopic data for a multi-stage solid–liquid pharmaceutical process",
+        "pub_year": "2020",
+        "citation": "Organic Process Research & Development 25 (3), 373-383, 2020"
     },
     {
         "title": "Kinetic parameter estimation of HDPE slurry process from molecular weight distribution: Estimability analysis and multistep methodology",
@@ -2206,6 +2195,11 @@
         "citation": ""
     },
     {
+        "title": "Large-Scale Nonlinear Programming: An Integrating Framework for Enterprise-Wide Dynamic Optimization",
+        "pub_year": "2008",
+        "citation": "Comput. Aided Chem. Eng. 2007, 24, 575 582, 2008"
+    },
+    {
         "title": "Large-Scale Optimization Strategies for the Operation of Low-Density Polyethylene Tubular Reactors",
         "pub_year": "2008",
         "citation": "The 2008 Annual Meeting, 2008"
@@ -2220,8 +2214,8 @@
     },
     {
         "title": "Large-Scale Optimization with Applications: Part I: Optimization in Inverse Problems and Design",
-        "pub_year": "1997",
-        "citation": "Springer Science & Business Media, 1997"
+        "pub_year": "2012",
+        "citation": "Springer Science & Business Media, 2012"
     },
     {
         "title": "Large-Scale PDE-Constrained Optimization [electronic resource]",
@@ -2240,7 +2234,7 @@
     {
         "title": "Large-scale PDE-constrained optimization: an introduction",
         "pub_year": "2003",
-        "citation": "Large-Scale PDE-Constrained Optimization, 3-13, 2003"
+        "citation": "Large-scale PDE-constrained optimization, 3-13, 2003"
     },
     {
         "title": "Large-scale decomposition for successive quadratic programming",
@@ -2256,11 +2250,6 @@
         "title": "Large-scale dynamic optimization of a low density polyethylene plant",
         "pub_year": "2000",
         "citation": "Computers & Chemical Engineering 24 (2-7), 983-989, 2000"
-    },
-    {
-        "title": "Large-scale inverse problems and quantification of uncertainty",
-        "pub_year": "2011",
-        "citation": "John Wiley & Sons, 2011"
     },
     {
         "title": "Large-scale nonlinear programming for multi-scenario optimization",
@@ -2281,11 +2270,6 @@
         "title": "Large-scale nonlinear programming with a CAPE-OPEN compliant interface",
         "pub_year": "2005",
         "citation": "Chemical Engineering Research and Design 83 (6), 718-723, 2005"
-    },
-    {
-        "title": "Large-scale nonlinear programming: An integrating framework for enterprise-wide dynamic optimization",
-        "pub_year": "2007",
-        "citation": "Computer Aided Chemical Engineering 24, 575-582, 2007"
     },
     {
         "title": "Large-scale optimization formulations and strategies for nonlinear model predictive control",
@@ -2402,11 +2386,6 @@
         "citation": "Computers & Chemical Engineering 32 (12), 2903-2913, 2008"
     },
     {
-        "title": "MPEC problem formulations in chemical engineering applications",
-        "pub_year": "2007",
-        "citation": "preprint, June 34, 2007"
-    },
-    {
         "title": "MPEC strategies for cost optimization of pipeline operations",
         "pub_year": "2010",
         "citation": "Computers & chemical engineering 34 (6), 900-913, 2010"
@@ -2468,7 +2447,7 @@
     {
         "title": "Model reduction in chemical process optimization",
         "pub_year": "2019",
-        "citation": "Also of Interest, 2019"
+        "citation": "Citation for published version (APA): Benner, P., Grivet-Talocia, S …, 2019"
     },
     {
         "title": "Model-Based Experimental Design: A Comparison between Sequential and Simultaneous Optimization approaches",
@@ -2479,11 +2458,6 @@
         "title": "Model-based on-line optimization framework for semi-batch polymerization reactors",
         "pub_year": "2015",
         "citation": "IFAC-PapersOnLine 48 (8), 164-169, 2015"
-    },
-    {
-        "title": "Modeling Systems",
-        "pub_year": "2012",
-        "citation": "Large-Scale PDE-Constrained Optimization 30, 199, 2012"
     },
     {
         "title": "Modeling and Optimization of Polymer Electrolyte Fuel Cells",
@@ -2588,6 +2562,11 @@
         "title": "Mpec Formulations to Model Complementarities in Rto Problems",
         "pub_year": "2006",
         "citation": "The 2006 Annual Meeting, 2006"
+    },
+    {
+        "title": "Multi-level optimization strategies for large-scale nonlinear process systems",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering, 108657, 2024"
     },
     {
         "title": "Multi-point powered descent guidance based on optimal sensitivity",
@@ -2695,12 +2674,12 @@
     {
         "title": "NMPC for Setpoint Tracking Operation of a Solid Oxide Electrolysis Cell System",
         "pub_year": "2023",
-        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023"
+        "citation": ""
     },
     {
         "title": "NMPC-based real-time coordination of multiple aircraft",
-        "pub_year": "2007",
-        "citation": "Assessment and future directions of nonlinear model predictive control, 629-639, 2007"
+        "pub_year": "2005",
+        "citation": "Assessment and future directions of nonlinear model predictive control, 629-639, 2005"
     },
     {
         "title": "Nanotechnology convergence and modeling paradigm of sustainable energy system using polymer electrolyte membrane fuel cell as a benchmark example",
@@ -2780,11 +2759,6 @@
         "title": "Nonlinear Programming Strategies for Optimization of Dynamic Chemical Looping Reactor Models",
         "pub_year": "2020",
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
-    },
-    {
-        "title": "Nonlinear Programming: Concepts",
-        "pub_year": "2010",
-        "citation": "Algorithms, and Applications to Chemical Processes 10, 2010"
     },
     {
         "title": "Nonlinear Programming: Concepts and Algorithms for Process Optimization",
@@ -3082,7 +3056,7 @@
     {
         "title": "Optimal operations for large-scale seawater reverse osmosis networks",
         "pub_year": "2015",
-        "citation": "Journal of Membrane Science 476, 508-524, 2015"
+        "citation": "Journal of membrane science 476, 508-524, 2015"
     },
     {
         "title": "Optimal polymer grade transitions for fluidized bed reactors",
@@ -3304,11 +3278,6 @@
         "citation": "AIChE Journal 52 (4), 1343-1350, 2006"
     },
     {
-        "title": "Optimization-Based Design of Product Families with Common Components",
-        "pub_year": "2022",
-        "citation": "Computer Aided Chemical Engineering 49, 91-96, 2022"
-    },
-    {
         "title": "Optimization-Based Strategies for Spectral Analysis and Kinetic Modeling",
         "pub_year": "2023",
         "citation": "2023 AIChE Annual Meeting, 2023"
@@ -3317,6 +3286,11 @@
         "title": "Optimization-based Approaches for Design of Chemical Process Families Using ReLU Surrogates.",
         "pub_year": "2022",
         "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2022"
+    },
+    {
+        "title": "Optimization-based design of product families with common components",
+        "pub_year": "2022",
+        "citation": "Computer Aided Chemical Engineering 49, 91-96, 2022"
     },
     {
         "title": "Optimization-based methods for catalysis: developing improved approaches to microkinetic modeling and their application to methanol synthesis",
@@ -3341,7 +3315,7 @@
     {
         "title": "Optimized distillation coupled with state-of-the-art membranes for propylene purification",
         "pub_year": "2018",
-        "citation": "Journal of Membrane Science 556, 321-328, 2018"
+        "citation": "Journal of membrane science 556, 321-328, 2018"
     },
     {
         "title": "Optimized distillation coupled with state-of-the-art membranes for propylene purification",
@@ -3372,6 +3346,11 @@
         "title": "PUBLICATIONS BOARD",
         "pub_year": "2018",
         "citation": "Chemical Engineering Education 52 (1), 2018"
+    },
+    {
+        "title": "Parafoil System Cooperative Recovery: A Coordinated Distributed NMPC Approach",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Aerospace and Electronic Systems, 2024"
     },
     {
         "title": "Parallel Monte Carlo simulation of molecular weight distribution and chemical composition distribution for copolymerization on a graphics processing unit platform",
@@ -3554,7 +3533,7 @@
     {
         "title": "Process optimization and working fluid mixture design for organic Rankine cycles (ORCs) recovering compression heat in oxy-combustion power plants",
         "pub_year": "2018",
-        "citation": "Energy Conversion and Management 175, 132-141, 2018"
+        "citation": "Energy conversion and management 175, 132-141, 2018"
     },
     {
         "title": "Process optimization: A comparative case study",
@@ -3601,9 +3580,9 @@
         "citation": "Industrial & engineering chemistry research 50 (7), 3907-3918, 2011"
     },
     {
-        "title": "Re-design of The Tennessee eastman challenge process: an eigenvalue optimization approach",
+        "title": "Re-design of the Tennessee Eastman challenge process: An eigenvalue optimization approach",
         "pub_year": "2004",
-        "citation": "Proceedings of Foundations of Computer Aided Process Design, manuscript …, 2004"
+        "citation": "Proceedings of foundations of computer aided process design, 517-520, 2004"
     },
     {
         "title": "Reactor Network Development and Retrofitting for Polymer Production",
@@ -3783,7 +3762,7 @@
     {
         "title": "Rigorous optimization-based synthesis of distillation cascades without integer variables",
         "pub_year": "2014",
-        "citation": "Computer Aided Chemical Engineering 33, 55-60, 2014"
+        "citation": "Computer aided chemical engineering 33, 55-60, 2014"
     },
     {
         "title": "Robust Nonlinear Model Predictive Control with Scenario Reduction",
@@ -4095,8 +4074,9 @@
         "citation": "The 2008 Annual Meeting, 2008"
     },
     {
-        "title": "Six-Degree-of-Freedom Trajectory Optimization for Powered Landing of Reusable Rockets",
-        "citation": ""
+        "title": "Six-degree-of-freedom trajectory optimization for powered landing of reusable rockets",
+        "pub_year": "2019",
+        "citation": "no. August, 2019"
     },
     {
         "title": "Smoothing methods for complementarity problems in process engineering",
@@ -4192,11 +4172,6 @@
         "title": "Subdomain Approach",
         "pub_year": "2007",
         "citation": "Real-time PDE-constrained Optimization 3, 289, 2007"
-    },
-    {
-        "title": "Successive Quadratic Programming",
-        "pub_year": "2012",
-        "citation": "Large-Scale PDE-Constrained Optimization 30, 316, 2012"
     },
     {
         "title": "Successive Quadratic Programming: Applications in the Process Industry.",
@@ -4330,7 +4305,7 @@
     {
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
-        "citation": "Journal of Advanced Manufacturing and Processing 3 (3), e10095, 2021"
+        "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021"
     },
     {
         "title": "The Min-Max Robust Design of Advanced-Step Nmpc Controller",
@@ -4347,7 +4322,7 @@
         "citation": "Advances in chemical engineering 40, 59-118, 2011"
     },
     {
-        "title": "The ℓ1—Exact Penalty-Barrier Phase for Degenerate Nonlinear Programming Problems in Ipopt",
+        "title": "The ℓ1—exact penalty-barrier phase for degenerate nonlinear programming problems in ipopt",
         "pub_year": "2020",
         "citation": "IFAC-PapersOnLine 53 (2), 6496-6501, 2020"
     },
@@ -4444,7 +4419,7 @@
     {
         "title": "Wine distillates: practical operating recipe formulation for stills",
         "pub_year": "2005",
-        "citation": "Journal of Agricultural and Food Chemistry 53 (16), 6326-6331, 2005"
+        "citation": "Journal of agricultural and food chemistry 53 (16), 6326-6331, 2005"
     },
     {
         "title": "and Henein, H, 1990,\" Finite Difierence Heat-Transfer Modeling for Continuous Casting\" M4erail TranS",
@@ -4461,17 +4436,13 @@
         "citation": "Mathematical Programming Computation 10, 187-223, 2018"
     },
     {
-        "title": "rSQP optimization of large-scale reacting flow applications with MPSalsa",
-        "pub_year": "2001",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2001"
-    },
-    {
         "title": "rSQP++: An object-oriented framework for successive quadratic programming",
         "pub_year": "2003",
         "citation": "Large-Scale PDE-Constrained Optimization, 316-330, 2003"
     },
     {
         "title": "rËQP Optimization of Large-Ëcale Reacting Flow Applications with MPËalsa",
+        "pub_year": "2001",
         "citation": ""
     },
     {

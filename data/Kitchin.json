@@ -86,7 +86,7 @@
     {
         "title": "An inverse mapping approach for process systems engineering using automatic differentiation and the implicit function theorem",
         "pub_year": "2023",
-        "citation": "AIChE Journal, e18119, 2023"
+        "citation": "AIChE Journal 69 (9), e18119, 2023"
     },
     {
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_rev Dataset",
@@ -174,9 +174,9 @@
         "citation": "Industrial & engineering chemistry research 51 (42), 13609-13618, 2012"
     },
     {
-        "title": "Circumventing Data Imbalance in Magnetic Ground State Data for Magnetic Moment Predictions",
+        "title": "Circumventing data imbalance in magnetic ground state data for magnetic moment predictions",
         "pub_year": "2024",
-        "citation": "Machine Learning: Science and Technology, 2024"
+        "citation": "Machine Learning: Science and Technology 5 (1), 015023, 2024"
     },
     {
         "title": "Comparative microfluidic screening of amino acid salt solutions for post-combustion CO2 capture",
@@ -206,7 +206,7 @@
     {
         "title": "Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo2N Model Surfaces and Powder Catalysts",
         "pub_year": "2024",
-        "citation": "ACS Catalysis 14, 1653-1662, 2024"
+        "citation": "ACS Catalysis 14 (3), 1653-1662, 2024"
     },
     {
         "title": "Controlling C‒O, C–C, and C–H Bond Scission Pathways on Metal-Modified Molybdenum Nitride Catalysts",
@@ -261,7 +261,7 @@
     {
         "title": "Density functional theory studies of alloys in heterogeneous catalysis",
         "pub_year": "2008",
-        "citation": "Specialist Periodical Reports: Chemical Modeling: Applications and Theories, 2008"
+        "citation": ""
     },
     {
         "title": "Determining the conditions necessary for optimal CO2 capture of solid sorbents",
@@ -380,7 +380,7 @@
     {
         "title": "Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.01987, 2023"
+        "citation": "Machine Learning: Science and Technology, 2023"
     },
     {
         "title": "H3PW12O40-functionalized tip for scanning tunneling microscopy",
@@ -390,12 +390,12 @@
     {
         "title": "High Surface Area, Mesoporous Catalysts in Solid Oxide Fuel Cell Cathode",
         "pub_year": "2011",
-        "citation": "Electrochemical Society Meeting Abstracts 219, 700-700, 2011"
+        "citation": "ECS Meeting Abstracts, 700, 2011"
     },
     {
         "title": "High throughput discovery of ternary Cu–Fe–Ru alloy catalysts for photo-driven hydrogen production",
         "pub_year": "2023",
-        "citation": "Reaction Chemistry & Engineering, 2023"
+        "citation": "Reaction Chemistry & Engineering 8 (7), 1738-1746, 2023"
     },
     {
         "title": "High‐throughput methods using composition and structure spread libraries",
@@ -430,7 +430,7 @@
     {
         "title": "Interactions in 1-ethyl-3-methyl imidazolium tetracyanoborate ion pair: Spectroscopic and density functional study",
         "pub_year": "2013",
-        "citation": "Journal of Molecular Structure 1038, 12-18, 2013"
+        "citation": "Journal of molecular structure 1038, 12-18, 2013"
     },
     {
         "title": "Investigating the Energetic Ordering of Stable and Metastable TiO2 Polymorphs Using DFT+U and Hybrid Functionals",
@@ -531,7 +531,7 @@
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012"
     },
     {
-        "title": "Modification of the surface electronic and chemical properties of Pt(111) by subsurface  transition metals",
+        "title": "Modification of the surface electronic and chemical properties of Pt (111) by subsurface 3d transition metals",
         "pub_year": "2004",
         "citation": "The Journal of chemical physics 120 (21), 10240-10246, 2004"
     },
@@ -636,7 +636,7 @@
     {
         "title": "Preface: Trends in Computational Catalysis",
         "pub_year": "2012",
-        "citation": "Topics in Catalysis 55 (5-6), 227-228, 2012"
+        "citation": "Topics in Catalysis 55, 227-228, 2012"
     },
     {
         "title": "Preparation and characterization of a bis-semiquinone: a bidentate dianion biradical",
@@ -718,11 +718,6 @@
         "citation": "The Journal of chemical physics 142 (10), 2015"
     },
     {
-        "title": "Response to “Comment on ‘Trends in the Exchange Current for Hydrogen Evolution’[J. Electrochem. Soc., 152, J23",
-        "pub_year": "2006",
-        "citation": "Journal of The Electrochemical Society 153 (12), L33-L33, 2006"
-    },
-    {
         "title": "Role of band-filling, oxidation state, and strain on oxide reactivity",
         "pub_year": "2011",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
@@ -746,10 +741,6 @@
         "title": "SYNTHESIS AND CHARACTERIZATION OF TRISEMIQUINONE LIGANDS",
         "pub_year": "1995",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 209, 259-ORGN, 1995"
-    },
-    {
-        "title": "Scriptable bibliometrics using a Python interface to Scopus",
-        "citation": ""
     },
     {
         "title": "Segregation in alloy surfaces under reactive environments",
@@ -843,6 +834,11 @@
         "title": "Supporting information for: Investigating the Energetic Ordering of Stable and Metastable TiO 2 Polymorphs Using DFT+U and Hybrid Functionals",
         "pub_year": "2015",
         "citation": ""
+    },
+    {
+        "title": "Surface Segregation Studies in Ternary Noble Metal Alloys: Comparing DFT and Machine Learning with Experimental Data",
+        "pub_year": "2024",
+        "citation": "ChemPhysChem, e202400073, 2024"
     },
     {
         "title": "Systems analysis of advanced power plant carbon capture technologies",

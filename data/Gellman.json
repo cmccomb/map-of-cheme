@@ -307,7 +307,7 @@
     {
         "title": "Carbon–chlorine bond cleavage in chlorofluoroethanes on Pd (111)",
         "pub_year": "1998",
-        "citation": "Catalysis letters 53 (3-4), 139-143, 1998"
+        "citation": "Catalysis letters 53 (3), 139-143, 1998"
     },
     {
         "title": "Carboxylic acid deprotonation on the Ag (110) and Ag (111) surfaces",
@@ -371,7 +371,7 @@
     {
         "title": "Chiral nanoscale pores created during the surface explosion of tartaric acid on Cu (111)",
         "pub_year": "2016",
-        "citation": "Chemical Communications 52 (99), 14282-14285, 2016"
+        "citation": "Chemical communications 52 (99), 14282-14285, 2016"
     },
     {
         "title": "Chiral single crystal surface chemistry",
@@ -530,7 +530,7 @@
     {
         "title": "Developing chiral surfaces for enantioselective chemical processing",
         "pub_year": "2009",
-        "citation": "AIChE Journal 55 (10), 2484-2490, 2009"
+        "citation": "AIChE journal 55 (10), 2484-2490, 2009"
     },
     {
         "title": "Dissociation of perfluorinated ethers on Al2O3 thin films",
@@ -830,7 +830,7 @@
     {
         "title": "Explosive enantiospecific decomposition of aspartic acid on Cu surfaces",
         "pub_year": "2016",
-        "citation": "Chemical Communications 52 (98), 14125-14128, 2016"
+        "citation": "Chemical communications 52 (98), 14125-14128, 2016"
     },
     {
         "title": "FLUORINE SUBSTITUTION EFFECTS ON THE COUPLING OF ETHYL GROUPS ON A AG (111) SURFACE",
@@ -955,7 +955,7 @@
     {
         "title": "Heterocyclization of Acetylene to Thiophene at Defects on the Pd (111) Surface",
         "pub_year": "1990",
-        "citation": "MRS Online Proceedings Library (OPL) 209, 1990"
+        "citation": "MRS Online Proceedings Library (OPL) 209, 323, 1990"
     },
     {
         "title": "Heterocyclization reaction sites on the sulfided palladium (111) surface",
@@ -1058,7 +1058,7 @@
         "citation": "Langmuir 16 (16), 6628-6635, 2000"
     },
     {
-        "title": "Hydrogen dissociation on palladium–sulfide surfaces",
+        "title": "Hydrogen Dissociation on Palladium-Sulfide Surfaces",
         "pub_year": "2007",
         "citation": "21st North American Catalyst Soc. Conf., 2007"
     },
@@ -1115,7 +1115,7 @@
     {
         "title": "Influence of step faceting on the enantiospecific decomposition of aspartic acid on chiral Cu surfaces vicinal to Cu {111}",
         "pub_year": "2016",
-        "citation": "Chemical Communications 52 (75), 11263-11266, 2016"
+        "citation": "Chemical communications 52 (75), 11263-11266, 2016"
     },
     {
         "title": "Influence of the molten SrCl2 treatment on the surface structure and photochemical reactivities of SrTiO3",
@@ -1175,7 +1175,7 @@
     {
         "title": "Interfaces between Polymers, Metals and Ceramics",
         "pub_year": "1989",
-        "citation": "Mater. Res. Soc. Symp. Proc. 153, 285, 1989"
+        "citation": "Mater. Res. Soc. Symp. Proc 153, 285, 1989"
     },
     {
         "title": "Interfaces between Polymers, Metals and Ceramics",
@@ -1191,6 +1191,10 @@
         "title": "Investigations of Transient and Equilibrium Zeta Potential on Mica and Silica",
         "pub_year": "2008",
         "citation": "The 2008 Annual Meeting, 2008"
+    },
+    {
+        "title": "IrnI Lawrence Berkeley Laboratory",
+        "citation": ""
     },
     {
         "title": "Issues in vapor phase lubrication of magnetic data storage media",
@@ -1292,6 +1296,11 @@
         "citation": "Google Scholar There is no corresponding record for this reference, 0"
     },
     {
+        "title": "Materials & Molecular Research Division",
+        "pub_year": "1983",
+        "citation": ""
+    },
+    {
         "title": "Materials Degradation and Fatigue under Extreme Conditions.",
         "pub_year": "1994",
         "citation": "NASA, 1994"
@@ -1314,7 +1323,7 @@
     {
         "title": "Mechanical Properties of Metallic Interfaces",
         "pub_year": "1989",
-        "citation": "MRS Online Proceedings Library 153, 345-350, 1989"
+        "citation": "MRS Online Proceedings Library 153 (1), 345-350, 1989"
     },
     {
         "title": "Mechanism of. beta.-hydride elimination in adsorbed alkoxides",
@@ -1499,7 +1508,7 @@
     {
         "title": "PdCuAu ternary alloy membranes: Hydrogen permeation properties in the presence of H2S",
         "pub_year": "2015",
-        "citation": "Journal of Membrane Science 479, 246-255, 2015"
+        "citation": "Journal of membrane science 479, 246-255, 2015"
     },
     {
         "title": "Physical significance of a kinetically measured desorption energy.",
@@ -1742,6 +1751,11 @@
         "citation": ""
     },
     {
+        "title": "Surface Segregation Studies in Ternary Noble Metal Alloys: Comparing DFT and Machine Learning with Experimental Data",
+        "pub_year": "2024",
+        "citation": "ChemPhysChem, e202400073, 2024"
+    },
+    {
         "title": "Surface Segregation across Ternary Alloy Composition Space",
         "pub_year": "2020",
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
@@ -1784,17 +1798,12 @@
     {
         "title": "Surface characterization of Pd–Ag composite membranes after annealing at various temperatures",
         "pub_year": "2011",
-        "citation": "Journal of Membrane Science 369 (1-2), 267-276, 2011"
+        "citation": "Journal of membrane science 369 (1-2), 267-276, 2011"
     },
     {
         "title": "Surface chemistry for enantioselective catalysis",
         "pub_year": "2015",
         "citation": "Catalysis Letters 145, 220-232, 2015"
-    },
-    {
-        "title": "Surface chemistry in tribology",
-        "pub_year": "2002",
-        "citation": "Proceedings of the Institution of Mechanical Engineers, Part J: Journal of …, 2002"
     },
     {
         "title": "Surface chemistry in tribology",
@@ -1902,11 +1911,6 @@
         "citation": "Surface science 140 (1), 181-196, 1984"
     },
     {
-        "title": "The Carbon Monoxide Coadsorption and Reactions of Sulfur, Hydrogen and Oxygen on Clean and Sulfided Molybdenum,(100) and on MoS sub 2(0001) Crystal Faces",
-        "pub_year": "1984",
-        "citation": "Surf. Sci. 140 (1), 181-196, 1984"
-    },
-    {
         "title": "The Influence of Fluorination on Boundary-Layer Surface Chemistry",
         "pub_year": "1992",
         "citation": ""
@@ -1954,7 +1958,7 @@
     {
         "title": "The current status of tribological surface science",
         "pub_year": "2001",
-        "citation": "Tribology Letters 10 (1-2), 39-44, 2001"
+        "citation": "Tribology Letters 10 (1), 39-44, 2001"
     },
     {
         "title": "The decomposition mechanism of trimethylphosphite on Ni (1 1 1)",
@@ -2134,7 +2138,7 @@
     {
         "title": "Transition states for surface-catalyzed chemistry",
         "pub_year": "2000",
-        "citation": "Accounts of Chemical Research 33 (1), 19-26, 2000"
+        "citation": "Accounts of chemical research 33 (1), 19-26, 2000"
     },
     {
         "title": "Tribological properties of a B2-type Al-Pd-Mn quasicrystal approximant",

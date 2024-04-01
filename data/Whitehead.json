@@ -112,7 +112,7 @@
     {
         "title": "Author Correction: mRNA vaccines for infectious diseases: principles, delivery and clinical translation",
         "pub_year": "2021",
-        "citation": "Nature reviews. Drug Discovery 20 (11), 880, 2021"
+        "citation": "Nature reviews. Drug discovery 20 (11), 880, 2021"
     },
     {
         "title": "Branched‐tail lipid nanoparticles potently deliver mRNA in vivo due to enhanced ionization at endosomal pH",
@@ -235,6 +235,11 @@
         "citation": "Bioengineering and Translational Medicine, 2018"
     },
     {
+        "title": "Lipid nanoparticle structure and delivery route during pregnancy dictate mRNA potency, immunogenicity, and maternal and fetal outcomes",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences 121 (11), e2307810121, 2024"
+    },
+    {
         "title": "Lipid nanoparticle structure and delivery route during pregnancy dictates mRNA potency, immunogenicity, and health in the mother and offspring",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.02. 15.528720, 2023"
@@ -293,6 +298,11 @@
         "title": "Muscling out gene mutations",
         "pub_year": "2016",
         "citation": "Science Translational Medicine 8 (367), 367ec193-367ec193, 2016"
+    },
+    {
+        "title": "Nanoparticles for RNA Therapeutics: Lipid nanoparticle structure and delivery route during pregnancy dictate mRNA potency, immunogenicity, and maternal and fetal outcomes",
+        "pub_year": "2024",
+        "citation": "Proceedings of the National Academy of Sciences of the United States of …, 2024"
     },
     {
         "title": "Nanoparticulate cellular patches for cell-mediated tumoritropic delivery",
@@ -371,7 +381,7 @@
     {
         "title": "Silencing TNFα with lipidoid nanoparticles downregulates both TNFα and MCP-1 in an in vitro co-culture model of diabetic foot ulcers",
         "pub_year": "2016",
-        "citation": "Acta biomaterialia 32, 120-128, 2016"
+        "citation": "Acta Biomaterialia 32, 120-128, 2016"
     },
     {
         "title": "Silencing or stimulation? siRNA delivery and the immune system",
@@ -399,9 +409,9 @@
         "citation": "Molecular Therapy—Nucleic Acids 1 (1), e4, 2012"
     },
     {
-        "title": "The Effect of Infant Gastric Digestion on Human Maternal Milk Cells",
+        "title": "The effect of infant gastric digestion on human maternal milk cells",
         "pub_year": "2022",
-        "citation": "Molecular Nutrition & Food Research 66 (19), 2200090, 2022"
+        "citation": "Molecular nutrition & food research 66 (19), 2200090, 2022"
     },
     {
         "title": "The enhanced intestinal permeability of infant mice enables oral protein and macromolecular absorption without delivery technology",

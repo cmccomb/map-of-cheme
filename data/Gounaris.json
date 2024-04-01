@@ -79,11 +79,6 @@
         "citation": ""
     },
     {
-        "title": "An Overview of Advances in Global Optimization During",
-        "pub_year": "2009",
-        "citation": "Lectures on global optimization 55, 105, 2009"
-    },
-    {
         "title": "An adaptive memory programming framework for the robust capacitated vehicle routing problem",
         "pub_year": "2016",
         "citation": "Transportation Science 50 (4), 1239-1260, 2016"
@@ -92,6 +87,11 @@
         "title": "An ontology to describe small molecule pharmaceutical product development and methodology for optimal activity scheduling",
         "pub_year": "2021",
         "citation": "Journal of Pharmaceutical Innovation, 1-15, 2021"
+    },
+    {
+        "title": "An overview of advances in global optimization during 2003-2008",
+        "pub_year": "2009",
+        "citation": "Lectures on global optimization 55, 105-154, 2009"
     },
     {
         "title": "Catalyst Design Based on Morphology-and Environment-Dependent Adsorption on Metal Nanoparticles",
@@ -156,7 +156,7 @@
     {
         "title": "Estimating the marginal cost to deliver to individual customers",
         "pub_year": "2023",
-        "citation": "Optimization and Engineering, 1-39, 2023"
+        "citation": "Optimization and Engineering 24 (4), 2409-2447, 2023"
     },
     {
         "title": "Estimation of diffusion anisotropy in microporous crystalline materials and optimization of crystal orientation in membranes",
@@ -261,7 +261,7 @@
     {
         "title": "On tackling reverse convex constraints for non-overlapping of unequal circles",
         "pub_year": "2021",
-        "citation": "Journal of Global Optimization 80, 357-385, 2021"
+        "citation": "Journal of Global Optimization 80 (2), 357-385, 2021"
     },
     {
         "title": "Optimization-Based Design of Active and Stable Nanostructured Surfaces",

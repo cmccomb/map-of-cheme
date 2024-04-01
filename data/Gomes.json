@@ -11,7 +11,7 @@
     {
         "title": "A Stereoselective Photoinduced Cycloisomerization Inspired by Ophiobolin A",
         "pub_year": "2022",
-        "citation": "Organic Letters 24 (36), 6499-6504, 2022"
+        "citation": "Organic letters 24 (36), 6499-6504, 2022"
     },
     {
         "title": "A comprehensive discovery platform for organophosphorus ligands for catalysis",
@@ -108,8 +108,8 @@
         "citation": "URL http://arxiv. org/abs/2304.05332, 0"
     },
     {
-        "title": "Emergent autonomous scientific research capabilities of large language models. arXiv(2023) doi: 10.48550",
-        "citation": "arXiv preprint arxiv.2304.05332, 0"
+        "title": "Emergent autonomous scientific research capabilities of large language models. arXiv (2023) doi: 10.48550",
+        "citation": "arXiv preprint arXiv.2304.05332, 0"
     },
     {
         "title": "Evaluation of long-range hyperconjugation in constrained eight-membered rings",
@@ -164,7 +164,7 @@
     {
         "title": "Interrupted Baeyer–Villiger rearrangement: building a stereoelectronic trap for the Criegee intermediate",
         "pub_year": "2018",
-        "citation": "Angewandte Chemie 130 (13), 3430-3434, 2018"
+        "citation": "Angewandte Chemie International Edition 57 (13), 3372-3376, 2018"
     },
     {
         "title": "Isonitriles as stereoelectronic chameleons: The donor–acceptor dichotomy in radical additions",
@@ -180,6 +180,10 @@
         "title": "Mapping C−H⋅⋅⋅M Interactions in Confined Spaces: (α‐ICyDMe)Au, Ag, Cu Complexes Reveal “Contra‐electrostatic H Bonds” Masquerading as Anagostic …",
         "pub_year": "2021",
         "citation": "Chemistry–A European Journal 27 (31), 8127-8142, 2021"
+    },
+    {
+        "title": "Mapping the coordination space for C− H••• M interactions in confined spaces:(α-ICyDMe) Au, Ag, Cu complexes reveal “contra-electrostatic H-bonds” masquerading as anagostic …",
+        "citation": ""
     },
     {
         "title": "Navigating through the maze of homogeneous catalyst design with machine learning",
@@ -222,7 +226,7 @@
         "citation": "Organic Letters 23 (2), 324-328, 2021"
     },
     {
-        "title": "Ozone-free synthesis of ozonides: Assembling bicyclic structures from 1, 5-diketones and hydrogen peroxide",
+        "title": "Ozone-free synthesis of ozonides: assembling bicyclic structures from 1, 5-diketones and hydrogen peroxide",
         "pub_year": "2018",
         "citation": "The Journal of Organic Chemistry 83 (8), 4402-4426, 2018"
     },
@@ -273,13 +277,13 @@
     },
     {
         "title": "Stereoelectronic effects: Analysis by computational and theoretical methods",
-        "pub_year": "2018",
-        "citation": "Applied Theoretical Organic Chemistry, 451-502, 2018"
+        "pub_year": "2017",
+        "citation": "Applied Theoretical Organic Chemistry, 451-502, 2017"
     },
     {
         "title": "Stereoelectronic source of the anomalous stability of bis-peroxides",
         "pub_year": "2015",
-        "citation": "Chemical Science 6 (12), 6783-6791, 2015"
+        "citation": "Chemical science 6 (12), 6783-6791, 2015"
     },
     {
         "title": "Stereoelectronics-Aware Molecular Representation Learning",
@@ -325,10 +329,6 @@
         "title": "The Cyclopropane Ring as a Reporter of Radical Leaving-Group Reactivity for Ni-Catalyzed C(sp3)–O Arylation",
         "pub_year": "2020",
         "citation": "Journal of the American Chemical Society 142 (30), 13246-13254, 2020"
-    },
-    {
-        "title": "Three Benzynes and the Ynolate",
-        "citation": "Synfacts 13 (03), 0253-0253, 0"
     },
     {
         "title": "Three catalysts tango with olefins",

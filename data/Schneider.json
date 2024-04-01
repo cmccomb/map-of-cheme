@@ -246,7 +246,7 @@
     {
         "title": "Formation of charge carriers in liquids",
         "pub_year": "2017",
-        "citation": "Advances in Colloid and Interface Science 244, 21-35, 2017"
+        "citation": "Advances in colloid and interface science 244, 21-35, 2017"
     },
     {
         "title": "Front-End Processing of Cell Lysates for Enhanced Chip-Based Detection",
@@ -324,6 +324,10 @@
         "citation": "Electrophoresis 29 (13), 2779-2789, 2008"
     },
     {
+        "title": "Macromolecules1995, 28, 3125",
+        "citation": "Google Scholar There is no corresponding record for this reference, 0"
+    },
+    {
         "title": "Measurement of disjoining pressure of Z-type perfluoropolyether lubricants on Si and SiNx surfaces",
         "pub_year": "2005",
         "citation": "Tribology international 38 (6-7), 528-532, 2005"
@@ -382,7 +386,7 @@
         "citation": "American Electrophoresis Society 22, 15, 2011"
     },
     {
-        "title": "Optimal Design of Microfluidic Devices for Rapid DNA Separations",
+        "title": "Optimal design of microfluidic devices for rapid DNA separations",
         "pub_year": "2013",
         "citation": "IFAC Proceedings Volumes 46 (31), 137-142, 2013"
     },
@@ -432,7 +436,7 @@
         "citation": "Current Opinion in Biotechnology 78, 102788, 2022"
     },
     {
-        "title": "Projective Integration with an Adaptive Projection Horizon",
+        "title": "Projective integration with an adaptive projection horizon",
         "pub_year": "2013",
         "citation": "IFAC Proceedings Volumes 46 (32), 721-725, 2013"
     },
@@ -535,7 +539,7 @@
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U244-U245, 2003"
     },
     {
-        "title": "Sequence‐Specific Oligonucleotide Purification Using Peptide Nucleic Acid Amphiphiles in Hydrophobic Interaction Chromatography",
+        "title": "Sequence‐specific oligonucleotide purification using peptide nucleic acid amphiphiles in hydrophobic interaction chromatography",
         "pub_year": "2004",
         "citation": "Biotechnology progress 20 (6), 1776-1782, 2004"
     },
@@ -570,19 +574,14 @@
         "citation": "US Patent 5,161,116, 1992"
     },
     {
-        "title": "Tapping-Mode AFM-Force Measurement Capabilities on Compliant Surfaces",
-        "pub_year": "2004",
-        "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 790, 119-124, 2004"
+        "title": "Tapping-mode AFM-Force Measurement Capabilities on Compliant Surfaces",
+        "pub_year": "2003",
+        "citation": "MRS Online Proceedings Library (OPL) 790, P4. 3, 2003"
     },
     {
         "title": "Tapping-mode AFM-Force Measurement Capabilities on Compliant Surfaces",
         "pub_year": "2003",
-        "citation": "MRS Online Proceedings Library (OPL) 790, 2003"
-    },
-    {
-        "title": "Tapping-mode AFM-Force Measurement Capabilities on Compliant Surfaces",
-        "pub_year": "2003",
-        "citation": "MRS Online Proceedings Library (OPL) 790, 2003"
+        "citation": "MRS Online Proceedings Library (OPL) 790, P4. 3, 2003"
     },
     {
         "title": "Thermodynamic and structural characterization of amino acid-linked dialkyl lipids",
@@ -616,7 +615,7 @@
     {
         "title": "Use of single analytic tool to quantify both absolute N‐glycosylation and glycan distribution in monoclonal antibodies",
         "pub_year": "2023",
-        "citation": "Biotechnology Progress, e3365, 2023"
+        "citation": "Biotechnology Progress 39 (5), e3365, 2023"
     },
     {
         "title": "Viral adventitious agent detection using laser force cytology: Intrinsic cell property changes with infection and comparison to in vitro testing",
