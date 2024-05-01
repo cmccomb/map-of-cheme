@@ -1976,7 +1976,8 @@
     },
     {
         "title": "Integrated Bayesian parameter estimation with model‐based design of experiments for dynamic processes",
-        "citation": "AIChE Journal, e18418, 0"
+        "pub_year": "2024",
+        "citation": "AIChE Journal, e18418, 2024"
     },
     {
         "title": "Integrated Design and NMPC-Based Control Under Uncertainty and Naturally Ordered Structural Decisions: A Discrete-Steepest Descent Approach.",
@@ -2566,7 +2567,7 @@
     {
         "title": "Multi-level optimization strategies for large-scale nonlinear process systems",
         "pub_year": "2024",
-        "citation": "Computers & Chemical Engineering, 108657, 2024"
+        "citation": "Computers & Chemical Engineering 185, 108657, 2024"
     },
     {
         "title": "Multi-point powered descent guidance based on optimal sensitivity",
@@ -2960,6 +2961,11 @@
         "citation": "Industrial & Engineering Chemistry Research 52 (44), 15311-15320, 2013"
     },
     {
+        "title": "Optimal Desalination Technologies for Produced Water Networks",
+        "pub_year": "2023",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023"
+    },
+    {
         "title": "Optimal Design, Control and Scheduling of Multi-Product Systems Under Uncertainty: A Stochastic Back-Off Approach",
         "pub_year": "2018",
         "citation": "2018 AIChE Annual Meeting, 2018"
@@ -3137,6 +3143,11 @@
         "title": "Optimization methods for sequential modular simulators",
         "pub_year": "1981",
         "citation": "The University of Wisconsin-Madison, 1981"
+    },
+    {
+        "title": "Optimization of CO2 capture plants with surrogate model uncertainties",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering, 108709, 2024"
     },
     {
         "title": "Optimization of Cathode Layer for Polymer Electrolyte Fuel Cells",
@@ -4356,6 +4367,11 @@
         "citation": "2020 Virtual AIChE Annual Meeting, 2020"
     },
     {
+        "title": "Towards Process-Materials Co-Optimization: Automatic Generation of Optimizable MOF Structure-Function Relationships",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021"
+    },
+    {
         "title": "Tracking the necessary conditions of optimality with changing set of active constraints using a barrier-penalty function",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (3), 572-579, 2008"
@@ -4383,6 +4399,11 @@
     {
         "title": "Transport Phenomena In Polymer Electrolyte Membranes Using Molecular Dynamics",
         "citation": ""
+    },
+    {
+        "title": "Trust Region Filter Method for Integrating Treatment into Produced Water Networks",
+        "pub_year": "2023",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023"
     },
     {
         "title": "Trust Region Formulations for Integrating Treatment in Produced Water Networks",

@@ -999,6 +999,11 @@
         "citation": "The European Physical Journal C 72, 1-16, 2012"
     },
     {
+        "title": "Overview: The CLoud-Aerosol-Radiation Interaction and Forcing: Year-2017 (CLARIFY-2017) measurement campaign",
+        "pub_year": "2020",
+        "citation": "Atmospheric Chemistry and Physics Discussions 2020, 1-49, 2020"
+    },
+    {
         "title": "Performance of the LHCb vertex locator",
         "pub_year": "2014",
         "citation": "Journal of Instrumentation 9 (09), P09007, 2014"
@@ -1109,14 +1114,14 @@
         "citation": "Journal of High Energy Physics 2013 (6), 1-20, 2013"
     },
     {
-        "title": "Search for CP violation in D±→ KS 0 K±and D s±→ KS 0 π±decays",
-        "pub_year": "2014",
-        "citation": "Journal of High Energy Physics 2014 (10), 1-19, 2014"
-    },
-    {
         "title": "Search for CP violation in the decay D+→ π− π+ π+",
         "pub_year": "2014",
         "citation": "Physics Letters B 728, 585-595, 2014"
+    },
+    {
+        "title": "Search for CP violation using T-odd correlations in D 0→ K+ K− π+ π− decays",
+        "pub_year": "2014",
+        "citation": "Journal of High Energy Physics 2014 (10), 1-21, 2014"
     },
     {
         "title": "Search for D (s)+→ π+ μ+ μ− and D (s)+→ π− μ+ μ+ decays",
@@ -1332,11 +1337,6 @@
         "title": "Test of Lepton Universality Using  Decays",
         "pub_year": "2014",
         "citation": "Physical review letters 113 (15), 151601, 2014"
-    },
-    {
-        "title": "The CLoud–Aerosol–Radiation Interaction and Forcing: Year 2017 (CLARIFY-2017) measurement campaign",
-        "pub_year": "2021",
-        "citation": "Atmospheric Chemistry and Physics 21 (2), 1049-1084, 2021"
     },
     {
         "title": "The Timepix telescope for high performance particle tracking",

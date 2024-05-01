@@ -837,7 +837,8 @@
     },
     {
         "title": "A tailored decomposition approach for optimization under uncertainty of carbon removal technologies in the EU power system",
-        "citation": ""
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering, 108691, 2024"
     },
     {
         "title": "A three-level problem-centric strategy for selecting NMR precursor labeling and analytes",
@@ -2860,6 +2861,11 @@
         "citation": "AIChE journal 56 (5), 1120-1125, 2010"
     },
     {
+        "title": "Iterative MILP algorithm to find alternate solutions in linear programming models",
+        "pub_year": "2024",
+        "citation": "Optimization and Engineering, 1-24, 2024"
+    },
+    {
         "title": "JM Pinto and NV Sahinidis",
         "citation": ""
     },
@@ -2930,6 +2936,11 @@
         "title": "Lagrangian relaxation based production optimization of tight-formation wells",
         "pub_year": "2013",
         "citation": "IFAC Proceedings Volumes 46 (32), 147-152, 2013"
+    },
+    {
+        "title": "Large-Scale Optimization of Nonconvex MINLP Refinery Scheduling",
+        "pub_year": "2024",
+        "citation": "Computers & Chemical Engineering, 108678, 2024"
     },
     {
         "title": "Large-Scale Optimization with Applications, Part II: Optimal Design and Control",
@@ -4341,6 +4352,11 @@
         "citation": "2023 AIChE Annual Meeting, 2023"
     },
     {
+        "title": "Optimization for Infrastructure Planning of Reliable and Carbon-neutral Power Systems: Application to San Diego County",
+        "pub_year": "2023",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023"
+    },
+    {
         "title": "Optimization model for long range planning in the chemical industry",
         "pub_year": "1989",
         "citation": "Computers & Chemical Engineering 13 (9), 1049-1063, 1989"
@@ -4396,9 +4412,9 @@
         "citation": ""
     },
     {
-        "title": "Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to Doe’S Produced Water Optimization Framework Pareto",
+        "title": "Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to DOE’s Produced Water Optimization Framework Pareto",
         "pub_year": "2023",
-        "citation": "2023 AIChE Annual Meeting, 2023"
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023"
     },
     {
         "title": "Optimization of Stochastic Planning Models: Concepts and Theory. II",
@@ -4913,8 +4929,8 @@
     },
     {
         "title": "Reformulations, relaxations and cutting planes for linear generalized disjunctive programming",
-        "pub_year": "2012",
-        "citation": "European Journal of Operational Research 216, 70-82, 2012"
+        "pub_year": "2008",
+        "citation": "Carnegie Mellon University, Department of Chemical Engineering, Pittsburgh …, 2008"
     },
     {
         "title": "Relation between MILP modelling and logical inference for chemical process synthesis",
