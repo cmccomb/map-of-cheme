@@ -2,717 +2,994 @@
     {
         "title": "64th Annual Meeting of the APS Division of Fluid Dynamics",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 3,
+        "author_pub_id": "2u09mlAAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "A Microfluidic Network for Investigating the Flow of Layered Liquids under Confinement",
         "pub_year": "2007",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 60, BA. 010, 2007"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 60, BA. 010, 2007",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "A Microfluidic Tensiometer",
         "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47098, 431-436, 2004"
-    },
-    {
-        "title": "A Microfluidic Tensiometer",
-        "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47098, 431-436, 2004"
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 47098, 431-436, 2004",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "A compact dual-crystal modulated birefringence-measurement system for microgravity applications",
         "pub_year": "1999",
-        "citation": "Measurement Science and Technology 10 (10), 946, 1999"
+        "citation": "Measurement Science and Technology 10 (10), 946, 1999",
+        "num_citations": 40,
+        "author_pub_id": "2u09mlAAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "A criterion to assess the impact of confined volumes on surfactant transport to liquid–fluid interfaces",
         "pub_year": "2012",
-        "citation": "Soft Matter 8 (34), 8917-8925, 2012"
+        "citation": "Soft Matter 8 (34), 8917-8925, 2012",
+        "num_citations": 32,
+        "author_pub_id": "2u09mlAAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "A hybrid numerical method for interfacial flow with soluble surfactant and its application to an experiment in microfluidic tipstreaming",
         "pub_year": "2015",
-        "citation": "Computational Methods for Complex Liquid-Fluid Interfaces, 309-330, 2015"
+        "citation": "Computational Methods for Complex Liquid-Fluid Interfaces, 309-330, 2015",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "A microfluidic tensiometer",
         "pub_year": "2005",
-        "citation": "APS March Meeting Abstracts, P37. 007, 2005"
+        "citation": "APS March Meeting Abstracts, P37. 007, 2005",
+        "num_citations": 4,
+        "author_pub_id": "2u09mlAAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "A microtensiometer to probe the effect of radius of curvature on surfactant transport to a spherical interface",
         "pub_year": "2010",
-        "citation": "Langmuir 26 (16), 13310-13319, 2010"
+        "citation": "Langmuir 26 (16), 13310-13319, 2010",
+        "num_citations": 136,
+        "author_pub_id": "2u09mlAAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "A non-gradient based algorithm for the determination of surface tension from a pendant drop: Application to low Bond number drop shapes",
         "pub_year": "2009",
-        "citation": "Journal of colloid and interface science 333 (2), 557-562, 2009"
+        "citation": "Journal of colloid and interface science 333 (2), 557-562, 2009",
+        "num_citations": 90,
+        "author_pub_id": "2u09mlAAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Additive-assisted continuous microfluidic formation of uniform micron-scale droplets",
         "pub_year": "2007",
-        "citation": "1st International Conference on Advances and Trends in Engineering Materials …, 2007"
+        "citation": "1st International Conference on Advances and Trends in Engineering Materials …, 2007",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Adsorption of colloid-surfactant complexes at fluid-fluid interfaces and impact on mechanical properties",
         "pub_year": "2017",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254, 2017"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 254, 2017",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "An interlaboratory comparison of measurements from filament-stretching rheometers using common test fluids",
         "pub_year": "2001",
-        "citation": "Journal of Rheology 45 (1), 83-114, 2001"
+        "citation": "Journal of Rheology 45 (1), 83-114, 2001",
+        "num_citations": 195,
+        "author_pub_id": "2u09mlAAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Apparatus and Process for Producing Patterned, Micron and Nanometer Size Reaction and Mixing Zones for Fluids Deposited on Smooth, Rough and Porous Surfaces and Applications of …",
         "pub_year": "2012",
-        "citation": "US Patent App. 13/576,075, 2012"
-    },
-    {
-        "title": "Apparatus and Process for Producing Patterned, Micron and Nanometer Size Reaction and Mixing Zones for Fluids Deposited on Smooth, Rough and Porous Surfaces and Applications of …",
-        "pub_year": "2012",
-        "citation": "US Patent App. 13/576,075, 2012"
+        "citation": "US Patent App. 13/576,075, 2012",
+        "num_citations": 1,
+        "author_pub_id": "2u09mlAAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Apparatus and Process for Producing Patterned, Micron and Nanometer Size Reaction and Mixing Zones for Fluids Deposited on Smooth, Rough and Porous Surfaces and Applications of …",
         "pub_year": "2016",
-        "citation": "US Patent App. 14/817,878, 2016"
+        "citation": "US Patent App. 14/817,878, 2016",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Behavior of Focal Conic Defects in Shear Flow",
         "pub_year": "2009",
-        "citation": "APS March Meeting Abstracts, X15. 005, 2009"
+        "citation": "APS March Meeting Abstracts, X15. 005, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "CONTROL OF DROPLET BREAKUP AND COALESCENCE AT MICROFLUIDIC JUNCTIONS",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Characterization of Protein-Polymer Conjugates Using Aqueous Two-Phase Systems",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Characterization of ferromagnetic nanoparticles produced by a carbon arc",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 359, 35, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 359, 35, 1994",
+        "num_citations": 2,
+        "author_pub_id": "2u09mlAAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Coalescence and splitting of confined droplets at microfluidic junctions",
         "pub_year": "2009",
-        "citation": "Lab on a Chip 9 (8), 1102-1109, 2009"
+        "citation": "Lab on a Chip 9 (8), 1102-1109, 2009",
+        "num_citations": 262,
+        "author_pub_id": "2u09mlAAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Coalescence of Droplets in Microfluidic Channels",
         "pub_year": "2006",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, LD. 002, 2006"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, LD. 002, 2006",
+        "num_citations": 1,
+        "author_pub_id": "2u09mlAAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Coating and Crumpling of Armored Gas Filled Capsules",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Coating and Crumpling of Particle-Coated Bubbles in Confined Geometries",
         "pub_year": "2019",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, C18. 009, 2019"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, C18. 009, 2019",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Comparative microfluidic screening of amino acid salt solutions for post-combustion CO2 capture",
         "pub_year": "2015",
-        "citation": "International Journal of Greenhouse Gas Control 43, 189-197, 2015"
+        "citation": "International Journal of Greenhouse Gas Control 43, 189-197, 2015",
+        "num_citations": 13,
+        "author_pub_id": "2u09mlAAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Competition between viscoelasticity and surfactant dynamics in flow focusing microfluidics",
         "pub_year": "2011",
-        "citation": "Macromolecular Materials and Engineering 296 (3‐4), 203-213, 2011"
+        "citation": "Macromolecular Materials and Engineering 296 (3‐4), 203-213, 2011",
+        "num_citations": 67,
+        "author_pub_id": "2u09mlAAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Contributions from",
         "pub_year": "1997",
-        "citation": "Physics of Fluids 9 (9), S10, 1997"
+        "citation": "Physics of Fluids 9 (9), S10, 1997",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Controlled Gelation of Particle Suspensions Using Controlled Solvent Removal in Picoliter Droplets",
         "pub_year": "2013",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, L7. 005, 2013"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, L7. 005, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Controlling thread formation during tipstreaming through an active feedback control loop",
         "pub_year": "2013",
-        "citation": "Lab on a Chip 13 (23), 4534-4541, 2013"
+        "citation": "Lab on a Chip 13 (23), 4534-4541, 2013",
+        "num_citations": 35,
+        "author_pub_id": "2u09mlAAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Dehydration induced phase transitions in a microfluidic droplet array for the separation of biomolecules",
         "pub_year": "2013",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, E7. 003, 2013"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, E7. 003, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+        "title": "Demonstrating Cell-Communication in Droplets to Target Novel Antimicrobials for Streptococcal Infection",
+        "pub_year": "2021",
+        "citation": "2021 AIChE Annual Meeting, 2021",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Development and characterization of a “store and create” microfluidic device to determine the heterogeneous freezing properties of ice nucleating particles",
         "pub_year": "2020",
-        "citation": "Aerosol Science and Technology 54 (1), 79-93, 2020"
+        "citation": "Aerosol Science and Technology 54 (1), 79-93, 2020",
+        "num_citations": 26,
+        "author_pub_id": "2u09mlAAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Development of Interfacial Mechanical Strength for Armored Gas Filled Capsules",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Development of local interfacial strains and stresses in the formation of asymmetric particle-stabilized capsules",
         "pub_year": "2017",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, M10. 009, 2017"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, M10. 009, 2017",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Diffusion-limited adsorption to a spherical geometry: The impact of curvature and competitive time scales",
         "pub_year": "2010",
-        "citation": "Physical Review E 82 (1), 011604, 2010"
+        "citation": "Physical Review E 82 (1), 011604, 2010",
+        "num_citations": 109,
+        "author_pub_id": "2u09mlAAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Digital Microfluidics",
         "pub_year": "2015",
-        "citation": "Encyclopedia of Microfluidics and Nanofluidics, 588-595, 2015"
+        "citation": "Encyclopedia of Microfluidics and Nanofluidics, 588-595, 2015",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Driven Coalescence of Sessile Drops on PDMS Surfaces",
         "pub_year": "2006",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, BF. 004, 2006"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, BF. 004, 2006",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Droplet Breakup in Shear and Elongation Dominated Flows in Microfluidic Devices",
         "pub_year": "2005",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 4224, 669-671, 2005"
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 4224, 669-671, 2005",
+        "num_citations": 1,
+        "author_pub_id": "2u09mlAAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Droplet breakup dynamics in a microfluidic T-junction",
         "pub_year": "2005",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 58, GB. 005, 2005"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 58, GB. 005, 2005",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Droplet-based characterization of surfactant efficacy in colloidal stabilization of carbon black in nonpolar solvents",
         "pub_year": "2017",
-        "citation": "Journal of colloid and interface science 493, 265-274, 2017"
+        "citation": "Journal of colloid and interface science 493, 265-274, 2017",
+        "num_citations": 10,
+        "author_pub_id": "2u09mlAAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Droplets and bubbles in microfluidic devices",
         "pub_year": "2016",
-        "citation": "Annual Review of Fluid Mechanics 48, 285-309, 2016"
+        "citation": "Annual Review of Fluid Mechanics 48, 285-309, 2016",
+        "num_citations": 538,
+        "author_pub_id": "2u09mlAAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Dynamic Measurements of Interfacial Area and Saturation During Drainage in Model Porous Media",
         "pub_year": "2009",
-        "citation": "AGU Fall Meeting Abstracts 2009, H11H-08, 2009"
+        "citation": "AGU Fall Meeting Abstracts 2009, H11H-08, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Dynamic adsorption of micro-and nanoparticles to fluid-fluid interfaces in a microchannel",
         "pub_year": "2012",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Dynamics of Adsorption of Rhamnolipid Biosurfactants at Air/water and Oil/water Interfaces",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Effect of a controlled pre-deformation history on extensional viscosity of dilute polymer solutions",
         "pub_year": "2008",
-        "citation": "Rheologica acta 47, 841-859, 2008"
+        "citation": "Rheologica acta 47, 841-859, 2008",
+        "num_citations": 32,
+        "author_pub_id": "2u09mlAAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Effect of surfactant tail length and ionic strength on the interfacial properties of nanoparticle–surfactant complexes",
         "pub_year": "2018",
-        "citation": "Soft Matter 14 (1), 112-123, 2018"
+        "citation": "Soft Matter 14 (1), 112-123, 2018",
+        "num_citations": 60,
+        "author_pub_id": "2u09mlAAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Elastic Instability in Elongating Fluid Filaments",
         "pub_year": "1997",
-        "citation": "Physics of Fluids 9 (9), S10-S10, 1997"
+        "citation": "Physics of Fluids 9 (9), S10-S10, 1997",
+        "num_citations": 3,
+        "author_pub_id": "2u09mlAAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Elasto-capillary thinning and breakup of model elastic liquids",
         "pub_year": "2001",
-        "citation": "Journal of Rheology 45 (1), 115-138, 2001"
+        "citation": "Journal of Rheology 45 (1), 115-138, 2001",
+        "num_citations": 645,
+        "author_pub_id": "2u09mlAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Encyclopedia of Microfluidics and Nanofluidics",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 18,
+        "author_pub_id": "2u09mlAAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Encyclopedia of microfluidics and nanofluidics",
         "pub_year": "2008",
-        "citation": "Springer Science & Business Media, 2008"
+        "citation": "Springer Science & Business Media, 2008",
+        "num_citations": 608,
+        "author_pub_id": "2u09mlAAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Experimental Observations Of Fluid Invasion In Model Porous Networks",
         "pub_year": "2007",
-        "citation": "The 2007 Annual Meeting, 2007"
+        "citation": "The 2007 Annual Meeting, 2007",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Experimental and theoretical investigation of blood flow dynamics associated with blood contacting devices",
         "pub_year": "2008",
-        "citation": "Carnegie Mellon University, 2008"
+        "citation": "Carnegie Mellon University, 2008",
+        "num_citations": 6,
+        "author_pub_id": "2u09mlAAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Experimental observations of the squeezing-to-dripping transition in T-shaped microfluidic junctions",
         "pub_year": "2008",
-        "citation": "Physical review E 78 (3), 036317, 2008"
+        "citation": "Physical review E 78 (3), 036317, 2008",
+        "num_citations": 465,
+        "author_pub_id": "2u09mlAAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Extensional rheometry of polymer solutions and the uniaxial elongation of viscoelastic filaments",
         "pub_year": "1999",
-        "citation": "Proceedings of the Fourth Microgravity Fluid Physics and Transport Phenomena …, 1999"
+        "citation": "Proceedings of the Fourth Microgravity Fluid Physics and Transport Phenomena …, 1999",
+        "num_citations": 3,
+        "author_pub_id": "2u09mlAAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Extensional rheometry of polymeric fluids and the uniaxial elongation of viscoelastic filaments",
         "pub_year": "1999",
-        "citation": "15th International Polymer Processing Society, Netherlands 83, 1999"
+        "citation": "15th International Polymer Processing Society, Netherlands 83, 1999",
+        "num_citations": 19,
+        "author_pub_id": "2u09mlAAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Filament stretching of model elastic liquids",
         "pub_year": "2000",
-        "citation": "Harvard University, 2000"
+        "citation": "Harvard University, 2000",
+        "num_citations": 14,
+        "author_pub_id": "2u09mlAAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Forced Spreading and Coalescence of Viscous Drops",
         "pub_year": "2009",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 62, MJ. 005, 2009"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 62, MJ. 005, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Formation and Disruption of a Particle Coating on a Confined Bubble",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "Formation and elasticity of membranes of the class II hydrophobin Cerato-ulmin at oil-water interfaces",
         "pub_year": "2018",
-        "citation": "Colloids and Surfaces B: Biointerfaces 164, 98-106, 2018"
+        "citation": "Colloids and Surfaces B: Biointerfaces 164, 98-106, 2018",
+        "num_citations": 15,
+        "author_pub_id": "2u09mlAAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Formation and ordering of topological defect arrays produced by dilatational strain and shear flow in smectic-A liquid crystals",
         "pub_year": "2012",
-        "citation": "Physical Review E 85 (1), 011701, 2012"
+        "citation": "Physical Review E 85 (1), 011701, 2012",
+        "num_citations": 20,
+        "author_pub_id": "2u09mlAAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Formation of a rigid hydrophobin film and disruption by an anionic surfactant at an air/water interface",
         "pub_year": "2016",
-        "citation": "Langmuir 32 (22), 5542-5551, 2016"
+        "citation": "Langmuir 32 (22), 5542-5551, 2016",
+        "num_citations": 24,
+        "author_pub_id": "2u09mlAAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Formation of dispersions using “flow focusing” in microchannels",
         "pub_year": "2003",
-        "citation": "Applied physics letters 82 (3), 364-366, 2003"
+        "citation": "Applied physics letters 82 (3), 364-366, 2003",
+        "num_citations": 3037,
+        "author_pub_id": "2u09mlAAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Formation, Development and Disruption of a Particle Coating on a Confined Bubble",
         "pub_year": "2018",
-        "citation": "Bulletin of the American Physical Society 63, 2018"
+        "citation": "Bulletin of the American Physical Society 63, 2018",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Formation, disruption and mechanical properties of a rigid hydrophobin film at an air-water interface",
         "pub_year": "2016",
-        "citation": "APS March Meeting Abstracts 2016, H36. 012, 2016"
+        "citation": "APS March Meeting Abstracts 2016, H36. 012, 2016",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Generation of monodisperse particle-stabilized droplets with controlled particle loading at the interface",
         "pub_year": "2013",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, L7. 007, 2013"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, L7. 007, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Geometrically mediated breakup of drops in microfluidic devices",
         "pub_year": "2004",
-        "citation": "Physical review letters 92 (5), 054503, 2004"
+        "citation": "Physical review letters 92 (5), 054503, 2004",
+        "num_citations": 1499,
+        "author_pub_id": "2u09mlAAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Gravity driven current during sessile drop coalescence on a surface",
         "pub_year": "2013",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, R2. 003, 2013"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, R2. 003, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Gravity driven current during the coalescence of two sessile drops",
         "pub_year": "2015",
-        "citation": "Physics of Fluids 27 (2), 2015"
+        "citation": "Physics of Fluids 27 (2), 2015",
+        "num_citations": 16,
+        "author_pub_id": "2u09mlAAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Highly uniform micro-cavity arrays in flexible elastomer film",
         "pub_year": "2009",
-        "citation": "Soft Matter 5 (4), 743-746, 2009"
+        "citation": "Soft Matter 5 (4), 743-746, 2009",
+        "num_citations": 25,
+        "author_pub_id": "2u09mlAAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "INTER ACTIONS",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "Impact of Surfactant Sorption Kinetics on Microscale Tipstreaming",
         "pub_year": "2009",
-        "citation": "APS March Meeting Abstracts, L14. 006, 2009"
+        "citation": "APS March Meeting Abstracts, L14. 006, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Impact of complex surfactant layers at fluid-fluid interfaces on coalescence",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Impact of viscosity ratio on the dynamics of droplet breakup in a microfluidic flow focusing device",
         "pub_year": "2008",
-        "citation": "AIP Conference Proceedings 1027 (1), 994-996, 2008"
+        "citation": "AIP Conference Proceedings 1027 (1), 994-996, 2008",
+        "num_citations": 9,
+        "author_pub_id": "2u09mlAAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "In-situ Generation of Focal Conic Defects in Flow of Smectic-A Liquid Crystals in Microchannels",
         "pub_year": "2006",
-        "citation": "APS March Meeting Abstracts, N21. 002, 2006"
+        "citation": "APS March Meeting Abstracts, N21. 002, 2006",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Inflammation product effects on dilatational mechanics can trigger the Laplace instability and acute respiratory distress syndrome",
         "pub_year": "2020",
-        "citation": "Soft Matter 16 (29), 6890-6901, 2020"
+        "citation": "Soft Matter 16 (29), 6890-6901, 2020",
+        "num_citations": 26,
+        "author_pub_id": "2u09mlAAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Insoluble layer deposition and dilatational rheology at a microscale spherical cap interface",
         "pub_year": "2016",
-        "citation": "Soft Matter 12 (33), 7038-7055, 2016"
+        "citation": "Soft Matter 12 (33), 7038-7055, 2016",
+        "num_citations": 26,
+        "author_pub_id": "2u09mlAAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Interaction of toroidal focal conic defects with shear flow",
         "pub_year": "2012",
-        "citation": "Soft Matter 8 (25), 6698-6705, 2012"
+        "citation": "Soft Matter 8 (25), 6698-6705, 2012",
+        "num_citations": 7,
+        "author_pub_id": "2u09mlAAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Interfacial dynamics and rheology of polymer-grafted nanoparticles at air–water and xylene–water interfaces",
         "pub_year": "2012",
-        "citation": "Langmuir 28 (21), 8052-8063, 2012"
+        "citation": "Langmuir 28 (21), 8052-8063, 2012",
+        "num_citations": 127,
+        "author_pub_id": "2u09mlAAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Interfacial properties and applications of polymer-grafted nanoparticles",
         "pub_year": "2011",
-        "citation": "242nd National Meeting of the American-Chemical-Society (ACS), 2011"
+        "citation": "242nd National Meeting of the American-Chemical-Society (ACS), 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Interfacial rheology and dynamic behavior of polymer grafted nanoparticles at the air-water interface",
         "pub_year": "2011",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Interpreting interfacial dilatational rheology of an oscillating microscale bubble",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "J. Rheol. 45, 115 (2001); http://dx. doi. org/10.1122/1.1332389 (24 pages) Elasto-capillary thinning and breakup of model elastic liquids",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Kinetically Controlled Adsorption to Freshly Formed Interfaces",
         "pub_year": "2009",
-        "citation": "APS March Meeting Abstracts, L14. 008, 2009"
+        "citation": "APS March Meeting Abstracts, L14. 008, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Liquid crystals-Formation and ordering of topological defect arrays produced by dilatational strain and shear flow in smectic-A liquid crystals (10 pages) 011701",
         "pub_year": "2012",
-        "citation": "Physical Review-Section E-Statistical Nonlinear and Soft Matter Physics 85 (1), 2012"
+        "citation": "Physical Review-Section E-Statistical Nonlinear and Soft Matter Physics 85 (1), 2012",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Measurements of submicron particle adsorption and particle film elasticity at oil–water interfaces",
         "pub_year": "2016",
-        "citation": "Langmuir 32 (17), 4125-4133, 2016"
+        "citation": "Langmuir 32 (17), 4125-4133, 2016",
+        "num_citations": 59,
+        "author_pub_id": "2u09mlAAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Measuring the Rate of Co-Crystal Nucleation Utilizing Continuous Microfluidic Droplet Generation",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2010",
-        "citation": "US Patent 7,708,949, 2010"
+        "citation": "US Patent 7,708,949, 2010",
+        "num_citations": 479,
+        "author_pub_id": "2u09mlAAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2012",
-        "citation": "US Patent 8,337,778, 2012"
+        "citation": "US Patent 8,337,778, 2012",
+        "num_citations": 265,
+        "author_pub_id": "2u09mlAAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2015",
-        "citation": "US Patent 8,986,628, 2015"
-    },
-    {
-        "title": "Method and apparatus for fluid dispersion",
-        "pub_year": "2015",
-        "citation": "US Patent 8,986,628, 2015"
+        "citation": "US Patent 8,986,628, 2015",
+        "num_citations": 100,
+        "author_pub_id": "2u09mlAAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "2u09mlAAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Microfluidic Droplet Dehydration for Concentrating Processes in Biomolecules",
         "pub_year": "2014",
-        "citation": "APS March Meeting Abstracts 2014, D20. 005, 2014"
+        "citation": "APS March Meeting Abstracts 2014, D20. 005, 2014",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Microfluidic droplet-based tool to determine phase behavior of a fluid system with high composition resolution",
         "pub_year": "2018",
-        "citation": "The Journal of Physical Chemistry B 122 (14), 4067-4076, 2018"
+        "citation": "The Journal of Physical Chemistry B 122 (14), 4067-4076, 2018",
+        "num_citations": 18,
+        "author_pub_id": "2u09mlAAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Microfluidic methods for generating continuous droplet streams",
         "pub_year": "2007",
-        "citation": "Journal of Physics D: Applied Physics 40 (19), R319, 2007"
+        "citation": "Journal of Physics D: Applied Physics 40 (19), R319, 2007",
+        "num_citations": 1051,
+        "author_pub_id": "2u09mlAAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Microscale tipstreaming in a microfluidic flow focusing device",
         "pub_year": "2006",
-        "citation": "Physics of fluids 18 (12), 2006"
+        "citation": "Physics of fluids 18 (12), 2006",
+        "num_citations": 489,
+        "author_pub_id": "2u09mlAAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Mini-Bioreactors for the Study of Pneumococcal Cell-Cell Communication",
         "pub_year": "2022",
-        "citation": "2022 AIChE Annual Meeting, 2022"
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Mixing in Sessile Drops Merging on a Surface",
         "pub_year": "2011",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, S5. 004, 2011"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, S5. 004, 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:-f6ydRqryjwC"
     },
     {
-        "title": "N. Bontoux and H. A. Stone (2003).\"",
-        "citation": "Formation of dispersions using\" flow focusing\" in microchannels.\" Applied …, 0"
+        "title": "N. 8ontoux, HA Stone",
+        "pub_year": "2003",
+        "citation": "Appl. Phys. Lett 82, 364, 2003",
+        "num_citations": 4,
+        "author_pub_id": "2u09mlAAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Nonlinear Dynamics, Fluid Dynamics, Classical Optics, etc.-Geometrically Mediated Breakup of Drops in Microfluidic Devices",
         "pub_year": "2004",
-        "citation": "Physical Review Letters 92 (5), 54503-54503, 2004"
+        "citation": "Physical Review Letters 92 (5), 54503-54503, 2004",
+        "num_citations": 1,
+        "author_pub_id": "2u09mlAAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Numerical simulation of droplet formation in a microchannel device",
         "pub_year": "2013",
-        "citation": "The International Journal of Multiphysics 7 (4), 271-286, 2013"
+        "citation": "The International Journal of Multiphysics 7 (4), 271-286, 2013",
+        "num_citations": 3,
+        "author_pub_id": "2u09mlAAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Numerical simulation of droplet formation in a microchannel device",
         "pub_year": "2013",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Observations of Tipstreaming and Thread Formation in a Microfluidic Flow Focusing Device",
         "pub_year": "2006",
-        "citation": "APS March Meeting Abstracts, N21. 004, 2006"
+        "citation": "APS March Meeting Abstracts, N21. 004, 2006",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Observations of Tipstreaming in a Flow Focusing Microfluidic Device",
         "pub_year": "2005",
-        "citation": "The 2005 Annual Meeting, 2005"
+        "citation": "The 2005 Annual Meeting, 2005",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Observations of Tipstreaming in a Microfluidic Flow Focusing Device",
         "pub_year": "2005",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 58, GB. 003, 2005"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 58, GB. 003, 2005",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "On controlling the kinematics of a filament stretching rheometer using a real-time active control mechanism",
         "pub_year": "1999",
-        "citation": "Journal of non-newtonian fluid mechanics 87 (2-3), 307-335, 1999"
+        "citation": "Journal of non-newtonian fluid mechanics 87 (2-3), 307-335, 1999",
+        "num_citations": 62,
+        "author_pub_id": "2u09mlAAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "On the Effects of Channel Geometry and Long Scale Time Dependence on Microfluidic Drop Breakup",
         "pub_year": "2006",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, LD. 004, 2006"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 59, LD. 004, 2006",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "On the evaluation of dynamic stresses in pipelines using limited vibration measurements and FEA in the frequency domain",
         "pub_year": "1999",
-        "citation": ""
+        "citation": "",
+        "num_citations": 4,
+        "author_pub_id": "2u09mlAAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Passive breakup of viscoelastic droplets and filament self-thinning at a microfluidic T-junction",
         "pub_year": "2009",
-        "citation": "Journal of Rheology 53 (3), 663-683, 2009"
+        "citation": "Journal of Rheology 53 (3), 663-683, 2009",
+        "num_citations": 43,
+        "author_pub_id": "2u09mlAAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Photo-board View| List View",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Physical measurements of hydrophobin air-filled bubbles and oil-filled blobs",
         "pub_year": "2015",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Predicting conditions for microscale surfactant mediated tipstreaming",
         "pub_year": "2012",
-        "citation": "Physics of Fluids 24 (8), 2012"
+        "citation": "Physics of Fluids 24 (8), 2012",
+        "num_citations": 44,
+        "author_pub_id": "2u09mlAAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Probing timescales for colloidal particle adsorption using slug bubbles in rectangular microchannels",
         "pub_year": "2012",
-        "citation": "Soft Matter 8 (41), 10759-10772, 2012"
+        "citation": "Soft Matter 8 (41), 10759-10772, 2012",
+        "num_citations": 55,
+        "author_pub_id": "2u09mlAAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Quantification of the interfacial dynamics of a model oil-brine-dispersant system for improved surfactant design",
         "pub_year": "2012",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Quantifying the stretching and breakup of dilute polymer solutions in two different filament stretching experiments",
         "pub_year": "1999",
-        "citation": "American Institute of Chemical Engineers, 1999"
+        "citation": "American Institute of Chemical Engineers, 1999",
+        "num_citations": 2,
+        "author_pub_id": "2u09mlAAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Regular perturbation analysis of small amplitude oscillatory dilatation of an interface in a capillary pressure tensiometer",
         "pub_year": "2015",
-        "citation": "Journal of Rheology 59 (1), 85-117, 2015"
+        "citation": "Journal of Rheology 59 (1), 85-117, 2015",
+        "num_citations": 46,
+        "author_pub_id": "2u09mlAAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Rheology, Mixing, and Flow of Polymeric Materials Guest-edited by P. Anderson and H. Meijer",
         "pub_year": "2011",
-        "citation": "Macromol. Mater. Eng 296, 201-202, 2011"
+        "citation": "Macromol. Mater. Eng 296, 201-202, 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Role Of Desorption Kinetics In Surfactant-Mediated Microscale Tipstreaming",
         "pub_year": "2007",
-        "citation": "The 2007 Annual Meeting, 2007"
+        "citation": "The 2007 Annual Meeting, 2007",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Role of geometry and fluid properties in droplet and thread formation processes in planar flow focusing",
         "pub_year": "2009",
-        "citation": "Physics of Fluids 21 (3), 2009"
+        "citation": "Physics of Fluids 21 (3), 2009",
+        "num_citations": 285,
+        "author_pub_id": "2u09mlAAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Role of surface anchoring and geometric confinement on focal conic textures in smectic-A liquid crystals",
         "pub_year": "2006",
-        "citation": "Langmuir 22 (24), 9986-9993, 2006"
+        "citation": "Langmuir 22 (24), 9986-9993, 2006",
+        "num_citations": 70,
+        "author_pub_id": "2u09mlAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Scaling Law for Driven Coalescence of Droplets Spreading on a Substrate",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Scaling Law for Driven Spreading and Coalescence of Sessile Droplets",
         "pub_year": "2009",
-        "citation": "APS March Meeting Abstracts, B15. 007, 2009"
+        "citation": "APS March Meeting Abstracts, B15. 007, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Separation and Stabilization of Deformable Drops in Microfluidics",
         "pub_year": "2009",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 62, EF. 008, 2009"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 62, EF. 008, 2009",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Sequential adsorption of an irreversibly adsorbed nonionic surfactant and an anionic surfactant at an oil/aqueous interface",
         "pub_year": "2015",
-        "citation": "Langmuir 31 (14), 4063-4071, 2015"
+        "citation": "Langmuir 31 (14), 4063-4071, 2015",
+        "num_citations": 50,
+        "author_pub_id": "2u09mlAAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Stability of a compound sessile drop at the axisymmetric configuration",
         "pub_year": "2016",
-        "citation": "Journal of colloid and interface science 462, 88-99, 2016"
+        "citation": "Journal of colloid and interface science 462, 88-99, 2016",
+        "num_citations": 19,
+        "author_pub_id": "2u09mlAAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Supplementary Information: Effect of surfactant tail length and ionic strength on the interfacial properties of nanoparticle-surfactant complexes",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Surfactant adsorption timescales in microfluidic droplet formation",
         "pub_year": "2011",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "System, method, and apparatus relating to colloidosomes",
         "pub_year": "2022",
-        "citation": "US Patent 11,305,252, 2022"
+        "citation": "US Patent 11,305,252, 2022",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "THREAD FORMATION AND TIPSTREAMING IN A MICROFLUIDIC FLOW FOCUSING DEVICE",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "The Dynamics of Tipstreaming In Microfluidic Flow Focusing Devices",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "The Dynamics of Tipstreaming in Microfluidic Flow Focusing Devices",
         "pub_year": "2007",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 60, JC. 012, 2007"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 60, JC. 012, 2007",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "The Evolution of Tensile Stresses in Uniaxial Elongational Flows of Dilute Polymer Solutions Subjected to a Known Preshear History",
         "pub_year": "2000",
-        "citation": "Proceedings of the Fifth Microgravity Fluid Physics and Transport Phenomena …, 2000"
+        "citation": "Proceedings of the Fifth Microgravity Fluid Physics and Transport Phenomena …, 2000",
+        "num_citations": 1,
+        "author_pub_id": "2u09mlAAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "The Role of Colloidal Interactions on the Formation of Particle Stabilized Capsules",
         "pub_year": "2016",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, M25. 001, 2016"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, M25. 001, 2016",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "The effect of alkane tail length of CiE8 surfactants on transport to the silicone oil–water interface",
         "pub_year": "2011",
-        "citation": "Journal of colloid and interface science 355 (1), 231-236, 2011"
+        "citation": "Journal of colloid and interface science 355 (1), 231-236, 2011",
+        "num_citations": 32,
+        "author_pub_id": "2u09mlAAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "The importance of experimental design on measurement of dynamic interfacial tension and interfacial rheology in diffusion-limited surfactant systems",
         "pub_year": "2015",
-        "citation": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 467, 135-142, 2015"
+        "citation": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 467, 135-142, 2015",
+        "num_citations": 52,
+        "author_pub_id": "2u09mlAAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "The onset of microscale tipstreaming with soluble nonionic surfactants",
         "pub_year": "2010",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 63, GR. 003, 2010"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 63, GR. 003, 2010",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Tipstreaming and other methods of producing fine fluid threads",
         "pub_year": "2012",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, K34. 001, 2012"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, K34. 001, 2012",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Tipstreaming from the rear of surfactant laden droplets traveling through a microchannel",
         "pub_year": "2013",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, G36. 004, 2013"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, G36. 004, 2013",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Tuning bubbly structures in microchannels",
         "pub_year": "2012",
-        "citation": "Biomicrofluidics 6 (2), 2012"
+        "citation": "Biomicrofluidics 6 (2), 2012",
+        "num_citations": 32,
+        "author_pub_id": "2u09mlAAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Two-phase flow in porous media: predicting its dependence on capillary number and viscosity ratio",
         "pub_year": "2011",
-        "citation": "Transport in porous media 86, 243-259, 2011"
+        "citation": "Transport in porous media 86, 243-259, 2011",
+        "num_citations": 22,
+        "author_pub_id": "2u09mlAAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Using Convective Flow to Reach the Kinetic Limit of Surfactant Transport to a Stationary Microbubble",
         "pub_year": "2010",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 63, HW. 003, 2010"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 63, HW. 003, 2010",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Using Droplet-Based Millifluidic Platform to Separate Biomolecules in Aqueous Two-Phase Systems",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Using bulk convection in a microtensiometer to approach kinetic-limited surfactant dynamics at fluid–fluid interfaces",
         "pub_year": "2012",
-        "citation": "Journal of colloid and interface science 372 (1), 183-191, 2012"
+        "citation": "Journal of colloid and interface science 372 (1), 183-191, 2012",
+        "num_citations": 77,
+        "author_pub_id": "2u09mlAAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Using bulk convection to approach kinetic-limited surfactant dynamics",
         "pub_year": "2011",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, G3. 001, 2011"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, G3. 001, 2011",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Wednesday, June 18, 2008-4: 00 PM Room 8a (McKimmon Conference Center)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "微通道中应用 “流动汇聚” 形成分散» 系",
         "pub_year": "2008",
-        "citation": "力学进展 38 (5), 2008"
+        "citation": "力学进展 38 (5), 2008",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:blknAaTinKkC"
     },
     {
         "title": "微通道中应用 “流动汇聚” 形成分散体系",
         "pub_year": "2008",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "2u09mlAAAAAJ:ldfaerwXgEUC"
     }
 ]

@@ -1,1287 +1,1805 @@
 [
     {
         "title": "42a Sunday, February 3, 2013",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "A top-down approach to mechanistic biological modeling: application to single-chain antibody folding",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "A top-down approach to mechanistic biological modeling: application to the single-chain antibody folding pathway",
         "pub_year": "2008",
-        "citation": "Biophysical Journal 95 (8), 3535-3558, 2008"
+        "citation": "Biophysical Journal 95 (8), 3535-3558, 2008",
+        "num_citations": 12,
+        "author_pub_id": "NnIC2iAAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "A2AR Binding Kinetics in the Ligand Depletion Regime",
         "pub_year": "2017",
-        "citation": "SLAS DISCOVERY: Advancing Life Sciences R&D 22 (2), 166-175, 2017"
+        "citation": "SLAS DISCOVERY: Advancing Life Sciences R&D 22 (2), 166-175, 2017",
+        "num_citations": 15,
+        "author_pub_id": "NnIC2iAAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "ADVANCED CONTROL OF GLYCOSYLATION AND TITER IN FED-BATCH MONOCLONAL ANTIBODY PRODUCTION",
         "pub_year": "2023",
-        "citation": "Current Opinion in Chemical Engineering 33, 100705, 2023"
+        "citation": "Current Opinion in Chemical Engineering 33, 100705, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "Adenosine Receptor Expression as a Modulator of Sir2 Activity in Yeast",
         "pub_year": "2013",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013"
+        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Adenosine Receptors as Modulators of the Cellular Stress Response.",
         "pub_year": "2014",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 25, 2014"
+        "citation": "MOLECULAR BIOLOGY OF THE CELL 25, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Advances in nanodisc platforms for membrane protein purification",
         "pub_year": "2023",
-        "citation": "Trends in Biotechnology, 2023"
+        "citation": "Trends in Biotechnology, 2023",
+        "num_citations": 5,
+        "author_pub_id": "NnIC2iAAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Aggregates of α‐chymotrypsinogen anneal to access more stable states",
         "pub_year": "2014",
-        "citation": "Biotechnology and bioengineering 111 (4), 782-791, 2014"
+        "citation": "Biotechnology and bioengineering 111 (4), 782-791, 2014",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "An expression and purification system for the biosynthesis of adenosine receptor peptides for biophysical and structural characterization",
         "pub_year": "2012",
-        "citation": "Protein expression and purification 84 (2), 224-235, 2012"
+        "citation": "Protein expression and purification 84 (2), 224-235, 2012",
+        "num_citations": 8,
+        "author_pub_id": "NnIC2iAAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Analysis of Adenosine A2a Receptor Stability: Effects of Ligands and Disulfide Bonds",
         "pub_year": "2010",
-        "citation": "Biochemistry 49 (43), 9181-9189, 2010"
+        "citation": "Biochemistry 49 (43), 9181-9189, 2010",
+        "num_citations": 32,
+        "author_pub_id": "NnIC2iAAAAAJ:p__nRnzSRKYC"
     },
     {
         "title": "Analysis of ER Resident Proteins in Saccharomyces cerevisiae: Implementation of H/KDEL Retrieval Sequences",
         "pub_year": "2013",
-        "citation": "Traffic 14 (4), 365-381, 2013"
+        "citation": "Traffic 14 (4), 365-381, 2013",
+        "num_citations": 26,
+        "author_pub_id": "NnIC2iAAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Analysis of cellular response to protein overexpression",
         "pub_year": "2005",
-        "citation": "IEE Proceedings-Systems Biology 152 (4), 285-289, 2005"
+        "citation": "IEE Proceedings-Systems Biology 152 (4), 285-289, 2005",
+        "num_citations": 29,
+        "author_pub_id": "NnIC2iAAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Analysis of unfolded protein response during single-chain antibody expression in Saccaromyces cerevisiae reveals different roles for BiP and PDI in folding",
         "pub_year": "2005",
-        "citation": "Metabolic engineering 7 (4), 269-279, 2005"
+        "citation": "Metabolic engineering 7 (4), 269-279, 2005",
+        "num_citations": 84,
+        "author_pub_id": "NnIC2iAAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Analyzing Spatial Localization of Proteins of the Endoplasmic Reticulum in Budding Yeast, S. Cerevisiae, During Cell Division",
         "pub_year": "2009",
-        "citation": "University of Delaware, 2009"
+        "citation": "University of Delaware, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "Analyzing the Stress Response Pathway in Saccharomyces Cerevisiae",
         "pub_year": "2006",
-        "citation": "The 2006 Annual Meeting, 2006"
+        "citation": "The 2006 Annual Meeting, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Analyzing the Stress Response of Yeast",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Anchoring Giant Plasma Membrane Vesicles to a Surface for Novel Biosensing",
         "pub_year": "2018",
-        "citation": "Biophysical Journal 114 (3), 543a, 2018"
+        "citation": "Biophysical Journal 114 (3), 543a, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "Antifluorescein single-chain antibodies: Characterization of multiple active conformations and maximization of functional yield",
         "pub_year": "2003",
-        "citation": "University of Delaware, 2003"
+        "citation": "University of Delaware, 2003",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Applying coarse-grained molecular models for rational design of colloidal protein-protein interactions to mitigate aggregation",
         "pub_year": "2012",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Assembly of P22 tailspike trimer is modulated through C-terminus interactions",
         "pub_year": "2003",
-        "citation": "BIOPHYSICAL JOURNAL 84 (2), 311A-311A, 2003"
+        "citation": "BIOPHYSICAL JOURNAL 84 (2), 311A-311A, 2003",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "BBA-Biomembranes",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:WZBGuue-350C"
     },
     {
         "title": "BIOT 172-Tandem computational approaches for engineering reduced protein aggregation.",
         "pub_year": "2009",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "BIOT 185-System development for expression of G-protein coupled receptor (GPCR) fragments",
         "pub_year": "2008",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "BIOT 262-Defining structural characteristics of GPCRs that are important for receptor activity and trafficking to the plasma membrane",
         "pub_year": "2009",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "BIOT 365-High-level expression and purification of the human adenosine A2a G-protein coupled receptor",
         "pub_year": "2006",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 232, 2006"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 232, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "BIOT 385-Expression and purification of GPCR peptide fragments",
         "pub_year": "2009",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "BIOT 453-Understanding the Endoplasmic Reticulum's critical role in heterologous protein expression",
         "pub_year": "2008",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "BIOT 46-Folding of the beta-helix domain of P22 tailspike protein",
         "pub_year": "2007",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 234, 2007"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 234, 2007",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "BIOT 483-Refolding aggregation-prone GPCRs and G-protein alpha subunits from inclusion bodies expressed in Escherichia coli",
         "pub_year": "2007",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 234, 2007"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 234, 2007",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "BIOT 63-Single-cell analysis of Saccharomyces cerevisiae: Elucidating quality control mechanisms of the secretory pathway",
         "pub_year": "2009",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 238, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "BIOT 65-Engineering Saccharomyces cerevisiae for the heterologous expression of mammalian G-protein coupled receptors",
         "pub_year": "2008",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 236, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "BiP clustering facilitates protein folding in the endoplasmic reticulum",
         "pub_year": "2014",
-        "citation": "PLoS Computational Biology 10 (7), e1003675, 2014"
+        "citation": "PLoS Computational Biology 10 (7), e1003675, 2014",
+        "num_citations": 26,
+        "author_pub_id": "NnIC2iAAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Biophysical Characterization Of The Human Adenosine A2a G-Protein Coupled Receptor Expressed From Saccharomyces Cerevisiae",
         "pub_year": "2007",
-        "citation": "The 2007 Annual Meeting, 2007"
+        "citation": "The 2007 Annual Meeting, 2007",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Biophysical characterization and molecular simulation of electrostatically driven self‐association of a single‐chain antibody",
         "pub_year": "2018",
-        "citation": "Protein Science 27 (7), 1275-1285, 2018"
+        "citation": "Protein Science 27 (7), 1275-1285, 2018",
+        "num_citations": 14,
+        "author_pub_id": "NnIC2iAAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Cassette series designed for live‐cell imaging of proteins and high‐resolution techniques in yeast",
         "pub_year": "2012",
-        "citation": "Yeast 29 (3-4), 119-136, 2012"
+        "citation": "Yeast 29 (3-4), 119-136, 2012",
+        "num_citations": 43,
+        "author_pub_id": "NnIC2iAAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Cellular Division: Analyzing Spatial Localization and Endoplasmic Reticulum Morphology in Budding Yeast, S. Cerevisiae",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement",
         "pub_year": "2017",
-        "citation": "Biotechnology journal 12 (1), 1600105, 2017"
+        "citation": "Biotechnology journal 12 (1), 1600105, 2017",
+        "num_citations": 103,
+        "author_pub_id": "NnIC2iAAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Challenges for design of aggregation-resistant variants of granulocyte colony-stimulating factor",
         "pub_year": "2021",
-        "citation": "Biophysical Chemistry 277, 106630, 2021"
+        "citation": "Biophysical Chemistry 277, 106630, 2021",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Characterization of A2AR and G Protein Coupling by Surface Plasmon Resonance",
         "pub_year": "2020",
-        "citation": "Biophysical Journal 118 (3), 162a, 2020"
+        "citation": "Biophysical Journal 118 (3), 162a, 2020",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Characterization of Human IgG1 Fc Region Stability and Aggregation Propensity",
         "pub_year": "2017",
-        "citation": "Biophysical Journal 112 (3), 492a, 2017"
+        "citation": "Biophysical Journal 112 (3), 492a, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Characterization of Phosphorylated Tau-Microtubule complex with Molecular Dynamics (MD) simulation",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.11700, 2023"
+        "citation": "arXiv preprint arXiv:2312.11700, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Characterization of binding kinetics of A2AR to Gαs protein by surface plasmon resonance",
         "pub_year": "2021",
-        "citation": "Biophysical Journal 120 (9), 1641-1649, 2021"
+        "citation": "Biophysical Journal 120 (9), 1641-1649, 2021",
+        "num_citations": 12,
+        "author_pub_id": "NnIC2iAAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Characterization of redox effects on the folding pathway of a non-disulifide bonded protein.",
         "pub_year": "2002",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 224, U229-U229, 2002"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 224, U229-U229, 2002",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:uc_IGeMz5qoC"
     },
     {
         "title": "Characterization of sodium dodecyl sulfate-resistant proteolytic activity in the hyperthermophilic archaebacterium Pyrococcus furiosus",
         "pub_year": "1990",
-        "citation": "Applied and Environmental Microbiology 56 (7), 1992-1998, 1990"
+        "citation": "Applied and Environmental Microbiology 56 (7), 1992-1998, 1990",
+        "num_citations": 166,
+        "author_pub_id": "NnIC2iAAAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "Characterizing Interactions between Surfactants and Membrane Proteins with Special Emphasis on Crystallization",
         "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 218a, 2013"
+        "citation": "Biophysical Journal 104 (2), 218a, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Characterizing the role of cysteines and disulfide bonds in the folding and assembly pathway of P22 tailspike",
         "pub_year": "2003",
-        "citation": "University of Delaware, 2003"
+        "citation": "University of Delaware, 2003",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "Cholesterol Dependent Activity of the Adenosine A2A Receptor Is Modulated via the Cholesterol Consensus Motif",
         "pub_year": "2022",
-        "citation": "Molecules 27 (11), 3529, 2022"
+        "citation": "Molecules 27 (11), 3529, 2022",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Cholesterol dependent ligand binding and downstream signaling of the adenosine A2a receptor",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Cholesterol effects on the ligand binding activity of recombinant human G Protein-Coupled Receptors",
         "pub_year": "2014",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Coarse-Grained Model for Colloidal Protein Interactions, B22, and Protein Cluster Formation",
         "pub_year": "2013",
-        "citation": "The Journal of Physical Chemistry B 117 (50), 16013-16028, 2013"
+        "citation": "The Journal of Physical Chemistry B 117 (50), 16013-16028, 2013",
+        "num_citations": 57,
+        "author_pub_id": "NnIC2iAAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Combining theory and experiment for rational design of single-charge-altering point mutations to reduce multi-domain protein aggregation",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Comparison of serotonin-expressing mammalian and yeast responses to selected ligands",
         "pub_year": "2015",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "Comparison of transfection methods on yield of recombinant human IgG1 Fc",
         "pub_year": "2018",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Competing aggregation pathways for monoclonal antibodies",
         "pub_year": "2014",
-        "citation": "FEBS letters 588 (6), 936-941, 2014"
+        "citation": "FEBS letters 588 (6), 936-941, 2014",
+        "num_citations": 95,
+        "author_pub_id": "NnIC2iAAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Computational design and biophysical characterization of aggregation-resistant point mutations for γD crystallin illustrate a balance of conformational stability and intrinsic …",
         "pub_year": "2011",
-        "citation": "Biochemistry 50 (5), 628-639, 2011"
+        "citation": "Biochemistry 50 (5), 628-639, 2011",
+        "num_citations": 52,
+        "author_pub_id": "NnIC2iAAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Computational modeling of chaperone interactions in the endoplasmic reticulum of Saccharomyces cerevisiae",
         "pub_year": "2007",
-        "citation": "Proceedings of the FOSBE, 2007"
+        "citation": "Proceedings of the FOSBE, 2007",
+        "num_citations": 3,
+        "author_pub_id": "NnIC2iAAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Conformational features of tau fibrils from Alzheimer’s disease brain are faithfully propagated by unmodified recombinant protein",
         "pub_year": "2013",
-        "citation": "Biochemistry 52 (40), 6960-6967, 2013"
+        "citation": "Biochemistry 52 (40), 6960-6967, 2013",
+        "num_citations": 100,
+        "author_pub_id": "NnIC2iAAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Conformational stability as a design target to control protein aggregation",
         "pub_year": "2014",
-        "citation": "Protein Engineering, Design & Selection 27 (5), 157-167, 2014"
+        "citation": "Protein Engineering, Design & Selection 27 (5), 157-167, 2014",
+        "num_citations": 33,
+        "author_pub_id": "NnIC2iAAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Conserved disulfide bond is not essential for the adenosine A2A receptor: Extracellular cysteines influence receptor distribution within the cell and ligand-binding recognition",
         "pub_year": "2015",
-        "citation": "Biochimica Et Biophysica Acta (BBA)-Biomembranes 1848 (2), 603-614, 2015"
+        "citation": "Biochimica Et Biophysica Acta (BBA)-Biomembranes 1848 (2), 603-614, 2015",
+        "num_citations": 26,
+        "author_pub_id": "NnIC2iAAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Constitutive overexpression of secreted heterologous proteins decreases extractable heavy chain binding protein and protein disulfide isomerase levels in Saccharomyces cerevisiae",
         "pub_year": "1995",
-        "citation": "Biotechnology progress 11 (2), 171-177, 1995"
+        "citation": "Biotechnology progress 11 (2), 171-177, 1995",
+        "num_citations": 56,
+        "author_pub_id": "NnIC2iAAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Contribution of Mutations and the C-Terminal Tail to Adenosine A2A Receptor Activity and Stability",
         "pub_year": "2017",
-        "citation": "Biophysical Journal 112 (3), 530a, 2017"
+        "citation": "Biophysical Journal 112 (3), 530a, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Contribution of the C-terminus to A2AR activity and stability",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Contributions of the C-Terminus and Mutations to Adenosine Receptor Activity and Stability",
         "pub_year": "2019",
-        "citation": "Biophysical Journal 116 (3), 57a, 2019"
+        "citation": "Biophysical Journal 116 (3), 57a, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "Contributions of the C-Terminus and Mutations to a2Ar Activity and Stability",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Control of Glycosylation and Titer in Fed-Batch Monoclonal Antibody Production",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Controllability analysis of protein glycosylation in CHO cells",
         "pub_year": "2014",
-        "citation": "PloS one 9 (2), e87973, 2014"
+        "citation": "PloS one 9 (2), e87973, 2014",
+        "num_citations": 46,
+        "author_pub_id": "NnIC2iAAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Controllability analysis to identify manipulated variables for a glycosylation control strategy",
         "pub_year": "2018",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Controlling the glycosylation profile in MAbs by amino acid supplementation",
         "pub_year": "2015",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Controlling the glycosylation profile in mAbs using time-dependent media supplementation",
         "pub_year": "2017",
-        "citation": "Antibodies 7 (1), 1, 2017"
+        "citation": "Antibodies 7 (1), 1, 2017",
+        "num_citations": 30,
+        "author_pub_id": "NnIC2iAAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Co‐expression of molecular chaperones does not improve the heterologous expression of mammalian G‐protein coupled receptor expression in yeast",
         "pub_year": "2003",
-        "citation": "Biotechnology and bioengineering 84 (3), 292-304, 2003"
+        "citation": "Biotechnology and bioengineering 84 (3), 292-304, 2003",
+        "num_citations": 79,
+        "author_pub_id": "NnIC2iAAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Critical molecular and cellular contributors to tau pathology",
         "pub_year": "2021",
-        "citation": "Biomedicines 9 (2), 190, 2021"
+        "citation": "Biomedicines 9 (2), 190, 2021",
+        "num_citations": 28,
+        "author_pub_id": "NnIC2iAAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "C‐terminal hydrophobic interactions play a critical role in oligomeric assembly of the P22 tailspike trimer",
         "pub_year": "2003",
-        "citation": "Protein science 12 (12), 2732-2747, 2003"
+        "citation": "Protein science 12 (12), 2732-2747, 2003",
+        "num_citations": 28,
+        "author_pub_id": "NnIC2iAAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "David C. Reed, Gavin C. Barnard, Errik B. Anderson, Linden T. Klein, Tillman U. Gerngross",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Decreased protein expression and intermittent recoveries in BiP levels result from cellular stress during heterologous protein expression in Saccharomyces cerevisiae",
         "pub_year": "2002",
-        "citation": "Biotechnology progress 18 (5), 942-950, 2002"
+        "citation": "Biotechnology progress 18 (5), 942-950, 2002",
+        "num_citations": 99,
+        "author_pub_id": "NnIC2iAAAAAJ:uWiczbcajpAC"
     },
     {
         "title": "Decreased secretion and unfolded protein response upregulation",
         "pub_year": "2011",
-        "citation": "Methods in enzymology 491, 235-260, 2011"
+        "citation": "Methods in enzymology 491, 235-260, 2011",
+        "num_citations": 24,
+        "author_pub_id": "NnIC2iAAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Decreased secretion and unfolded protein response up‐regulation are correlated with intracellular retention for single‐chain antibody variants produced in yeast",
         "pub_year": "2009",
-        "citation": "Biotechnology and bioengineering 104 (1), 20-29, 2009"
+        "citation": "Biotechnology and bioengineering 104 (1), 20-29, 2009",
+        "num_citations": 20,
+        "author_pub_id": "NnIC2iAAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Decreases in yeast expression yields of the human adenosine A2a receptor are a result of translational or post-translational events",
         "pub_year": "2004",
-        "citation": "Protein expression and purification 37 (1), 134-143, 2004"
+        "citation": "Protein expression and purification 37 (1), 134-143, 2004",
+        "num_citations": 35,
+        "author_pub_id": "NnIC2iAAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Denaturation of an extremely stable hyperthermophilic protein occurs via a dimeric intermediate",
         "pub_year": "2007",
-        "citation": "Extremophiles 11, 179-189, 2007"
+        "citation": "Extremophiles 11, 179-189, 2007",
+        "num_citations": 8,
+        "author_pub_id": "NnIC2iAAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Design and characterization of a benzylguanine-PEG surface for anchoring cellular-derived giant plasma membrane vesicles",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Determinants of GPCR Expression in E. coli and Yeast",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Determinants of Protein Folding and Aggregation in P22 Tailspike Protein",
         "pub_year": "2006",
-        "citation": "Misbehaving Proteins: Protein (Mis) Folding, Aggregation, and Stability, 247-264, 2006"
+        "citation": "Misbehaving Proteins: Protein (Mis) Folding, Aggregation, and Stability, 247-264, 2006",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Development of an analytical assay to characterize the glycosylation pattern in monoclonal antibodies",
         "pub_year": "2016",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Development of at‐line assay to monitor charge variants of MAbs during production",
         "pub_year": "2014",
-        "citation": "Biotechnology Progress 30 (1), 249-255, 2014"
+        "citation": "Biotechnology Progress 30 (1), 249-255, 2014",
+        "num_citations": 31,
+        "author_pub_id": "NnIC2iAAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Differential Activation of the Unfolded Protein Response in Saccharomyces Cerevisiae During Heterologous Expression of G‐Protein‐Coupled Receptors",
         "pub_year": "2006",
-        "citation": "The FASEB Journal 20 (4), A518-A518, 2006"
+        "citation": "The FASEB Journal 20 (4), A518-A518, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Dissociation of intermolecular disulfide bonds in P22 tailspike protein intermediates in the presence of SDS",
         "pub_year": "2006",
-        "citation": "Protein science 15 (7), 1791-1793, 2006"
+        "citation": "Protein science 15 (7), 1791-1793, 2006",
+        "num_citations": 12,
+        "author_pub_id": "NnIC2iAAAAAJ:BwyfMAYsbu0C"
     },
     {
         "title": "Disulphide-bonded intermediate on the folding and assembly pathway of a non-disulphide bonded protein",
         "pub_year": "1997",
-        "citation": "Nature structural biology 4 (6), 450-455, 1997"
+        "citation": "Nature structural biology 4 (6), 450-455, 1997",
+        "num_citations": 76,
+        "author_pub_id": "NnIC2iAAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Driving forces for nonnative protein aggregation and approaches to predict aggregation-prone regions",
         "pub_year": "2017",
-        "citation": "Annual review of chemical and biomolecular engineering 8, 139-159, 2017"
+        "citation": "Annual review of chemical and biomolecular engineering 8, 139-159, 2017",
+        "num_citations": 65,
+        "author_pub_id": "NnIC2iAAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Editorial Board•",
         "pub_year": "2005",
-        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1752 (1), 1-110, 2005"
+        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1752 (1), 1-110, 2005",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "Effect of Culturing Conditions on the Production of Exotoxin A by Pseudomonas aeruginosa",
         "pub_year": "1987",
-        "citation": "Annals of the New York Academy of Sciences 506 (1), 663-668, 1987"
+        "citation": "Annals of the New York Academy of Sciences 506 (1), 663-668, 1987",
+        "num_citations": 13,
+        "author_pub_id": "NnIC2iAAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "Effective Practices in Equity and Inclusion for ChE Academic Departments",
         "pub_year": "2023",
-        "citation": "CHEMICAL ENGINEERING PROGRESS 119 (2), 34-41, 2023"
+        "citation": "CHEMICAL ENGINEERING PROGRESS 119 (2), 34-41, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Elevated expression temperature in a mesophilic host results in increased secretion of a hyperthermophilic enzyme and decreased cell stress",
         "pub_year": "2005",
-        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1752 (1), 18-25, 2005"
+        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1752 (1), 18-25, 2005",
+        "num_citations": 17,
+        "author_pub_id": "NnIC2iAAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Elucidating mechanisms of heterologous neurokinin 2 receptor expression and trafficking in S. cerevisiae through receptor chimeras",
         "pub_year": "2011",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Engineering Approaches to Understanding the Role of Tau in Neurodegeneration",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Engineering Integral Membrane Proteins for Expression and Stability",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Engineering Saccharomyces Cerevisiae for the Heterologous Expression of Mammalian G-Protein Coupled Receptors",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "Engineering a synthetic sugar sensing yeast strain",
         "pub_year": "2016",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Engineering for improved protein folding and assembly: P22 tailspike",
         "pub_year": "1998",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U271-U272, 1998"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 216, U271-U272, 1998",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Engineering yeast cells for optimal expression of membrane proteins.",
         "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U131-U132, 2004"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U131-U132, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Engineering yeast cells for optimal expression of the human adenosine (A2a) receptor",
         "pub_year": "2005",
-        "citation": "University of Delaware, 2005"
+        "citation": "University of Delaware, 2005",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:M7yex6snE4oC"
     },
     {
         "title": "Engineering yeast for high-level expression of G-protein coupled receptors",
         "pub_year": "2003",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U186-U186, 2003"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U186-U186, 2003",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:BUYA1_V_uYcC"
     },
     {
         "title": "Enhanced Chaperone Clustering Facilitates Protein Folding in the Endoplasmic Reticulum of Yeast",
         "pub_year": "2014",
-        "citation": "Biophysical Journal 106 (2), 247a, 2014"
+        "citation": "Biophysical Journal 106 (2), 247a, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Enhanced insulin‐like growth factor‐I (IGF‐I) cell association at reduced pH is dependent on IGF binding protein‐3 (IGFBP‐3) interaction",
         "pub_year": "2007",
-        "citation": "Journal of cellular physiology 210 (2), 298-308, 2007"
+        "citation": "Journal of cellular physiology 210 (2), 298-308, 2007",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Evaluating Protein Interactions & Organelle Dynamics in Saccharomyces cerevisiae: Spatial Distribution of Molecular Chaperone/Co-Chaperones Evident at a Sub-organelle Level in …",
         "pub_year": "2009",
-        "citation": "Biophysical Journal 96 (3), 104a, 2009"
+        "citation": "Biophysical Journal 96 (3), 104a, 2009",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Evaluating Protein Interactions In the Endoplasmic Reticulum of Saccharomyces Cerevisiae: Spatial Distribution of Molecular Chaperone and Co-Chaperones Evident at a Sub …",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Evaluating the Unfolded Protein Response of Saccharomyces Cerevisiae",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Exceptional Total and Functional Yields of the Human Adenosine a 2 a Receptor Expressed in the Yeast Saccharomyces Cerevisiae",
         "pub_year": "2006",
-        "citation": "The 2006 Annual Meeting, 2006"
+        "citation": "The 2006 Annual Meeting, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Exceptional total and functional yields of the human adenosine (A2a) receptor expressed in the yeast Saccharomyces cerevisiae",
         "pub_year": "2006",
-        "citation": "Protein expression and purification 46 (2), 204-211, 2006"
+        "citation": "Protein expression and purification 46 (2), 204-211, 2006",
+        "num_citations": 53,
+        "author_pub_id": "NnIC2iAAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Existence of an Optimum Expression Level for Secretion of Foreign Proteins in Yeasr",
         "pub_year": "1994",
-        "citation": "Biochemical Engineering VIII, 321, 1994"
+        "citation": "Biochemical Engineering VIII, 321, 1994",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Existence of an Optimum Expression Level for Secretion of Foreign Proteins in Yeasta",
         "pub_year": "1994",
-        "citation": "Annals of the New York Academy of Sciences 745 (1), 321-330, 1994"
+        "citation": "Annals of the New York Academy of Sciences 745 (1), 321-330, 1994",
+        "num_citations": 38,
+        "author_pub_id": "NnIC2iAAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Experimental studies of wild type A2A receptor and cholesterol-binding receptor variants support a model for cholesterol as an allosteric modulator of G protein coupling",
         "pub_year": "2022",
-        "citation": "Biophysical Journal 121 (3), 87a, 2022"
+        "citation": "Biophysical Journal 121 (3), 87a, 2022",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Exploring the stability and activity of a model GPCR in various biomimetic systems",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Exploring the trafficking, ligand-binding activity, and unfolding of a model GPCR",
         "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 516a, 2011"
+        "citation": "Biophysical Journal 100 (3), 516a, 2011",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Expression and Purification of G Protein-Coupled Receptor (GPCR) Transmembrane Peptides",
         "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (3), 381a, 2011"
+        "citation": "Biophysical Journal 100 (3), 381a, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Expression and Purification of Human A2b Receptor for Spectroscopic Characterization",
         "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 90a, 2015"
+        "citation": "Biophysical Journal 108 (2), 90a, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "Expression and characterization of an extremely stable tetrameric hyperthermophilic protein",
         "pub_year": "2006",
-        "citation": "University of Delaware, 2006"
+        "citation": "University of Delaware, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:oNZyr7d5Mn4C"
     },
     {
         "title": "Expression and characterization of the human neurokinin 1 receptor from Escherichia coli",
         "pub_year": "2007",
-        "citation": "University of Delaware, 2007"
+        "citation": "University of Delaware, 2007",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "Expression and purification of milligram levels of inactive G-protein coupled receptors in E. coli",
         "pub_year": "2007",
-        "citation": "Protein expression and purification 52 (2), 348-355, 2007"
+        "citation": "Protein expression and purification 52 (2), 348-355, 2007",
+        "num_citations": 65,
+        "author_pub_id": "NnIC2iAAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Expression, purification, and biophysical characterization of G-protein coupled receptors expressed from Saccharomyces cerevisiae",
         "pub_year": "2009",
-        "citation": "University of Delaware, 2009"
+        "citation": "University of Delaware, 2009",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:Dip1O2bNi0gC"
     },
     {
         "title": "Folding and aggregation of a multi-domain engineered immunotoxin",
         "pub_year": "2013",
-        "citation": "Biochemical engineering journal 81, 8-14, 2013"
+        "citation": "Biochemical engineering journal 81, 8-14, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Framework for modeling information flow in biological processes: Application to the unfolded protein response",
         "pub_year": "2001",
-        "citation": "IFAC Proceedings Volumes 34 (5), 131-136, 2001"
+        "citation": "IFAC Proceedings Volumes 34 (5), 131-136, 2001",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Functional Expression of Adenosine A3 Receptor in Yeast Utilizing a Chimera with the A2AR C-Terminus",
         "pub_year": "2020",
-        "citation": "International Journal of Molecular Sciences 21 (12), 4547, 2020"
+        "citation": "International Journal of Molecular Sciences 21 (12), 4547, 2020",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "G-Protein Coupled Receptors: Protein Engineering Approaches to Improve Expression and Determine Protein-Protein Interactions",
         "pub_year": "2022",
-        "citation": "2022 AIChE Annual Meeting, 2022"
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "GPCR-chol interactions: Predictions from all-atom and coarse-grained simulations",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Guiding rational glycan assay development using observability analysis",
         "pub_year": "2016",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Heparan sulfate proteoglycans (HSPGs) serve as the mediator between monomeric tau and its subsequent intracellular ERK1/2 pathway activation",
         "pub_year": "2022",
-        "citation": "Journal of Molecular Neuroscience 72 (4), 772-791, 2022"
+        "citation": "Journal of Molecular Neuroscience 72 (4), 772-791, 2022",
+        "num_citations": 12,
+        "author_pub_id": "NnIC2iAAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Heterologous Expression of Membrane Proteins in Saccharomyces Cerevisiae Enables Biophysical Characterization of Pharmaceutical Targets",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Heterologous GPCR expression: a bottleneck to obtaining crystal structures",
         "pub_year": "2007",
-        "citation": "Biotechnology progress 23 (3), 540-547, 2007"
+        "citation": "Biotechnology progress 23 (3), 540-547, 2007",
+        "num_citations": 170,
+        "author_pub_id": "NnIC2iAAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "High pressure dissociates tailspike aggregates and promotes native structure formation",
         "pub_year": "2002",
-        "citation": "University of Delaware, 2002"
+        "citation": "University of Delaware, 2002",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "High-level expression in Saccharomyces cerevisiae enables isolation and spectroscopic characterization of functional human adenosine A2a receptor",
         "pub_year": "2007",
-        "citation": "Journal of structural biology 159 (2), 166-178, 2007"
+        "citation": "Journal of structural biology 159 (2), 166-178, 2007",
+        "num_citations": 109,
+        "author_pub_id": "NnIC2iAAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "How Unfolded is Tau?",
         "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 62a-63a, 2015"
+        "citation": "Biophysical Journal 108 (2), 62a-63a, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Human G protein-coupled receptors expression and signaling in yeast: Design and optimization of the host/protein platform for therapeutic development",
         "pub_year": "2016",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 251, 2016",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Hydrogen exchange labeling and mass spectrometric analysis of multiple active forms of recombinant single chain antibody.",
         "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U223-U223, 2004"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U223-U223, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Hydrostatic pressure rescues native protein from aggregates",
         "pub_year": "1999",
-        "citation": "Biotechnology and Bioengineering 63 (5), 552-558, 1999"
+        "citation": "Biotechnology and Bioengineering 63 (5), 552-558, 1999",
+        "num_citations": 119,
+        "author_pub_id": "NnIC2iAAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "INTERACTION OF KAR2/BIP WITH FOREIGN PROTEINS SECRETED IN YEAST",
         "pub_year": "1992",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 203, 45-BTEC, 1992"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 203, 45-BTEC, 1992",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Identification of manipulated variables for a glycosylation control strategy",
         "pub_year": "2014",
-        "citation": "Biotechnology and bioengineering 111 (10), 1957-1970, 2014"
+        "citation": "Biotechnology and bioengineering 111 (10), 1957-1970, 2014",
+        "num_citations": 90,
+        "author_pub_id": "NnIC2iAAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Identifying a robust design space for glycosylation during monoclonal antibody production",
         "pub_year": "2016",
-        "citation": "Biotechnology progress 32 (5), 1149-1162, 2016"
+        "citation": "Biotechnology progress 32 (5), 1149-1162, 2016",
+        "num_citations": 17,
+        "author_pub_id": "NnIC2iAAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Impact of purification conditions and history on A2A adenosine receptor activity: The role of CHAPS and lipids",
         "pub_year": "2016",
-        "citation": "Protein expression and purification 124, 62-67, 2016"
+        "citation": "Protein expression and purification 124, 62-67, 2016",
+        "num_citations": 18,
+        "author_pub_id": "NnIC2iAAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Improved expression of human tachykinin NK2 receptor using a receptor-receptor chimera with the rat homologue",
         "pub_year": "2019",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 257, 2019"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 257, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Improved ligand-binding- and signaling-competent human NK2R yields in yeast using a chimera with the rat NK2R C-terminus enable NK2R-G protein signaling …",
         "pub_year": "2019",
-        "citation": "Protein Engineering, Design and Selection 32 (10), 459-469, 2019"
+        "citation": "Protein Engineering, Design and Selection 32 (10), 459-469, 2019",
+        "num_citations": 3,
+        "author_pub_id": "NnIC2iAAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Improving Expression in Yeast of A1 Adenosine Receptor using Chimeric Receptors-Design and Optimization of the Host/Protein Platform for Therapeutic Development",
         "pub_year": "2017",
-        "citation": "Biophysical Journal 112 (3), 355a, 2017"
+        "citation": "Biophysical Journal 112 (3), 355a, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Improving human A1 adenosine receptor expression in yeast towards applications in therapeutics screening and development",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "In Class Experience Using the Web and a New Text for Teaching Undergraduate Mass and Heat Transfer",
         "pub_year": "2008",
-        "citation": "The 2008 Annual Meeting, 2008"
+        "citation": "The 2008 Annual Meeting, 2008",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "In silico analysis of GPCR dimerization and downstream signaling",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Insights into the mechanism for the increase in native trimer yield from.",
         "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U214-U214, 2004"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U214-U214, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Interrogation of quality control mechanisms and protein trafficking in Saccharomyces cerevisiae",
         "pub_year": "2012",
-        "citation": "University of Delaware, 2012"
+        "citation": "University of Delaware, 2012",
+        "num_citations": 4,
+        "author_pub_id": "NnIC2iAAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Intracellular Responses of Glial Cells To Monomeric Tau Protein Are Closely Mediated By Heparan Sulfate Proteoglycans (HSPGs)",
         "pub_year": "2021",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Investigating the aggregation mechanism of a model, multi-domain protein and mutational strategies to deter non-native aggregation",
         "pub_year": "2012",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 243, 2012",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Investigating the mixed-chain interactions of P22 tailspike",
         "pub_year": "2003",
-        "citation": "FASEB JOURNAL 17 (4), A596-A597, 2003"
+        "citation": "FASEB JOURNAL 17 (4), A596-A597, 2003",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Investigation of cell stress during heterologous protein expression using a green fluorescent protein stress sensor.",
         "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U227-U227, 2004"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U227-U227, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Isolating a class AG protein-coupled receptor in its active conformation using short chain lipids: Doing away with detergents",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Isolation and Characterization of Giant Plasma Membrane Vesicles Containing a2Ar and Gas for Optical Biosensing",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Isolation and Characterization of Proteolytic Enzymes from the Hyperthermophilic Archaebacterium, Pyrococcus Furiosus",
         "pub_year": "1989",
-        "citation": "Johns Hopkins University, 1989"
+        "citation": "Johns Hopkins University, 1989",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "It all comes down to positioning: Three amino acids that are critical to stability and formation of the P22 tailspike protein",
         "pub_year": "2004",
-        "citation": "PROTEIN SCIENCE 13, 114-115, 2004"
+        "citation": "PROTEIN SCIENCE 13, 114-115, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Kinetic folding studies of the P22 tailspike beta-helix domain reveal multiple unfolded states",
         "pub_year": "2009",
-        "citation": "Biophysical chemistry 141 (2-3), 214-221, 2009"
+        "citation": "Biophysical chemistry 141 (2-3), 214-221, 2009",
+        "num_citations": 10,
+        "author_pub_id": "NnIC2iAAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Kinetic properties of G Protein Coupled Receptor ligand binding by anisotropic fluorimetry and computational modeling",
         "pub_year": "2014",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Ligand binding kinetics of A2AR nanodiscs using fluorescence anisotropy",
         "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 344a, 2024"
+        "citation": "Biophysical Journal 123 (3), 344a, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Managing and characterizing monoclonal antibody glycosylation.",
         "pub_year": "2016",
-        "citation": "Biotechnology Progress 32 (5), 1089-1090, 2016"
+        "citation": "Biotechnology Progress 32 (5), 1089-1090, 2016",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Mass and heat transfer: analysis of mass contactors and heat exchangers",
         "pub_year": "2008",
-        "citation": "Cambridge University Press, 2008"
+        "citation": "Cambridge University Press, 2008",
+        "num_citations": 57,
+        "author_pub_id": "NnIC2iAAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Maximizing recovery of native protein from aggregates by optimizing pressure treatment",
         "pub_year": "2004",
-        "citation": "Biotechnology progress 20 (2), 623-629, 2004"
+        "citation": "Biotechnology progress 20 (2), 623-629, 2004",
+        "num_citations": 31,
+        "author_pub_id": "NnIC2iAAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "Mechanisms of Membrane Protein Crystallization",
         "pub_year": "2015",
-        "citation": "Biophysical Journal 108 (2), 247a, 2015"
+        "citation": "Biophysical Journal 108 (2), 247a, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation",
         "pub_year": "2020",
-        "citation": "Biotechnology and Bioengineering 117 (11), 3310-3321, 2020"
+        "citation": "Biotechnology and Bioengineering 117 (11), 3310-3321, 2020",
+        "num_citations": 10,
+        "author_pub_id": "NnIC2iAAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Membrane Protein Expression in Saccharomyces cerevisiae",
         "pub_year": "2011",
-        "citation": "Production of Membrane Proteins: Strategies for Expression and Isolation, 37-73, 2011"
+        "citation": "Production of Membrane Proteins: Strategies for Expression and Isolation, 37-73, 2011",
+        "num_citations": 9,
+        "author_pub_id": "NnIC2iAAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Membrane Protein Structure II",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Membrane cholesterol and the adenosine A2a receptor",
         "pub_year": "2017",
-        "citation": "Biophysical Journal 112 (3), 33a-34a, 2017"
+        "citation": "Biophysical Journal 112 (3), 33a-34a, 2017",
+        "num_citations": 4,
+        "author_pub_id": "NnIC2iAAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Membrane cholesterol depletion reduces downstream signaling activity of the adenosine A2A receptor",
         "pub_year": "2019",
-        "citation": "Biochimica et Biophysica Acta (BBA)-Biomembranes 1861 (4), 760-767, 2019"
+        "citation": "Biochimica et Biophysica Acta (BBA)-Biomembranes 1861 (4), 760-767, 2019",
+        "num_citations": 57,
+        "author_pub_id": "NnIC2iAAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Methods for increasing secretion of overexpressed proteins",
         "pub_year": "1998",
-        "citation": "US Patent 5,773,245, 1998"
+        "citation": "US Patent 5,773,245, 1998",
+        "num_citations": 31,
+        "author_pub_id": "NnIC2iAAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Model for ER chaperone dynamics and secretory protein interactions",
         "pub_year": "1996",
-        "citation": "AIChE journal 42 (5), 1443-1453, 1996"
+        "citation": "AIChE journal 42 (5), 1443-1453, 1996",
+        "num_citations": 16,
+        "author_pub_id": "NnIC2iAAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Modeling Ire1p Regulation and Activation in the Yeast UPR",
         "pub_year": "2006",
-        "citation": "American Institute of Chemical Engineers, 2006"
+        "citation": "American Institute of Chemical Engineers, 2006",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Modeling the impact of spatial localization of protein function in the endoplasmic reticulum of yeast",
         "pub_year": "2009",
-        "citation": "Proceedings of the Conference on Foundations of Systems Biology in …, 2009"
+        "citation": "Proceedings of the Conference on Foundations of Systems Biology in …, 2009",
+        "num_citations": 3,
+        "author_pub_id": "NnIC2iAAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Model‐based control of titer and glycosylation in fed‐batch mAb production: Modeling and control system development",
         "pub_year": "2023",
-        "citation": "AIChE Journal 69 (4), e18075, 2023"
+        "citation": "AIChE Journal 69 (4), e18075, 2023",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "Modulating non-native aggregation and electrostatic protein–protein interactions with computationally designed single-point mutations",
         "pub_year": "2016",
-        "citation": "Protein Engineering, Design and Selection 29 (6), 231-243, 2016"
+        "citation": "Protein Engineering, Design and Selection 29 (6), 231-243, 2016",
+        "num_citations": 23,
+        "author_pub_id": "NnIC2iAAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Multiple active forms of single-chain antibody: Characterization and folding pathway analysis.",
         "pub_year": "2003",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U188-U188, 2003"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U188-U188, 2003",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Mutational analysis of aggregation: Pitting conformational stability vs. predicted aggregation propensity",
         "pub_year": "2011",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "NIIMBL QSP 1.23",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "New tools for breaking barriers to GPCR expression in E. coli.",
         "pub_year": "2011",
-        "citation": "Journal of Molecular Biology 408 (4), 597-598, 2011"
+        "citation": "Journal of Molecular Biology 408 (4), 597-598, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Nonnative Interactions between Cysteines Direct Productive Assembly of P22 Tailspike Protein",
         "pub_year": "2004",
-        "citation": "Biochimica et biophysica acta 1700 (1), 105, 2004"
+        "citation": "Biochimica et biophysica acta 1700 (1), 105, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Nonnative interactions between cysteines direct productive assembly of P22 tailspike protein",
         "pub_year": "2003",
-        "citation": "Biophysical journal 85 (5), 3237-3247, 2003"
+        "citation": "Biophysical journal 85 (5), 3237-3247, 2003",
+        "num_citations": 12,
+        "author_pub_id": "NnIC2iAAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Nuclear translocation of the unliganded glucocorticoid receptor is influenced by membrane fluidity, but not A2AR agonism",
         "pub_year": "2020",
-        "citation": "Steroids 160, 108641, 2020"
+        "citation": "Steroids 160, 108641, 2020",
+        "num_citations": 3,
+        "author_pub_id": "NnIC2iAAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Optimization of expression of the hyperthermophilic beta-glucosidase protein in Saccharomyces cerevisiae",
         "pub_year": "2004",
-        "citation": "PROTEIN SCIENCE 13, 143-143, 2004"
+        "citation": "PROTEIN SCIENCE 13, 143-143, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Optimization of the Human Adenosine A2a Receptor Yields in Saccharomyces cerevisiae",
         "pub_year": "2006",
-        "citation": "Biotechnology progress 22 (5), 1249-1255, 2006"
+        "citation": "Biotechnology progress 22 (5), 1249-1255, 2006",
+        "num_citations": 44,
+        "author_pub_id": "NnIC2iAAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Optimizing expression of GPCRS in yeast.",
         "pub_year": "2004",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U437-U437, 2004"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 227, U437-U437, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Optimizing functional production of human adenosine A (2) b receptor in S. cerevisiae",
         "pub_year": "2011",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Overcoming expression obstacles in producing functional components of the G-protein coupled receptor pathway",
         "pub_year": "2008",
-        "citation": "University of Delaware, 2008"
+        "citation": "University of Delaware, 2008",
+        "num_citations": 4,
+        "author_pub_id": "NnIC2iAAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Overcoming obstacles to expression and characterization of difficult proteins",
         "pub_year": "2015",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Overexpression of an archaeal protein in yeast: secretion bottleneck at the ER",
         "pub_year": "2002",
-        "citation": "Biotechnology and bioengineering 79 (7), 713-723, 2002"
+        "citation": "Biotechnology and bioengineering 79 (7), 713-723, 2002",
+        "num_citations": 48,
+        "author_pub_id": "NnIC2iAAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "P1‐090: Tau isoforms maintain different structural features that may impact their cytotoxicity",
         "pub_year": "2015",
-        "citation": "Alzheimer's & Dementia 11 (7S_Part_8), P373-P373, 2015"
+        "citation": "Alzheimer's & Dementia 11 (7S_Part_8), P373-P373, 2015",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "P1‐367: Transgenic mouse and cell culture models demonstrate a lack of mechanistic connection between endoplasmic reticulum stress and tau dysfunction",
         "pub_year": "2010",
-        "citation": "Alzheimer's & Dementia 6, S279-S279, 2010"
+        "citation": "Alzheimer's & Dementia 6, S279-S279, 2010",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "P22 tailspike trimer assembly is governed by interchain redox associations",
         "pub_year": "2004",
-        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1700 (1), 105-116, 2004"
+        "citation": "Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1700 (1), 105-116, 2004",
+        "num_citations": 8,
+        "author_pub_id": "NnIC2iAAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "PDI Improves Secretion of Redox‐Inactive β‐Glucosidase",
         "pub_year": "2007",
-        "citation": "Biotechnology progress 23 (2), 364-369, 2007"
+        "citation": "Biotechnology progress 23 (2), 364-369, 2007",
+        "num_citations": 35,
+        "author_pub_id": "NnIC2iAAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Pressure dissociation studies provide insight into oligomerization competence of temperature‐sensitive folding mutants of P22 tailspike",
         "pub_year": "2004",
-        "citation": "Protein science 13 (6), 1538-1546, 2004"
+        "citation": "Protein science 13 (6), 1538-1546, 2004",
+        "num_citations": 8,
+        "author_pub_id": "NnIC2iAAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Pressure treatment of tailspike aggregates rapidly produces on‐pathway folding intermediates",
         "pub_year": "2003",
-        "citation": "Biotechnology and bioengineering 82 (5), 595-604, 2003"
+        "citation": "Biotechnology and bioengineering 82 (5), 595-604, 2003",
+        "num_citations": 31,
+        "author_pub_id": "NnIC2iAAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Production of membrane proteins: strategies for expression and isolation",
         "pub_year": "2011",
-        "citation": "John Wiley & Sons, 2011"
+        "citation": "John Wiley & Sons, 2011",
+        "num_citations": 21,
+        "author_pub_id": "NnIC2iAAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Progress toward heterologous expression of active G‐protein‐coupled receptors in Saccharomyces cerevisiae: Linking cellular stress response with translocation …",
         "pub_year": "2009",
-        "citation": "Protein Science 18 (11), 2356-2370, 2009"
+        "citation": "Protein Science 18 (11), 2356-2370, 2009",
+        "num_citations": 81,
+        "author_pub_id": "NnIC2iAAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Progress toward rapid, at-line N-glycosylation detection and control for recombinant protein expression",
         "pub_year": "2022",
-        "citation": "Current Opinion in Biotechnology 78, 102788, 2022"
+        "citation": "Current Opinion in Biotechnology 78, 102788, 2022",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Protein Disulfide Isomerase Overexpression Increases Secretion of Foreign Proteins in Saccharomyces cerevisiae",
         "pub_year": "1994",
-        "citation": "Bio/technology 12 (4), 381-384, 1994"
+        "citation": "Bio/technology 12 (4), 381-384, 1994",
+        "num_citations": 283,
+        "author_pub_id": "NnIC2iAAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Protein disulfide isomerase, but not binding protein, overexpression enhances secretion of a non‐disulfide‐bonded protein in yeast",
         "pub_year": "2004",
-        "citation": "Biotechnology and bioengineering 85 (3), 340-350, 2004"
+        "citation": "Biotechnology and bioengineering 85 (3), 340-350, 2004",
+        "num_citations": 93,
+        "author_pub_id": "NnIC2iAAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Protein engineering approaches to determine adenosine receptor-G protein interactions",
         "pub_year": "2023",
-        "citation": "Biophysical Journal 122 (3), 15a, 2023"
+        "citation": "Biophysical Journal 122 (3), 15a, 2023",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Protein folding and secretion in the yeast Saccharomyces cerevisiae.",
         "pub_year": "1996",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 211, 45-BIOT, 1996"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 211, 45-BIOT, 1996",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Protein folding and secretion: mechanistic insights advancing recombinant protein production in S. cerevisiae",
         "pub_year": "2014",
-        "citation": "Current opinion in biotechnology 30, 168-177, 2014"
+        "citation": "Current opinion in biotechnology 30, 168-177, 2014",
+        "num_citations": 42,
+        "author_pub_id": "NnIC2iAAAAAJ:35r97b3x0nAC"
     },
     {
         "title": "Proteolytic enzymes from hyperthermophilic bacteria and processes for their production",
         "pub_year": "1993",
-        "citation": "US Patent 5,242,817, 1993"
+        "citation": "US Patent 5,242,817, 1993",
+        "num_citations": 18,
+        "author_pub_id": "NnIC2iAAAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Proteolytic enzymes from hyperthermophilic bacteria and processes for their production",
         "pub_year": "1995",
-        "citation": "US Patent 5,391,489, 1995"
+        "citation": "US Patent 5,391,489, 1995",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Proteolytic enzymes from hyperthermophilic bacteria and processes for their production",
         "pub_year": "1995",
-        "citation": "Biotechnology Advances 13 (3), 600-600, 1995"
+        "citation": "Biotechnology Advances 13 (3), 600-600, 1995",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Radhakrishnan, D., University of Delaware Bitner, A., University of Delaware St. Amand, M., University of Delaware Tran, K., University of Delaware",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Rapid Cell Type-Dependent Uptake of 0N4R TAU Monomer is not Solely Heparin Sulfate Proteoglycan Dependen",
         "pub_year": "2020",
-        "citation": "Biophysical Journal 118 (3), 454a, 2020"
+        "citation": "Biophysical Journal 118 (3), 454a, 2020",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Rapid refolding and polishing of single-chain antibodies from Escherichia coli inclusion bodies",
         "pub_year": "2002",
-        "citation": "Protein expression and purification 26 (2), 301-308, 2002"
+        "citation": "Protein expression and purification 26 (2), 301-308, 2002",
+        "num_citations": 59,
+        "author_pub_id": "NnIC2iAAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Recombinant G protein-coupled receptor expression in Saccharomyces cerevisiae for protein characterization",
         "pub_year": "2015",
-        "citation": "Methods in Enzymology 556, 165-183, 2015"
+        "citation": "Methods in Enzymology 556, 165-183, 2015",
+        "num_citations": 11,
+        "author_pub_id": "NnIC2iAAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Recombinant GPCR oligomerization effects on downstream signaling in yeast",
         "pub_year": "2013",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 245, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Recombinant protein expression and purification: a comprehensive review of affinity tags and microbial applications",
         "pub_year": "2012",
-        "citation": "Biotechnology journal 7 (5), 620-634, 2012"
+        "citation": "Biotechnology journal 7 (5), 620-634, 2012",
+        "num_citations": 629,
+        "author_pub_id": "NnIC2iAAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Reduction of BiP Levels Decreases Heterologous Protein Secretion in Saccharomyces cerevisiae (∗)",
         "pub_year": "1996",
-        "citation": "Journal of Biological Chemistry 271 (17), 10017-10022, 1996"
+        "citation": "Journal of Biological Chemistry 271 (17), 10017-10022, 1996",
+        "num_citations": 124,
+        "author_pub_id": "NnIC2iAAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Refolding of G protein α subunits from inclusion bodies expressed in Escherichia coli",
         "pub_year": "2008",
-        "citation": "Protein expression and purification 58 (2), 342-355, 2008"
+        "citation": "Protein expression and purification 58 (2), 342-355, 2008",
+        "num_citations": 14,
+        "author_pub_id": "NnIC2iAAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Role for cysteine residues in the in vivo folding and assembly of the phage P22 tailspike",
         "pub_year": "2001",
-        "citation": "Protein Science 10 (2), 397-410, 2001"
+        "citation": "Protein Science 10 (2), 397-410, 2001",
+        "num_citations": 38,
+        "author_pub_id": "NnIC2iAAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Role of Cholesterol in Adenosine A2A Receptor Activity",
         "pub_year": "2018",
-        "citation": "Biophysical Journal 114 (3), 1a, 2018"
+        "citation": "Biophysical Journal 114 (3), 1a, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "Role of membrane cholesterol in ligand binding and downstream signaling of human adenosine A2a receptor",
         "pub_year": "2014",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Role of the protein-folding chaperone BiP in secretion of foreign proteins in eukaryotic cells",
         "pub_year": "1993",
-        "citation": ""
+        "citation": "",
+        "num_citations": 9,
+        "author_pub_id": "NnIC2iAAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Roles for cysteine residues in the folding and function of phage P22 tailspike.",
         "pub_year": "2000",
-        "citation": "BIOPHYSICAL JOURNAL 78 (1), 5A-5A, 2000"
+        "citation": "BIOPHYSICAL JOURNAL 78 (1), 5A-5A, 2000",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Rosmarinic acid enhances CHO cell productivity and proliferation through activation of the unfolded protein response and the mTOR pathway",
         "pub_year": "2024",
-        "citation": "Biotechnology Journal 19 (1), 2300397, 2024"
+        "citation": "Biotechnology Journal 19 (1), 2300397, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Ug5p-4gJ2f0C"
     },
     {
         "title": "Saccharomyces cerevisiae",
         "pub_year": "2004",
-        "citation": "Protein Expression Technologies: Current Status and Future Trends, 253, 2004"
+        "citation": "Protein Expression Technologies: Current Status and Future Trends, 253, 2004",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:tuHXwOkdijsC"
     },
     {
         "title": "Saccharomyces cerevisiae protein expression: from protein production to protein engineering",
         "pub_year": "2005",
-        "citation": "Protein expression technologies. Horizon Press, Norwich, United Kingdom, 253-296, 2005"
+        "citation": "Protein expression technologies. Horizon Press, Norwich, United Kingdom, 253-296, 2005",
+        "num_citations": 10,
+        "author_pub_id": "NnIC2iAAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Sensing and analyzing unfolded protein response during heterologous protein production",
         "pub_year": "2008",
-        "citation": "ProQuest, 2008"
+        "citation": "ProQuest, 2008",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:i2xiXl-TujoC"
     },
     {
         "title": "Sertoli-Leydig cell tumor of the ovary with heterologous elements and carcinoid: An immunohistochemical and ultrastructural study",
         "pub_year": "1983",
-        "citation": "Ultrastructural Pathology 5 (2-3), 185-194, 1983"
+        "citation": "Ultrastructural Pathology 5 (2-3), 185-194, 1983",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Short Chain Lipids Maintain Adenosine A2AR Ligand Binding in the Absence of Cholesterol",
         "pub_year": "2014",
-        "citation": "Biophysical Journal 106 (2), 518a, 2014"
+        "citation": "Biophysical Journal 106 (2), 518a, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "Short Hydrocarbon Chain Lipids Enable Class a G Protein-Coupled Receptor Isolation in its Active Conformation: Eliminating the Need for Detergents",
         "pub_year": "2013",
-        "citation": "Biophysical Journal 104 (2), 42a, 2013"
+        "citation": "Biophysical Journal 104 (2), 42a, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Signaling cross-talk of GPCRs measured using a model signaling pathway",
         "pub_year": "2013",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013"
+        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Simulating GPCRS in Minimal Membrane Mixtures",
         "pub_year": "2018",
-        "citation": "Biophysical Journal 114 (3), 268a, 2018"
+        "citation": "Biophysical Journal 114 (3), 268a, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Spatial Localization of Chaperone BiP in the Endoplasmic Reticulum of Yeast",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Spatial localisation of chaperone distribution in the endoplasmic reticulum of yeast",
         "pub_year": "2012",
-        "citation": "IET systems biology 6 (2), 54-63, 2012"
+        "citation": "IET systems biology 6 (2), 54-63, 2012",
+        "num_citations": 2,
+        "author_pub_id": "NnIC2iAAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Stability and ligand binding kinetics of a model GPCR in membrane mimetic environments",
         "pub_year": "2014",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 247, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Strategies to enhance productivity and modify product quality in therapeutic proteins",
         "pub_year": "2018",
-        "citation": "Current opinion in chemical engineering 22, 81-88, 2018"
+        "citation": "Current opinion in chemical engineering 22, 81-88, 2018",
+        "num_citations": 26,
+        "author_pub_id": "NnIC2iAAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Structural features important for receptor folding, trafficking and ligand recognition",
         "pub_year": "2013",
-        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013"
+        "citation": "MOLECULAR BIOLOGY OF THE CELL 24, 2013",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Structure‐function studies with G protein‐coupled receptors as a paradigm for improving drug discovery and development of therapeutics",
         "pub_year": "2012",
-        "citation": "Biotechnology journal 7 (12), 1451-1461, 2012"
+        "citation": "Biotechnology journal 7 (12), 1451-1461, 2012",
+        "num_citations": 32,
+        "author_pub_id": "NnIC2iAAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Supplemental Information: A2AR binding kinetics in the ligand depletion regime",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "The A2aR C‐terminus provides improved total and active expression yields for adenosine receptor chimeras",
         "pub_year": "2018",
-        "citation": "AIChE Journal 64 (12), 4297-4307, 2018"
+        "citation": "AIChE Journal 64 (12), 4297-4307, 2018",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "The Adenosine A1 and A2A receptor C-Termini are necessary for activation but not the specificity of downstream signaling",
         "pub_year": "2020",
-        "citation": "Authorea Preprints, 2020"
+        "citation": "Authorea Preprints, 2020",
+        "num_citations": 4,
+        "author_pub_id": "NnIC2iAAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "The C-terminus of the P22 tailspike protein acts as an independent oligomerization domain for monomeric proteins",
         "pub_year": "2009",
-        "citation": "Biochemical Journal 419 (3), 595-602, 2009"
+        "citation": "Biochemical Journal 419 (3), 595-602, 2009",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "The Interplay between GSK3β and Tau Ser262 Phosphorylation during the Progression of Tau Pathology",
         "pub_year": "2022",
-        "citation": "International Journal of Molecular Sciences 23 (19), 11610, 2022"
+        "citation": "International Journal of Molecular Sciences 23 (19), 11610, 2022",
+        "num_citations": 7,
+        "author_pub_id": "NnIC2iAAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "The Role of Cholesterol in Membrane Protein Activity",
         "pub_year": "2017",
-        "citation": "2017 AIChE Annual Meeting, 2017"
+        "citation": "2017 AIChE Annual Meeting, 2017",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "The Saccharomyces cerevisiae YFR041C/ERJ5 gene encoding a type I membrane protein with a J domain is required to preserve the folding capacity of the endoplasmic reticulum",
         "pub_year": "2007",
-        "citation": "Biochimica et Biophysica Acta (BBA)-Molecular Cell Research 1773 (2), 232-242, 2007"
+        "citation": "Biochimica et Biophysica Acta (BBA)-Molecular Cell Research 1773 (2), 232-242, 2007",
+        "num_citations": 37,
+        "author_pub_id": "NnIC2iAAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "The Specificity of Downstream Signaling for A1 and A2AR Does Not Depend on the C-Terminus, Despite the Importance of This Domain in Downstream Signaling …",
         "pub_year": "2020",
-        "citation": "Biomedicines 8 (12), 603, 2020"
+        "citation": "Biomedicines 8 (12), 603, 2020",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "The morphology and composition of cholesterol-rich micellar nanostructures determine transmembrane protein (GPCR) activity",
         "pub_year": "2011",
-        "citation": "Biophysical Journal 100 (2), L11-L13, 2011"
+        "citation": "Biophysical Journal 100 (2), L11-L13, 2011",
+        "num_citations": 51,
+        "author_pub_id": "NnIC2iAAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "The role of BIP and PDI in the secretion of foreign proteins in the yeast Saccharomyces cerevisiae",
         "pub_year": "1994",
-        "citation": "University of Illinois at Urbana-Champaign, 1994"
+        "citation": "University of Illinois at Urbana-Champaign, 1994",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "The role of oxidative stress on tau protein homeostasis in neurodegenerative diseases",
         "pub_year": "2012",
-        "citation": "University of Delaware, 2012"
+        "citation": "University of Delaware, 2012",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:PoWvk5oyLR8C"
     },
     {
         "title": "Thermolabile folding intermediates: inclusion body precursors and chaperonin substrates",
         "pub_year": "1996",
-        "citation": "The FASEB journal: official publication of the Federation of American …, 1996"
+        "citation": "The FASEB journal: official publication of the Federation of American …, 1996",
+        "num_citations": 187,
+        "author_pub_id": "NnIC2iAAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Three amino acids that are critical to formation and stability of the P22 tailspike trimer",
         "pub_year": "2005",
-        "citation": "Protein science 14 (9), 2333-2343, 2005"
+        "citation": "Protein science 14 (9), 2333-2343, 2005",
+        "num_citations": 6,
+        "author_pub_id": "NnIC2iAAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Toward online control of glycosylation in MAbs",
         "pub_year": "2011",
-        "citation": "Computer Aided Chemical Engineering 29, 1331-1335, 2011"
+        "citation": "Computer Aided Chemical Engineering 29, 1331-1335, 2011",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Toward rational design of protein detergent complexes: determinants of mixed micelles that are critical for the in vitro stabilization of a G-protein coupled receptor",
         "pub_year": "2011",
-        "citation": "Biophysical journal 101 (8), 1938-1948, 2011"
+        "citation": "Biophysical journal 101 (8), 1938-1948, 2011",
+        "num_citations": 47,
+        "author_pub_id": "NnIC2iAAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Transgenic mouse and cell culture models demonstrate a lack of mechanistic connection between endoplasmic reticulum stress and tau dysfunction",
         "pub_year": "2010",
-        "citation": "Journal of neuroscience research 88 (9), 1951-1961, 2010"
+        "citation": "Journal of neuroscience research 88 (9), 1951-1961, 2010",
+        "num_citations": 27,
+        "author_pub_id": "NnIC2iAAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Understanding aggregation pathways and the benefits of working under pressure",
         "pub_year": "2010",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 239, 2010"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 239, 2010",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Understanding the effect of oxidative and ER stress on CHO cell culture and product quality through multivariate analysis",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "Understanding the mechanism of in surfo crystallization of membrane proteins",
         "pub_year": "2015",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 249, 2015",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Use of a structured situation-background-assessment-recommendation (SBAR) approach to clinic letter dictation to improve communication between primary and secondary care",
         "pub_year": "2014",
-        "citation": "DIABETIC MEDICINE 31, 170-170, 2014"
+        "citation": "DIABETIC MEDICINE 31, 170-170, 2014",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Use of hydrostatic pressure to inhibit and reverse protein aggregation and facilitate protein refolding",
         "pub_year": "2009",
-        "citation": "US Patent 7,615,617, 2009"
+        "citation": "US Patent 7,615,617, 2009",
+        "num_citations": 14,
+        "author_pub_id": "NnIC2iAAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Use of single analytic tool to quantify both absolute N‐glycosylation and glycan distribution in monoclonal antibodies",
         "pub_year": "2023",
-        "citation": "Biotechnology Progress 39 (5), e3365, 2023"
+        "citation": "Biotechnology Progress 39 (5), e3365, 2023",
+        "num_citations": 1,
+        "author_pub_id": "NnIC2iAAAAAJ:q3CdL3IzO_QC"
     },
     {
         "title": "Using fluorescence anisotropy for ligand binding kinetics of membrane proteins",
         "pub_year": "2018",
-        "citation": "Current Protocols in Protein Science 93 (1), e63, 2018"
+        "citation": "Current Protocols in Protein Science 93 (1), e63, 2018",
+        "num_citations": 8,
+        "author_pub_id": "NnIC2iAAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Vulnerabilities in the tau network and the role of ultrasensitive points in tau pathophysiology",
         "pub_year": "2010",
-        "citation": "PLoS computational biology 6 (11), e1000997, 2010"
+        "citation": "PLoS computational biology 6 (11), e1000997, 2010",
+        "num_citations": 15,
+        "author_pub_id": "NnIC2iAAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Weak protein interactions and pH-and temperature-dependent aggregation of human Fc1",
         "pub_year": "2015",
-        "citation": "MAbs 7 (6), 1072-1083, 2015"
+        "citation": "MAbs 7 (6), 1072-1083, 2015",
+        "num_citations": 21,
+        "author_pub_id": "NnIC2iAAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Yeast as a model to study biased signaling of GPCRs",
         "pub_year": "2019",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 257, 2019"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 257, 2019",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Yeast as a platform to study adenosine receptor signaling",
         "pub_year": "2018",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018"
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 255, 2018",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Zhong Zhang, Zhi-hua Li, Fei Wang, Min Fang, Chang-cheng Yin, Zhi-yong Zhou, Qing Lin, and Hua-liang Huang",
         "pub_year": "2002",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:MXK_kJrjxJIC"
     }
 ]
