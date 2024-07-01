@@ -80,7 +80,7 @@
         "title": "Atomic force microscope image contrast mechanisms on supported lipid bilayers",
         "pub_year": "2000",
         "citation": "Biophysical journal 79 (2), 1107-1118, 2000",
-        "num_citations": 157,
+        "num_citations": 156,
         "author_pub_id": "amrrCWAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -136,14 +136,14 @@
         "title": "Characterization of distance-dependent damping in tapping-mode atomic force microscopy force measurements in liquid",
         "pub_year": "2004",
         "citation": "Langmuir 20 (8), 3195-3201, 2004",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "amrrCWAAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Characterization of the physical properties of model biomembranes at the nanometer scale with the atomic force microscope",
         "pub_year": "1999",
         "citation": "Faraday discussions 111, 79-94, 1999",
-        "num_citations": 175,
+        "num_citations": 173,
         "author_pub_id": "amrrCWAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Determination of the zeta potential of planar solids in nonpolar liquids",
         "pub_year": "2021",
         "citation": "Journal of Colloid and Interface Science 592, 271-278, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "amrrCWAAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Distribution of Cd in the vicinity of a metal smelter: Interpolation of soil Cd concentrations with regard to regulative limits",
         "pub_year": "2002",
         "citation": "Journal of Plant Nutrition and Soil Science 165 (6), 697-705, 2002",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "amrrCWAAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "Encyclopedia of surface and colloid science",
         "pub_year": "2002",
         "citation": "CRC press, 2002",
-        "num_citations": 1239,
+        "num_citations": 1150,
         "author_pub_id": "amrrCWAAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -350,7 +350,6 @@
     },
     {
         "title": "Front-End Processing of Cell Lysates for Enhanced Chip-Based Detection",
-        "pub_year": "2006",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "amrrCWAAAAAJ:k_IJM867U9cC"
@@ -366,14 +365,14 @@
         "title": "High affinity γPNA sandwich hybridization assay for rapid detection of short nucleic acid targets with single mismatch discrimination",
         "pub_year": "2013",
         "citation": "Biomacromolecules 14 (7), 2253-2261, 2013",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "amrrCWAAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "High capacity, charge-selective protein uptake by polyelectrolyte brushes",
         "pub_year": "2007",
         "citation": "Langmuir 23 (8), 4448-4454, 2007",
-        "num_citations": 171,
+        "num_citations": 170,
         "author_pub_id": "amrrCWAAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -510,14 +509,14 @@
         "title": "Morphological characterization of self-assembled peptide nucleic acid amphiphiles",
         "pub_year": "2006",
         "citation": "The Journal of Physical Chemistry B 110 (18), 9027-9033, 2006",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "amrrCWAAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Nanometer scale surface properties of supported lipid bilayers measured with hydrophobic and hydrophilic atomic force microscope probes",
         "pub_year": "2003",
         "citation": "Langmuir 19 (5), 1899-1907, 2003",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "amrrCWAAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -608,11 +607,11 @@
         "title": "Progress toward rapid, at-line N-glycosylation detection and control for recombinant protein expression",
         "pub_year": "2022",
         "citation": "Current Opinion in Biotechnology 78, 102788, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "amrrCWAAAAAJ:PELIpwtuRlgC"
     },
     {
-        "title": "Projective integration with an adaptive projection horizon",
+        "title": "Projective Integration with an Adaptive Projection Horizon",
         "pub_year": "2013",
         "citation": "IFAC Proceedings Volumes 46 (32), 721-725, 2013",
         "num_citations": 1,
@@ -636,7 +635,7 @@
         "title": "Quasi-Equilibrium AFM Measurement of Disjoining Pressure in Lubricant Nanofilms II: Effect of Substrate Materials",
         "pub_year": "2009",
         "citation": "Langmuir 25 (4), 2101–2106, 2009",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "amrrCWAAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -646,18 +645,11 @@
         "author_pub_id": "amrrCWAAAAAJ:g5m5HwL7SMYC"
     },
     {
-        "title": "Rapid In-Process Measurement of Live Virus Vaccine Potency Using Laser Force Cytology: Paving the Way for Rapid Vaccine Development",
+        "title": "Rapid in-process measurement of live virus vaccine potency using laser force cytology: paving the way for rapid vaccine development",
         "pub_year": "2022",
         "citation": "Vaccines 10 (10), 1589, 2022",
         "num_citations": 5,
         "author_pub_id": "amrrCWAAAAAJ:_B80troHkn4C"
-    },
-    {
-        "title": "Rapid In-Process Measurement of Live Virus Vaccine Potency Using Laser Force Cytology: Paving the Way for Rapid Vaccine Development. Vaccines 2022, 10, 1589",
-        "pub_year": "2022",
-        "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published …, 2022",
-        "num_citations": 0,
-        "author_pub_id": "amrrCWAAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Rapid, multiplexed detection of the let‐7 miRNA family using γPNA amphiphiles in micelle‐tagging electrophoresis",
@@ -669,8 +661,8 @@
     {
         "title": "Reassignment of the O- complex in CdTe",
         "pub_year": "2011",
-        "citation": "Physical Review B 84 (23), 233201, 2011",
-        "num_citations": 11,
+        "citation": "Physical Review B—Condensed Matter and Materials Physics 84 (23), 233201, 2011",
+        "num_citations": 13,
         "author_pub_id": "amrrCWAAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -684,7 +676,7 @@
         "title": "Rosmarinic acid enhances CHO cell productivity and proliferation through activation of the unfolded protein response and the mTOR pathway",
         "pub_year": "2024",
         "citation": "Biotechnology Journal 19 (1), 2300397, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "amrrCWAAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -769,6 +761,13 @@
         "citation": "Biotechnology and bioengineering 97 (2), 367-376, 2007",
         "num_citations": 15,
         "author_pub_id": "amrrCWAAAAAJ:roLk4NBRz8UC"
+    },
+    {
+        "title": "Snagging mRNA in Wormlike Micelle Networks",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "amrrCWAAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Structural study of langmuir monolayers containing lipidated poly (ethylene glycol) and peptides",

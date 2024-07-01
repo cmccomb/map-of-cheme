@@ -2,654 +2,930 @@
     {
         "title": "A Cellular Automata Approach for Simulation of Crystal Growth",
         "pub_year": "2017",
-        "citation": "2017 AIChE Annual Meeting, 2017"
+        "citation": "2017 AIChE Annual Meeting, 2017",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "A Model for Solute Macro-Transport in Spatio-Temporally Inhomogeneous Flows: Application to Dispersion in Slip-Stick Channels and Eccentric Annulus",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "A continuum approach to predicting electrophoretic mobility reversals",
         "pub_year": "2014",
-        "citation": "Journal of Fluid Mechanics 752, R1, 2014"
+        "citation": "Journal of Fluid Mechanics 752, R1, 2014",
+        "num_citations": 44,
+        "author_pub_id": "PInIkl8AAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "A higher-order slender-body theory for axisymmetric flow past a particle at moderate Reynolds number",
         "pub_year": "2018",
-        "citation": "Journal of Fluid Mechanics 855, 421-444, 2018"
+        "citation": "Journal of Fluid Mechanics 855, 421-444, 2018",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "A mathematical model for electrical impedance spectroscopy of zwitterionic hydrogels",
         "pub_year": "2016",
-        "citation": "Soft Matter 12 (33), 7028-7037, 2016"
+        "citation": "Soft Matter 12 (33), 7028-7037, 2016",
+        "num_citations": 12,
+        "author_pub_id": "PInIkl8AAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "A model for the fluid dynamic behavior of a film coating suspension during tablet coating",
         "pub_year": "2020",
-        "citation": "Chemical Engineering Research and Design 160, 301-320, 2020"
+        "citation": "Chemical Engineering Research and Design 160, 301-320, 2020",
+        "num_citations": 7,
+        "author_pub_id": "PInIkl8AAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "A multiple-timing analysis of temporal ratcheting",
         "pub_year": "2024",
-        "citation": "The European Physical Journal E 47 (4), 1-8, 2024"
+        "citation": "The European Physical Journal E 47 (4), 1-8, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "A new resistance function for two rigid spheres in a uniform compressible low-Reynolds-number flow",
         "pub_year": "2006",
-        "citation": "Physics of Fluids 18 (4), 2006"
+        "citation": "Physics of Fluids 18 (4), 2006",
+        "num_citations": 11,
+        "author_pub_id": "PInIkl8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "A squirmer across Reynolds numbers",
         "pub_year": "2016",
-        "citation": "Journal of Fluid Mechanics 796, 233-256, 2016"
+        "citation": "Journal of Fluid Mechanics 796, 233-256, 2016",
+        "num_citations": 96,
+        "author_pub_id": "PInIkl8AAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "A squirmer across Reynolds numbers",
         "pub_year": "2016",
-        "citation": "Cambridge University Press, 2016"
+        "citation": "Cambridge University Press, 2016",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "A theoretical bridge between linear and nonlinear microrheology",
         "pub_year": "2011",
-        "citation": "Physics of Fluids 23 (6), 2011"
+        "citation": "Physics of Fluids 23 (6), 2011",
+        "num_citations": 23,
+        "author_pub_id": "PInIkl8AAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "A thin double layer analysis of asymmetric rectified electric fields (AREFs)",
         "pub_year": "2021",
-        "citation": "Journal of Engineering Mathematics 129 (1), 4, 2021"
+        "citation": "Journal of Engineering Mathematics 129 (1), 4, 2021",
+        "num_citations": 7,
+        "author_pub_id": "PInIkl8AAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Active microrheology: a proposed technique to measure normal stress coefficients of complex fluids",
         "pub_year": "2010",
-        "citation": "Physical review letters 105 (15), 156001, 2010"
+        "citation": "Physical review letters 105 (15), 156001, 2010",
+        "num_citations": 45,
+        "author_pub_id": "PInIkl8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Advective-diffusive spreading of diffusiophoretic colloids under transient solute gradients",
         "pub_year": "2020",
-        "citation": "Soft Matter 16 (1), 238-246, 2020"
+        "citation": "Soft Matter 16 (1), 238-246, 2020",
+        "num_citations": 20,
+        "author_pub_id": "PInIkl8AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Asymptotic analysis of double-carrier, space-charge-limited transport in organic light-emitting diodes",
         "pub_year": "2013",
-        "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2013"
+        "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2013",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Breaking electrolyte symmetry in induced-charge electro-osmosis",
         "pub_year": "2020",
-        "citation": "Journal of Fluid Mechanics 905, A20, 2020"
+        "citation": "Journal of Fluid Mechanics 905, A20, 2020",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:CHSYGLWDkRkC"
     },
     {
         "title": "C Abstract for an Invited Paper for the DFD09 Meeting of The American Physical Society",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Chaotic dynamics of an autophoretic particle",
         "pub_year": "2022",
-        "citation": "arXiv e-prints, arXiv: 2203.01988, 2022"
+        "citation": "arXiv e-prints, arXiv: 2203.01988, 2022",
+        "num_citations": 1,
+        "author_pub_id": "PInIkl8AAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Characterization of the nonlinear electrophoretic behavior of colloidal particles in a microfluidic channel",
         "pub_year": "2023",
-        "citation": "Analytical Chemistry 95 (16), 6740-6747, 2023"
+        "citation": "Analytical Chemistry 95 (16), 6740-6747, 2023",
+        "num_citations": 13,
+        "author_pub_id": "PInIkl8AAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Colloidal stability dictates drop breakup under electric fields",
         "pub_year": "2018",
-        "citation": "Soft Matter 14 (46), 9351-9360, 2018"
+        "citation": "Soft Matter 14 (46), 9351-9360, 2018",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Colloidal stability dictates drop breakup under electric fields",
         "pub_year": "2018",
-        "citation": "Bulletin of the American Physical Society 63, 2018"
+        "citation": "Bulletin of the American Physical Society 63, 2018",
+        "num_citations": 1,
+        "author_pub_id": "PInIkl8AAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Complex Fluids and Transport Phenomena in the Pharmaceutical and Process Development Industry",
         "pub_year": "2023",
-        "citation": "2023 AIChE Annual Meeting, 2023"
+        "citation": "2023 AIChE Annual Meeting, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Concentration polarization and second-kind electrokinetic instability at an ion-selective surface admitting normal flow",
         "pub_year": "2011",
-        "citation": "Physics of Fluids 23 (7), 2011"
+        "citation": "Physics of Fluids 23 (7), 2011",
+        "num_citations": 77,
+        "author_pub_id": "PInIkl8AAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Coupling electrokinetics and rheology: electrophoresis in non-Newtonian fluids",
         "pub_year": "2012",
-        "citation": "Physical Review E 85 (1), 016320, 2012"
+        "citation": "Physical Review E 85 (1), 016320, 2012",
+        "num_citations": 42,
+        "author_pub_id": "PInIkl8AAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Deformation of a conducting drop in a randomly fluctuating electric field",
         "pub_year": "2020",
-        "citation": "Physical Review Fluids 5 (6), 063701, 2020"
+        "citation": "Physical Review Fluids 5 (6), 063701, 2020",
+        "num_citations": 1,
+        "author_pub_id": "PInIkl8AAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Determination of charge carrier concentration in doped nonpolar liquids by impedance spectroscopy in the presence of charge adsorption",
         "pub_year": "2016",
-        "citation": "Journal of colloid and interface science 469, 325-337, 2016"
+        "citation": "Journal of colloid and interface science 469, 325-337, 2016",
+        "num_citations": 25,
+        "author_pub_id": "PInIkl8AAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Determination of the Zeta Potential of Planar Solids in Nonpolar Liquids",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Determination of the zeta potential of planar solids in nonpolar liquids",
         "pub_year": "2021",
-        "citation": "Journal of Colloid and Interface Science 592, 271-278, 2021"
+        "citation": "Journal of Colloid and Interface Science 592, 271-278, 2021",
+        "num_citations": 2,
+        "author_pub_id": "PInIkl8AAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Diffuse charge dynamics in ionic thermoelectrochemical systems",
         "pub_year": "2017",
-        "citation": "Physical Review E 96 (2), 022604, 2017"
+        "citation": "Physical Review E 96 (2), 022604, 2017",
+        "num_citations": 31,
+        "author_pub_id": "PInIkl8AAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Diffusiophoresis of charged colloidal particles in the limit of very high salinity",
         "pub_year": "2019",
-        "citation": "Proceedings of the National Academy of Sciences 116 (37), 18257-18262, 2019"
+        "citation": "Proceedings of the National Academy of Sciences 116 (37), 18257-18262, 2019",
+        "num_citations": 50,
+        "author_pub_id": "PInIkl8AAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Diffusiophoresis of colloidal particles in neutral solute gradients at finite Péclet number",
         "pub_year": "2013",
-        "citation": "Journal of Fluid Mechanics 731, 64-94, 2013"
+        "citation": "Journal of Fluid Mechanics 731, 64-94, 2013",
+        "num_citations": 39,
+        "author_pub_id": "PInIkl8AAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Diffusiophoretic Spreading Under Localized, Transient Solute Gradients: From Trapping to Super-Diffusion",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:4OULZ7Gr8RgC"
+    },
+    {
+        "title": "Diffusiophoretic Transport of Charged Colloids in Ionic Surfactant Gradients Entirely below versus Entirely above the Critical Micelle Concentration",
+        "pub_year": "2024",
+        "citation": "Langmuir, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Discharging dynamics in an electrolytic cell",
         "pub_year": "2016",
-        "citation": "Physical Review E 94 (1), 012601, 2016"
+        "citation": "Physical Review E 94 (1), 012601, 2016",
+        "num_citations": 16,
+        "author_pub_id": "PInIkl8AAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Dispersion in Steady Two-Dimensional Flows through a Parallel-Plate Channel",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Dispersion in steady and time-oscillatory two-dimensional flows through a parallel-plate channel",
         "pub_year": "2019",
-        "citation": "Physics of Fluids 31 (2), 2019"
+        "citation": "Physics of Fluids 31 (2), 2019",
+        "num_citations": 29,
+        "author_pub_id": "PInIkl8AAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Dispersion in steady and time‐oscillatory flows through an eccentric annulus",
         "pub_year": "2020",
-        "citation": "AIChE Journal 66 (2), e16831, 2020"
+        "citation": "AIChE Journal 66 (2), e16831, 2020",
+        "num_citations": 15,
+        "author_pub_id": "PInIkl8AAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Dispersion with a pinch of salt",
         "pub_year": "2023",
-        "citation": "Journal of Fluid Mechanics 974, F1, 2023"
+        "citation": "Journal of Fluid Mechanics 974, F1, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Drift volume in viscous flows",
         "pub_year": "2017",
-        "citation": "Physical Review Fluids 2 (6), 064101, 2017"
+        "citation": "Physical Review Fluids 2 (6), 064101, 2017",
+        "num_citations": 12,
+        "author_pub_id": "PInIkl8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Drop deformation during diffusiophoresis",
         "pub_year": "2022",
-        "citation": "Journal of Fluid Mechanics 949, A17, 2022"
+        "citation": "Journal of Fluid Mechanics 949, A17, 2022",
+        "num_citations": 4,
+        "author_pub_id": "PInIkl8AAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Drop pair dynamics in a uniform electric field",
         "pub_year": "2020",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, Z05. 003, 2020"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, Z05. 003, 2020",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Dynamic double layer force between charged surfaces",
         "pub_year": "2020",
-        "citation": "Physical Review Research 2 (1), 013138, 2020"
+        "citation": "Physical Review Research 2 (1), 013138, 2020",
+        "num_citations": 4,
+        "author_pub_id": "PInIkl8AAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Dynamic interfacial tension measurement under electric fields allows detection of charge carriers in nonpolar liquids",
         "pub_year": "2020",
-        "citation": "Journal of colloid and interface science 567, 18-27, 2020"
+        "citation": "Journal of colloid and interface science 567, 18-27, 2020",
+        "num_citations": 8,
+        "author_pub_id": "PInIkl8AAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Dynamics of a self-diffusiophoretic particle in shear flow",
         "pub_year": "2014",
-        "citation": "Physical Review E 90 (1), 013030, 2014"
+        "citation": "Physical Review E 90 (1), 013030, 2014",
+        "num_citations": 30,
+        "author_pub_id": "PInIkl8AAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Dynamics of a sphere in inertial shear flow between parallel walls",
         "pub_year": "2021",
-        "citation": "Journal of Fluid Mechanics 915, A119, 2021"
+        "citation": "Journal of Fluid Mechanics 915, A119, 2021",
+        "num_citations": 14,
+        "author_pub_id": "PInIkl8AAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Dynamics of a viscous drop under an oscillatory uniaxial extensional Stokes flow",
         "pub_year": "2022",
-        "citation": "International Journal of Multiphase Flow 146, 103844, 2022"
+        "citation": "International Journal of Multiphase Flow 146, 103844, 2022",
+        "num_citations": 8,
+        "author_pub_id": "PInIkl8AAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Dynamics of forced and unforced autophoretic particles",
         "pub_year": "2022",
-        "citation": "Journal of Fluid Mechanics 948, A41, 2022"
+        "citation": "Journal of Fluid Mechanics 948, A41, 2022",
+        "num_citations": 12,
+        "author_pub_id": "PInIkl8AAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Dynamics of forced and unforced autophoretic particles",
         "pub_year": "2023",
-        "citation": "2023 AIChE Annual Meeting, 2023"
+        "citation": "2023 AIChE Annual Meeting, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Effect of polymer/surfactant complexation on diffusiophoresis of colloids in surfactant concentration gradients",
         "pub_year": "2023",
-        "citation": "Journal of Colloid and Interface Science 642, 169-181, 2023"
+        "citation": "Journal of Colloid and Interface Science 642, 169-181, 2023",
+        "num_citations": 5,
+        "author_pub_id": "PInIkl8AAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Effect of speed fluctuations on the collective dynamics of active disks",
         "pub_year": "2023",
-        "citation": "Soft Matter 19 (40), 7764-7774, 2023"
+        "citation": "Soft Matter 19 (40), 7764-7774, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Effective viscosity of a dilute emulsion of spherical drops containing soluble surfactant",
         "pub_year": "2018",
-        "citation": "Rheologica Acta 57, 481-491, 2018"
+        "citation": "Rheologica Acta 57, 481-491, 2018",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Efficiently accounting for ion correlations in electrokinetic nanofluidic devices using density functional theory",
         "pub_year": "2011",
-        "citation": "Journal of colloid and interface science 359 (2), 520-529, 2011"
+        "citation": "Journal of colloid and interface science 359 (2), 520-529, 2011",
+        "num_citations": 61,
+        "author_pub_id": "PInIkl8AAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Electric fields enable tunable surfactant transport to microscale fluid interfaces",
         "pub_year": "2019",
-        "citation": "Physical Review E 100 (2), 023114, 2019"
+        "citation": "Physical Review E 100 (2), 023114, 2019",
+        "num_citations": 5,
+        "author_pub_id": "PInIkl8AAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Electrohydrodynamics of Drops in Randomly Fluctuating Electric Fields",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Electrostatic forces on two almost touching nonspherical charged conductors",
         "pub_year": "2013",
-        "citation": "Journal of Applied Physics 114 (13), 2013"
+        "citation": "Journal of Applied Physics 114 (13), 2013",
+        "num_citations": 23,
+        "author_pub_id": "PInIkl8AAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Equilibrium Position Bifurcation and Manipulation for a Sphere in Inertial Shear Flow between Parallel Walls",
         "pub_year": "2020",
-        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Exact solutions for quantifying spreading of chemotactic and diffusiophoretic species under a hydrodynamic flow",
         "pub_year": "2021",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, A23. 004, 2021"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, A23. 004, 2021",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Expansions at small Reynolds numbers for the locomotion of a spherical squirmer",
         "pub_year": "2014",
-        "citation": "Physics of Fluids 26 (1), 2014"
+        "citation": "Physics of Fluids 26 (1), 2014",
+        "num_citations": 64,
+        "author_pub_id": "PInIkl8AAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Forced convection heat and mass transfer from a slender particle",
         "pub_year": "2017",
-        "citation": "Chemical Engineering Science 174, 285-289, 2017"
+        "citation": "Chemical Engineering Science 174, 285-289, 2017",
+        "num_citations": 8,
+        "author_pub_id": "PInIkl8AAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Forced wetting in a square capillary",
         "pub_year": "2022",
-        "citation": "Physical Review Fluids 7 (11), 114002, 2022"
+        "citation": "Physical Review Fluids 7 (11), 114002, 2022",
+        "num_citations": 4,
+        "author_pub_id": "PInIkl8AAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Formation of charge carriers in liquids",
         "pub_year": "2017",
-        "citation": "Advances in colloid and interface science 244, 21-35, 2017"
+        "citation": "Advances in colloid and interface science 244, 21-35, 2017",
+        "num_citations": 30,
+        "author_pub_id": "PInIkl8AAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Fundamental aspects of concentration polarization arising from nonuniform electrokinetic transport",
         "pub_year": "2008",
-        "citation": "Physics of Fluids 20 (8), 2008"
+        "citation": "Physics of Fluids 20 (8), 2008",
+        "num_citations": 82,
+        "author_pub_id": "PInIkl8AAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Gelatin‐Based Ingestible Impedance Sensor to Evaluate Gastrointestinal Epithelial Barriers",
         "pub_year": "2023",
-        "citation": "Advanced Materials 35 (17), 2211581, 2023"
+        "citation": "Advanced Materials 35 (17), 2211581, 2023",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Gravitational settling of active droplets",
         "pub_year": "2023",
-        "citation": "Physical Review E 107 (2), 024608, 2023"
+        "citation": "Physical Review E 107 (2), 024608, 2023",
+        "num_citations": 12,
+        "author_pub_id": "PInIkl8AAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Gravitational settling of active droplets",
         "pub_year": "2023",
-        "citation": "APS March Meeting Abstracts 2023, F18. 001, 2023"
+        "citation": "APS March Meeting Abstracts 2023, F18. 001, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Hydrodynamic slip significantly alters chaotic advection and scattering of small particles",
         "pub_year": "2022",
-        "citation": "Physical Review Fluids 7 (8), 084504, 2022"
+        "citation": "Physical Review Fluids 7 (8), 084504, 2022",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Inertial bifurcation of the equilibrium position of a neutrally-buoyant circular cylinder in shear flow between parallel walls",
         "pub_year": "2020",
-        "citation": "Physical Review Research 2 (1), 013009, 2020"
+        "citation": "Physical Review Research 2 (1), 013009, 2020",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Influence of ion sterics on diffusiophoresis and electrophoresis in concentrated electrolytes",
         "pub_year": "2017",
-        "citation": "Physical Review Fluids 2 (1), 014201, 2017"
+        "citation": "Physical Review Fluids 2 (1), 014201, 2017",
+        "num_citations": 42,
+        "author_pub_id": "PInIkl8AAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Interfacially-adsorbed particles enhance the self-propulsion of oil droplets in aqueous surfactant",
         "pub_year": "2021",
-        "citation": "Soft Matter 17 (28), 6742-6750, 2021"
+        "citation": "Soft Matter 17 (28), 6742-6750, 2021",
+        "num_citations": 23,
+        "author_pub_id": "PInIkl8AAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Ion steric effects on electrophoresis of a colloidal particle",
         "pub_year": "2009",
-        "citation": "Journal of fluid mechanics 640, 343-356, 2009"
+        "citation": "Journal of fluid mechanics 640, 343-356, 2009",
+        "num_citations": 88,
+        "author_pub_id": "PInIkl8AAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Irreversible Electrokinetic Repulsion at Zero-Reynolds-Number Sedimentation",
         "pub_year": "2011",
-        "citation": "Physical Review Letters 107 (27), 278301, 2011"
+        "citation": "Physical Review Letters 107 (27), 278301, 2011",
+        "num_citations": 6,
+        "author_pub_id": "PInIkl8AAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Large amplitude oscillatory shear of the Giesekus model",
         "pub_year": "2016",
-        "citation": "Journal of Rheology 60 (2), 257-266, 2016"
+        "citation": "Journal of Rheology 60 (2), 257-266, 2016",
+        "num_citations": 28,
+        "author_pub_id": "PInIkl8AAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Linear viscoelasticity of a dilute active suspension",
         "pub_year": "2017",
-        "citation": "Rheologica Acta 56, 149-160, 2017"
+        "citation": "Rheologica Acta 56, 149-160, 2017",
+        "num_citations": 14,
+        "author_pub_id": "PInIkl8AAAAJ:mB3voiENLucC"
     },
     {
         "title": "Macrotransport of Chemotactic and Diffusiophoretic Species: Characterizing Species Spreading, Size, and Diffusivity",
         "pub_year": "2021",
-        "citation": "2021 AIChE Annual Meeting, 2021"
+        "citation": "2021 AIChE Annual Meeting, 2021",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Macrotransport of Replicating Species in Chemically Compressible Flows",
         "pub_year": "2020",
-        "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Macrotransport theory for diffusiophoretic colloids and chemotactic microorganisms",
         "pub_year": "2021",
-        "citation": "Journal of Fluid Mechanics 917, A52, 2021"
+        "citation": "Journal of Fluid Mechanics 917, A52, 2021",
+        "num_citations": 19,
+        "author_pub_id": "PInIkl8AAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "Mathematical simulation of ultra-thin polymeric film spreading dynamics",
         "pub_year": "2001",
-        "citation": "IEEE transactions on magnetics 37 (4), 1866-1868, 2001"
+        "citation": "IEEE transactions on magnetics 37 (4), 1866-1868, 2001",
+        "num_citations": 13,
+        "author_pub_id": "PInIkl8AAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Microfluidic and Nanoscale Flows: Multiphase Systems and External Fields",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Microfluidic and Nanoscale Flows: Separations & Particulates",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Microrheology of colloidal dispersions: Shape matters",
         "pub_year": "2008",
-        "citation": "Journal of rheology 52 (1), 165-196, 2008"
+        "citation": "Journal of rheology 52 (1), 165-196, 2008",
+        "num_citations": 48,
+        "author_pub_id": "PInIkl8AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Migration of an electrophoretic particle in a weakly inertial or viscoelastic shear flow",
         "pub_year": "2020",
-        "citation": "Physical Review Fluids 5 (3), 033702, 2020"
+        "citation": "Physical Review Fluids 5 (3), 033702, 2020",
+        "num_citations": 18,
+        "author_pub_id": "PInIkl8AAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Moderately nonlinear diffuse-charge dynamics under an ac voltage",
         "pub_year": "2015",
-        "citation": "Physical Review E 92 (3), 032305, 2015"
+        "citation": "Physical Review E 92 (3), 032305, 2015",
+        "num_citations": 24,
+        "author_pub_id": "PInIkl8AAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Moving ion fronts in mixed ionic‐electronic conducting polymer films",
         "pub_year": "2015",
-        "citation": "AIChE Journal 61 (4), 1447-1454, 2015"
+        "citation": "AIChE Journal 61 (4), 1447-1454, 2015",
+        "num_citations": 7,
+        "author_pub_id": "PInIkl8AAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Non-Brownian diffusion and chaotic rheology of autophoretic disks",
         "pub_year": "2023",
-        "citation": "Physical Review E 107 (4), 044609, 2023"
+        "citation": "Physical Review E 107 (4), 044609, 2023",
+        "num_citations": 4,
+        "author_pub_id": "PInIkl8AAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Nonequilibrium structure formation in electrohydrodynamic emulsions",
         "pub_year": "2023",
-        "citation": "Soft Matter 19 (47), 9179-9194, 2023"
+        "citation": "Soft Matter 19 (47), 9179-9194, 2023",
+        "num_citations": 1,
+        "author_pub_id": "PInIkl8AAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Nonlinear electrohydrodynamics of slightly deformed oblate drops",
         "pub_year": "2015",
-        "citation": "Journal of Fluid Mechanics 774, 245-266, 2015"
+        "citation": "Journal of Fluid Mechanics 774, 245-266, 2015",
+        "num_citations": 93,
+        "author_pub_id": "PInIkl8AAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Nonlinear electrophoresis of colloidal particles",
         "pub_year": "2022",
-        "citation": "Current Opinion in Colloid & Interface Science 59, 101587, 2022"
+        "citation": "Current Opinion in Colloid & Interface Science 59, 101587, 2022",
+        "num_citations": 30,
+        "author_pub_id": "PInIkl8AAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Nonlinear electrophoretic velocity of a spherical colloidal particle",
         "pub_year": "2023",
-        "citation": "Journal of Fluid Mechanics 968, A14, 2023"
+        "citation": "Journal of Fluid Mechanics 968, A14, 2023",
+        "num_citations": 8,
+        "author_pub_id": "PInIkl8AAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Nonlinear of colloidal",
         "pub_year": "2022",
-        "citation": "CURRENT OPINION IN COLLOID & INTERFACE SCIENCE 59, 2022"
+        "citation": "CURRENT OPINION IN COLLOID & INTERFACE SCIENCE 59, 2022",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Nonlinear relaxation modulus via dual-frequency medium amplitude oscillatory shear (MAOS): General framework and case study for a dilute suspension of Brownian spheroids",
         "pub_year": "2017",
-        "citation": "Journal of Rheology 61 (1), 67-82, 2017"
+        "citation": "Journal of Rheology 61 (1), 67-82, 2017",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Nonlinear viscoelasticity of a dilute suspension of Brownian spheroids in oscillatory shear flow",
         "pub_year": "2018",
-        "citation": "Journal of Rheology 62 (6), 1457-1483, 2018"
+        "citation": "Journal of Rheology 62 (6), 1457-1483, 2018",
+        "num_citations": 5,
+        "author_pub_id": "PInIkl8AAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Numerical and asymptotic analysis of the three-dimensional electrohydrodynamic interactions of drop pairs",
         "pub_year": "2021",
-        "citation": "Journal of Fluid Mechanics 914, A24, 2021"
+        "citation": "Journal of Fluid Mechanics 914, A24, 2021",
+        "num_citations": 15,
+        "author_pub_id": "PInIkl8AAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "On a suspension of nearly spherical colloidal particles under large-amplitude oscillatory shear flow",
         "pub_year": "2016",
-        "citation": "Journal of Fluid Mechanics 791, R5, 2016"
+        "citation": "Journal of Fluid Mechanics 791, R5, 2016",
+        "num_citations": 17,
+        "author_pub_id": "PInIkl8AAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "On the bulk viscosity of suspensions",
         "pub_year": "2006",
-        "citation": "Journal of Fluid Mechanics 554, 109-123, 2006"
+        "citation": "Journal of Fluid Mechanics 554, 109-123, 2006",
+        "num_citations": 53,
+        "author_pub_id": "PInIkl8AAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "On the hydrodynamics of ‘slip–stick’spheres",
         "pub_year": "2008",
-        "citation": "Journal of Fluid Mechanics 606, 115-132, 2008"
+        "citation": "Journal of Fluid Mechanics 606, 115-132, 2008",
+        "num_citations": 46,
+        "author_pub_id": "PInIkl8AAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "On the motion of two particles translating with equal velocities through a colloidal dispersion",
         "pub_year": "2007",
-        "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2007"
+        "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2007",
+        "num_citations": 51,
+        "author_pub_id": "PInIkl8AAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Partial drift volume due to a self-propelled swimmer",
         "pub_year": "2018",
-        "citation": "Physical Review Fluids 3 (1), 014501, 2018"
+        "citation": "Physical Review Fluids 3 (1), 014501, 2018",
+        "num_citations": 15,
+        "author_pub_id": "PInIkl8AAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Phoretic Convective Instability at a Fluid–Fluid Interface",
         "pub_year": "2023",
-        "citation": "2023 AIChE Annual Meeting, 2023"
+        "citation": "2023 AIChE Annual Meeting, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Poisson–Nernst–Planck framework for modelling ionic strain and temperature sensors",
         "pub_year": "2023",
-        "citation": "Journal of Materials Chemistry B 11 (24), 5544-5551, 2023"
+        "citation": "Journal of Materials Chemistry B 11 (24), 5544-5551, 2023",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:eflP2zaiRacC"
     },
     {
         "title": "Prediction and measurement of leaky dielectric drop interactions",
         "pub_year": "2022",
-        "citation": "Physical Review Fluids 7 (1), 013701, 2022"
+        "citation": "Physical Review Fluids 7 (1), 013701, 2022",
+        "num_citations": 5,
+        "author_pub_id": "PInIkl8AAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Reduced-order model for inertial locomotion of a slender swimmer",
         "pub_year": "2018",
-        "citation": "Physical Review E 97 (4), 043102, 2018"
+        "citation": "Physical Review E 97 (4), 043102, 2018",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Relaxation or breakup of a low-conductivity drop upon removal of a uniform dc electric field",
         "pub_year": "2016",
-        "citation": "Physical Review Fluids 1 (3), 033902, 2016"
+        "citation": "Physical Review Fluids 1 (3), 033902, 2016",
+        "num_citations": 5,
+        "author_pub_id": "PInIkl8AAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Role of Stefan–Maxwell fluxes in the dynamics of concentrated electrolytes",
         "pub_year": "2018",
-        "citation": "Soft Matter 14 (41), 8267-8275, 2018"
+        "citation": "Soft Matter 14 (41), 8267-8275, 2018",
+        "num_citations": 31,
+        "author_pub_id": "PInIkl8AAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Self-generated electrokinetic fluid flows during pseudomorphic mineral replacement reactions",
         "pub_year": "2016",
-        "citation": "Langmuir 32 (21), 5233-5240, 2016"
+        "citation": "Langmuir 32 (21), 5233-5240, 2016",
+        "num_citations": 17,
+        "author_pub_id": "PInIkl8AAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+        "title": "Self-organized Patterns in Predator-Prey Droplet Systems",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:HE397vMXCloC"
     },
     {
         "title": "Single particle motion in a sheared colloidal dispersion",
         "pub_year": "2015",
-        "citation": "Journal of Rheology 59 (2), 429-471, 2015"
+        "citation": "Journal of Rheology 59 (2), 429-471, 2015",
+        "num_citations": 2,
+        "author_pub_id": "PInIkl8AAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Single particle motion in colloidal dispersions: a simple model for active and nonlinear microrheology",
         "pub_year": "2006",
-        "citation": "Journal of Fluid Mechanics 557, 73-117, 2006"
+        "citation": "Journal of Fluid Mechanics 557, 73-117, 2006",
+        "num_citations": 139,
+        "author_pub_id": "PInIkl8AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Spontaneous locomotion of a symmetric squirmer",
-        "pub_year": "2024",
-        "citation": "Journal of Fluid Mechanics 983, R3, 2024"
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.05836, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Spreading of diffusiophoretic colloids under transient solute gradients: Super-diffusion, trapping and shuttling",
         "pub_year": "2019",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, H36. 005, 2019"
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts, H36. 005, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Strong Deformation of the Electric Double Layer during Sedimentation or Electrophoresis of a Charged Particle",
         "pub_year": "2017",
-        "citation": "2017 AIChE Annual Meeting, 2017"
+        "citation": "2017 AIChE Annual Meeting, 2017",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Strong deformation of the thick electric double layer around a charged particle during sedimentation or electrophoresis",
         "pub_year": "2018",
-        "citation": "Langmuir 34 (3), 876-885, 2018"
+        "citation": "Langmuir 34 (3), 876-885, 2018",
+        "num_citations": 33,
+        "author_pub_id": "PInIkl8AAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Surfactant Driven Diffusiophoresis with Variable Mobility",
         "pub_year": "2023",
-        "citation": "2023 AIChE Annual Meeting, 2023"
+        "citation": "2023 AIChE Annual Meeting, 2023",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "Surprising consequences of ion conservation in electro-osmosis over a surface charge discontinuity",
         "pub_year": "2008",
-        "citation": "Journal of Fluid Mechanics 615, 323-334, 2008"
+        "citation": "Journal of Fluid Mechanics 615, 323-334, 2008",
+        "num_citations": 70,
+        "author_pub_id": "PInIkl8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Taylor dispersion of elongated rods at small and large rotational Péclet numbers",
         "pub_year": "2022",
-        "citation": "Physical Review Fluids 7 (1), 014502, 2022"
+        "citation": "Physical Review Fluids 7 (1), 014502, 2022",
+        "num_citations": 2,
+        "author_pub_id": "PInIkl8AAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "The Breakup of an Oil Drop Containing a Colloidal Suspension in an Electric Field",
         "pub_year": "2018",
-        "citation": "2018 AIChE Annual Meeting, 2018"
+        "citation": "2018 AIChE Annual Meeting, 2018",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:dshw04ExmUIC"
     },
     {
         "title": "The bulk electroviscous effect",
         "pub_year": "2013",
-        "citation": "Rheologica Acta 52, 255-269, 2013"
+        "citation": "Rheologica Acta 52, 255-269, 2013",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "The dynamics and rheology of a dilute suspension of hydrodynamically Janus spheres in a linear flow",
         "pub_year": "2009",
-        "citation": "Journal of fluid mechanics 633, 233-269, 2009"
+        "citation": "Journal of fluid mechanics 633, 233-269, 2009",
+        "num_citations": 31,
+        "author_pub_id": "PInIkl8AAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "The effects of impurity on the stability of Horizontal Ribbon Growth",
         "pub_year": "2017",
-        "citation": "Journal of Crystal Growth 480, 34-42, 2017"
+        "citation": "Journal of Crystal Growth 480, 34-42, 2017",
+        "num_citations": 4,
+        "author_pub_id": "PInIkl8AAAAJ:blknAaTinKkC"
     },
     {
         "title": "The electrochemical impedance spectrum of asymmetric electrolytes across low to moderate frequencies",
         "pub_year": "2022",
-        "citation": "Journal of Electroanalytical Chemistry 911, 116222, 2022"
+        "citation": "Journal of Electroanalytical Chemistry 911, 116222, 2022",
+        "num_citations": 8,
+        "author_pub_id": "PInIkl8AAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "The force on a slender particle under oscillatory translational motion in unsteady Stokes flow",
         "pub_year": "2020",
-        "citation": "Journal of Fluid Mechanics 884, A44, 2020"
+        "citation": "Journal of Fluid Mechanics 884, A44, 2020",
+        "num_citations": 6,
+        "author_pub_id": "PInIkl8AAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "The influence of hydrodynamic slip on the electrophoretic mobility of a spherical colloidal particle",
         "pub_year": "2009",
-        "citation": "Physics of Fluids 21 (4), 2009"
+        "citation": "Physics of Fluids 21 (4), 2009",
+        "num_citations": 146,
+        "author_pub_id": "PInIkl8AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "The influence of inertia and charge relaxation on electrohydrodynamic drop deformation",
         "pub_year": "2013",
-        "citation": "Physics of Fluids 25 (11), 2013"
+        "citation": "Physics of Fluids 25 (11), 2013",
+        "num_citations": 63,
+        "author_pub_id": "PInIkl8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "The lift force on a charged sphere that translates and rotates in an electrolyte",
         "pub_year": "2019",
-        "citation": "Electrophoresis 40 (18-19), 2407-2414, 2019"
+        "citation": "Electrophoresis 40 (18-19), 2407-2414, 2019",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "The role of surface charge convection in the electrohydrodynamics and breakup of prolate drops",
         "pub_year": "2017",
-        "citation": "Journal of Fluid Mechanics 833, 29-53, 2017"
+        "citation": "Journal of Fluid Mechanics 833, 29-53, 2017",
+        "num_citations": 44,
+        "author_pub_id": "PInIkl8AAAAJ:hMod-77fHWUC"
     },
     {
         "title": "The ‘Einstein correction’to the bulk viscosity in n dimensions",
         "pub_year": "2006",
-        "citation": "Journal of colloid and interface science 302 (2), 702-703, 2006"
+        "citation": "Journal of colloid and interface science 302 (2), 702-703, 2006",
+        "num_citations": 9,
+        "author_pub_id": "PInIkl8AAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Transient phoretic migration of a permselective colloidal particle",
         "pub_year": "2012",
-        "citation": "Journal of colloid and interface science 381 (1), 183-188, 2012"
+        "citation": "Journal of colloid and interface science 381 (1), 183-188, 2012",
+        "num_citations": 16,
+        "author_pub_id": "PInIkl8AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Tuning chemotactic and diffusiophoretic spreading via hydrodynamic flows",
         "pub_year": "2022",
-        "citation": "Soft Matter 18 (9), 1896-1910, 2022"
+        "citation": "Soft Matter 18 (9), 1896-1910, 2022",
+        "num_citations": 11,
+        "author_pub_id": "PInIkl8AAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Two-cell interactions in autologous chemotaxis",
         "pub_year": "2021",
-        "citation": "Physical Review E 104 (2), 024404, 2021"
+        "citation": "Physical Review E 104 (2), 024404, 2021",
+        "num_citations": 1,
+        "author_pub_id": "PInIkl8AAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Unsteady motion of a perfectly slipping sphere",
         "pub_year": "2020",
-        "citation": "Physical Review E 101 (5), 053102, 2020"
+        "citation": "Physical Review E 101 (5), 053102, 2020",
+        "num_citations": 3,
+        "author_pub_id": "PInIkl8AAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Use of electrochemical impedance spectroscopy to determine double-layer capacitance in doped nonpolar liquids",
         "pub_year": "2015",
-        "citation": "Journal of colloid and interface science 449, 2-12, 2015"
+        "citation": "Journal of colloid and interface science 449, 2-12, 2015",
+        "num_citations": 69,
+        "author_pub_id": "PInIkl8AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Using Electric Fields to Manipulate Surfactant Transport to Oil-Water Interfaces",
         "pub_year": "2019",
-        "citation": "2019 AIChE Annual Meeting, 2019"
+        "citation": "2019 AIChE Annual Meeting, 2019",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "rsc. li/soft-matter-journal",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "“Microviscoelasticity” of colloidal dispersions",
         "pub_year": "2005",
-        "citation": "Journal of Rheology 49 (6), 1449-1481, 2005"
+        "citation": "Journal of Rheology 49 (6), 1449-1481, 2005",
+        "num_citations": 62,
+        "author_pub_id": "PInIkl8AAAAJ:UeHWp8X0CEIC"
     }
 ]

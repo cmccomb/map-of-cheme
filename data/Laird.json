@@ -3,7 +3,7 @@
         "title": "A Stochastic Programming Formulation for Disinfectant Booster Station Placement to Protect Large-Scale Water Distribution Systems",
         "pub_year": "2012",
         "citation": "Computer Aided Chemical Engineering 31, 1462-1466, 2012",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "0B3gfuoAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -17,21 +17,21 @@
         "title": "A fast moving horizon estimation algorithm based on nonlinear programming sensitivity",
         "pub_year": "2008",
         "citation": "Journal of Process Control 18 (9), 876-884, 2008",
-        "num_citations": 179,
+        "num_citations": 178,
         "author_pub_id": "0B3gfuoAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A global stochastic programming approach for the optimal placement of gas detectors with nonuniform unavailabilities",
         "pub_year": "2018",
         "citation": "Journal of Loss Prevention in the Process Industries 51, 29-35, 2018",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "0B3gfuoAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "A mathematical programming approach for the optimal placement of flame detectors in petrochemical facilities",
         "pub_year": "2019",
         "citation": "Process Safety and Environmental Protection 132, 47-58, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "0B3gfuoAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A new approach for facility siting using mapping risks on a plant grid area and optimization",
         "pub_year": "2010",
         "citation": "Journal of Loss Prevention in the Process Industries 23 (6), 824-830, 2010",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "0B3gfuoAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -87,42 +87,42 @@
         "title": "A stochastic programming approach for gas detector placement in process facilities",
         "pub_year": "2012",
         "citation": "Proceedings of FOCAPO conference, Savannah, 2012",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "0B3gfuoAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "A stochastic programming approach for gas detector placement using CFD-based dispersion simulations",
         "pub_year": "2012",
         "citation": "Computers & Chemical Engineering 47, 194-201, 2012",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "0B3gfuoAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "A stochastic programming approach for the optimal placement of gas detectors: unavailability and voting strategies",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (13), 5355-5365, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "0B3gfuoAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1127,
+        "num_citations": 1121,
         "author_pub_id": "0B3gfuoAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "An augmented Lagrangian interior-point approach for large-scale NLP problems on graphics processing units",
         "pub_year": "2016",
         "citation": "Computers & Chemical Engineering 85, 76-83, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "0B3gfuoAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "An interior-point method for efficient solution of block-structured NLP problems using an implicit Schur-complement decomposition",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 71, 563-573, 2014",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "0B3gfuoAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Contamination source determination for water networks",
         "pub_year": "2005",
         "citation": "Journal of Water Resources Planning and Management 131 (2), 125-134, 2005",
-        "num_citations": 235,
+        "num_citations": 231,
         "author_pub_id": "0B3gfuoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Effect of backup detection levels in P-median formulations for optimal placement of detectors in mitigation systems",
         "pub_year": "2014",
         "citation": "Computer Aided Chemical Engineering 34, 753-758, 2014",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "0B3gfuoAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "Efficient parallel solution of large-scale nonlinear dynamic optimization problems",
         "pub_year": "2014",
         "citation": "Computational Optimization and Applications 59, 667-688, 2014",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "0B3gfuoAAAAJ:mB3voiENLucC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "Explicit water quality model generation and rapid multiscenario simulation",
         "pub_year": "2014",
         "citation": "Journal of Water Resources Planning and Management 140 (5), 666-677, 2014",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "0B3gfuoAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -255,7 +255,7 @@
         "title": "Fast solvers and rigorous models: Can both be accomodated in nmpc",
         "pub_year": "2006",
         "citation": "IFAC Workshop on Nonlinear Model Predictive Control for Fast Systems …, 2006",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "0B3gfuoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "Interior-point decomposition approaches for parallel solution of large-scale nonlinear parameter estimation problems",
         "pub_year": "2008",
         "citation": "Chemical Engineering Science 63 (19), 4834-4845, 2008",
-        "num_citations": 148,
+        "num_citations": 149,
         "author_pub_id": "0B3gfuoAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Mixed-integer approach for obtaining unique solutions in source inversion of water networks",
         "pub_year": "2006",
         "citation": "Journal of Water Resources Planning and Management 132 (4), 242-251, 2006",
-        "num_citations": 125,
+        "num_citations": 123,
         "author_pub_id": "0B3gfuoAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -325,7 +325,7 @@
         "title": "Next generation multi-scale process systems engineering framework",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "0B3gfuoAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -339,7 +339,7 @@
         "title": "Nonlinear programming strategies for source detection of municipal water networks",
         "pub_year": "2003",
         "citation": "World Water & Environmental Resources Congress 2003, 1-10, 2003",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "0B3gfuoAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -353,14 +353,14 @@
         "title": "OMLT: Optimization & machine learning toolkit",
         "pub_year": "2022",
         "citation": "Journal of Machine Learning Research 23 (349), 1-8, 2022",
-        "num_citations": 59,
+        "num_citations": 63,
         "author_pub_id": "0B3gfuoAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Optimal design of cryogenic air separation columns under uncertainty",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (9), 1377-1384, 2010",
-        "num_citations": 97,
+        "num_citations": 96,
         "author_pub_id": "0B3gfuoAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -374,7 +374,7 @@
         "title": "Optimal gas detector placement under uncertainty considering Conditional-Value-at-Risk",
         "pub_year": "2013",
         "citation": "Journal of Loss Prevention in the Process Industries 26 (3), 410-417, 2013",
-        "num_citations": 57,
+        "num_citations": 53,
         "author_pub_id": "0B3gfuoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -388,14 +388,14 @@
         "title": "Optimal placement of data concentrators for expansion of the smart grid communications network",
         "pub_year": "2019",
         "citation": "IET Smart Grid 2 (4), 537-548, 2019",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "0B3gfuoAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Optimal placement of gas detectors: AP‐median formulation considering dynamic nonuniform unavailabilities",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (8), 2728-2739, 2016",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "0B3gfuoAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -430,28 +430,28 @@
         "title": "Perspectives on the integration between first-principles and data-driven modeling",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 166, 107898, 2022",
-        "num_citations": 46,
+        "num_citations": 49,
         "author_pub_id": "0B3gfuoAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Proactive operations and investment planning via stochastic optimization to enhance power systems’ extreme weather resilience",
         "pub_year": "2021",
         "citation": "Journal of Infrastructure Systems 27 (2), 04021004, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0B3gfuoAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2017",
         "citation": "Springer 67, 277, 2017",
-        "num_citations": 1426,
+        "num_citations": 1437,
         "author_pub_id": "0B3gfuoAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2021",
-        "citation": "Springer, 2021",
-        "num_citations": 422,
+        "citation": "Springer 67 (s 32), 2021",
+        "num_citations": 448,
         "author_pub_id": "0B3gfuoAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -465,7 +465,7 @@
         "title": "Real-time feasible multi-objective optimization based nonlinear model predictive control of particle size and shape in a batch crystallization process",
         "pub_year": "2017",
         "citation": "Control Engineering Practice 69, 1-8, 2017",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "0B3gfuoAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -500,7 +500,7 @@
         "title": "Robust state estimation of feeding–blending systems in continuous pharmaceutical manufacturing",
         "pub_year": "2018",
         "citation": "Chemical Engineering Research and Design 134, 140-153, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "0B3gfuoAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -521,14 +521,14 @@
         "title": "Sensor location for nonlinear dynamic systems via observability analysis and MAX-DET optimization",
         "pub_year": "2013",
         "citation": "Computers & Chemical Engineering 48, 105-112, 2013",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "0B3gfuoAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Sensor placement optimization software applied to site-scale methane-emissions monitoring",
         "pub_year": "2020",
         "citation": "Journal of Environmental Engineering 146 (7), 04020054, 2020",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "0B3gfuoAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -570,28 +570,28 @@
         "title": "Testing contamination source identification methods for water distribution networks",
         "pub_year": "2016",
         "citation": "Journal of Water Resources Planning and Management 142 (4), 04016001, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "0B3gfuoAAAAJ:blknAaTinKkC"
     },
     {
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
         "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021",
-        "num_citations": 63,
+        "num_citations": 66,
         "author_pub_id": "0B3gfuoAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "The unit commitment problem with AC optimal power flow constraints",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Power Systems 31 (6), 4853-4866, 2016",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "0B3gfuoAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Tightening McCormick relaxations toward global solution of the ACOPF problem",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 814-817, 2018",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "0B3gfuoAAAAJ:mvPsJ3kp5DgC"
     },
     {
