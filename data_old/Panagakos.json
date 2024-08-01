@@ -91,11 +91,25 @@
         "author_pub_id": "pk31kMgAAAAJ:_FxGoFyzp5QC"
     },
     {
+        "title": "Carbon Capture through Membranes-Leveraging Multiphysics Modeling, Dimensional Analysis and Machine Learning to Scale up and Optimize Devices and Processes for Decarbonization",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
         "title": "Computational Fluid Dynamics (CFD) Modeling of Wetted Wall Absorption Columns for Solvent-Based Post-Combustion Carbon Capture Applications",
         "pub_year": "2022",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2022",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+        "title": "Computational Fluid Dynamics and Trust-Region Methods to Optimize Carbon Capture Plants with Membrane Contactors",
+        "pub_year": "2024",
+        "citation": "Computer Aided Chemical Engineering 53, 175-180, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Deliverable D1. 2 Report on membrane-based CO2 capture technologies",
@@ -142,14 +156,14 @@
         "title": "Hydrodynamics of countercurrent flow in an additive-manufactured column with triply periodic minimal surfaces for carbon dioxide capture",
         "pub_year": "2022",
         "citation": "Chemical Engineering Journal 450, 138124, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pk31kMgAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Hydrogenation behavior in rectangular metal hydride tanks under effective heat management processes for green building applications",
         "pub_year": "2018",
         "citation": "Energy 142, 518-530, 2018",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "pk31kMgAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -184,7 +198,7 @@
         "title": "Multi-component optical sensing of high temperature gas streams using functional oxide integrated silica based optical fiber sensors",
         "pub_year": "2018",
         "citation": "Sensors and Actuators B: Chemical 255, 357-365, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "pk31kMgAAAAJ:qjMakFHDy7sC"
     },
     {

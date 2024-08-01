@@ -24,7 +24,7 @@
         "title": "A density functional theory parameterised neural network model of zirconia",
         "pub_year": "2018",
         "citation": "Molecular Simulation 44 (8), 623-630, 2018",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "jD_4h7sAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "Alkaline electrolyte and Fe impurity effects on the performance and active-phase structure of NiOOH thin films for OER catalysis applications",
         "pub_year": "2015",
         "citation": "The Journal of Physical Chemistry C 119 (21), 11475-11481, 2015",
-        "num_citations": 126,
+        "num_citations": 129,
         "author_pub_id": "jD_4h7sAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -97,9 +97,9 @@
         "author_pub_id": "jD_4h7sAAAAJ:HoB7MX3m0LUC"
     },
     {
-        "title": "Alloy surface segregation in reactive environments: first-principles atomistic thermodynamics study of Ag 3 Pd (111) in oxygen atmospheres",
+        "title": "Alloy surface segregation in reactive environments: First-principles atomistic thermodynamics study of  in oxygen atmospheres",
         "pub_year": "2008",
-        "citation": "Physical Review B 77 (7), 075437, 2008",
+        "citation": "Physical Review B—Condensed Matter and Materials Physics 77 (7), 075437, 2008",
         "num_citations": 171,
         "author_pub_id": "jD_4h7sAAAAJ:Y0pCki6q_DkC"
     },
@@ -198,14 +198,14 @@
         "title": "Basic Research Needs for Catalysis Science to Transform Energy Technologies: Report from the US Department of Energy, Office of Basic Energy Sciences Workshop May 8–10, 2017 …",
         "pub_year": "2017",
         "citation": "USDOE Office of Science (SC)(United States), 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jD_4h7sAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Beyond independent error assumptions in large GNN atomistic models",
         "pub_year": "2023",
         "citation": "The Journal of Chemical Physics 158 (21), 2023",
-        "num_citations": 7,
+        "num_citations": 11,
         "author_pub_id": "jD_4h7sAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -219,7 +219,7 @@
         "title": "CO2 Adsorption on Supported Molecular Amidine Systems on Activated Carbon",
         "pub_year": "2010",
         "citation": "ChemSusChem 3 (8), 948-956, 2010",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "jD_4h7sAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.02078, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jD_4h7sAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -247,14 +247,14 @@
         "title": "Chemical Properties from Graph Neural Network-Predicted Electron Densities",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry C 127 (48), 23459-23466, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "jD_4h7sAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Chemical and Molecular Descriptors for the Reactivity of Amines with CO2",
         "pub_year": "2012",
         "citation": "Industrial & engineering chemistry research 51 (42), 13609-13618, 2012",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "jD_4h7sAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -275,28 +275,28 @@
         "title": "Comparisons of amine solvents for post-combustion CO2 capture: A multi-objective analysis approach",
         "pub_year": "2013",
         "citation": "International Journal of Greenhouse Gas Control 18, 68-74, 2013",
-        "num_citations": 70,
+        "num_citations": 69,
         "author_pub_id": "jD_4h7sAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Competitive Growth of Scrutinyite (α-PbO2) and Rutile Polymorphs of SnO2 on All Orientations of Columbite CoNb2O6 Substrates",
         "pub_year": "2017",
         "citation": "Crystal Growth & Design 17 (7), 3929-3939, 2017",
-        "num_citations": 28,
+        "num_citations": 26,
         "author_pub_id": "jD_4h7sAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Condensed Matter: Electronic Properties, etc.-Role of Strain and Ligand Effects in the Modification of the Electronic and Chemical Properties of Bimetallic Surfaces",
         "pub_year": "2004",
         "citation": "Physical Review Letters 93 (15), 156801-156801, 2004",
-        "num_citations": 0,
+        "num_citations": 23,
         "author_pub_id": "jD_4h7sAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Configurational correlations in the coverage dependent adsorption energies of oxygen atoms on late transition metal fcc (111) surfaces",
         "pub_year": "2011",
         "citation": "The Journal of chemical physics 134 (10), 2011",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "jD_4h7sAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -324,13 +324,13 @@
         "title": "Correlation of Electronic Structure with Catalytic Activity: H2–D2 Exchange across CuxPd1–x Composition Space",
         "pub_year": "2015",
         "citation": "ACS Catalysis 5 (5), 3137-3147, 2015",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "jD_4h7sAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Correlations in coverage-dependent atomic adsorption energies on Pd (111)",
         "pub_year": "2009",
-        "citation": "Physical Review B 79 (20), 205412, 2009",
+        "citation": "Physical Review B—Condensed Matter and Materials Physics 79 (20), 205412, 2009",
         "num_citations": 110,
         "author_pub_id": "jD_4h7sAAAAJ:_FxGoFyzp5QC"
     },
@@ -366,7 +366,7 @@
         "title": "Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis",
         "pub_year": "2024",
         "citation": "The Journal of Physical Chemistry C, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jD_4h7sAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -428,7 +428,7 @@
         "title": "Effects of O2 and SO2 on the Capture Capacity of a Primary-Amine Based Polymeric CO2 Sorbent",
         "pub_year": "2013",
         "citation": "Industrial & Engineering Chemistry Research 52 (31), 10788-10794, 2013",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "jD_4h7sAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -442,21 +442,21 @@
         "title": "Effects of strain, d-band filling, and oxidation state on the bulk electronic structure of cubic 3d perovskites",
         "pub_year": "2011",
         "citation": "The Journal of chemical physics 135 (10), 2011",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "jD_4h7sAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Effects of strain, d-band filling, and oxidation state on the surface electronic structure and reactivity of 3d perovskite surfaces",
         "pub_year": "2012",
         "citation": "The Journal of chemical physics 137 (8), 2012",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "jD_4h7sAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Electrocatalytic oxygen evolution with an immobilized TAML activator",
         "pub_year": "2014",
         "citation": "Journal of the American Chemical Society 136 (15), 5603-5606, 2014",
-        "num_citations": 83,
+        "num_citations": 86,
         "author_pub_id": "jD_4h7sAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -547,7 +547,7 @@
         "title": "First-principles study of the Cu-Pd phase diagram",
         "pub_year": "2017",
         "citation": "Calphad 56, 224-229, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jD_4h7sAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -589,7 +589,7 @@
         "title": "High‐throughput methods using composition and structure spread libraries",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (11), 3826-3835, 2016",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "jD_4h7sAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -603,7 +603,7 @@
         "title": "Hydrogen dissociation and spillover on individual isolated palladium atoms",
         "pub_year": "2009",
         "citation": "Physical review letters 103 (24), 246102, 2009",
-        "num_citations": 264,
+        "num_citations": 265,
         "author_pub_id": "jD_4h7sAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -624,13 +624,13 @@
         "title": "Identifying limitations in screening high-throughput photocatalytic bimetallic nanoparticles with machine-learned hydrogen adsorptions",
         "pub_year": "2023",
         "citation": "Applied Catalysis B: Environmental 320, 121959, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "jD_4h7sAAAAJ:Z5m8FVwuT1cC"
     },
     {
         "title": "Interactions in 1-ethyl-3-methyl imidazolium tetracyanoborate ion pair: Spectroscopic and density functional study",
         "pub_year": "2013",
-        "citation": "Journal of molecular structure 1038, 12-18, 2013",
+        "citation": "Journal of Molecular Structure 1038, 12-18, 2013",
         "num_citations": 33,
         "author_pub_id": "jD_4h7sAAAAJ:ULOm3_A8WrAC"
     },
@@ -638,21 +638,21 @@
         "title": "Investigating the Energetic Ordering of Stable and Metastable TiO2 Polymorphs Using DFT+U and Hybrid Functionals",
         "pub_year": "2015",
         "citation": "The Journal of Physical Chemistry C 119 (36), 21060-21071, 2015",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "jD_4h7sAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Investigating the reactivity of single atom alloys using density functional theory",
         "pub_year": "2018",
         "citation": "Topics in Catalysis 61, 462-474, 2018",
-        "num_citations": 144,
+        "num_citations": 148,
         "author_pub_id": "jD_4h7sAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Jens K",
         "pub_year": "2011",
         "citation": "Nørskov, J. Rossmeisl, Universality in oxygen evolution electrocatalysis on …, 2011",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "jD_4h7sAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -666,7 +666,7 @@
         "title": "Ligand enhanced activity of in situ formed nanoparticles for photocatalytic hydrogen evolution",
         "pub_year": "2022",
         "citation": "ChemCatChem 14 (2), e202101551, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jD_4h7sAAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -687,14 +687,14 @@
         "title": "Machine learning in catalysis",
         "pub_year": "2018",
         "citation": "Nature Catalysis 1 (4), 230-232, 2018",
-        "num_citations": 397,
+        "num_citations": 399,
         "author_pub_id": "jD_4h7sAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "Machine-learning accelerated geometry optimization in molecular simulation",
         "pub_year": "2021",
         "citation": "The Journal of Chemical Physics 154 (23), 2021",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "jD_4h7sAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -790,7 +790,7 @@
         "title": "Modification of the surface electronic and chemical properties of Pt (111) by subsurface 3d transition metals",
         "pub_year": "2004",
         "citation": "The Journal of chemical physics 120 (21), 10240-10246, 2004",
-        "num_citations": 1424,
+        "num_citations": 1439,
         "author_pub_id": "jD_4h7sAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -811,7 +811,7 @@
         "title": "Neural network and ReaxFF comparison for Au properties",
         "pub_year": "2016",
         "citation": "International Journal of Quantum Chemistry 116 (13), 979-987, 2016",
-        "num_citations": 87,
+        "num_citations": 89,
         "author_pub_id": "jD_4h7sAAAAJ:dshw04ExmUIC"
     },
     {
@@ -859,14 +859,14 @@
         "title": "Number of Outer Electrons as Descriptor of the Reactivity of Transition Metals and Their Oxides",
         "pub_year": "2013",
         "citation": "Chemical Science 4, 1245-1249, 2013",
-        "num_citations": 314,
+        "num_citations": 317,
         "author_pub_id": "jD_4h7sAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Open challenges in developing generalizable large-scale machine-learning models for catalyst discovery",
         "pub_year": "2022",
         "citation": "ACS Catalysis 12 (14), 8572-8581, 2022",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "jD_4h7sAAAAJ:uWiczbcajpAC"
     },
     {
@@ -887,7 +887,7 @@
         "title": "Origin of the overpotential for oxygen reduction at a fuel-cell cathode",
         "pub_year": "2004",
         "citation": "The Journal of Physical Chemistry B 108 (46), 17886-17892, 2004",
-        "num_citations": 10270,
+        "num_citations": 10447,
         "author_pub_id": "jD_4h7sAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -932,6 +932,13 @@
         "author_pub_id": "jD_4h7sAAAAJ:uLbwQdceFCQC"
     },
     {
+        "title": "Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution",
+        "pub_year": "2024",
+        "citation": "Journal of the American Chemical Society, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jD_4h7sAAAAJ:xtoqd-5pKcoC"
+    },
+    {
         "title": "Preface: Trends in Computational Catalysis",
         "pub_year": "2012",
         "citation": "Topics in Catalysis 55, 227-228, 2012",
@@ -942,14 +949,14 @@
         "title": "Preparation and characterization of a bis-semiquinone: a bidentate dianion biradical",
         "pub_year": "1995",
         "citation": "The Journal of Organic Chemistry 60 (12), 3578-3579, 1995",
-        "num_citations": 47,
+        "num_citations": 46,
         "author_pub_id": "jD_4h7sAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Preparation of Mesoporous La0. 8Sr0. 2MnO3 Infiltrated Coatings in Porous SOFC Cathodes Using Evaporation-Induced Self-Assembly Methods",
         "pub_year": "2011",
         "citation": "ECS Transactions 35 (1), 2387, 2011",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "jD_4h7sAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -963,7 +970,7 @@
         "title": "Preparation of paramagnetic ligands for coordination-complexes and networks with interesting magnetic properties",
         "pub_year": "1997",
         "citation": "Molecular Crystals and Liquid Crystals Science and Technology. Section A …, 1997",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "jD_4h7sAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1009,24 +1016,24 @@
         "author_pub_id": "jD_4h7sAAAAJ:dfsIfKJdRG4C"
     },
     {
-        "title": "Pybliometrics: Scriptable bibliometrics using a python interface to scopus. SoftwareX 2019; 10: 100263",
-        "pub_year": "2019",
-        "citation": "",
-        "num_citations": 5,
-        "author_pub_id": "jD_4h7sAAAAJ:PoWvk5oyLR8C"
+        "title": "Pycse-Python3 Computations in Science and Engineering",
+        "pub_year": "2018",
+        "citation": "Technical Report, 2018",
+        "num_citations": 2,
+        "author_pub_id": "jD_4h7sAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Quantifying uncertainty in activity volcano relationships for oxygen reduction reaction",
         "pub_year": "2016",
         "citation": "Acs Catalysis 6 (8), 5251-5259, 2016",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "jD_4h7sAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Redox-mediated separation of carbon dioxide from flue gas",
         "pub_year": "2015",
         "citation": "Energy & Fuels 29 (11), 7508-7515, 2015",
-        "num_citations": 59,
+        "num_citations": 62,
         "author_pub_id": "jD_4h7sAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -1039,14 +1046,14 @@
         "title": "Relating the coverage dependence of oxygen adsorption on Au and Pt fcc (1 1 1) surfaces through adsorbate-induced surface electronic structure effects",
         "pub_year": "2009",
         "citation": "Surface science 603 (5), 794-801, 2009",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "jD_4h7sAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Relating the electronic structure and reactivity of the 3d transition metal monoxide surfaces",
         "pub_year": "2014",
         "citation": "Catalysis Communications 52, 60-64, 2014",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "jD_4h7sAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -1057,18 +1064,25 @@
         "author_pub_id": "jD_4h7sAAAAJ:isC4tDSrTZIC"
     },
     {
+        "title": "Response to: Comment on: Trends in the exchange current for hydrogen evolution'[J. Electrochem. Soc., 152, J23 (2005)]",
+        "pub_year": "2006",
+        "citation": "Journal of the Electrochemical Society 153 (12), 2006",
+        "num_citations": 13,
+        "author_pub_id": "jD_4h7sAAAAJ:HbR8gkJAVGIC"
+    },
+    {
+        "title": "Role of Strain and Ligand Effects in the Modification of the Electronic<? format?> and Chemical Properties of Bimetallic Surfaces",
+        "pub_year": "2004",
+        "citation": "Physical review letters 93 (15), 156801, 2004",
+        "num_citations": 1514,
+        "author_pub_id": "jD_4h7sAAAAJ:2osOgNQ5qMEC"
+    },
+    {
         "title": "Role of band-filling, oxidation state, and strain on oxide reactivity",
         "pub_year": "2011",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 241, 2011",
         "num_citations": 0,
         "author_pub_id": "jD_4h7sAAAAJ:ZHo1McVdvXMC"
-    },
-    {
-        "title": "Role of strain and ligand effects in the modification of the electronic and chemical properties of bimetallic surfaces",
-        "pub_year": "2004",
-        "citation": "Physical review letters 93 (15), 156801, 2004",
-        "num_citations": 1501,
-        "author_pub_id": "jD_4h7sAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Rotational isomeric state theory applied to the stiffness prediction of an anion polymer electrolyte membrane",
@@ -1116,7 +1130,7 @@
         "title": "Sequential Sampling Methods for Finding Classification Boundaries in Engineering Applications",
         "pub_year": "2023",
         "citation": "Industrial & Engineering Chemistry Research 62 (37), 15326-15339, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jD_4h7sAAAAJ:tYavs44e6CUC"
     },
     {
@@ -1129,8 +1143,8 @@
     {
         "title": "Simple model explaining and predicting coverage-dependent atomic adsorption energies on transition metal surfaces",
         "pub_year": "2010",
-        "citation": "Physical Review B 82 (4), 045414, 2010",
-        "num_citations": 86,
+        "citation": "Physical Review B—Condensed Matter and Materials Physics 82 (4), 045414, 2010",
+        "num_citations": 85,
         "author_pub_id": "jD_4h7sAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1158,14 +1172,14 @@
         "title": "SingleNN: modified behler–Parrinello neural network with shared weights for atomistic simulations with transferability",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry C 124 (32), 17811-17818, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "jD_4h7sAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Spectroscopic characterization of mixed Fe–Ni oxide electrocatalysts for the oxygen evolution reaction in alkaline electrolytes",
         "pub_year": "2012",
         "citation": "Acs Catalysis 2 (8), 1793-1801, 2012",
-        "num_citations": 509,
+        "num_citations": 508,
         "author_pub_id": "jD_4h7sAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1253,21 +1267,21 @@
         "title": "The Role of Adsorbate–Adsorbate Interactions in the Rate Controlling Step and the Most Abundant Reaction Intermediate of NH3 Decomposition on Ru",
         "pub_year": "2004",
         "citation": "Catalysis Letters 96, 13-22, 2004",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "jD_4h7sAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "The atomic simulation environment—a Python library for working with atoms",
         "pub_year": "2017",
         "citation": "Journal of Physics: Condensed Matter 29 (27), 273002, 2017",
-        "num_citations": 3368,
+        "num_citations": 3431,
         "author_pub_id": "jD_4h7sAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "The outlook for improved carbon capture technology",
         "pub_year": "2012",
         "citation": "Progress in energy and combustion science 38 (5), 630-671, 2012",
-        "num_citations": 644,
+        "num_citations": 651,
         "author_pub_id": "jD_4h7sAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1281,7 +1295,7 @@
         "title": "Toward benchmarking in catalysis science: best practices, challenges, and opportunities",
         "pub_year": "2016",
         "citation": "Acs Catalysis 6 (4), 2590-2602, 2016",
-        "num_citations": 242,
+        "num_citations": 244,
         "author_pub_id": "jD_4h7sAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -1302,14 +1316,14 @@
         "title": "Trends in the chemical properties of early transition metal carbide surfaces: A density functional study",
         "pub_year": "2005",
         "citation": "Catalysis Today 105 (1), 66-73, 2005",
-        "num_citations": 361,
+        "num_citations": 366,
         "author_pub_id": "jD_4h7sAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Trends in the exchange current for hydrogen evolution",
         "pub_year": "2005",
         "citation": "Journal of The Electrochemical Society 152 (3), J23, 2005",
-        "num_citations": 4819,
+        "num_citations": 4891,
         "author_pub_id": "jD_4h7sAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -1344,7 +1358,7 @@
         "title": "Uncertainty quantification in machine learning and nonlinear least squares regression models",
         "pub_year": "2022",
         "citation": "AIChE Journal 68 (6), e17516, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "jD_4h7sAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -1357,7 +1371,7 @@
         "title": "Universality in oxygen evolution electrocatalysis on oxide surfaces",
         "pub_year": "2011",
         "citation": "ChemCatChem 3 (7), 1159-1165, 2011",
-        "num_citations": 3824,
+        "num_citations": 3889,
         "author_pub_id": "jD_4h7sAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1371,7 +1385,7 @@
         "title": "WhereWulff: A Semiautonomous Workflow for Systematic Catalyst Surface Reactivity under Reaction Conditions",
         "pub_year": "2023",
         "citation": "Journal of Chemical Information and Modeling 63 (8), 2427-2437, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jD_4h7sAAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -1385,8 +1399,15 @@
         "title": "pybliometrics: Scriptable bibliometrics using a Python interface to Scopus",
         "pub_year": "2019",
         "citation": "SoftwareX 10, 100263, 2019",
-        "num_citations": 157,
+        "num_citations": 162,
         "author_pub_id": "jD_4h7sAAAAJ:5awf1xo2G04C"
+    },
+    {
+        "title": "pybliometrics: Scriptable bibliometrics using a Python interface to Scopus. SoftwareX 2019; 10: 100263",
+        "pub_year": "2019",
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "jD_4h7sAAAAJ:PoWvk5oyLR8C"
     },
     {
         "title": "pybliometrics: Scriptable bibliometrics using a Python interface to Scopus. SoftwareX, 10, 100263",

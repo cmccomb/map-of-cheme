@@ -31,7 +31,7 @@
         "title": "A criterion to assess the impact of confined volumes on surfactant transport to liquid–fluid interfaces",
         "pub_year": "2012",
         "citation": "Soft Matter 8 (34), 8917-8925, 2012",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "2u09mlAAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A microtensiometer to probe the effect of radius of curvature on surfactant transport to a spherical interface",
         "pub_year": "2010",
         "citation": "Langmuir 26 (16), 13310-13319, 2010",
-        "num_citations": 136,
+        "num_citations": 139,
         "author_pub_id": "2u09mlAAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "An interlaboratory comparison of measurements from filament-stretching rheometers using common test fluids",
         "pub_year": "2001",
         "citation": "Journal of Rheology 45 (1), 83-114, 2001",
-        "num_citations": 195,
+        "num_citations": 193,
         "author_pub_id": "2u09mlAAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Coalescence and splitting of confined droplets at microfluidic junctions",
         "pub_year": "2009",
         "citation": "Lab on a Chip 9 (8), 1102-1109, 2009",
-        "num_citations": 262,
+        "num_citations": 260,
         "author_pub_id": "2u09mlAAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Controlling thread formation during tipstreaming through an active feedback control loop",
         "pub_year": "2013",
         "citation": "Lab on a Chip 13 (23), 4534-4541, 2013",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "2u09mlAAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -225,8 +225,8 @@
     {
         "title": "Diffusion-limited adsorption to a spherical geometry: The impact of curvature and competitive time scales",
         "pub_year": "2010",
-        "citation": "Physical Review E 82 (1), 011604, 2010",
-        "num_citations": 109,
+        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 82 (1 …, 2010",
+        "num_citations": 116,
         "author_pub_id": "2u09mlAAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -267,8 +267,8 @@
     {
         "title": "Droplets and bubbles in microfluidic devices",
         "pub_year": "2016",
-        "citation": "Annual Review of Fluid Mechanics 48, 285-309, 2016",
-        "num_citations": 538,
+        "citation": "Annual Review of Fluid Mechanics 48 (1), 285-309, 2016",
+        "num_citations": 548,
         "author_pub_id": "2u09mlAAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -296,14 +296,14 @@
         "title": "Effect of a controlled pre-deformation history on extensional viscosity of dilute polymer solutions",
         "pub_year": "2008",
         "citation": "Rheologica acta 47, 841-859, 2008",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "2u09mlAAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Effect of surfactant tail length and ionic strength on the interfacial properties of nanoparticle–surfactant complexes",
         "pub_year": "2018",
         "citation": "Soft Matter 14 (1), 112-123, 2018",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "2u09mlAAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -317,21 +317,21 @@
         "title": "Elasto-capillary thinning and breakup of model elastic liquids",
         "pub_year": "2001",
         "citation": "Journal of Rheology 45 (1), 115-138, 2001",
-        "num_citations": 645,
+        "num_citations": 651,
         "author_pub_id": "2u09mlAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Encyclopedia of Microfluidics and Nanofluidics",
         "pub_year": "2011",
         "citation": "",
-        "num_citations": 18,
+        "num_citations": 24,
         "author_pub_id": "2u09mlAAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Encyclopedia of microfluidics and nanofluidics",
         "pub_year": "2008",
         "citation": "Springer Science & Business Media, 2008",
-        "num_citations": 608,
+        "num_citations": 599,
         "author_pub_id": "2u09mlAAAAAJ:maZDTaKrznsC"
     },
     {
@@ -351,8 +351,8 @@
     {
         "title": "Experimental observations of the squeezing-to-dripping transition in T-shaped microfluidic junctions",
         "pub_year": "2008",
-        "citation": "Physical review E 78 (3), 036317, 2008",
-        "num_citations": 465,
+        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 78 (3 …, 2008",
+        "num_citations": 459,
         "author_pub_id": "2u09mlAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -400,7 +400,7 @@
     {
         "title": "Formation and ordering of topological defect arrays produced by dilatational strain and shear flow in smectic-A liquid crystals",
         "pub_year": "2012",
-        "citation": "Physical Review E 85 (1), 011701, 2012",
+        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 85 (1 …, 2012",
         "num_citations": 20,
         "author_pub_id": "2u09mlAAAAAJ:3fE2CSJIrl8C"
     },
@@ -415,7 +415,7 @@
         "title": "Formation of dispersions using “flow focusing” in microchannels",
         "pub_year": "2003",
         "citation": "Applied physics letters 82 (3), 364-366, 2003",
-        "num_citations": 3037,
+        "num_citations": 3040,
         "author_pub_id": "2u09mlAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -443,7 +443,7 @@
         "title": "Geometrically mediated breakup of drops in microfluidic devices",
         "pub_year": "2004",
         "citation": "Physical review letters 92 (5), 054503, 2004",
-        "num_citations": 1499,
+        "num_citations": 1497,
         "author_pub_id": "2u09mlAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -505,14 +505,14 @@
         "title": "Inflammation product effects on dilatational mechanics can trigger the Laplace instability and acute respiratory distress syndrome",
         "pub_year": "2020",
         "citation": "Soft Matter 16 (29), 6890-6901, 2020",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "2u09mlAAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Insoluble layer deposition and dilatational rheology at a microscale spherical cap interface",
         "pub_year": "2016",
         "citation": "Soft Matter 12 (33), 7038-7055, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "2u09mlAAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -588,21 +588,21 @@
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2010",
         "citation": "US Patent 7,708,949, 2010",
-        "num_citations": 479,
+        "num_citations": 481,
         "author_pub_id": "2u09mlAAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2012",
         "citation": "US Patent 8,337,778, 2012",
-        "num_citations": 265,
+        "num_citations": 266,
         "author_pub_id": "2u09mlAAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Method and apparatus for fluid dispersion",
         "pub_year": "2015",
         "citation": "US Patent 8,986,628, 2015",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "2u09mlAAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -630,14 +630,14 @@
         "title": "Microfluidic methods for generating continuous droplet streams",
         "pub_year": "2007",
         "citation": "Journal of Physics D: Applied Physics 40 (19), R319, 2007",
-        "num_citations": 1051,
+        "num_citations": 1057,
         "author_pub_id": "2u09mlAAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Microscale tipstreaming in a microfluidic flow focusing device",
         "pub_year": "2006",
         "citation": "Physics of fluids 18 (12), 2006",
-        "num_citations": 489,
+        "num_citations": 481,
         "author_pub_id": "2u09mlAAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -662,25 +662,11 @@
         "author_pub_id": "2u09mlAAAAAJ:VOx2b1Wkg3QC"
     },
     {
-        "title": "Nonlinear Dynamics, Fluid Dynamics, Classical Optics, etc.-Geometrically Mediated Breakup of Drops in Microfluidic Devices",
-        "pub_year": "2004",
-        "citation": "Physical Review Letters 92 (5), 54503-54503, 2004",
-        "num_citations": 1,
-        "author_pub_id": "2u09mlAAAAAJ:dTyEYWd-f8wC"
-    },
-    {
         "title": "Numerical simulation of droplet formation in a microchannel device",
         "pub_year": "2013",
         "citation": "The International Journal of Multiphysics 7 (4), 271-286, 2013",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "2u09mlAAAAAJ:HoB7MX3m0LUC"
-    },
-    {
-        "title": "Numerical simulation of droplet formation in a microchannel device",
-        "pub_year": "2013",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "2u09mlAAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Observations of Tipstreaming and Thread Formation in a Microfluidic Flow Focusing Device",
@@ -721,7 +707,7 @@
         "title": "On the evaluation of dynamic stresses in pipelines using limited vibration measurements and FEA in the frequency domain",
         "pub_year": "1999",
         "citation": "",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "2u09mlAAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -748,7 +734,7 @@
         "title": "Predicting conditions for microscale surfactant mediated tipstreaming",
         "pub_year": "2012",
         "citation": "Physics of Fluids 24 (8), 2012",
-        "num_citations": 44,
+        "num_citations": 42,
         "author_pub_id": "2u09mlAAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -797,7 +783,7 @@
         "title": "Role of geometry and fluid properties in droplet and thread formation processes in planar flow focusing",
         "pub_year": "2009",
         "citation": "Physics of Fluids 21 (3), 2009",
-        "num_citations": 285,
+        "num_citations": 282,
         "author_pub_id": "2u09mlAAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -838,7 +824,7 @@
         "title": "Stability of a compound sessile drop at the axisymmetric configuration",
         "pub_year": "2016",
         "citation": "Journal of colloid and interface science 462, 88-99, 2016",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "2u09mlAAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -899,14 +885,14 @@
         "title": "The effect of alkane tail length of CiE8 surfactants on transport to the silicone oil–water interface",
         "pub_year": "2011",
         "citation": "Journal of colloid and interface science 355 (1), 231-236, 2011",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "2u09mlAAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "The importance of experimental design on measurement of dynamic interfacial tension and interfacial rheology in diffusion-limited surfactant systems",
         "pub_year": "2015",
         "citation": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 467, 135-142, 2015",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "2u09mlAAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -962,7 +948,7 @@
         "title": "Using bulk convection in a microtensiometer to approach kinetic-limited surfactant dynamics at fluid–fluid interfaces",
         "pub_year": "2012",
         "citation": "Journal of colloid and interface science 372 (1), 183-191, 2012",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "2u09mlAAAAAJ:hqOjcs7Dif8C"
     },
     {

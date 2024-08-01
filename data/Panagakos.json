@@ -73,7 +73,7 @@
         "title": "CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Post-Combustion Carbon Capture",
         "pub_year": "2023",
         "citation": "2023 AIChE Annual Meeting, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pk31kMgAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -89,6 +89,13 @@
         "citation": "Pacific Northwest National Lab.(PNNL), Richland, WA (United States), 2019",
         "num_citations": 6,
         "author_pub_id": "pk31kMgAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "CFD and systems engineering to minimize membrane-based carbon capture costs",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Carbon Capture through Membranes-Leveraging Multiphysics Modeling, Dimensional Analysis and Machine Learning to Scale up and Optimize Devices and Processes for Decarbonization",
@@ -121,7 +128,7 @@
         "title": "Effect of Packing Nonuniformity at the Fiber Bundle–Case Interface on Performance of Hollow Fiber Membrane Gas Separation Modules",
         "pub_year": "2022",
         "citation": "Membranes 12 (11), 1139, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "pk31kMgAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -149,7 +156,7 @@
         "title": "Hollow fiber membrane contactors for post-combustion carbon capture: A review of modeling approaches",
         "pub_year": "2020",
         "citation": "Membranes 10 (12), 382, 2020",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "pk31kMgAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -170,8 +177,22 @@
         "title": "Including CFD rigorous models in the optimal design of carbon capture plants through trust-region methods",
         "pub_year": "2024",
         "citation": "Chemical Engineering Science 286, 119646, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "pk31kMgAAAAJ:M3ejUd6NZC8C"
+    },
+    {
+        "title": "Membrane Development for CO2 Capture from Steel Manufacturing",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+        "title": "Membrane-based carbon capture process optimization using CFD modeling",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Modeling Multi-physics problems for energy applications with Comsol Multi-Physics",
@@ -219,7 +240,7 @@
         "title": "Polymer-stable magnesium nanocomposites prepared by laser ablation for efficient hydrogen storage",
         "pub_year": "2013",
         "citation": "International journal of hydrogen energy 38 (26), 11530-11535, 2013",
-        "num_citations": 105,
+        "num_citations": 107,
         "author_pub_id": "pk31kMgAAAAJ:Y0pCki6q_DkC"
     },
     {

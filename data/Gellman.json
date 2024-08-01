@@ -73,14 +73,14 @@
         "title": "A microreactor array for spatially resolved measurement of catalytic activity for high-throughput catalysis science",
         "pub_year": "2013",
         "citation": "Journal of catalysis 300, 55-62, 2013",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "ZejbkR4AAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "A most enantioselective chiral surface: tartaric acid on all surfaces vicinal to Cu (110)",
         "pub_year": "2019",
         "citation": "Langmuir 35 (50), 16438-16443, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ZejbkR4AAAAJ:mKu_rENv82IC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "A window on surface explosions: tartaric acid on Cu (110)",
         "pub_year": "2013",
         "citation": "The Journal of Physical Chemistry C 117 (15), 7577-7588, 2013",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "ZejbkR4AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Activation by O2 of AgxPd1–x Alloy Catalysts for Ethylene Hydrogenation",
         "pub_year": "2023",
         "citation": "ACS catalysis 13 (22), 14548-14561, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ZejbkR4AAAAJ:AzKEL7Gb_04C"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Adsorption-induced auto-amplification of enantiomeric excess on an achiral surface",
         "pub_year": "2015",
         "citation": "Nature chemistry 7 (6), 520-525, 2015",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "ZejbkR4AAAAJ:geHnlv5EZngC"
     },
     {
@@ -255,7 +255,7 @@
         "title": "An Account of chiral metal surfaces and their enantiospecific chemistry",
         "pub_year": "2021",
         "citation": "Accounts of Materials Research 2 (11), 1024-1032, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "ZejbkR4AAAAJ:JTqpx9DYBaYC"
     },
     {
@@ -308,6 +308,13 @@
         "author_pub_id": "ZejbkR4AAAAJ:epqYDVWIO7EC"
     },
     {
+        "title": "Atomic-scale origin of the enantiospecific decomposition of tartaric acid on chiral copper surfaces",
+        "pub_year": "2024",
+        "citation": "Chemical Communications, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:hQUaER0FWQ4C"
+    },
+    {
         "title": "Atomic-scale picture of the composition, decay, and oxidation of two-dimensional radioactive films",
         "pub_year": "2016",
         "citation": "ACS nano 10 (2), 2152-2158, 2016",
@@ -332,7 +339,7 @@
         "title": "Breaking the barrier to biomolecule limit-of-detection via 3D printed multi-length-scale graphene-coated electrodes",
         "pub_year": "2021",
         "citation": "Nature communications 12 (1), 7077, 2021",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "ZejbkR4AAAAJ:IsPWOBWtZBwC"
     },
     {
@@ -465,7 +472,7 @@
         "title": "Chemical Reactions Impede Thermal Transport Across Metal/β-Ga2O3 Interfaces",
         "pub_year": "2019",
         "citation": "Nano letters 19 (12), 8533-8538, 2019",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "ZejbkR4AAAAJ:RoXSNcbkSzsC"
     },
     {
@@ -506,7 +513,7 @@
         "title": "Chiral metal surfaces for enantioselective processes",
         "pub_year": "2020",
         "citation": "Nature Materials 19 (9), 939-945, 2020",
-        "num_citations": 61,
+        "num_citations": 65,
         "author_pub_id": "ZejbkR4AAAAJ:kF1pexMAQbMC"
     },
     {
@@ -562,7 +569,7 @@
         "title": "Compact tool for deposition of composition spread alloy films",
         "pub_year": "2012",
         "citation": "Journal of Vacuum Science & Technology A 30 (1), 2012",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "ZejbkR4AAAAJ:738O_yMBCRsC"
     },
     {
@@ -632,14 +639,14 @@
         "title": "Core level shifts in Cu–Pd alloys as a function of bulk composition and structure",
         "pub_year": "2015",
         "citation": "Surface Science 640, 127-132, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ZejbkR4AAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Correlation of Electronic Structure with Catalytic Activity: H2–D2 Exchange across CuxPd1–x Composition Space",
         "pub_year": "2015",
         "citation": "ACS Catalysis 5 (5), 3137-3147, 2015",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ZejbkR4AAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -674,7 +681,7 @@
         "title": "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy",
         "pub_year": "2021",
         "citation": "Machine Learning: Science and Technology 2 (4), 045018, 2021",
-        "num_citations": 22,
+        "num_citations": 25,
         "author_pub_id": "ZejbkR4AAAAJ:HJSXoJQnj-YC"
     },
     {
@@ -757,7 +764,7 @@
         "title": "Dynamics of charging of muscovite mica: measurement and modeling",
         "pub_year": "2009",
         "citation": "Langmuir 25 (3), 1475-1481, 2009",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "ZejbkR4AAAAJ:rO6llkc54NcC"
     },
     {
@@ -834,7 +841,7 @@
         "title": "Effects of conformational isomerism on the desorption kinetics of n-alkanes from graphite",
         "pub_year": "2001",
         "citation": "The Journal of Chemical Physics 115 (14), 6737-6751, 2001",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "ZejbkR4AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -855,7 +862,7 @@
         "title": "Enantiomer surface chemistry: conglomerate versus racemate formation on surfaces",
         "pub_year": "2017",
         "citation": "Chemical Society Reviews 46 (24), 7787-7839, 2017",
-        "num_citations": 96,
+        "num_citations": 100,
         "author_pub_id": "ZejbkR4AAAAJ:IaI1MmNe2tcC"
     },
     {
@@ -960,7 +967,7 @@
         "title": "Enantioselective separation on chiral Au nanoparticles",
         "pub_year": "2010",
         "citation": "Journal of the American Chemical Society 132 (25), 8575-8580, 2010",
-        "num_citations": 166,
+        "num_citations": 168,
         "author_pub_id": "ZejbkR4AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1037,7 +1044,7 @@
         "title": "Enantiospecific Desorption of R- and S-Propylene Oxide from a Chiral Cu(643) Surface",
         "pub_year": "2001",
         "citation": "Journal of the American Chemical Society 123 (32), 7953-7954, 2001",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "ZejbkR4AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1107,7 +1114,7 @@
         "title": "Energetics of chiral imprinting of Cu (100) by lysine",
         "pub_year": "2011",
         "citation": "The Journal of Physical Chemistry C 115 (4), 1031-1035, 2011",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "ZejbkR4AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1128,7 +1135,7 @@
         "title": "Estimating Bulk-Composition-Dependent H2 Adsorption Energies on CuxPd1–x Alloy (111) Surfaces",
         "pub_year": "2015",
         "citation": "ACS Catalysis 5 (2), 1020-1026, 2015",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "ZejbkR4AAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -1317,8 +1324,15 @@
         "title": "H2-D2 Exchange Kinetics in the Presence of H2S over Pd4S, Pd70Cu30, and Pd47Cu53 Surfaces",
         "pub_year": "2012",
         "citation": "The Journal of Physical Chemistry C 116 (33), 17657-17667, 2012",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ZejbkR4AAAAJ:dQ2og3OwTAUC"
+    },
+    {
+        "title": "H2–D2 Exchange Activity and Electronic Structure of AgxPd1–x Alloy Catalysts Spanning Composition Space",
+        "pub_year": "2024",
+        "citation": "ACS catalysis 14, 11014-11025, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:LK8CI43ZvvMC"
     },
     {
         "title": "Heterocyclization of Acetylene to Thiophene at Defects on the Pd (111) Surface",
@@ -1373,7 +1387,7 @@
         "title": "High performance flexible temperature sensors via nanoparticle printing",
         "pub_year": "2019",
         "citation": "ACS Applied Nano Materials 2 (5), 3280-3291, 2019",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "ZejbkR4AAAAJ:Dem6FJhTUoYC"
     },
     {
@@ -1408,7 +1422,7 @@
         "title": "High-Throughput Characterization of Surface Segregation in CuxPd1–x Alloys",
         "pub_year": "2011",
         "citation": "The Journal of Physical Chemistry C 115 (20), 10155-10163, 2011",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "ZejbkR4AAAAJ:35N4QoGY0k4C"
     },
     {
@@ -1541,7 +1555,7 @@
         "title": "Influence of step faceting on the enantiospecific decomposition of aspartic acid on chiral Cu surfaces vicinal to Cu {111}",
         "pub_year": "2016",
         "citation": "Chemical Communications 52 (75), 11263-11266, 2016",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "ZejbkR4AAAAJ:ODE9OILHJdcC"
     },
     {
@@ -1555,7 +1569,7 @@
         "title": "Inhibition of hydrogen transport through Pd and Pd47Cu53 membranes by H2S at 350 C",
         "pub_year": "2010",
         "citation": "Journal of Membrane Science 349 (1-2), 380-384, 2010",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "ZejbkR4AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -1673,14 +1687,14 @@
         "title": "Kinetic Parameter Estimation for Catalytic H2–D2 Exchange on Pd",
         "pub_year": "2023",
         "citation": "Catalysis Letters 153 (1), 1-18, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "ZejbkR4AAAAJ:aIdbFUkbNIkC"
     },
     {
         "title": "Kinetic fingerprints of catalysis by subsurface hydrogen",
         "pub_year": "2018",
         "citation": "ACS Catalysis 8 (11), 10486-10497, 2018",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "ZejbkR4AAAAJ:yxmsSjX2EkcC"
     },
     {
@@ -1708,7 +1722,7 @@
         "title": "Kinetics and Mechanism of Oligomer Desorption from Surfaces:  n-Alkanes on Graphite",
         "pub_year": "2002",
         "citation": "The Journal of Physical Chemistry B 106 (51), 13231-13241, 2002",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "ZejbkR4AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1722,7 +1736,7 @@
         "title": "Kinetics and energetics of oligomer desorption from surfaces",
         "pub_year": "2001",
         "citation": "Physical review letters 86 (19), 4338, 2001",
-        "num_citations": 171,
+        "num_citations": 173,
         "author_pub_id": "ZejbkR4AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1889,7 +1903,7 @@
         "title": "Modeling Ternary Alloy Segregation with Density Functional Theory and Machine Learning",
         "pub_year": "2022",
         "citation": "2022 AIChE Annual Meeting, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZejbkR4AAAAJ:SxCCDk4iOpsC"
     },
     {
@@ -1923,7 +1937,7 @@
     {
         "title": "Molecular-Level Design of Heterogeneous Chiral Catalysts",
         "pub_year": "2019",
-        "citation": "University of Wisconsin-Milwaukee, 2019",
+        "citation": "Univ. of Wisconsin, Milwaukee, WI (United States), 2019",
         "num_citations": 0,
         "author_pub_id": "ZejbkR4AAAAJ:kWvqk_afx_IC"
     },
@@ -1994,7 +2008,7 @@
         "title": "Organofunctional silanes as adhesion promoters: direct characterization of the polymer/silane interphase",
         "pub_year": "1992",
         "citation": "Journal of adhesion science and technology 6 (2), 307-316, 1992",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "ZejbkR4AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -2113,7 +2127,7 @@
         "title": "Polarimetric detection of enantioselective adsorption by chiral Au nanoparticles–effects of temperature, wavelength and size",
         "pub_year": "2015",
         "citation": "Nanomaterials and Nanotechnology 5 (Godište 2015), 5-1, 2015",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ZejbkR4AAAAJ:2KloaMYe4IUC"
     },
     {
@@ -2127,7 +2141,7 @@
         "title": "Polymers at Interfaces: Using Atom Transfer Radical Polymerization in the Controlled Growth of Homopolymers and Block Copolymers from Silicon Surfaces in the Absence of …",
         "pub_year": "1999",
         "citation": "Macromolecules 32 (26), 8716 –8724, 1999",
-        "num_citations": 1268,
+        "num_citations": 1272,
         "author_pub_id": "ZejbkR4AAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -2274,7 +2288,7 @@
         "title": "Simulating segregation in a ternary Cu–Pd–Au alloy with density functional theory, machine learning, and Monte Carlo simulations",
         "pub_year": "2022",
         "citation": "The Journal of Physical Chemistry C 126 (4), 1800-1808, 2022",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "ZejbkR4AAAAJ:65Yg0jNCQDAC"
     },
     {
@@ -2351,7 +2365,7 @@
         "title": "Structure sensitive enantioselectivity on surfaces: tartaric acid on all surfaces vicinal to Cu (111)",
         "pub_year": "2022",
         "citation": "Materials Advances 3 (4), 2191-2199, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ZejbkR4AAAAJ:UuEBAcK4md4C"
     },
     {
@@ -2365,7 +2379,7 @@
         "title": "Structure-sensitive enantiospecific adsorption on naturally chiral Cu (hkl) R&S surfaces",
         "pub_year": "2016",
         "citation": "Journal of Physics: Condensed Matter 29 (3), 034001, 2016",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "ZejbkR4AAAAJ:8d8msizDQcsC"
     },
     {
@@ -2393,7 +2407,7 @@
         "title": "Superenantioselective chiral surface explosions",
         "pub_year": "2013",
         "citation": "Journal of the American Chemical Society 135 (51), 19208-19214, 2013",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "ZejbkR4AAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -2416,6 +2430,12 @@
         "citation": "The 2006 Annual Meeting, 2006",
         "num_citations": 0,
         "author_pub_id": "ZejbkR4AAAAJ:0izLItjtcgwC"
+    },
+    {
+        "title": "Surface Segregation Across Ternary Alloy Composition Space: Cu X Ag Y Au1-X-Y",
+        "citation": "Available at SSRN 4898954, 0",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:_AeoHAGD03cC"
     },
     {
         "title": "Surface Segregation Across Ternary Alloy Composition Space: CuxAuyPd1–x–y",
@@ -2470,14 +2490,14 @@
         "title": "Surface Structure-Sensitive Enantioselectivity: Aspartic Acid Reaction Kinetics on All Surfaces Vicinal to Cu (111)",
         "pub_year": "2021",
         "citation": "The Journal of Physical Chemistry C 125 (18), 9766-9773, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "ZejbkR4AAAAJ:QUX0mv85b1cC"
     },
     {
         "title": "Surface and internal reactions of ZnO nanowires: etching and bulk defect passivation by H atoms",
         "pub_year": "2012",
         "citation": "The Journal of Physical Chemistry C 116 (30), 16093-16097, 2012",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ZejbkR4AAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -2498,7 +2518,7 @@
         "title": "Surface chemistry in tribology",
         "pub_year": "2005",
         "citation": "Wear–Materials, Mechanisms and Practice, 95-122, 2005",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "ZejbkR4AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2519,7 +2539,7 @@
         "title": "Surface science studies of catalysis: Classification of reactions",
         "pub_year": "1986",
         "citation": "Accounts of Chemical Research 19 (1), 24-31, 1986",
-        "num_citations": 127,
+        "num_citations": 130,
         "author_pub_id": "ZejbkR4AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -2540,7 +2560,7 @@
         "title": "Surface structure spread single crystals (S4C): preparation and characterization",
         "pub_year": "2013",
         "citation": "Surface science 608, 80-87, 2013",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "ZejbkR4AAAAJ:N5tVd3kTz84C"
     },
     {
@@ -2579,13 +2599,6 @@
         "author_pub_id": "ZejbkR4AAAAJ:BwyfMAYsbu0C"
     },
     {
-        "title": "Synthesis and applications of chiral Au nanoparticles",
-        "pub_year": "2019",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 257, 2019",
-        "num_citations": 0,
-        "author_pub_id": "ZejbkR4AAAAJ:oPLKW5k6eA4C"
-    },
-    {
         "title": "Synthesis of Ni and FeNi core-shell nanorods",
         "pub_year": "2010",
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 240, 2010",
@@ -2610,7 +2623,7 @@
         "title": "TEM-based study of oxidation of FeCo high moment alloy at elevated temperatures",
         "pub_year": "2021",
         "citation": "Journal of Magnetism and Magnetic Materials 539, 168347, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ZejbkR4AAAAJ:DrR-2ekChdkC"
     },
     {
@@ -2638,7 +2651,7 @@
         "title": "Templated Growth of a Homochiral Thin Film Oxide",
         "pub_year": "2020",
         "citation": "ACS nano 14 (4), 4682-4688, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ZejbkR4AAAAJ:-nhnvRiOwuoC"
     },
     {
@@ -2680,7 +2693,7 @@
         "title": "The Kinetics of H2–D2 Exchange over Pd, Cu, and PdCu Surfaces",
         "pub_year": "2011",
         "citation": "The Journal of Physical Chemistry C 115 (49), 24221-24230, 2011",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "ZejbkR4AAAAJ:UxriW0iASnsC"
     },
     {
@@ -2834,7 +2847,7 @@
         "title": "The surface chemistry of alkyl and arylphosphate vapor phase lubricants on Fe foil",
         "pub_year": "2002",
         "citation": "Tribology international 35 (9), 579-590, 2002",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "ZejbkR4AAAAJ:hMod-77fHWUC"
     },
     {
@@ -3002,7 +3015,7 @@
         "title": "Uptake, transport, and release of hydrogen from Pd (100)",
         "pub_year": "2012",
         "citation": "Surface science 606 (3-4), 146-155, 2012",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "ZejbkR4AAAAJ:sSrBHYA8nusC"
     },
     {
@@ -3058,7 +3071,7 @@
         "title": "Water adsorption on fullerene-like carbon nitride overcoats",
         "pub_year": "2008",
         "citation": "Thin Solid Films 517 (3), 1106-1110, 2008",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "ZejbkR4AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -3079,7 +3092,7 @@
         "title": "Water adsorption on phosphorous-carbide thin films",
         "pub_year": "2009",
         "citation": "Surface and Coatings Technology 204 (6-7), 1035-1039, 2009",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ZejbkR4AAAAJ:LPZeul_q3PIC"
     },
     {

@@ -17,7 +17,7 @@
         "title": "Ancestry of cells must be considered in bioengineering",
         "pub_year": "2022",
         "citation": "Nature Reviews Materials 7 (1), 2-4, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "_7HjzLYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -55,6 +55,13 @@
         "author_pub_id": "_7HjzLYAAAAJ:YsMSGLbcyi4C"
     },
     {
+        "title": "Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach",
+        "pub_year": "2024",
+        "citation": "PloS one 19 (6), e0304505, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_7HjzLYAAAAJ:M3ejUd6NZC8C"
+    },
+    {
         "title": "Framework for department-level accountability to diversify engineering",
         "pub_year": "2024",
         "citation": "Nature Reviews Bioengineering, 1-10, 2024",
@@ -65,7 +72,7 @@
         "title": "High-capacity poly (2-oxazoline) formulation of TLR 7/8 agonist extends survival in a chemo-insensitive, metastatic model of lung adenocarcinoma",
         "pub_year": "2020",
         "citation": "Science advances 6 (25), eaba5542, 2020",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "_7HjzLYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -92,21 +99,21 @@
         "title": "Measuring and Modeling Macrophage Growth using a Lab-on-CMOS Capacitance Sensing Microsystem",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.01. 27.525955, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_7HjzLYAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Measuring and modeling macrophage proliferation in a lab-on-CMOS capacitance sensing microsystem",
         "pub_year": "2023",
         "citation": "Frontiers in Bioengineering and Biotechnology 11, 1159004, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "_7HjzLYAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Mechanistic Insight into the TH1-Biased Immune Response to Recombinant Subunit Vaccines Delivered by Probiotic Bacteria-Derived Outer Membrane Vesicles",
         "pub_year": "2014",
         "citation": "PloS one 9 (11), e112802, 2014",
-        "num_citations": 64,
+        "num_citations": 63,
         "author_pub_id": "_7HjzLYAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -120,7 +127,7 @@
         "title": "Method to functionalize cells in human blood, other fluids and tissues using nanoparticles",
         "pub_year": "2019",
         "citation": "US Patent 10,391,146, 2019",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "_7HjzLYAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -134,7 +141,7 @@
         "title": "Monocytes as a convergent nanoparticle therapeutic target for cardiovascular diseases",
         "pub_year": "2022",
         "citation": "Advanced drug delivery reviews 182, 114116, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "_7HjzLYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -166,6 +173,13 @@
         "author_pub_id": "_7HjzLYAAAAJ:UeHWp8X0CEIC"
     },
     {
+        "title": "Scoping Review of Maternal Monocytes and the Syncytiotrophoblast: Bi-Directional Communication in the Intervillous Space",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.05. 28.595900, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_7HjzLYAAAAJ:4TOpqqG69KYC"
+    },
+    {
         "title": "Single Cell Tracking of Neural Progenitors labeled in vivo with Micron Sized Particles of Iron Oxide (MPIO) into Specific Layers of the Olfactory Bulb",
         "citation": "",
         "num_citations": 0,
@@ -182,14 +196,14 @@
         "title": "TRAIL-coated leukocytes that kill cancer cells in the circulation",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (3), 930-935, 2014",
-        "num_citations": 220,
+        "num_citations": 222,
         "author_pub_id": "_7HjzLYAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "TRAIL-coated leukocytes that prevent the bloodborne metastasis of prostate cancer",
         "pub_year": "2016",
         "citation": "Journal of Controlled Release 223, 215-223, 2016",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "_7HjzLYAAAAJ:zYLM7Y9cAGgC"
     },
     {

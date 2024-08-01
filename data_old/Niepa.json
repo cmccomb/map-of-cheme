@@ -38,7 +38,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 213,
+        "num_citations": 217,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 75,
+        "num_citations": 78,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -107,7 +107,7 @@
         "title": "Design of a well-defined poly (dimethylsiloxane)-based microbial nanoculture system",
         "pub_year": "2021",
         "citation": "Materials Today Communications 27, 102185, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:p__nRnzSRKYC"
     },
     {
@@ -121,7 +121,7 @@
         "title": "Developing a functional poly (dimethylsiloxane)-based microbial nanoculture system using dimethylallylamine",
         "pub_year": "2020",
         "citation": "ACS Applied Materials & Interfaces 12 (45), 50581-50591, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "aYUS1DkAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Droplet-based microsystems as novel assessment tools for oral microbial dynamics",
         "pub_year": "2022",
         "citation": "Biotechnology Advances 55, 107903, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "aYUS1DkAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Electrochemical Strategy for Eradicating Fluconazole-Tolerant Candida albicans Using Implantable Titanium",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (44), 40997-41008, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "aYUS1DkAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Films of Bacteria at Interfaces (FBI): Remodeling of Fluid Interfaces by Pseudomonas aeruginosa",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 17864, 2017",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "aYUS1DkAAAAJ:35r97b3x0nAC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Mucoid Coating Provides a Growth Advantage to Pseudomonas aeruginosa at Oil–Water Interfaces",
         "pub_year": "2022",
         "citation": "ACS Applied Bio Materials 5 (5), 1868-1878, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "aYUS1DkAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -352,7 +352,7 @@
         "title": "One-step generation of cell-encapsulating compartments via polyelectrolyte complexation in an aqueous two phase system",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (38), 25603-25611, 2016",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "aYUS1DkAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Sensitizing Pseudomonas aeruginosa to antibiotics by electrochemical disruption of membrane functions",
         "pub_year": "2016",
         "citation": "Biomaterials 74, 267-279, 2016",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "aYUS1DkAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -428,8 +428,15 @@
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
         "pub_year": "2020",
         "citation": "Biofilm 2, 100012, 2020",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "aYUS1DkAAAAJ:ML0RJ9NH7IQC"
+    },
+    {
+        "title": "Topical Plenary: Antimicrobial Platforms and Materials Addressing Current Health Challenges (Invited Talks)",
+        "pub_year": "2020",
+        "citation": "2020 Virtual AIChE Annual Meeting, 2020",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Topical Plenary: Fundamentals of Microbial Interactions with Interfaces (Invited Talks)",
