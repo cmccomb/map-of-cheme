@@ -65,14 +65,14 @@
         "title": "Framework for department-level accountability to diversify engineering",
         "pub_year": "2024",
         "citation": "Nature Reviews Bioengineering, 1-10, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_7HjzLYAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "High-capacity poly (2-oxazoline) formulation of TLR 7/8 agonist extends survival in a chemo-insensitive, metastatic model of lung adenocarcinoma",
         "pub_year": "2020",
         "citation": "Science advances 6 (25), eaba5542, 2020",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "_7HjzLYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -88,6 +88,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "_7HjzLYAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Living Science. A Story Slam",
+        "pub_year": "2023",
+        "citation": "2023 Annual Meeting, 2023",
+        "num_citations": 0,
+        "author_pub_id": "_7HjzLYAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "MRI Tracking of Endogenous Neural Precursors Odor Induced Accumulation in the Mitral Cell Layer of the Rodent Olfactory Bulb",
@@ -106,14 +113,14 @@
         "title": "Measuring and modeling macrophage proliferation in a lab-on-CMOS capacitance sensing microsystem",
         "pub_year": "2023",
         "citation": "Frontiers in Bioengineering and Biotechnology 11, 1159004, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "_7HjzLYAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Mechanistic Insight into the TH1-Biased Immune Response to Recombinant Subunit Vaccines Delivered by Probiotic Bacteria-Derived Outer Membrane Vesicles",
         "pub_year": "2014",
         "citation": "PloS one 9 (11), e112802, 2014",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "_7HjzLYAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -148,7 +155,7 @@
         "title": "Nanoparticle endocytosis is driven by monocyte phenotype rather than nanoparticle size under high shear flow conditions",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.06. 29.547038, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "_7HjzLYAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -196,28 +203,28 @@
         "title": "TRAIL-coated leukocytes that kill cancer cells in the circulation",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (3), 930-935, 2014",
-        "num_citations": 225,
+        "num_citations": 229,
         "author_pub_id": "_7HjzLYAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "TRAIL-coated leukocytes that prevent the bloodborne metastasis of prostate cancer",
         "pub_year": "2016",
         "citation": "Journal of Controlled Release 223, 215-223, 2016",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "_7HjzLYAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Targeted delivery of siRNA lipoplexes to cancer cells using macrophage transient horizontal gene transfer",
         "pub_year": "2019",
         "citation": "Advanced Science 6 (21), 1900582, 2019",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "_7HjzLYAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "The role of extracellular vesicles in the pathogenesis and treatment of autoimmune disorders",
         "pub_year": "2021",
         "citation": "Frontiers in Immunology 12, 566299, 2021",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "_7HjzLYAAAAJ:_FxGoFyzp5QC"
     },
     {

@@ -1,5 +1,12 @@
 [
     {
+        "title": "Advancing Renewable Protein-Based Elastomers through Thermal Processability",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Pstgk60AAAAJ:3fE2CSJIrl8C"
+    },
+    {
         "title": "Author Contributions",
         "pub_year": "2016",
         "citation": "",
@@ -17,14 +24,14 @@
         "title": "Development of a Rubber Recycling Process Based on a Single-Component Interfacial Adhesive",
         "pub_year": "2021",
         "citation": "ACS Applied Polymer Materials 3 (10), 4849-4860, 2021",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "Pstgk60AAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Disordered Triblock Polymers for Nanoporous Materials with Tunable Surface Properties for Ultrafiltration Applications",
         "pub_year": "2022",
         "citation": "ACS Applied Polymer Materials 4 (11), 8009-8020, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Pstgk60AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -52,14 +59,14 @@
         "title": "Material properties of the cyanobacterial reserve polymer multi-L-arginyl-poly-L-aspartate (cyanophycin)",
         "pub_year": "2017",
         "citation": "Polymer 109, 238-245, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "Pstgk60AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Next-generation ultrafiltration membranes enabled by block polymers",
         "pub_year": "2020",
         "citation": "Acs Nano 14 (12), 16446-16471, 2020",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "Pstgk60AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -158,6 +165,13 @@
         "citation": "Algal research 33, 337-344, 2018",
         "num_citations": 7,
         "author_pub_id": "Pstgk60AAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "Thermo‐Mechanically Stable, Liquid Metal Embedded Soft Materials for High‐Temperature Applications",
+        "pub_year": "2024",
+        "citation": "Advanced Functional Materials 34 (31), 2309725, 2024",
+        "num_citations": 2,
+        "author_pub_id": "Pstgk60AAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Tuning compatibility and water uptake by protein charge modification in melt-polymerizable protein-based thermosets",

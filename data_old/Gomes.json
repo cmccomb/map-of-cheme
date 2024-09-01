@@ -23,7 +23,7 @@
         "title": "A comprehensive discovery platform for organophosphorus ligands for catalysis",
         "pub_year": "2022",
         "citation": "Journal of the American Chemical Society 144 (3), 1205-1217, 2022",
-        "num_citations": 162,
+        "num_citations": 169,
         "author_pub_id": "ILac8DwAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -37,28 +37,28 @@
         "title": "Autonomous chemical research with large language models",
         "pub_year": "2023",
         "citation": "Nature 624 (7992), 570-578, 2023",
-        "num_citations": 143,
+        "num_citations": 304,
         "author_pub_id": "ILac8DwAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES",
         "pub_year": "2021",
         "citation": "Chemical science 12 (20), 7079-7090, 2021",
-        "num_citations": 130,
+        "num_citations": 136,
         "author_pub_id": "ILac8DwAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "CO2 or SO2: Should It Stay, or Should It Go?",
         "pub_year": "2019",
         "citation": "The Journal of Organic Chemistry 84 (10), 6232-6243, 2019",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ILac8DwAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Changing the path of least resistance, or access to endo-dig products via a sequence of three exo-trig transition states: electronic effects in homoallyic ring expansion …",
         "pub_year": "2017",
         "citation": "Organic & Biomolecular Chemistry 15 (19), 4135-4143, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ILac8DwAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -79,14 +79,14 @@
         "title": "Coupling N–H Deprotonation, C–H Activation, and Oxidation: Metal-Free C(sp3)–H Aminations with Unprotected Anilines",
         "pub_year": "2017",
         "citation": "Journal of the American Chemical Society 139 (45), 16210-16221, 2017",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "ILac8DwAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Coupling Radical Homoallylic Expansions with C–C Fragmentations for the Synthesis of Heteroaromatics: Quinolines from Reactions of o-Alkenylarylisonitriles with …",
         "pub_year": "2017",
         "citation": "The Journal of Organic Chemistry 82 (8), 4265-4278, 2017",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "ILac8DwAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -100,14 +100,14 @@
         "title": "Data-driven strategies for accelerated materials design",
         "pub_year": "2021",
         "citation": "Accounts of Chemical Research 54 (4), 849-860, 2021",
-        "num_citations": 261,
+        "num_citations": 262,
         "author_pub_id": "ILac8DwAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Data-science driven autonomous process optimization",
         "pub_year": "2021",
         "citation": "Communications Chemistry 4 (1), 112, 2021",
-        "num_citations": 153,
+        "num_citations": 158,
         "author_pub_id": "ILac8DwAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Drawing catalytic power from charge separation: stereoelectronic and zwitterionic assistance in the Au (I)-catalyzed Bergman cyclization",
         "pub_year": "2017",
         "citation": "Journal of the American Chemical Society 139 (9), 3406-3416, 2017",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "ILac8DwAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -137,20 +137,6 @@
         "citation": "The Journal of Organic Chemistry 84 (16), 9897-9906, 2019",
         "num_citations": 1,
         "author_pub_id": "ILac8DwAAAAJ:aqlVkmm33-oC"
-    },
-    {
-        "title": "Emergent autonomous scientific research capabilities of large language models",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.05332, 2023",
-        "num_citations": 126,
-        "author_pub_id": "ILac8DwAAAAJ:g5m5HwL7SMYC"
-    },
-    {
-        "title": "Emergent autonomous scientific research capabilities of large language models, 2023",
-        "pub_year": "2023",
-        "citation": "arXiv preprint ArXiv:2304.05332, 2023",
-        "num_citations": 6,
-        "author_pub_id": "ILac8DwAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Emergent autonomous scientific research capabilities of large language models. arXiv (2023) doi: 10.48550",
@@ -176,7 +162,7 @@
         "title": "Flow synthesis of triptycene via triple cycloaddition of ynolate to benzyne",
         "pub_year": "2020",
         "citation": "Synlett 31 (19), 1903-1906, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "ILac8DwAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -197,7 +183,7 @@
         "title": "Ground state cross-coupling of haloarenes with arenes initiated by organic electron donors, formed in situ: an overview",
         "pub_year": "2020",
         "citation": "Synthesis 52 (03), 327-336, 2020",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ILac8DwAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -211,7 +197,7 @@
         "title": "Hyperconjugation",
         "pub_year": "2019",
         "citation": "Wiley Interdisciplinary Reviews: Computational Molecular Science 9 (2), e1389, 2019",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "ILac8DwAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -239,14 +225,14 @@
         "title": "Isonitriles as stereoelectronic chameleons: The donor–acceptor dichotomy in radical additions",
         "pub_year": "2018",
         "citation": "Journal of the American Chemical Society 140 (43), 14272-14288, 2018",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "ILac8DwAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Machine learning dihydrogen activation in the chemical space surrounding Vaska's complex",
         "pub_year": "2020",
         "citation": "Chemical Science 11 (18), 4584-4601, 2020",
-        "num_citations": 119,
+        "num_citations": 124,
         "author_pub_id": "ILac8DwAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -266,14 +252,14 @@
         "title": "Navigating through the maze of homogeneous catalyst design with machine learning",
         "pub_year": "2021",
         "citation": "Trends in Chemistry 3 (2), 96-110, 2021",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "ILac8DwAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "On scientific understanding with artificial intelligence",
         "pub_year": "2022",
         "citation": "Nature Reviews Physics 4, 761–769, 2022",
-        "num_citations": 169,
+        "num_citations": 179,
         "author_pub_id": "ILac8DwAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -287,21 +273,21 @@
         "title": "Orbital hybridization: a key electronic factor in control of structure and reactivity",
         "pub_year": "2015",
         "citation": "Journal of Physical Organic Chemistry 28 (2), 147-162, 2015",
-        "num_citations": 133,
+        "num_citations": 137,
         "author_pub_id": "ILac8DwAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Organic molecules with inverted gaps between first excited singlet and triplet states and appreciable fluorescence rates",
         "pub_year": "2021",
         "citation": "Matter 4 (5), 1654-1682, 2021",
-        "num_citations": 88,
+        "num_citations": 92,
         "author_pub_id": "ILac8DwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Organocatalytic sulfoxidation",
         "pub_year": "2021",
         "citation": "Tetrahedron 78, 131784, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ILac8DwAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -343,14 +329,14 @@
         "title": "Radical Strategy for the Transition-Metal-Catalyzed Synthesis of γ-Lactones: A Review",
         "pub_year": "2020",
         "citation": "Synthesis 52 (24), 3855-3865, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "ILac8DwAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Regioselective one‐pot synthesis of triptycenes via triple‐cycloadditions of arynes to ynolates",
         "pub_year": "2017",
         "citation": "Angewandte Chemie International Edition 56 (5), 1298-1302, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ILac8DwAAAAJ:4DMP91E08xMC"
     },
     {
@@ -371,14 +357,14 @@
         "title": "Stereoelectronic Interactions as a Probe for the Existence of the Intramolecular α-Effect",
         "pub_year": "2017",
         "citation": "Journal of the American Chemical Society 139 (31), 10799-10813, 2017",
-        "num_citations": 75,
+        "num_citations": 77,
         "author_pub_id": "ILac8DwAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Stereoelectronic chameleons: the donor–acceptor dichotomy of functional groups",
         "pub_year": "2017",
         "citation": "Chemistry–A European Journal 23 (14), 3225-3245, 2017",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "ILac8DwAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -406,7 +392,7 @@
         "title": "Stereoelectronic source of the anomalous stability of bis-peroxides",
         "pub_year": "2015",
         "citation": "Chemical science 6 (12), 6783-6791, 2015",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "ILac8DwAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -490,21 +476,21 @@
         "title": "Twisted cycloalkynes and remote activation of “click” reactivity",
         "pub_year": "2017",
         "citation": "Chem 3 (4), 629-640, 2017",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ILac8DwAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne peri-Annulations: Radical Cascades Converging on the Same Aromatic Core",
         "pub_year": "2020",
         "citation": "Journal of the American Chemical Society 142 (18), 8352-8366, 2020",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ILac8DwAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "tert-Butyl Carbocation in Condensed Phases: Stabilization via Hyperconjugation, Polarization, and Hydrogen Bonding",
         "pub_year": "2015",
         "citation": "The Journal of Physical Chemistry A 119 (32), 8619-8629, 2015",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ILac8DwAAAAJ:isC4tDSrTZIC"
     },
     {

@@ -1,5 +1,12 @@
 [
     {
+        "title": "10A: Process Design for a Net Zero Carbon Economy II",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:ZHo1McVdvXMC"
+    },
+    {
         "title": "A Kaizen Programming algorithm for multi-output regression based on a heterogeneous island model",
         "pub_year": "2023",
         "citation": "Neural computing and applications 35 (13), 9299-9317, 2023",
@@ -24,7 +31,7 @@
         "title": "A genetic programming approach for construction of surrogate models",
         "pub_year": "2019",
         "citation": "Computer Aided Chemical Engineering 47, 451-456, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "8xQ5wR4AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -45,7 +52,7 @@
         "title": "A robust disjunctive formulation for the redesign of forest biomass-based fuels supply chain under multiple factors of uncertainty",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 181, 108540, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8xQ5wR4AAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -177,14 +184,14 @@
         "title": "Developing process designs for biorefineries—Definitions, categories, and unit operations",
         "pub_year": "2020",
         "citation": "Energies 13 (6), 1493, 2020",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "8xQ5wR4AAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Development of a machine learning-based soft sensor for an oil refinery’s distillation column",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 161, 107756, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "8xQ5wR4AAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -232,14 +239,14 @@
         "title": "Engineering Biomass Conversion Processes: A Systems Perspective.",
         "pub_year": "2013",
         "citation": "AIChE Journal 59 (1), 2013",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "8xQ5wR4AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Engineering aspects of hydrothermal pretreatment: From batch to continuous operation, scale-up and pilot reactor under biorefinery concept",
         "pub_year": "2020",
         "citation": "Bioresource technology 299, 122685, 2020",
-        "num_citations": 291,
+        "num_citations": 294,
         "author_pub_id": "8xQ5wR4AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -343,7 +350,7 @@
         "title": "Lignin from Eucalyptus spp. Kraft Black Liquor as Biofuel",
         "pub_year": "2016",
         "citation": "Energy & Fuels 30 (12), 10494-10498, 2016",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "8xQ5wR4AAAAJ:4DMP91E08xMC"
     },
     {
@@ -448,7 +455,7 @@
         "title": "Proceedings of the 3rd IPLeiria’s International Health Congress: Leiria, Portugal. 6-7 May 2016",
         "pub_year": "2016",
         "citation": "BMC Health Services Research 16, 111-242, 2016",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "8xQ5wR4AAAAJ:35N4QoGY0k4C"
     },
     {

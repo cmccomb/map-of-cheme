@@ -70,6 +70,13 @@
         "author_pub_id": "pk31kMgAAAAJ:_kc_bZDykSQC"
     },
     {
+        "title": "CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Carbon Capture at Industrial and Power Generation Plants.",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:IWHjjKOFINEC"
+    },
+    {
         "title": "CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Post-Combustion Carbon Capture",
         "pub_year": "2023",
         "citation": "2023 AIChE Annual Meeting, 2023",
@@ -103,6 +110,13 @@
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+        "title": "Computational Analysis of the Effect of Structured Packing Design on Absorption Column Hydrodynamics for Post-Combustion Carbon Capture Applications",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Computational Fluid Dynamics (CFD) Modeling of Wetted Wall Absorption Columns for Solvent-Based Post-Combustion Carbon Capture Applications",
@@ -153,6 +167,20 @@
         "author_pub_id": "pk31kMgAAAAJ:4DMP91E08xMC"
     },
     {
+        "title": "Experimental and Theoretical Evaluation of Feed-Flow Collar Design for 3D Printed Shell-Fed Flow Hollow Fiber Membrane Modules",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:hC7cP41nSMkC"
+    },
+    {
+        "title": "Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:ZeXyd9-uunAC"
+    },
+    {
         "title": "Hollow fiber membrane contactors for post-combustion carbon capture: A review of modeling approaches",
         "pub_year": "2020",
         "citation": "Membranes 10 (12), 382, 2020",
@@ -177,7 +205,7 @@
         "title": "Including CFD rigorous models in the optimal design of carbon capture plants through trust-region methods",
         "pub_year": "2024",
         "citation": "Chemical Engineering Science 286, 119646, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pk31kMgAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -209,6 +237,13 @@
         "author_pub_id": "pk31kMgAAAAJ:zYLM7Y9cAGgC"
     },
     {
+        "title": "Modeling and Scaling-up of Membrane Modules Leveraging Dimensional Analysis.",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:L8Ckcad2t8MC"
+    },
+    {
         "title": "Modeling and Structural Optimization of Solid Oxide Fuel Cells",
         "pub_year": "2013",
         "citation": "Technical University of Denmark, 2013",
@@ -219,7 +254,7 @@
         "title": "Multi-component optical sensing of high temperature gas streams using functional oxide integrated silica based optical fiber sensors",
         "pub_year": "2018",
         "citation": "Sensors and Actuators B: Chemical 255, 357-365, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "pk31kMgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -237,10 +272,17 @@
         "author_pub_id": "pk31kMgAAAAJ:qxL8FJ1GzNcC"
     },
     {
+        "title": "Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:hFOr9nPyWt4C"
+    },
+    {
         "title": "Polymer-stable magnesium nanocomposites prepared by laser ablation for efficient hydrogen storage",
         "pub_year": "2013",
         "citation": "International journal of hydrogen energy 38 (26), 11530-11535, 2013",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "pk31kMgAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -263,6 +305,13 @@
         "citation": "2023 AIChE Annual Meeting, 2023",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:Zph67rFs4hoC"
+    },
+    {
+        "title": "Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3d-Printed Intensified Packing",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Three-Dimensional Computational Fluid Dynamics (CFD) Modeling of Post-Combustion Carbon Capture in Intensified Absorption Columns with Structured Packing.",
@@ -290,5 +339,12 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "Towards Modelling and Structural Optimization of Adsorption-Based Direct Air Capture Technologies",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:-f6ydRqryjwC"
     }
 ]

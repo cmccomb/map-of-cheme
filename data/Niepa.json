@@ -38,7 +38,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 220,
+        "num_citations": 222,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -100,7 +100,7 @@
         "title": "Demonstration of direct ocean carbon capture using encapsulated solvents",
         "pub_year": "2023",
         "citation": "Chemical Engineering Journal 470, 144140, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Droplet-based microsystems as novel assessment tools for oral microbial dynamics",
         "pub_year": "2022",
         "citation": "Biotechnology Advances 55, 107903, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "aYUS1DkAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Electrochemical Strategy for Eradicating Fluconazole-Tolerant Candida albicans Using Implantable Titanium",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (44), 40997-41008, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "aYUS1DkAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Microbial nanoculture as an artificial microniche",
         "pub_year": "2016",
         "citation": "Scientific reports 6 (1), 30578, 2016",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "aYUS1DkAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -352,7 +352,7 @@
         "title": "One-step generation of cell-encapsulating compartments via polyelectrolyte complexation in an aqueous two phase system",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (38), 25603-25611, 2016",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "aYUS1DkAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -423,6 +423,13 @@
         "citation": "2022 AIChE Annual Meeting, 2022",
         "num_citations": 0,
         "author_pub_id": "aYUS1DkAAAAJ:kz9GbA2Ns4gC"
+    },
+    {
+        "title": "The effect of charge screening for cationic surfactants on the rigidity of interfacial nanoparticle assemblies",
+        "pub_year": "2024",
+        "citation": "Journal of Colloid and Interface Science, 2024",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
