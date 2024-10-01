@@ -1,6 +1,6 @@
 [
     {
-        "title": "10A: Process Design for a Net Zero Carbon Economy II",
+        "title": "10A: Process Design for a Net Zero Carbon Economy I",
         "pub_year": "2024",
         "citation": "2024 AIChE Annual Meeting, 2024",
         "num_citations": 0,
@@ -21,17 +21,24 @@
         "author_pub_id": "8xQ5wR4AAAAJ:eQOLeE2rZwMC"
     },
     {
+        "title": "A System-Dynamics Based Approach for Modeling Circular Economy Networks for Plastic Recycling",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:rO6llkc54NcC"
+    },
+    {
         "title": "A comparative study on the numerical performance of kaizen programming and genetic programming for symbolic regression problems",
         "pub_year": "2019",
         "citation": "2019 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 1-6, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "8xQ5wR4AAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "A genetic programming approach for construction of surrogate models",
         "pub_year": "2019",
         "citation": "Computer Aided Chemical Engineering 47, 451-456, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "8xQ5wR4AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -128,14 +135,14 @@
         "title": "Continuous production of 5-hydroxymethylfurfural from fructose: a design case study",
         "pub_year": "2010",
         "citation": "Energy & Environmental Science 3 (10), 1560-1572, 2010",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "8xQ5wR4AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Coupling time varying power sources to production of green-hydrogen: a superstructure based approach for technology selection and optimal design",
         "pub_year": "2022",
         "citation": "Chemical Engineering Research and Design 183, 235-249, 2022",
-        "num_citations": 16,
+        "num_citations": 20,
         "author_pub_id": "8xQ5wR4AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -184,7 +191,7 @@
         "title": "Developing process designs for biorefineries—Definitions, categories, and unit operations",
         "pub_year": "2020",
         "citation": "Energies 13 (6), 1493, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "8xQ5wR4AAAAJ:dhFuZR0502QC"
     },
     {
@@ -232,7 +239,7 @@
         "title": "Energy storage",
         "pub_year": "2022",
         "citation": "Sustainable Design for Renewable Processes, 573-622, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8xQ5wR4AAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -246,7 +253,7 @@
         "title": "Engineering aspects of hydrothermal pretreatment: From batch to continuous operation, scale-up and pilot reactor under biorefinery concept",
         "pub_year": "2020",
         "citation": "Bioresource technology 299, 122685, 2020",
-        "num_citations": 294,
+        "num_citations": 300,
         "author_pub_id": "8xQ5wR4AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -347,11 +354,25 @@
         "author_pub_id": "8xQ5wR4AAAAJ:RGFaLdJalmkC"
     },
     {
+        "title": "Leveraging Hourly Variations in Electricity Pricing for Optimal Retrofit Electrification of an Oil Refinery",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:u_35RYKgDlwC"
+    },
+    {
         "title": "Lignin from Eucalyptus spp. Kraft Black Liquor as Biofuel",
         "pub_year": "2016",
         "citation": "Energy & Fuels 30 (12), 10494-10498, 2016",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "8xQ5wR4AAAAJ:4DMP91E08xMC"
+    },
+    {
+        "title": "Multi-Objective Optimization of an Integrated Cluster for Methanol Production",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Networks with large solvent recycle: Dynamics, hierarchical control, and a biorefinery application",
@@ -361,10 +382,17 @@
         "author_pub_id": "8xQ5wR4AAAAJ:9yKSN-GCB0IC"
     },
     {
+        "title": "Novel Approaches to CO2 Utilization I",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:zA6iFVUQeVQC"
+    },
+    {
         "title": "On the kinetics of the isomerization of glucose to fructose using Sn-Beta",
         "pub_year": "2014",
         "citation": "Chemical Engineering Science 116, 235-242, 2014",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "8xQ5wR4AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -399,7 +427,7 @@
         "title": "Optimal Retrofitting of Conventional Oil Refinery into Sustainable Bio-refinery under Uncertainty",
         "pub_year": "2023",
         "citation": "Computer Aided Chemical Engineering 52, 247-253, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "8xQ5wR4AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -415,6 +443,12 @@
         "citation": "2017 AIChE Annual Meeting, 2017",
         "num_citations": 0,
         "author_pub_id": "8xQ5wR4AAAAJ:mVmsd5A6BfQC"
+    },
+    {
+        "title": "Optimization of Retrofit Decarbonization in Oil Refineries",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Optimization of lignocellulosic waste biorefinery using multi-actor multi-objective mathematical framework",
@@ -455,7 +489,7 @@
         "title": "Proceedings of the 3rd IPLeiria’s International Health Congress: Leiria, Portugal. 6-7 May 2016",
         "pub_year": "2016",
         "citation": "BMC Health Services Research 16, 111-242, 2016",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "8xQ5wR4AAAAJ:35N4QoGY0k4C"
     },
     {

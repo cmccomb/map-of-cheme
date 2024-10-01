@@ -17,7 +17,7 @@
         "title": "A fast moving horizon estimation algorithm based on nonlinear programming sensitivity",
         "pub_year": "2008",
         "citation": "Journal of Process Control 18 (9), 876-884, 2008",
-        "num_citations": 179,
+        "num_citations": 178,
         "author_pub_id": "0B3gfuoAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A nonlinear programming approach for estimation of transmission parameters in childhood infectious disease using a continuous time model",
         "pub_year": "2012",
         "citation": "Journal of The Royal Society Interface 9 (73), 1983-1997, 2012",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "0B3gfuoAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1129,
+        "num_citations": 1136,
         "author_pub_id": "0B3gfuoAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -122,7 +122,7 @@
         "title": "An interior-point method for efficient solution of block-structured NLP problems using an implicit Schur-complement decomposition",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 71, 563-573, 2014",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "0B3gfuoAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Benchmarking ADMM in nonconvex NLPs",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 119, 315-325, 2018",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "0B3gfuoAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Contamination source determination for water networks",
         "pub_year": "2005",
         "citation": "Journal of Water Resources Planning and Management 131 (2), 125-134, 2005",
-        "num_citations": 231,
+        "num_citations": 232,
         "author_pub_id": "0B3gfuoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Effect of specific non-pharmaceutical intervention policies on SARS-CoV-2 transmission in the counties of the United States",
         "pub_year": "2021",
         "citation": "Nature communications 12 (1), 3560, 2021",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "0B3gfuoAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Estimating seasonal drivers in childhood infectious diseases with continuous time and discrete-time models",
         "pub_year": "2010",
         "citation": "Proceedings of the 2010 American Control Conference, 5137-5142, 2010",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "0B3gfuoAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Evaluating demand response opportunities for power systems resilience using MILP and MINLP Formulations",
         "pub_year": "2019",
         "citation": "AIChE Journal 65 (7), e16508, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "0B3gfuoAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -269,14 +269,14 @@
         "title": "Global solution strategies for the network-constrained unit commitment problem with AC transmission constraints",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (2), 1139-1150, 2018",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "0B3gfuoAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Interior-point decomposition approaches for parallel solution of large-scale nonlinear parameter estimation problems",
         "pub_year": "2008",
         "citation": "Chemical Engineering Science 63 (19), 4834-4845, 2008",
-        "num_citations": 149,
+        "num_citations": 150,
         "author_pub_id": "0B3gfuoAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Linear model decision trees as surrogates in optimization of engineering applications",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 178, 108347, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "0B3gfuoAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Nonlinear Model Predictive Control of a CO2 Post‐Combustion Absorption Unit",
         "pub_year": "2012",
         "citation": "Chemical Engineering & Technology 35 (3), 445-454, 2012",
-        "num_citations": 62,
+        "num_citations": 64,
         "author_pub_id": "0B3gfuoAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -353,7 +353,7 @@
         "title": "OMLT: Optimization & machine learning toolkit",
         "pub_year": "2022",
         "citation": "Journal of Machine Learning Research 23 (349), 1-8, 2022",
-        "num_citations": 67,
+        "num_citations": 73,
         "author_pub_id": "0B3gfuoAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Perspectives on the integration between first-principles and data-driven modeling",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 166, 107898, 2022",
-        "num_citations": 56,
+        "num_citations": 60,
         "author_pub_id": "0B3gfuoAAAAJ:W5xh706n7nkC"
     },
     {
@@ -444,14 +444,14 @@
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2017",
         "citation": "Springer 67, 277, 2017",
-        "num_citations": 1451,
+        "num_citations": 1458,
         "author_pub_id": "0B3gfuoAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2021",
         "citation": "Springer 67 (s 32), 2021",
-        "num_citations": 466,
+        "num_citations": 482,
         "author_pub_id": "0B3gfuoAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -465,7 +465,7 @@
         "title": "Real-time feasible multi-objective optimization based nonlinear model predictive control of particle size and shape in a batch crystallization process",
         "pub_year": "2017",
         "citation": "Control Engineering Practice 69, 1-8, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "0B3gfuoAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -507,7 +507,7 @@
         "title": "Scalable preconditioning of block-structured linear algebra systems using ADMM",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 133, 106478, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "0B3gfuoAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -577,21 +577,21 @@
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
         "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021",
-        "num_citations": 71,
+        "num_citations": 81,
         "author_pub_id": "0B3gfuoAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "The unit commitment problem with AC optimal power flow constraints",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Power Systems 31 (6), 4853-4866, 2016",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "0B3gfuoAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Tightening McCormick relaxations toward global solution of the ACOPF problem",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 814-817, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "0B3gfuoAAAAJ:mvPsJ3kp5DgC"
     },
     {

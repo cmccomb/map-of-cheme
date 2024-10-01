@@ -113,7 +113,7 @@
         "title": "Measuring and modeling macrophage proliferation in a lab-on-CMOS capacitance sensing microsystem",
         "pub_year": "2023",
         "citation": "Frontiers in Bioengineering and Biotechnology 11, 1159004, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "_7HjzLYAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -203,29 +203,36 @@
         "title": "TRAIL-coated leukocytes that kill cancer cells in the circulation",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (3), 930-935, 2014",
-        "num_citations": 229,
+        "num_citations": 232,
         "author_pub_id": "_7HjzLYAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "TRAIL-coated leukocytes that prevent the bloodborne metastasis of prostate cancer",
         "pub_year": "2016",
         "citation": "Journal of Controlled Release 223, 215-223, 2016",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "_7HjzLYAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Targeted delivery of siRNA lipoplexes to cancer cells using macrophage transient horizontal gene transfer",
         "pub_year": "2019",
         "citation": "Advanced Science 6 (21), 1900582, 2019",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "_7HjzLYAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "The role of extracellular vesicles in the pathogenesis and treatment of autoimmune disorders",
         "pub_year": "2021",
         "citation": "Frontiers in Immunology 12, 566299, 2021",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "_7HjzLYAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+        "title": "Towards a Lab-on-a-Chip as a Service (LoCaaS) Framework for in Vitro Cancer Cell Assays",
+        "pub_year": "2024",
+        "citation": "2024 22nd IEEE Interregional NEWCAS Conference (NEWCAS), 268-272, 2024",
+        "num_citations": 0,
+        "author_pub_id": "_7HjzLYAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Unnatural killer cells: TRAIL-coated leukocytes that kill cancer cells in the circulation",

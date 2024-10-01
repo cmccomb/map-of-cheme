@@ -3,7 +3,7 @@
         "title": "10-Membered Azaenediyne Fused to a Benzothiophene through the Nicholas Macrocyclization: Synthesis and DNA Cleavage Ability",
         "pub_year": "2019",
         "citation": "Synlett 30 (02), 161-166, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ILac8DwAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -23,8 +23,15 @@
         "title": "A comprehensive discovery platform for organophosphorus ligands for catalysis",
         "pub_year": "2022",
         "citation": "Journal of the American Chemical Society 144 (3), 1205-1217, 2022",
-        "num_citations": 169,
+        "num_citations": 175,
         "author_pub_id": "ILac8DwAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.04520, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ILac8DwAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
@@ -37,21 +44,21 @@
         "title": "Autonomous chemical research with large language models",
         "pub_year": "2023",
         "citation": "Nature 624 (7992), 570-578, 2023",
-        "num_citations": 304,
+        "num_citations": 339,
         "author_pub_id": "ILac8DwAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Beyond generative models: superfast traversal, optimization, novelty, exploration and discovery (STONED) algorithm for molecules using SELFIES",
         "pub_year": "2021",
         "citation": "Chemical science 12 (20), 7079-7090, 2021",
-        "num_citations": 136,
+        "num_citations": 138,
         "author_pub_id": "ILac8DwAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "CO2 or SO2: Should It Stay, or Should It Go?",
         "pub_year": "2019",
         "citation": "The Journal of Organic Chemistry 84 (10), 6232-6243, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "ILac8DwAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -100,14 +107,14 @@
         "title": "Data-driven strategies for accelerated materials design",
         "pub_year": "2021",
         "citation": "Accounts of Chemical Research 54 (4), 849-860, 2021",
-        "num_citations": 262,
+        "num_citations": 270,
         "author_pub_id": "ILac8DwAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Data-science driven autonomous process optimization",
         "pub_year": "2021",
         "citation": "Communications Chemistry 4 (1), 112, 2021",
-        "num_citations": 158,
+        "num_citations": 164,
         "author_pub_id": "ILac8DwAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -128,7 +135,7 @@
         "title": "Drawing catalytic power from charge separation: stereoelectronic and zwitterionic assistance in the Au (I)-catalyzed Bergman cyclization",
         "pub_year": "2017",
         "citation": "Journal of the American Chemical Society 139 (9), 3406-3416, 2017",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "ILac8DwAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -155,7 +162,7 @@
         "title": "Five Roads That Converge at the Cyclic Peroxy-Criegee Intermediates: BF3-Catalyzed Synthesis of β-Hydroperoxy-β-peroxylactones",
         "pub_year": "2018",
         "citation": "The Journal of organic chemistry 83 (21), 13427-13445, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "ILac8DwAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -183,7 +190,7 @@
         "title": "Ground state cross-coupling of haloarenes with arenes initiated by organic electron donors, formed in situ: an overview",
         "pub_year": "2020",
         "citation": "Synthesis 52 (03), 327-336, 2020",
-        "num_citations": 37,
+        "num_citations": 42,
         "author_pub_id": "ILac8DwAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -197,7 +204,7 @@
         "title": "Hyperconjugation",
         "pub_year": "2019",
         "citation": "Wiley Interdisciplinary Reviews: Computational Molecular Science 9 (2), e1389, 2019",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "ILac8DwAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -211,7 +218,7 @@
         "title": "Illuminating the dark conformational space of macrocycles using dominant rotors",
         "pub_year": "2021",
         "citation": "Nature chemistry 13 (3), 218-225, 2021",
-        "num_citations": 44,
+        "num_citations": 48,
         "author_pub_id": "ILac8DwAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -225,14 +232,14 @@
         "title": "Isonitriles as stereoelectronic chameleons: The donor–acceptor dichotomy in radical additions",
         "pub_year": "2018",
         "citation": "Journal of the American Chemical Society 140 (43), 14272-14288, 2018",
-        "num_citations": 67,
+        "num_citations": 70,
         "author_pub_id": "ILac8DwAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Machine learning dihydrogen activation in the chemical space surrounding Vaska's complex",
         "pub_year": "2020",
         "citation": "Chemical Science 11 (18), 4584-4601, 2020",
-        "num_citations": 124,
+        "num_citations": 129,
         "author_pub_id": "ILac8DwAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -259,7 +266,7 @@
         "title": "On scientific understanding with artificial intelligence",
         "pub_year": "2022",
         "citation": "Nature Reviews Physics 4, 761–769, 2022",
-        "num_citations": 179,
+        "num_citations": 188,
         "author_pub_id": "ILac8DwAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -280,7 +287,7 @@
         "title": "Organic molecules with inverted gaps between first excited singlet and triplet states and appreciable fluorescence rates",
         "pub_year": "2021",
         "citation": "Matter 4 (5), 1654-1682, 2021",
-        "num_citations": 92,
+        "num_citations": 94,
         "author_pub_id": "ILac8DwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -308,7 +315,7 @@
         "title": "Ozone-free synthesis of ozonides: assembling bicyclic structures from 1, 5-diketones and hydrogen peroxide",
         "pub_year": "2018",
         "citation": "The Journal of Organic Chemistry 83 (8), 4402-4426, 2018",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "ILac8DwAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -322,7 +329,7 @@
         "title": "Radical Alkyne peri‐Annulation Reactions for the Synthesis of Functionalized Phenalenes, Benzanthrenes, and Olympicene",
         "pub_year": "2018",
         "citation": "Angewandte Chemie 130 (14), 3713-3717, 2018",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "ILac8DwAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -336,7 +343,7 @@
         "title": "Regioselective one‐pot synthesis of triptycenes via triple‐cycloadditions of arynes to ynolates",
         "pub_year": "2017",
         "citation": "Angewandte Chemie International Edition 56 (5), 1298-1302, 2017",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "ILac8DwAAAAJ:4DMP91E08xMC"
     },
     {
@@ -350,7 +357,7 @@
         "title": "Stereoelectronic Influence of a “Spectator” Propargylic Substituent Can Override Aromaticity Effects in Radical Peri-Cyclizations en Route to Expanded Polyaromatics",
         "pub_year": "2019",
         "citation": "The Journal of Organic Chemistry 84 (4), 1853-1862, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ILac8DwAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -392,7 +399,7 @@
         "title": "Stereoelectronic source of the anomalous stability of bis-peroxides",
         "pub_year": "2015",
         "citation": "Chemical science 6 (12), 6783-6791, 2015",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "ILac8DwAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -427,7 +434,7 @@
         "title": "Synthesis of functionalized phenanthrenes via regioselective oxidative radical cyclization",
         "pub_year": "2015",
         "citation": "The Journal of Organic Chemistry 80 (23), 11706-11717, 2015",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "ILac8DwAAAAJ:mB3voiENLucC"
     },
     {
@@ -483,7 +490,7 @@
         "title": "Twofold π-Extension of Polyarenes via Double and Triple Radical Alkyne peri-Annulations: Radical Cascades Converging on the Same Aromatic Core",
         "pub_year": "2020",
         "citation": "Journal of the American Chemical Society 142 (18), 8352-8366, 2020",
-        "num_citations": 29,
+        "num_citations": 32,
         "author_pub_id": "ILac8DwAAAAJ:Se3iqnhoufwC"
     },
     {
