@@ -24,7 +24,7 @@
         "title": "A framework for optimizing oxygen vacancy formation in doped perovskites",
         "pub_year": "2019",
         "citation": "Computers & Chemical Engineering 126, 168-177, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "CINe7CgAAAAJ:cB__R-XWw9UC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A mathematical optimization framework for the design of nanopatterned surfaces",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (9), 3250-3263, 2016",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "CINe7CgAAAAJ:w2UhwfzvF0QC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "A review of recent advances in global optimization",
         "pub_year": "2009",
         "citation": "Journal of Global Optimization 45, 3-38, 2009",
-        "num_citations": 635,
+        "num_citations": 640,
         "author_pub_id": "CINe7CgAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Adsorption of fermentation inhibitors from lignocellulosic biomass hydrolyzates for improved ethanol yield and value-added product recovery",
         "pub_year": "2009",
         "citation": "Microporous and Mesoporous Materials 122 (1), 143-148, 2009",
-        "num_citations": 151,
+        "num_citations": 150,
         "author_pub_id": "CINe7CgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Computational comparison of piecewise− linear relaxations for pooling problems",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (12), 5742-5766, 2009",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "CINe7CgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -184,14 +184,14 @@
         "title": "Design of doped perovskite oxygen carriers using mathematical optimization",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2461-2466, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "CINe7CgAAAAJ:K4-iKlO5MD4C"
     },
     {
         "title": "Designing networks with resiliency to edge failures using two-stage robust optimization",
         "pub_year": "2019",
         "citation": "European Journal of Operational Research 279 (3), 704-720, 2019",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "CINe7CgAAAAJ:q1zXlPLtbUIC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Estimation of marginal cost to serve individual customers",
         "pub_year": "2020",
         "citation": "Optimization Online, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "CINe7CgAAAAJ:8RAEygVn5_EC"
     },
     {
@@ -275,14 +275,14 @@
         "title": "Global optimization of gas lifting operations: A comparative study of piecewise linear formulations",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (13), 6098-6104, 2009",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "CINe7CgAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Identification of optimally stable nanocluster geometries via mathematical optimization and density-functional theory",
         "pub_year": "2020",
         "citation": "Molecular Systems Design & Engineering 5 (1), 232-244, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "CINe7CgAAAAJ:7VEv-pLvLSsC"
     },
     {
@@ -296,14 +296,14 @@
         "title": "K-adaptability in two-stage mixed-integer robust optimization",
         "pub_year": "2020",
         "citation": "Mathematical Programming Computation 12, 193-224, 2020",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "CINe7CgAAAAJ:CMvovTBb2okC"
     },
     {
         "title": "MatOpt: A Python Package for Nanomaterials Design Using Discrete Optimization",
         "pub_year": "2022",
         "citation": "Journal of Chemical Information and Modeling 62 (2), 295-308, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "CINe7CgAAAAJ:4QKQTXcH0q8C"
     },
     {
@@ -359,7 +359,7 @@
         "title": "Next generation multi-scale process systems engineering framework",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "CINe7CgAAAAJ:Oo1CbQkBAzEC"
     },
     {
@@ -373,7 +373,7 @@
         "title": "Optimization-Based Design of Active and Stable Nanostructured Surfaces",
         "pub_year": "2019",
         "citation": "The Journal of Physical Chemistry C 123 (48), 29209-29218, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "CINe7CgAAAAJ:cRMvf6lLvU8C"
     },
     {
@@ -387,7 +387,7 @@
         "title": "Predictive Framework for Shape-Selective Separations in Three-Dimensional Zeolites and Metal–Organic Frameworks",
         "pub_year": "2013",
         "citation": "Langmuir 29 (18), 5599-5608, 2013",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "CINe7CgAAAAJ:4DMP91E08xMC"
     },
     {
@@ -401,7 +401,7 @@
         "title": "Rational design of shape selective separation and catalysis—I: Concepts and analysis",
         "pub_year": "2006",
         "citation": "Chemical engineering science 61 (24), 7933-7948, 2006",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "CINe7CgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -422,7 +422,7 @@
         "title": "Robust Multiperiod Vehicle Routing Under Customer Order Uncertainty",
         "pub_year": "2021",
         "citation": "Operations Research 69 (1), 30-60, 2021",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "CINe7CgAAAAJ:oYLFIHfuHKwC"
     },
     {
@@ -436,14 +436,14 @@
         "title": "Robust optimization of a broad class of heterogeneous vehicle routing problems under demand uncertainty",
         "pub_year": "2020",
         "citation": "INFORMS Journal on Computing 32 (3), 661-681, 2020",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "CINe7CgAAAAJ:qPeb-qHga9sC"
     },
     {
         "title": "Robust vehicle routing under uncertainty via branch-price-and-cut",
         "pub_year": "2021",
         "citation": "Optimization and Engineering, 1-54, 2021",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "CINe7CgAAAAJ:pUxgyZctzPYC"
     },
     {
@@ -457,7 +457,7 @@
         "title": "Search methods for inorganic materials crystal structure prediction",
         "pub_year": "2022",
         "citation": "Current Opinion in Chemical Engineering 35, 100726, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "CINe7CgAAAAJ:kO05sadLmrgC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Stereochemically Consistent Reaction Mapping and Identification of Multiple Reaction Mechanisms through Integer Linear Optimization",
         "pub_year": "2012",
         "citation": "Journal of chemical information and modeling 52 (1), 84-92, 2012",
-        "num_citations": 54,
+        "num_citations": 56,
         "author_pub_id": "CINe7CgAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -491,7 +491,7 @@
         "title": "The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty",
         "pub_year": "2013",
         "citation": "Operations Research 61 (3), 677-693, 2013",
-        "num_citations": 265,
+        "num_citations": 266,
         "author_pub_id": "CINe7CgAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -505,7 +505,7 @@
         "title": "Theoretical and computational comparison of continuous‐time process scheduling models for adjustable robust optimization",
         "pub_year": "2018",
         "citation": "AIChE Journal 64 (8), 3055-3070, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "CINe7CgAAAAJ:hefNtdE4IMkC"
     },
     {

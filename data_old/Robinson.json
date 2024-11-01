@@ -223,7 +223,7 @@
         "title": "BiP clustering facilitates protein folding in the endoplasmic reticulum",
         "pub_year": "2014",
         "citation": "PLOS Computational Biology 10 (7), e1003675, 2014",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "NnIC2iAAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -265,7 +265,7 @@
         "title": "Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement",
         "pub_year": "2017",
         "citation": "Biotechnology journal 12 (1), 1600105, 2017",
-        "num_citations": 111,
+        "num_citations": 114,
         "author_pub_id": "NnIC2iAAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -300,7 +300,7 @@
         "title": "Characterization of binding kinetics of A2AR to Gαs protein by surface plasmon resonance",
         "pub_year": "2021",
         "citation": "Biophysical Journal 120 (9), 1641-1649, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "NnIC2iAAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -356,7 +356,7 @@
         "title": "Coarse-Grained Model for Colloidal Protein Interactions, B22, and Protein Cluster Formation",
         "pub_year": "2013",
         "citation": "The Journal of Physical Chemistry B 117 (50), 16013-16028, 2013",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "NnIC2iAAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -613,7 +613,7 @@
         "title": "Driving forces for nonnative protein aggregation and approaches to predict aggregation-prone regions",
         "pub_year": "2017",
         "citation": "Annual review of chemical and biomolecular engineering 8 (1), 139-159, 2017",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "NnIC2iAAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -893,7 +893,7 @@
         "title": "Heterologous GPCR expression: a bottleneck to obtaining crystal structures",
         "pub_year": "2007",
         "citation": "Biotechnology progress 23 (3), 540-547, 2007",
-        "num_citations": 173,
+        "num_citations": 175,
         "author_pub_id": "NnIC2iAAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -949,7 +949,7 @@
         "title": "Identification of manipulated variables for a glycosylation control strategy",
         "pub_year": "2014",
         "citation": "Biotechnology and bioengineering 111 (10), 1957-1970, 2014",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "NnIC2iAAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1110,7 +1110,7 @@
         "title": "Mass and heat transfer: analysis of mass contactors and heat exchangers",
         "pub_year": "2008",
         "citation": "Cambridge University Press, 2008",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "NnIC2iAAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1138,7 +1138,7 @@
         "title": "Membrane Protein Expression in Saccharomyces cerevisiae",
         "pub_year": "2011",
         "citation": "Production of Membrane Proteins: Strategies for Expression and Isolation, 37-73, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "NnIC2iAAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -1193,14 +1193,14 @@
         "title": "Model‐based control of titer and glycosylation in fed‐batch mAb production: Modeling and control system development",
         "pub_year": "2023",
         "citation": "AIChE Journal 69 (4), e18075, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "NnIC2iAAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "Modulating non-native aggregation and electrostatic protein–protein interactions with computationally designed single-point mutations",
         "pub_year": "2016",
         "citation": "Protein Engineering, Design and Selection 29 (6), 231-243, 2016",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "NnIC2iAAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1249,7 +1249,7 @@
         "title": "Nuclear translocation of the unliganded glucocorticoid receptor is influenced by membrane fluidity, but not A2AR agonism",
         "pub_year": "2020",
         "citation": "Steroids 160, 108641, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "NnIC2iAAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1263,7 +1263,7 @@
         "title": "Optimization of the Human Adenosine A2a Receptor Yields in Saccharomyces cerevisiae",
         "pub_year": "2006",
         "citation": "Biotechnology progress 22 (5), 1249-1255, 2006",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "NnIC2iAAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -1368,14 +1368,14 @@
         "title": "Protein Disulfide Isomerase Overexpression Increases Secretion of Foreign Proteins in Saccharomyces cerevisiae",
         "pub_year": "1994",
         "citation": "Bio/technology 12 (4), 381-384, 1994",
-        "num_citations": 288,
+        "num_citations": 289,
         "author_pub_id": "NnIC2iAAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Protein disulfide isomerase, but not binding protein, overexpression enhances secretion of a non‐disulfide‐bonded protein in yeast",
         "pub_year": "2004",
         "citation": "Biotechnology and bioengineering 85 (3), 340-350, 2004",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "NnIC2iAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -1458,7 +1458,7 @@
         "title": "Recombinant protein expression and purification: a comprehensive review of affinity tags and microbial applications",
         "pub_year": "2012",
         "citation": "Biotechnology journal 7 (5), 620-634, 2012",
-        "num_citations": 649,
+        "num_citations": 651,
         "author_pub_id": "NnIC2iAAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1645,7 +1645,7 @@
         "title": "The Interplay between GSK3β and Tau Ser262 Phosphorylation during the Progression of Tau Pathology",
         "pub_year": "2022",
         "citation": "International Journal of Molecular Sciences 23 (19), 11610, 2022",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "NnIC2iAAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -1785,7 +1785,7 @@
         "title": "Weak protein interactions and pH-and temperature-dependent aggregation of human Fc1",
         "pub_year": "2015",
         "citation": "MAbs 7 (6), 1072-1083, 2015",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "NnIC2iAAAAAJ:d1gkVwhDpl0C"
     },
     {

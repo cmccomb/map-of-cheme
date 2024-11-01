@@ -17,7 +17,7 @@
         "title": "An in-depth survey of the oil spill literature since 1968: Long term trends and changes since Deepwater Horizon",
         "pub_year": "2016",
         "citation": "Marine pollution bulletin 113 (1-2), 371-379, 2016",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "aYUS1DkAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -35,10 +35,17 @@
         "author_pub_id": "aYUS1DkAAAAJ:epqYDVWIO7EC"
     },
     {
+        "title": "Biosensing of Bacterial Secretions via Topological Defects at Smectic Interfaces",
+        "pub_year": "2024",
+        "citation": "Langmuir, 2024",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:FPJr55Dyh1AC"
+    },
+    {
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 225,
+        "num_citations": 230,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -86,7 +93,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -205,14 +212,14 @@
         "title": "Eradication of Pseudomonas aeruginosacells by cathodic electrochemical currents delivered with graphite electrodes",
         "pub_year": "2016",
         "citation": "Acta Biomaterialia 50 (1 March 2017), 344–352, 2016",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "aYUS1DkAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Films of Bacteria at Interfaces (FBI): Remodeling of Fluid Interfaces by Pseudomonas aeruginosa",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 17864, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "aYUS1DkAAAAJ:35r97b3x0nAC"
     },
     {
@@ -226,7 +233,7 @@
         "title": "Films of bacteria at interfaces",
         "pub_year": "2017",
         "citation": "Advances in colloid and interface science 247, 561-572, 2017",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "aYUS1DkAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -352,7 +359,7 @@
         "title": "One-step generation of cell-encapsulating compartments via polyelectrolyte complexation in an aqueous two phase system",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (38), 25603-25611, 2016",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "aYUS1DkAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -386,7 +393,7 @@
         "title": "Sensitizing Pseudomonas aeruginosa to antibiotics by electrochemical disruption of membrane functions",
         "pub_year": "2016",
         "citation": "Biomaterials 74, 267-279, 2016",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "aYUS1DkAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -435,7 +442,7 @@
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
         "pub_year": "2020",
         "citation": "Biofilm 2, 100012, 2020",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "aYUS1DkAAAAJ:ML0RJ9NH7IQC"
     },
     {

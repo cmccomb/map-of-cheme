@@ -125,7 +125,7 @@
         "title": "A Lagrangean decomposition heuristic for the design and planning of offshore hydrocarbon field infrastructures with complex economic objectives",
         "pub_year": "2001",
         "citation": "Industrial & engineering chemistry research 40 (13), 2857-2875, 2001",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "fiZryxEAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -144,8 +144,8 @@
     },
     {
         "title": "A MILP-based approach to address the production and distribution planning of large industrial gas supply chains",
-        "pub_year": "2024",
-        "citation": "Computers & Chemical Engineering, 108874, 2024",
+        "pub_year": "2025",
+        "citation": "Computers & Chemical Engineering 192, 108874, 2025",
         "num_citations": 0,
         "author_pub_id": "fiZryxEAAAAJ:rPbfW60zdgkC"
     },
@@ -160,7 +160,7 @@
         "title": "A MILP-based clustering strategy for integrating the operational management of crude oil supply",
         "pub_year": "2021",
         "citation": "Computers & Chemical Engineering 145, 107161, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "fiZryxEAAAAJ:D_25heFg6JwC"
     },
     {
@@ -267,6 +267,13 @@
         "author_pub_id": "fiZryxEAAAAJ:oi2SiIJ9l4AC"
     },
     {
+        "title": "A Nonconvex Miqcp Model for Optimal Scheduling of Furnaces Shutdown in a Steam-Cracking Ethylene Plant Under Demand Uncertainty",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:fh7vmlWxvT0C"
+    },
+    {
         "title": "A Platform for Online Inventory Optimization",
         "pub_year": "2021",
         "citation": "2021 AIChE Annual Meeting, 2021",
@@ -318,14 +325,14 @@
         "title": "A bilevel decomposition algorithm for simultaneous production scheduling and conflict-free routing for automated guided vehicles",
         "pub_year": "2011",
         "citation": "Computers & Operations Research 38 (5), 876-888, 2011",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "fiZryxEAAAAJ:WAzi4Gm8nLoC"
     },
     {
         "title": "A bilevel decomposition method for the simultaneous heat integration and synthesis of steam/organic Rankine cycles",
         "pub_year": "2019",
         "citation": "Computers & Chemical Engineering 128, 228-245, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "fiZryxEAAAAJ:csTP5AdqY_wC"
     },
     {
@@ -346,28 +353,28 @@
         "title": "A bi‐criterion optimization approach for the design and planning of hydrogen supply chains for vehicle use",
         "pub_year": "2010",
         "citation": "AIChE Journal 56 (3), 650-667, 2010",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "fiZryxEAAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "A branch and contract algorithm for problems with concave univariate, bilinear and linear fractional terms",
         "pub_year": "1999",
         "citation": "Journal of Global Optimization 14, 217-249, 1999",
-        "num_citations": 187,
+        "num_citations": 188,
         "author_pub_id": "fiZryxEAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "A class of stochastic programs with decision dependent uncertainty",
         "pub_year": "2006",
         "citation": "Mathematical programming 108 (2), 355-394, 2006",
-        "num_citations": 328,
+        "num_citations": 329,
         "author_pub_id": "fiZryxEAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "A combined penalty function and outer-approximation method for MINLP optimization",
         "pub_year": "1990",
         "citation": "Computers & Chemical Engineering 14 (7), 769-782, 1990",
-        "num_citations": 931,
+        "num_citations": 935,
         "author_pub_id": "fiZryxEAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -387,7 +394,7 @@
         "title": "A comparative study between GDP and NLP formulations for conceptual design of distillation columns",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 865-870, 2018",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "fiZryxEAAAAJ:dgXhHFWAKKUC"
     },
     {
@@ -400,14 +407,14 @@
         "title": "A comparative study of continuous-time models for scheduling of crude oil operations in inland refineries",
         "pub_year": "2012",
         "citation": "Computers & chemical engineering 44, 141-167, 2012",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "fiZryxEAAAAJ:6VlyvFCUEfcC"
     },
     {
         "title": "A comprehensive global optimization approach for the synthesis of heat exchanger networks with no stream splits",
         "pub_year": "1997",
         "citation": "Computers & chemical engineering 21, S65-S70, 1997",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "fiZryxEAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -442,7 +449,7 @@
         "title": "A continuous time mixed integer linear programming model for short term scheduling of multistage batch plants",
         "pub_year": "1995",
         "citation": "Industrial & Engineering Chemistry Research 34 (9), 3037-3051, 1995",
-        "num_citations": 412,
+        "num_citations": 411,
         "author_pub_id": "fiZryxEAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -470,14 +477,14 @@
         "title": "A decomposition approach for the scheduling of a steel plant production",
         "pub_year": "2001",
         "citation": "Computers & Chemical Engineering 25 (11-12), 1647-1660, 2001",
-        "num_citations": 323,
+        "num_citations": 325,
         "author_pub_id": "fiZryxEAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "A decomposition method for synthesizing complex column configurations using tray-by-tray GDP models",
         "pub_year": "2004",
         "citation": "Computers & chemical engineering 28 (11), 2165-2188, 2004",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "fiZryxEAAAAJ:35r97b3x0nAC"
     },
     {
@@ -512,7 +519,7 @@
         "title": "A deep reinforcement learning approach for chemical production scheduling",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 141, 106982, 2020",
-        "num_citations": 160,
+        "num_citations": 166,
         "author_pub_id": "fiZryxEAAAAJ:Xtec1x7NZGAC"
     },
     {
@@ -533,14 +540,14 @@
         "title": "A digital twin framework for business transactional processes in supply chains",
         "pub_year": "2021",
         "citation": "Computer aided chemical engineering 50, 1755-1760, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "fiZryxEAAAAJ:Oi-j_DTgP3cC"
     },
     {
         "title": "A digital twin framework for online optimization of supply chain business processes",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 166, 107972, 2022",
-        "num_citations": 15,
+        "num_citations": 19,
         "author_pub_id": "fiZryxEAAAAJ:7T_dCfhhGW4C"
     },
     {
@@ -575,7 +582,7 @@
         "title": "A disjunctive programming approach for the optimal design of reactive distillation columns",
         "pub_year": "2001",
         "citation": "Computers & Chemical Engineering 25 (11-12), 1661-1673, 2001",
-        "num_citations": 149,
+        "num_citations": 150,
         "author_pub_id": "fiZryxEAAAAJ:rO6llkc54NcC"
     },
     {
@@ -616,7 +623,7 @@
         "title": "A generalized Benders decomposition-based branch and cut algorithm for two-stage stochastic programs with nonconvex constraints and mixed-binary first and second stage variables",
         "pub_year": "2019",
         "citation": "Journal of Global Optimization 75, 247-272, 2019",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "fiZryxEAAAAJ:0dtNEdnCFDAC"
     },
     {
@@ -658,7 +665,7 @@
         "title": "A global optimization strategy for the environmentally conscious design of chemical supply chains under uncertainty in the damage assessment model",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (1), 42-58, 2010",
-        "num_citations": 209,
+        "num_citations": 211,
         "author_pub_id": "fiZryxEAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -749,7 +756,7 @@
         "title": "A mixed-integer linear programming model for optimizing the scheduling and assignment of tank farm operations",
         "pub_year": "2012",
         "citation": "Industrial & engineering chemistry research 51 (18), 6441-6454, 2012",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "fiZryxEAAAAJ:A8cqit5AE6sC"
     },
     {
@@ -798,14 +805,14 @@
         "title": "A model predictive control strategy for supply chain optimization",
         "pub_year": "2003",
         "citation": "Computers & Chemical Engineering 27 (8-9), 1201-1218, 2003",
-        "num_citations": 435,
+        "num_citations": 437,
         "author_pub_id": "fiZryxEAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "A modelling and decomposition strategy for the MINLP optimization of process flowsheets",
         "pub_year": "1989",
         "citation": "Computers & Chemical Engineering 13 (7), 797-819, 1989",
-        "num_citations": 320,
+        "num_citations": 324,
         "author_pub_id": "fiZryxEAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -819,7 +826,7 @@
         "title": "A multiobjective optimization approach for the simultaneous single line scheduling and control of CSTRs",
         "pub_year": "2012",
         "citation": "Industrial & engineering chemistry research 51 (17), 5881-5890, 2012",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "fiZryxEAAAAJ:m92CDrhVnKEC"
     },
     {
@@ -861,7 +868,7 @@
         "title": "A new Lagrangian decomposition approach applied to the integration of refinery planning and crude-oil scheduling",
         "pub_year": "2011",
         "citation": "Computers & Chemical Engineering 35 (12), 2750-2766, 2011",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "fiZryxEAAAAJ:CYCckWUYoCcC"
     },
     {
@@ -952,14 +959,14 @@
         "title": "A novel priority-slot based continuous-time formulation for crude-oil scheduling problems",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (18), 8515-8528, 2009",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "fiZryxEAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "A piecewise McCormick relaxation-based strategy for scheduling operations in a crude oil terminal",
         "pub_year": "2017",
         "citation": "Computers & Chemical Engineering 106, 309-321, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "fiZryxEAAAAJ:yL7DKRohVA8C"
     },
     {
@@ -994,7 +1001,7 @@
         "title": "A review and comparison of solvers for convex MINLP",
         "pub_year": "2019",
         "citation": "Optimization and Engineering 20, 397-455, 2019",
-        "num_citations": 344,
+        "num_citations": 354,
         "author_pub_id": "fiZryxEAAAAJ:kk7MRXTjMocC"
     },
     {
@@ -1008,14 +1015,14 @@
         "title": "A review of stochastic programming methods for optimization of process systems under uncertainty",
         "pub_year": "2021",
         "citation": "Frontiers in Chemical Engineering 2, 622241, 2021",
-        "num_citations": 125,
+        "num_citations": 129,
         "author_pub_id": "fiZryxEAAAAJ:Itmi1h0dExoC"
     },
     {
         "title": "A review on superstructure optimization approaches in process system engineering",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 136, 106808, 2020",
-        "num_citations": 182,
+        "num_citations": 190,
         "author_pub_id": "fiZryxEAAAAJ:P--cqP0FnSgC"
     },
     {
@@ -1036,7 +1043,7 @@
         "title": "A rigorous MINLP model for the optimal synthesis and operation of utility plants",
         "pub_year": "1998",
         "citation": "Chemical Engineering Research and Design 76 (3), 246-258, 1998",
-        "num_citations": 248,
+        "num_citations": 249,
         "author_pub_id": "fiZryxEAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -1106,7 +1113,7 @@
         "title": "A simultaneous optimization approach for off-line blending and scheduling of oil-refinery operations",
         "pub_year": "2006",
         "citation": "Computers & chemical engineering 30 (4), 614-634, 2006",
-        "num_citations": 229,
+        "num_citations": 231,
         "author_pub_id": "fiZryxEAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -1120,7 +1127,7 @@
         "title": "A stochastic programming approach to planning of offshore gas field developments under uncertainty in reserves",
         "pub_year": "2004",
         "citation": "Computers & chemical engineering 28 (8), 1409-1429, 2004",
-        "num_citations": 320,
+        "num_citations": 322,
         "author_pub_id": "fiZryxEAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -1155,7 +1162,7 @@
         "title": "A structural optimization approach in process synthesis—II: Heat recovery networks",
         "pub_year": "1983",
         "citation": "Computers & Chemical Engineering 7 (6), 707-721, 1983",
-        "num_citations": 948,
+        "num_citations": 949,
         "author_pub_id": "fiZryxEAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1235,6 +1242,13 @@
         "author_pub_id": "fiZryxEAAAAJ:HiznBx5RP3QC"
     },
     {
+        "title": "AN MINLP PROCESS SYNTHESIZER FOR A SEQUENTIAL MODULAR SIMULATOR-RESPONSE",
+        "pub_year": "1992",
+        "citation": "INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH 31 (12), 2805-2805, 1992",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:mqGkWRiPAHEC"
+    },
+    {
         "title": "ASI: Toward the optimal integrated production of biodiesel with internal recycling of methanol produced from glycerol",
         "pub_year": "2013",
         "citation": "Environmental Progress & Sustainable Energy 32 (4), 891-901, 2013",
@@ -1252,7 +1266,7 @@
         "title": "Active constraint strategy for flexibility analysis in chemical processes",
         "pub_year": "1987",
         "citation": "Computers & Chemical Engineering 11 (6), 675-693, 1987",
-        "num_citations": 511,
+        "num_citations": 514,
         "author_pub_id": "fiZryxEAAAAJ:9shLKfS_uJEC"
     },
     {
@@ -1266,7 +1280,7 @@
         "title": "Advanced optimization for process systems engineering",
         "pub_year": "2021",
         "citation": "Cambridge University Press, 2021",
-        "num_citations": 37,
+        "num_citations": 42,
         "author_pub_id": "fiZryxEAAAAJ:tUtwDVdCwjgC"
     },
     {
@@ -1301,14 +1315,14 @@
         "title": "Advances in mathematical programming for the synthesis of process systems",
         "pub_year": "2000",
         "citation": "Latin American Applied Research 30 (4), 263-284, 2000",
-        "num_citations": 119,
+        "num_citations": 118,
         "author_pub_id": "fiZryxEAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Advances in mathematical programming models for enterprise-wide optimization",
         "pub_year": "2012",
         "citation": "Computers & Chemical Engineering 47, 2-18, 2012",
-        "num_citations": 268,
+        "num_citations": 272,
         "author_pub_id": "fiZryxEAAAAJ:OzeSX8-yOCQC"
     },
     {
@@ -1356,7 +1370,7 @@
         "title": "Algorithmic approaches to inventory management optimization",
         "pub_year": "2021",
         "citation": "Processes 9 (1), 102, 2021",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "fiZryxEAAAAJ:PN3Jufe71OMC"
     },
     {
@@ -1398,14 +1412,14 @@
         "title": "Alternative mixed-integer linear programming models of a maritime inventory routing problem",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 77, 147-161, 2015",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "fiZryxEAAAAJ:s2G-WRnXBicC"
     },
     {
         "title": "Alternative regularizations for Outer-Approximation algorithms for convex MINLP",
         "pub_year": "2022",
         "citation": "Journal of Global Optimization 84 (4), 807-842, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "fiZryxEAAAAJ:GfAJFcoWUJEC"
     },
     {
@@ -1452,7 +1466,7 @@
         "title": "An LP/NLP based branch and bound algorithm for convex MINLP optimization problems",
         "pub_year": "1992",
         "citation": "Computers & chemical engineering 16 (10-11), 937-947, 1992",
-        "num_citations": 611,
+        "num_citations": 615,
         "author_pub_id": "fiZryxEAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -1480,7 +1494,7 @@
         "title": "An MINLP formulation for integrating the operational management of crude oil supply",
         "pub_year": "2019",
         "citation": "Computers & Chemical Engineering 123, 110-125, 2019",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "fiZryxEAAAAJ:m8MyhXdlT-4C"
     },
     {
@@ -1508,7 +1522,7 @@
         "title": "An adjustable robust optimization approach to scheduling of continuous industrial processes providing interruptible load",
         "pub_year": "2016",
         "citation": "Computers & Chemical Engineering 86, 106-119, 2016",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "fiZryxEAAAAJ:rJyh6hJnyfgC"
     },
     {
@@ -1522,14 +1536,14 @@
         "title": "An algorithm for the use of surrogate models in modular flowsheet optimization",
         "pub_year": "2008",
         "citation": "AIChE journal 54 (10), 2633-2650, 2008",
-        "num_citations": 322,
+        "num_citations": 328,
         "author_pub_id": "fiZryxEAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1140,
+        "num_citations": 1144,
         "author_pub_id": "fiZryxEAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1578,7 +1592,7 @@
         "title": "An automated modelling and reformulation system for design optimization",
         "pub_year": "1992",
         "citation": "Computers & chemical engineering 16 (7), 623-636, 1992",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "fiZryxEAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -1620,14 +1634,14 @@
         "title": "An embedding formulation for the optimal scheduling and design of multipurpose batch plants",
         "pub_year": "1987",
         "citation": "Industrial & engineering chemistry research 26 (1), 139-148, 1987",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "fiZryxEAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "An equation-oriented approach for handling thermodynamics based on cubic equation of state in process optimization",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (12), 2085-2096, 2010",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "fiZryxEAAAAJ:jgBuDB5drN8C"
     },
     {
@@ -1641,7 +1655,7 @@
         "title": "An improved piecewise outer-approximation algorithm for the global optimization of MINLP models involving concave and bilinear terms",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (3), 477-493, 2008",
-        "num_citations": 154,
+        "num_citations": 156,
         "author_pub_id": "fiZryxEAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1654,7 +1668,7 @@
         "title": "An index for operational flexibility in chemical process design. Part I: Formulation and theory",
         "pub_year": "1985",
         "citation": "AIChE Journal 31 (4), 621-630, 1985",
-        "num_citations": 805,
+        "num_citations": 809,
         "author_pub_id": "fiZryxEAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1696,7 +1710,7 @@
         "title": "An outer-approximation algorithm for a class of mixed-integer nonlinear programs",
         "pub_year": "1986",
         "citation": "Mathematical programming 36, 307-339, 1986",
-        "num_citations": 2066,
+        "num_citations": 2078,
         "author_pub_id": "fiZryxEAAAAJ:P7Ujq4OLJYoC"
     },
     {
@@ -1745,7 +1759,7 @@
         "title": "Applications of mixed-integer linear programming in process synthesis",
         "pub_year": "1980",
         "citation": "Computers & Chemical Engineering 4 (4), 205-214, 1980",
-        "num_citations": 127,
+        "num_citations": 128,
         "author_pub_id": "fiZryxEAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -1821,7 +1835,7 @@
         "title": "Automatic synthesis of optimum heat exchanger network configurations",
         "pub_year": "1986",
         "citation": "AIChE Journal 32 (2), 276-290, 1986",
-        "num_citations": 625,
+        "num_citations": 626,
         "author_pub_id": "fiZryxEAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1863,7 +1877,7 @@
         "title": "Batch scheduling with quality-based changeovers",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 132, 106617, 2020",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "fiZryxEAAAAJ:5uu-MYFt2EcC"
     },
     {
@@ -1959,7 +1973,7 @@
         "title": "Cascading knapsack inequalities: reformulation of a crude oil distribution problem",
         "pub_year": "2013",
         "citation": "Annals of Operations Research 203 (1), 217-234, 2013",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "fiZryxEAAAAJ:rTD5ala9j4wC"
     },
     {
@@ -1993,7 +2007,7 @@
         "title": "Challenges in the application of mathematical programming in the enterprise-wide optimization of process industries",
         "pub_year": "2014",
         "citation": "Theoretical Foundations of Chemical Engineering 48, 555-573, 2014",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "fiZryxEAAAAJ:1wZ_wKGpLuwC"
     },
     {
@@ -2144,7 +2158,7 @@
         "title": "Computational experience with DICOPT solving MINLP problems in process systems engineering",
         "pub_year": "1989",
         "citation": "Computers & Chemical Engineering 13 (3), 307-315, 1989",
-        "num_citations": 246,
+        "num_citations": 247,
         "author_pub_id": "fiZryxEAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -2172,7 +2186,7 @@
         "title": "Computational strategies for improved MINLP algorithms",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 75, 40-48, 2015",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "fiZryxEAAAAJ:gFrPXmx1TSsC"
     },
     {
@@ -2221,14 +2235,14 @@
         "title": "Contribution of upcycling surplus hydrogen to design a sustainable supply chain: The case study of Northern Spain",
         "pub_year": "2018",
         "citation": "Applied energy 231, 777-787, 2018",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "fiZryxEAAAAJ:ZbXHRDTBJTgC"
     },
     {
         "title": "Convergence properties of generalized Benders decomposition",
         "pub_year": "1991",
         "citation": "Computers & Chemical Engineering 15 (7), 481-491, 1991",
-        "num_citations": 206,
+        "num_citations": 207,
         "author_pub_id": "fiZryxEAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -2364,14 +2378,14 @@
         "title": "Data-driven construction of convex region surrogate models",
         "pub_year": "2016",
         "citation": "optimization and Engineering 17, 289-332, 2016",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "fiZryxEAAAAJ:j2GSQqY3pL0C"
     },
     {
         "title": "Data-driven individual and joint chance-constrained optimization via kernel smoothing",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 78, 51-69, 2015",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "fiZryxEAAAAJ:Mx5hWS9ctUkC"
     },
     {
@@ -2385,7 +2399,7 @@
         "title": "Data-driven simulation and optimization approaches to incorporate production variability in sales and operations planning",
         "pub_year": "2015",
         "citation": "Industrial & engineering chemistry research 54 (29), 7261-7272, 2015",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "fiZryxEAAAAJ:cx97FdCJQX8C"
     },
     {
@@ -2413,14 +2427,14 @@
         "title": "Decomposition methods for multi-horizon stochastic programming",
         "pub_year": "2024",
         "citation": "Computational Management Science 21 (1), 32, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "fiZryxEAAAAJ:8rj-XRKUtKYC"
     },
     {
         "title": "Decomposition strategy for designing flexible chemical plants",
         "pub_year": "1982",
         "citation": "AIChE Journal 28 (4), 686-694, 1982",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "fiZryxEAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -2516,7 +2530,7 @@
         "title": "Design of distillation sequences: from conventional to fully thermally coupled distillation systems",
         "pub_year": "2004",
         "citation": "Computers & chemical engineering 28 (11), 2307-2329, 2004",
-        "num_citations": 211,
+        "num_citations": 210,
         "author_pub_id": "fiZryxEAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -2544,14 +2558,14 @@
         "title": "Design of resilient supply chains with risk of facility disruptions",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (44), 17240-17251, 2014",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "fiZryxEAAAAJ:v_xunPV0uK0C"
     },
     {
         "title": "Design of responsive supply chains under demand uncertainty",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (12), 3090-3111, 2008",
-        "num_citations": 355,
+        "num_citations": 358,
         "author_pub_id": "fiZryxEAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -2565,7 +2579,7 @@
         "title": "Design optimization of stochastic flexibility",
         "pub_year": "1993",
         "citation": "Computers & Chemical Engineering 17 (4), 339-354, 1993",
-        "num_citations": 178,
+        "num_citations": 179,
         "author_pub_id": "fiZryxEAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -2586,7 +2600,7 @@
         "title": "Deterministic electric power infrastructure planning: Mixed-integer programming model and nested decomposition algorithm",
         "pub_year": "2018",
         "citation": "European Journal of Operational Research 271 (3), 1037-1054, 2018",
-        "num_citations": 166,
+        "num_citations": 171,
         "author_pub_id": "fiZryxEAAAAJ:M7C5BM2v8n8C"
     },
     {
@@ -2733,8 +2747,15 @@
         "title": "Distillation blending and cutpoint temperature optimization using monotonic interpolation",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (39), 15146-15156, 2014",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "fiZryxEAAAAJ:-vzq6BoH5oUC"
+    },
+    {
+        "title": "Distillation blending and outpoint temperature optimization in scheduling operations",
+        "pub_year": "2015",
+        "citation": "American Fuel and Petrochemical Manufacturers, AFPM-Plant Automation and …, 2015",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:uimFh4UyggMC"
     },
     {
         "title": "Dynamic Scheduling of Batch Operations and Customer Order Transactions in a Chemical Supply Chain",
@@ -2799,7 +2820,7 @@
         "title": "Economic and environmental strategic water management in the shale gas industry: Application of cooperative game theory",
         "pub_year": "2019",
         "citation": "AIChE Journal 65 (11), e16725, 2019",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "fiZryxEAAAAJ:s-mE-ZzancgC"
     },
     {
@@ -2834,7 +2855,7 @@
         "title": "Effective generalized disjunctive programming models for modular process synthesis",
         "pub_year": "2019",
         "citation": "Industrial & Engineering Chemistry Research 58 (15), 5873-5886, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "fiZryxEAAAAJ:AdGrMoNItN4C"
     },
     {
@@ -2876,7 +2897,7 @@
         "title": "Electric power infrastructure planning under uncertainty: stochastic dual dynamic integer programming (SDDiP) and parallelization scheme",
         "pub_year": "2020",
         "citation": "Optimization and Engineering 21, 1243-1281, 2020",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "fiZryxEAAAAJ:LZ55yeyZZb4C"
     },
     {
@@ -2946,7 +2967,7 @@
         "title": "Energy, water and process technologies integration for the simultaneous production of ethanol and food from the entire corn plant",
         "pub_year": "2011",
         "citation": "Computers & Chemical Engineering 35 (8), 1547-1557, 2011",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "fiZryxEAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -2967,7 +2988,7 @@
         "title": "Enterprise-wide optimization for industrial demand side management: Fundamentals, advances, and perspectives",
         "pub_year": "2016",
         "citation": "Chemical Engineering Research and Design 116, 114-131, 2016",
-        "num_citations": 162,
+        "num_citations": 165,
         "author_pub_id": "fiZryxEAAAAJ:J-ba04ztB30C"
     },
     {
@@ -2981,14 +3002,14 @@
         "title": "Enterprise‐wide optimization: A new frontier in process systems engineering",
         "pub_year": "2005",
         "citation": "AIChE Journal 51 (7), 1846-1857, 2005",
-        "num_citations": 675,
+        "num_citations": 676,
         "author_pub_id": "fiZryxEAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Environmental and economic water management in shale gas extraction",
         "pub_year": "2020",
         "citation": "Sustainability 12 (4), 1686, 2020",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "fiZryxEAAAAJ:hzvVvKpMvx4C"
     },
     {
@@ -3044,7 +3065,7 @@
         "title": "Evolution of concepts and models for quantifying resiliency and flexibility of chemical processes",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 70, 22-34, 2014",
-        "num_citations": 151,
+        "num_citations": 154,
         "author_pub_id": "fiZryxEAAAAJ:ujxm2eEBZHIC"
     },
     {
@@ -3065,7 +3086,7 @@
         "title": "Expanding scope and computational challenges in process scheduling",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 114, 14-42, 2018",
-        "num_citations": 121,
+        "num_citations": 125,
         "author_pub_id": "fiZryxEAAAAJ:PD-wXv1Sh1EC"
     },
     {
@@ -3107,7 +3128,7 @@
         "title": "Extensions to generalized disjunctive programming: hierarchical structures and first-order logic",
         "pub_year": "2024",
         "citation": "Optimization and Engineering 25 (2), 959-998, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "fiZryxEAAAAJ:X-Dm1JipzzIC"
     },
     {
@@ -3121,7 +3142,7 @@
         "title": "Extensions to the guaranteed service model for industrial applications of multi-echelon inventory optimization",
         "pub_year": "2024",
         "citation": "European Journal of Operational Research 313 (1), 192-206, 2024",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "fiZryxEAAAAJ:0MsrIDK0EWAC"
     },
     {
@@ -3212,7 +3233,7 @@
         "title": "GAMS/DICOPT: A discrete continuous optimization package",
         "pub_year": "2002",
         "citation": "GAMS Corporation Inc 37, 55, 2002",
-        "num_citations": 210,
+        "num_citations": 213,
         "author_pub_id": "fiZryxEAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -3240,7 +3261,7 @@
         "title": "Generalized capital investment planning of oil-refineries using MILP and sequence-dependent setups",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 80, 140-154, 2015",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "fiZryxEAAAAJ:ZqLB7dQ1iF4C"
     },
     {
@@ -3254,7 +3275,7 @@
         "title": "Generalized disjunctive programming as a systematic modeling framework to derive scheduling formulations",
         "pub_year": "2012",
         "citation": "Industrial & Engineering Chemistry Research 51 (16), 5781-5792, 2012",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "fiZryxEAAAAJ:pQTOvowfQioC"
     },
     {
@@ -3373,7 +3394,7 @@
         "title": "Global optimization for the synthesis of integrated water systems in chemical processes",
         "pub_year": "2006",
         "citation": "Computers & Chemical Engineering 30 (4), 650-673, 2006",
-        "num_citations": 535,
+        "num_citations": 543,
         "author_pub_id": "fiZryxEAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -3387,14 +3408,14 @@
         "title": "Global optimization of bilinear process networks with multicomponent flows",
         "pub_year": "1995",
         "citation": "Computers & Chemical Engineering 19 (12), 1219-1242, 1995",
-        "num_citations": 367,
+        "num_citations": 368,
         "author_pub_id": "fiZryxEAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Global optimization of bilinear programs with a multiparametric disaggregation technique",
         "pub_year": "2013",
         "citation": "Journal of Global Optimization 57, 1039-1063, 2013",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "fiZryxEAAAAJ:ndLnGcHYRF0C"
     },
     {
@@ -3422,7 +3443,7 @@
         "title": "Global optimization of non-convex generalized disjunctive programs: a review on reformulations and relaxation techniques",
         "pub_year": "2017",
         "citation": "Journal of Global Optimization 67, 43-58, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "fiZryxEAAAAJ:aCwMkEyfDy8C"
     },
     {
@@ -3436,21 +3457,21 @@
         "title": "Global optimization of nonconvex mixed-integer nonlinear programming (MINLP) problems in process synthesis",
         "pub_year": "1988",
         "citation": "Industrial & engineering chemistry research 27 (8), 1407-1421, 1988",
-        "num_citations": 339,
+        "num_citations": 340,
         "author_pub_id": "fiZryxEAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Global optimization of nonlinear generalized disjunctive programming with bilinear equality constraints: applications to process networks",
         "pub_year": "2003",
         "citation": "Computers & chemical engineering 27 (11), 1557-1575, 2003",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "fiZryxEAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Global superstructure optimization for the design of integrated process water networks",
         "pub_year": "2011",
         "citation": "AIChE journal 57 (2), 434-457, 2011",
-        "num_citations": 245,
+        "num_citations": 247,
         "author_pub_id": "fiZryxEAAAAJ:gsN89kCJA0AC"
     },
     {
@@ -3616,6 +3637,13 @@
         "author_pub_id": "fiZryxEAAAAJ:2mikiJ1VBVsC"
     },
     {
+        "title": "IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency",
+        "pub_year": "2021",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2021",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:1GSnt3Xtl_sC"
+    },
+    {
         "title": "INTEGRATION OF REDESIGN METHODOLOGIES FOR CHEMICAL PROCESSES",
         "pub_year": "1989",
         "citation": "SEVENTH SYMPOSIUM ON ENERGY ENGINEERING SCIENCES, 54, 1989",
@@ -3647,15 +3675,22 @@
         "title": "Impact of model resolution on scenario outcomes for electricity sector system expansion",
         "pub_year": "2018",
         "citation": "Energy 163, 1231-1244, 2018",
-        "num_citations": 86,
+        "num_citations": 89,
         "author_pub_id": "fiZryxEAAAAJ:kOdZbmsmKqcC"
     },
     {
         "title": "Implementation of RTO in a large hydrogen network considering uncertainty",
         "pub_year": "2019",
         "citation": "Optimization and Engineering 20 (4), 1161-1190, 2019",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "fiZryxEAAAAJ:V8JMcbNWlSUC"
+    },
+    {
+        "title": "Implementation of RTO in a large hydrogen network considering uncertainty (vol 20, pg 1161, 2019)",
+        "pub_year": "2019",
+        "citation": "OPTIMIZATION AND ENGINEERING 20 (4), 1191-1192, 2019",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:dtdq7L-L3iMC"
     },
     {
         "title": "Importance of Water and Energy Integration in Circular Economy Approach",
@@ -3710,7 +3745,7 @@
         "title": "Improving the performance of DICOPT in convex MINLP problems using a feasibility pump",
         "pub_year": "2020",
         "citation": "Optimization Methods and Software 35 (1), 171-190, 2020",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "fiZryxEAAAAJ:2TuIPqOg0e0C"
     },
     {
@@ -3738,7 +3773,7 @@
         "title": "Incorporating toxicology in the synthesis of industrial chemical complexes",
         "pub_year": "1982",
         "citation": "Chemical Engineering Communications 17 (1-6), 151-170, 1982",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "fiZryxEAAAAJ:R-LXmdHK_14C"
     },
     {
@@ -3815,14 +3850,14 @@
         "title": "Integrated investment, retrofit and abandonment planning of energy systems with short-term and long-term uncertainty using enhanced Benders decomposition",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.09927, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "fiZryxEAAAAJ:8NHCvSvNRCIC"
     },
     {
         "title": "Integrated multi‐echelon supply chain design with inventories under uncertainty: MINLP models, computational strategies",
         "pub_year": "2010",
         "citation": "AIChE Journal 56 (2), 419-440, 2010",
-        "num_citations": 193,
+        "num_citations": 192,
         "author_pub_id": "fiZryxEAAAAJ:uWiczbcajpAC"
     },
     {
@@ -3857,7 +3892,7 @@
         "title": "Integrated renewable production of sorbitol and xylitol from switchgrass",
         "pub_year": "2021",
         "citation": "Industrial & Engineering Chemistry Research 60 (15), 5558-5573, 2021",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "fiZryxEAAAAJ:ewB7xoWXMOgC"
     },
     {
@@ -3885,7 +3920,7 @@
         "title": "Integrated stochastic metric of flexibility for systems with discrete state and continuous parameter uncertainties",
         "pub_year": "1990",
         "citation": "Computers & Chemical Engineering 14 (9), 967-985, 1990",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "fiZryxEAAAAJ:yRRszJvrVdAC"
     },
     {
@@ -3927,7 +3962,7 @@
         "title": "Integrating information, financial, and material flows in a chemical supply chain",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 178, 108363, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "fiZryxEAAAAJ:fTLh7q_iUBEC"
     },
     {
@@ -3945,13 +3980,6 @@
         "author_pub_id": "fiZryxEAAAAJ:VglVhKISWcQC"
     },
     {
-        "title": "Integration of Plant Scheduling Feasibility with Supply Chain Network Under Disruptions Using Machine Learning Surrogates",
-        "pub_year": "2024",
-        "citation": "Computer Aided Chemical Engineering 53, 1489-1494, 2024",
-        "num_citations": 0,
-        "author_pub_id": "fiZryxEAAAAJ:ujJXPdh5xs4C"
-    },
-    {
         "title": "Integration of Reﬁnery Planning and Crude-Oil Scheduling using Lagrangian Decomposition",
         "pub_year": "2011",
         "citation": "Carnegie Mellon University, 2011",
@@ -3962,7 +3990,7 @@
         "title": "Integration of crude-oil scheduling and refinery planning by Lagrangean Decomposition",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 138, 106812, 2020",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "fiZryxEAAAAJ:7f0ks1Axv_QC"
     },
     {
@@ -3983,7 +4011,7 @@
         "title": "Integration of hierarchical decomposition and mathematical programming for the synthesis of process flowsheets",
         "pub_year": "1998",
         "citation": "Computers & Chemical Engineering 22 (1-2), 147-175, 1998",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "fiZryxEAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -3997,8 +4025,15 @@
         "title": "Integration of nonlinear crude distillation unit models in refinery planning optimization",
         "pub_year": "2011",
         "citation": "Industrial & engineering chemistry research 50 (11), 6860-6870, 2011",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "fiZryxEAAAAJ:ziOE8S1-AIUC"
+    },
+    {
+        "title": "Integration of plant scheduling feasibility with supply chain network under disruptions using machine learning surrogates",
+        "pub_year": "2024",
+        "citation": "Computer aided chemical engineering 53, 1489-1494, 2024",
+        "num_citations": 1,
+        "author_pub_id": "fiZryxEAAAAJ:ujJXPdh5xs4C"
     },
     {
         "title": "Integration of qualitative knowledge in MINLP optimization for process synthesis",
@@ -4039,7 +4074,7 @@
         "title": "Inventory policies and safety stock optimization for supply chain planning",
         "pub_year": "2019",
         "citation": "AIChE journal 65 (1), 99-112, 2019",
-        "num_citations": 72,
+        "num_citations": 75,
         "author_pub_id": "fiZryxEAAAAJ:GUJN1xMjMHAC"
     },
     {
@@ -4148,7 +4183,7 @@
         "title": "Lagrangean heuristic for the scheduling and control of polymerization reactors",
         "pub_year": "2008",
         "citation": "AIChE journal 54 (1), 163-182, 2008",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "fiZryxEAAAAJ:LO7wyVUgiFcC"
     },
     {
@@ -4162,7 +4197,7 @@
         "title": "Lagrangian relaxation based decomposition for well scheduling in shale-gas systems",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 63, 234-249, 2014",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "fiZryxEAAAAJ:rpSJNIKeXWsC"
     },
     {
@@ -4203,7 +4238,7 @@
         "title": "Large-scale selective maintenance optimization using bathtub-shaped failure rates",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 139, 106876, 2020",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "fiZryxEAAAAJ:X1y8G5kAG8gC"
     },
     {
@@ -4301,7 +4336,7 @@
         "title": "Logic-based MINLP algorithms for the optimal synthesis of process networks",
         "pub_year": "1996",
         "citation": "Computers & Chemical Engineering 20 (8), 959-978, 1996",
-        "num_citations": 365,
+        "num_citations": 367,
         "author_pub_id": "fiZryxEAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -4329,7 +4364,7 @@
         "title": "Logic-based outer approximation for globally optimal synthesis of process networks",
         "pub_year": "2005",
         "citation": "Computers & chemical engineering 29 (9), 1914-1933, 2005",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "fiZryxEAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -4371,7 +4406,7 @@
         "title": "Long-term scheduling of a single-unit multi-product continuous process to manufacture high performance glass",
         "pub_year": "2011",
         "citation": "Computers & chemical engineering 35 (3), 554-574, 2011",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "fiZryxEAAAAJ:0CzhzZyukY4C"
     },
     {
@@ -4445,7 +4480,7 @@
         "title": "MINLP formulation for simultaneous planning, scheduling, and control of short-period single-unit processing systems",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (38), 14679-14694, 2014",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "fiZryxEAAAAJ:cOfwuRB03ygC"
     },
     {
@@ -4487,7 +4522,7 @@
         "title": "MINLP optimization strategies and algorithms for process synthesis",
         "pub_year": "1989",
         "citation": "Carnegie Mellon University, 1989",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "fiZryxEAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -4573,7 +4608,7 @@
         "title": "Mathematical programming approaches to the synthesis of chemical process systems",
         "pub_year": "1999",
         "citation": "Korean Journal of Chemical Engineering 16, 407-426, 1999",
-        "num_citations": 188,
+        "num_citations": 189,
         "author_pub_id": "fiZryxEAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -4594,14 +4629,14 @@
         "title": "Mathematical programming models for shale oil & gas development: a review and perspective",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 177, 108317, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "fiZryxEAAAAJ:22I2CSi1iVUC"
     },
     {
         "title": "Mathematical programming techniques for optimization under uncertainty and their application in process systems engineering",
         "pub_year": "2017",
         "citation": "Theoretical Foundations of Chemical Engineering 51, 893-909, 2017",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "fiZryxEAAAAJ:vefPE_iVbj4C"
     },
     {
@@ -4684,7 +4719,7 @@
         "title": "Mixed-integer linear programming models and algorithms for generation and transmission expansion planning of power systems",
         "pub_year": "2022",
         "citation": "European Journal of Operational Research 297 (3), 1071-1082, 2022",
-        "num_citations": 103,
+        "num_citations": 109,
         "author_pub_id": "fiZryxEAAAAJ:lR2ECBI0YV4C"
     },
     {
@@ -4719,21 +4754,21 @@
         "title": "Mixed-integer nonlinear decomposition toolbox for Pyomo (MindtPy)",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 895-900, 2018",
-        "num_citations": 34,
+        "num_citations": 38,
         "author_pub_id": "fiZryxEAAAAJ:Vch7EZszQGgC"
     },
     {
         "title": "Mixed-integer nonlinear programming models and algorithms for large-scale supply chain design with stochastic inventory management",
         "pub_year": "2008",
         "citation": "Industrial & Engineering Chemistry Research 47 (20), 7802-7817, 2008",
-        "num_citations": 207,
+        "num_citations": 208,
         "author_pub_id": "fiZryxEAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Mixed-integer nonlinear programming models for optimal design of reliable chemical plants",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 116, 3-16, 2018",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "fiZryxEAAAAJ:ZJ-noXUx9mkC"
     },
     {
@@ -4788,7 +4823,7 @@
         "title": "Mixed-integer optimization techniques for the design and scheduling of batch processes",
         "pub_year": "1996",
         "citation": "Batch Processing Systems Engineering: Fundamentals and Applications for …, 1996",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "fiZryxEAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -4802,14 +4837,14 @@
         "title": "Mixed-integer programming approach for the synthesis of integrated process flowsheets",
         "pub_year": "1985",
         "citation": "Computers & chemical engineering 9 (5), 463-482, 1985",
-        "num_citations": 246,
+        "num_citations": 249,
         "author_pub_id": "fiZryxEAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Mixed-integer programming models for line pressure optimization in shale gas gathering systems",
         "pub_year": "2017",
         "citation": "Journal of Petroleum Science and Engineering 157, 1021-1032, 2017",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "fiZryxEAAAAJ:OqYjx1B7R3oC"
     },
     {
@@ -4857,7 +4892,7 @@
         "title": "Modeling for reliability optimization of system design and maintenance based on Markov chain theory",
         "pub_year": "2019",
         "citation": "Computers & Chemical Engineering 124, 381-404, 2019",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "fiZryxEAAAAJ:2hlgnPHlchoC"
     },
     {
@@ -4878,21 +4913,21 @@
         "title": "Modeling issues and implementation of language for disjunctive programming",
         "pub_year": "2000",
         "citation": "Computers & Chemical Engineering 24 (9-10), 2143-2155, 2000",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "fiZryxEAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Modeling multistream heat exchangers with and without phase changes for simultaneous optimization and heat integration",
         "pub_year": "2012",
         "citation": "AIChE Journal 58 (1), 190-204, 2012",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "fiZryxEAAAAJ:0aBXIfxlw9sC"
     },
     {
         "title": "Modeling of discrete/continuous optimization problems: characterization and formulation of disjunctions and their relaxations",
         "pub_year": "2003",
         "citation": "Computers & chemical engineering 27 (3), 433-448, 2003",
-        "num_citations": 196,
+        "num_citations": 197,
         "author_pub_id": "fiZryxEAAAAJ:SP6oXDckpogC"
     },
     {
@@ -4927,21 +4962,21 @@
         "title": "Modelling and analysis of offshore energy hubs",
         "pub_year": "2022",
         "citation": "Energy 261, 125219, 2022",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "fiZryxEAAAAJ:Y4-Jr3-UGfkC"
     },
     {
         "title": "Modelling and computational techniques for logic based integer programming",
         "pub_year": "1994",
         "citation": "Computers & Chemical Engineering 18 (7), 563-578, 1994",
-        "num_citations": 665,
+        "num_citations": 673,
         "author_pub_id": "fiZryxEAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Models and computational strategies for multistage stochastic programming under endogenous and exogenous uncertainties",
         "pub_year": "2017",
         "citation": "Computers & Chemical Engineering 103, 233-274, 2017",
-        "num_citations": 141,
+        "num_citations": 143,
         "author_pub_id": "fiZryxEAAAAJ:ZOYfmFL0FrgC"
     },
     {
@@ -5053,7 +5088,7 @@
         "title": "Multi-period synthesis of optimally integrated biomass and bioenergy supply network",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 66, 57-70, 2014",
-        "num_citations": 169,
+        "num_citations": 171,
         "author_pub_id": "fiZryxEAAAAJ:2Q0AJrNhS-QC"
     },
     {
@@ -5067,7 +5102,7 @@
         "title": "Multicut Benders decomposition algorithm for process supply chain planning under uncertainty",
         "pub_year": "2013",
         "citation": "Annals of Operations Research 210, 191-211, 2013",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "fiZryxEAAAAJ:tHtfpZlB6tUC"
     },
     {
@@ -5178,7 +5213,7 @@
         "title": "Multiscale production routing in multicommodity supply chains with complex production facilities",
         "pub_year": "2017",
         "citation": "Computers & Operations Research 79, 207-222, 2017",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "fiZryxEAAAAJ:yaBp1wUtcLsC"
     },
     {
@@ -5192,7 +5227,7 @@
         "title": "Multisite capacity, production, and distribution planning with reactor modifications: MILP model, bilevel decomposition algorithm versus Lagrangean decomposition scheme",
         "pub_year": "2011",
         "citation": "Industrial & Engineering Chemistry Research 50 (9), 4831-4849, 2011",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "fiZryxEAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -5213,8 +5248,15 @@
         "title": "Multi‐period planning, design, and strategic models for long‐term, quality‐sensitive shale gas development",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (7), 2296-2323, 2016",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "fiZryxEAAAAJ:svGagg1hbZMC"
+    },
+    {
+        "title": "Natural Vs Engineering CO2 Capture and Utilization",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "fiZryxEAAAAJ:r_W8SUTUyowC"
     },
     {
         "title": "Natural vs engineering CO2 capture and utilization",
@@ -5283,7 +5325,7 @@
         "title": "New continuous-time scheduling formulation for continuous plants under variable electricity cost",
         "pub_year": "2009",
         "citation": "Industrial & engineering chemistry research 48 (14), 6701-6714, 2009",
-        "num_citations": 148,
+        "num_citations": 149,
         "author_pub_id": "fiZryxEAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -5311,7 +5353,7 @@
         "title": "Next generation multi-scale process systems engineering framework",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "fiZryxEAAAAJ:3AIi9tQMIrsC"
     },
     {
@@ -5332,14 +5374,14 @@
         "title": "Novel MILP scheduling model for power-intensive processes under time-sensitive electricity prices",
         "pub_year": "2018",
         "citation": "Industrial & Engineering Chemistry Research 57 (5), 1581-1592, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "fiZryxEAAAAJ:MDQ-9Oe3GGUC"
     },
     {
         "title": "Novel MINLP formulations for flexibility analysis for measured and unmeasured uncertain parameters",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 135, 106727, 2020",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "fiZryxEAAAAJ:bNB6FdaCRgEC"
     },
     {
@@ -5394,7 +5436,7 @@
         "title": "Offshore oilfield development planning under uncertainty and fiscal considerations",
         "pub_year": "2017",
         "citation": "Optimization and Engineering 18, 3-33, 2017",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "fiZryxEAAAAJ:JWITY9-sCbMC"
     },
     {
@@ -5415,7 +5457,7 @@
         "title": "On representative day selection for capacity expansion planning of power systems under extreme operating conditions",
         "pub_year": "2022",
         "citation": "International Journal of Electrical Power & Energy Systems 137, 107697, 2022",
-        "num_citations": 45,
+        "num_citations": 49,
         "author_pub_id": "fiZryxEAAAAJ:kGbpvR7Ecy8C"
     },
     {
@@ -5442,14 +5484,14 @@
         "title": "On the computational studies of deterministic global optimization of head dependent short-term hydro scheduling",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Power Systems 28 (4), 4336-4347, 2013",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "fiZryxEAAAAJ:hHIA4WEVY-EC"
     },
     {
         "title": "On the relation between flexibility analysis and robust optimization for linear systems",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (9), 3109-3123, 2016",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "fiZryxEAAAAJ:i8eIfGGcn98C"
     },
     {
@@ -5640,7 +5682,7 @@
         "title": "Optimal cyclic scheduling of multistage continuous multiproduct plants",
         "pub_year": "1994",
         "citation": "Computers & Chemical Engineering 18 (9), 797-816, 1994",
-        "num_citations": 197,
+        "num_citations": 198,
         "author_pub_id": "fiZryxEAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -5654,7 +5696,7 @@
         "title": "Optimal design and operation of a steel plant integrated with a polygeneration system",
         "pub_year": "2013",
         "citation": "AIChE Journal 59 (10), 3659-3670, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "fiZryxEAAAAJ:l6Q3WhenKVUC"
     },
     {
@@ -5668,14 +5710,14 @@
         "title": "Optimal design and planning of sustainable chemical supply chains under uncertainty",
         "pub_year": "2009",
         "citation": "AICHE journal 55 (1), 99-121, 2009",
-        "num_citations": 396,
+        "num_citations": 397,
         "author_pub_id": "fiZryxEAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Optimal design of complex distillation columns using rigorous tray-by-tray disjunctive programming models",
         "pub_year": "2000",
         "citation": "Industrial & engineering chemistry research 39 (11), 4326-4335, 2000",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "fiZryxEAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -5689,7 +5731,7 @@
         "title": "Optimal design of distributed wastewater treatment networks",
         "pub_year": "1998",
         "citation": "Industrial & engineering chemistry research 37 (10), 4036-4048, 1998",
-        "num_citations": 277,
+        "num_citations": 283,
         "author_pub_id": "fiZryxEAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -5717,7 +5759,7 @@
         "title": "Optimal design of reliable integrated chemical production sites",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (12), 1919-1936, 2010",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "fiZryxEAAAAJ:F9fV5C73w3QC"
     },
     {
@@ -5850,7 +5892,7 @@
         "title": "Optimal process design under uncertainty",
         "pub_year": "1983",
         "citation": "AIChE Journal 29 (3), 425-433, 1983",
-        "num_citations": 609,
+        "num_citations": 612,
         "author_pub_id": "fiZryxEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -5892,7 +5934,7 @@
         "title": "Optimal production planning under time-sensitive electricity prices for continuous power-intensive processes",
         "pub_year": "2012",
         "citation": "Computers & Chemical Engineering 38, 171-184, 2012",
-        "num_citations": 347,
+        "num_citations": 350,
         "author_pub_id": "fiZryxEAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -5906,7 +5948,7 @@
         "title": "Optimal quantity discount coordination for supply chain optimization with one manufacturer and multiple suppliers under demand uncertainty",
         "pub_year": "2015",
         "citation": "The International Journal of Advanced Manufacturing Technology 76, 1173-1184, 2015",
-        "num_citations": 90,
+        "num_citations": 89,
         "author_pub_id": "fiZryxEAAAAJ:jRIwE-1ttnoC"
     },
     {
@@ -5955,7 +5997,7 @@
         "title": "Optimal scheduling for power-intensive processes under time-sensitive electricity prices",
         "pub_year": "2017",
         "citation": "Computer Aided Chemical Engineering 40, 1423-1428, 2017",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "fiZryxEAAAAJ:2u1QkWOsl3MC"
     },
     {
@@ -5983,7 +6025,7 @@
         "title": "Optimal scheduling of industrial combined heat and power plants under time-sensitive electricity prices",
         "pub_year": "2013",
         "citation": "Energy 54, 194-211, 2013",
-        "num_citations": 311,
+        "num_citations": 314,
         "author_pub_id": "fiZryxEAAAAJ:bXQfdp6S9ecC"
     },
     {
@@ -5997,7 +6039,7 @@
         "title": "Optimal short-term scheduling of large-scale multistage batch plants",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (24), 11002-11016, 2009",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "fiZryxEAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -6011,7 +6053,7 @@
         "title": "Optimal simultaneous production of hydrogen and liquid fuels from glycerol: integrating the use of biodiesel byproducts",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (18), 7730-7745, 2014",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "fiZryxEAAAAJ:W2uZP3ddy8sC"
     },
     {
@@ -6025,14 +6067,14 @@
         "title": "Optimal supply chain design and management over a multi-period horizon under demand uncertainty. Part I: MINLP and MILP models",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 62, 194-210, 2014",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "fiZryxEAAAAJ:i91s68tWr-MC"
     },
     {
         "title": "Optimal supply chain design and management over a multi-period horizon under demand uncertainty. Part II: A Lagrangean decomposition algorithm",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 62, 211-224, 2014",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "fiZryxEAAAAJ:N6_Y7JlWxwsC"
     },
     {
@@ -6060,7 +6102,7 @@
         "title": "Optimal synthesis of complex distillation columns using rigorous models",
         "pub_year": "2005",
         "citation": "Computers & Chemical Engineering 29 (6), 1203-1215, 2005",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "fiZryxEAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -6074,7 +6116,7 @@
         "title": "Optimal synthesis of heat exchanger networks involving isothermal process streams",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (8), 1918-1942, 2008",
-        "num_citations": 141,
+        "num_citations": 142,
         "author_pub_id": "fiZryxEAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -6207,7 +6249,7 @@
         "title": "Optimization and management in manufacturing engineering: resource collaborative optimization and management through the internet of things",
         "pub_year": "2019",
         "citation": "Optimization Methods and Software 34 (1), 220-223, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "fiZryxEAAAAJ:38eRAUXPO10C"
     },
     {
@@ -6228,7 +6270,7 @@
         "title": "Optimization model for long range planning in the chemical industry",
         "pub_year": "1989",
         "citation": "Computers & Chemical Engineering 13 (9), 1049-1063, 1989",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "fiZryxEAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -6256,28 +6298,28 @@
         "title": "Optimization models for impaired water management in active shale gas development areas",
         "pub_year": "2017",
         "citation": "Journal of Petroleum Science and Engineering 156, 983-995, 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "fiZryxEAAAAJ:pwA0zy_liR0C"
     },
     {
         "title": "Optimization models for optimal investment, drilling, and water management in shale gas supply chains",
         "pub_year": "2014",
         "citation": "Computer Aided Chemical Engineering 34, 124-133, 2014",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "fiZryxEAAAAJ:ZYsTHYU9jrMC"
     },
     {
         "title": "Optimization models for planning shale gas well refracture treatments",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (12), 4297-4307, 2016",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "fiZryxEAAAAJ:oE_QS-WwsdAC"
     },
     {
         "title": "Optimization models for shale gas water management",
         "pub_year": "2014",
         "citation": "AIChE Journal 60 (10), 3490-3501, 2014",
-        "num_citations": 156,
+        "num_citations": 161,
         "author_pub_id": "fiZryxEAAAAJ:XeErXHja3Z8C"
     },
     {
@@ -6367,7 +6409,7 @@
         "title": "Optimization of steel production scheduling with complex time-sensitive electricity cost",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 76, 117-136, 2015",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "fiZryxEAAAAJ:yKzB5RS27GgC"
     },
     {
@@ -6402,7 +6444,7 @@
         "title": "Optimization strategies for flexible chemical processes",
         "pub_year": "1983",
         "citation": "Computers & Chemical Engineering 7 (4), 439-462, 1983",
-        "num_citations": 263,
+        "num_citations": 264,
         "author_pub_id": "fiZryxEAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -6478,14 +6520,14 @@
         "title": "Optimum design of multipurpose chemical plants",
         "pub_year": "1979",
         "citation": "Industrial & Engineering Chemistry Process Design and Development 18 (2 …, 1979",
-        "num_citations": 316,
+        "num_citations": 319,
         "author_pub_id": "fiZryxEAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Or-gym: A reinforcement learning library for operations research problems",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2008.06319, 2020",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "fiZryxEAAAAJ:hx4mni8B3JkC"
     },
     {
@@ -6499,7 +6541,7 @@
         "title": "Overview of Mixed-integer Nonlinear Programming",
         "pub_year": "2007",
         "citation": "",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "fiZryxEAAAAJ:cAUKuAERoUMC"
     },
     {
@@ -6561,14 +6603,14 @@
         "title": "Part II. Future perspective on optimization",
         "pub_year": "2004",
         "citation": "Computers & Chemical Engineering 28 (8), 1193-1218, 2004",
-        "num_citations": 280,
+        "num_citations": 281,
         "author_pub_id": "fiZryxEAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Perspectives in multilevel decision-making in the process industry",
         "pub_year": "2017",
         "citation": "Frontiers of Engineering Management 4 (3), 256-270, 2017",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "fiZryxEAAAAJ:DTjSuSUbmXsC"
     },
     {
@@ -6582,14 +6624,14 @@
         "title": "Petroleum allocation at PETROBRAS: Mathematical model and a solution algorithm",
         "pub_year": "2009",
         "citation": "Computers & Chemical Engineering 33 (12), 2123-2133, 2009",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "fiZryxEAAAAJ:ALROH1vI_8AC"
     },
     {
         "title": "Petroleum supply planning: reformulations and a novel decomposition algorithm",
         "pub_year": "2017",
         "citation": "Optimization and Engineering 18, 215-240, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "fiZryxEAAAAJ:JaLtl8ASYokC"
     },
     {
@@ -6616,7 +6658,7 @@
         "title": "Planning and scheduling for industrial demand side management: advances and challenges",
         "pub_year": "2016",
         "citation": "Alternative energy sources and technologies: process design and operation …, 2016",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "fiZryxEAAAAJ:Kv9jytqXTosC"
     },
     {
@@ -6740,7 +6782,7 @@
         "title": "Process optimization of FT-diesel production from lignocellulosic switchgrass",
         "pub_year": "2011",
         "citation": "Industrial & engineering chemistry research 50 (23), 13485-13499, 2011",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "fiZryxEAAAAJ:hQUaER0FWQ4C"
     },
     {
@@ -6754,7 +6796,7 @@
         "title": "Process superstructure optimization through discrete steepest descent optimization: a GDP analysis and applications in process intensification",
         "pub_year": "2022",
         "citation": "Computer Aided Chemical Engineering 49, 1279-1284, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "fiZryxEAAAAJ:IT5EXw6i2GUC"
     },
     {
@@ -6782,7 +6824,7 @@
         "title": "Process systems engineering: academic and industrial perspectives",
         "pub_year": "2019",
         "citation": "Computers & Chemical Engineering 126, 474-484, 2019",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "fiZryxEAAAAJ:mzRTpvMFn3IC"
     },
     {
@@ -6802,7 +6844,7 @@
         "title": "Product decomposition strategy for optimization of supply chain planning",
         "pub_year": "2018",
         "citation": "Frontiers of Engineering Management 5 (4), 466-478, 2018",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "fiZryxEAAAAJ:SgTKrLvt1DcC"
     },
     {
@@ -6850,7 +6892,7 @@
         "title": "Pyomo. GDP: an ecosystem for logic based modeling and optimization development",
         "pub_year": "2022",
         "citation": "Optimization and Engineering 23 (1), 607-642, 2022",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "fiZryxEAAAAJ:zxqBrjVgvjwC"
     },
     {
@@ -6878,7 +6920,7 @@
         "title": "Pyosyn: a new framework for conceptual design modeling and optimization",
         "pub_year": "2021",
         "citation": "Computers & Chemical Engineering 153, 107414, 2021",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "fiZryxEAAAAJ:njp6nI0QjqAC"
     },
     {
@@ -6933,14 +6975,14 @@
         "title": "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 165, 107924, 2022",
-        "num_citations": 19,
+        "num_citations": 24,
         "author_pub_id": "fiZryxEAAAAJ:3oYmN_DgFiMC"
     },
     {
         "title": "Recent advances in mathematical programming techniques for the optimization of process systems under uncertainty",
         "pub_year": "2016",
         "citation": "Computers & Chemical Engineering 91, 3-14, 2016",
-        "num_citations": 228,
+        "num_citations": 232,
         "author_pub_id": "fiZryxEAAAAJ:xlVdBZVQT58C"
     },
     {
@@ -6961,7 +7003,7 @@
         "title": "Recent developments and challenges in optimization-based process synthesis",
         "pub_year": "2017",
         "citation": "Annual review of chemical and biomolecular engineering 8 (1), 249-283, 2017",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "fiZryxEAAAAJ:CKf5m1HYVjMC"
     },
     {
@@ -6996,7 +7038,7 @@
         "title": "Recursive MILP model for finding all the alternate optima in LP models for metabolic networks",
         "pub_year": "2000",
         "citation": "Computers & Chemical Engineering 24 (2-7), 711-716, 2000",
-        "num_citations": 265,
+        "num_citations": 266,
         "author_pub_id": "fiZryxEAAAAJ:4DMP91E08xMC"
     },
     {
@@ -7022,8 +7064,8 @@
     },
     {
         "title": "Reformulations, relaxations and cutting planes for linear generalized disjunctive programming",
-        "pub_year": "2012",
-        "citation": "European Journal of Operational Research 216, 70-82, 2012",
+        "pub_year": "2008",
+        "citation": "Carnegie Mellon University, Department of Chemical Engineering, Pittsburgh …, 2008",
         "num_citations": 6,
         "author_pub_id": "fiZryxEAAAAJ:x7X4uJ7IbpoC"
     },
@@ -7058,7 +7100,7 @@
         "title": "Research challenges in process systems engineering",
         "pub_year": "2000",
         "citation": "AIChE Journal 46 (9), 1700-1703, 2000",
-        "num_citations": 373,
+        "num_citations": 374,
         "author_pub_id": "fiZryxEAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -7086,7 +7128,7 @@
         "title": "Retrospective on optimization",
         "pub_year": "2004",
         "citation": "Computers & Chemical Engineering 28 (8), 1169-1192, 2004",
-        "num_citations": 865,
+        "num_citations": 871,
         "author_pub_id": "fiZryxEAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -7107,14 +7149,14 @@
         "title": "Review of mixed‐integer nonlinear and generalized disjunctive programming methods",
         "pub_year": "2014",
         "citation": "Chemie Ingenieur Technik 86 (7), 991-1012, 2014",
-        "num_citations": 214,
+        "num_citations": 217,
         "author_pub_id": "fiZryxEAAAAJ:j7XjBeKFbTsC"
     },
     {
         "title": "Review of nonlinear mixed-integer and disjunctive programming techniques",
         "pub_year": "2002",
         "citation": "Optimization and engineering 3, 227-252, 2002",
-        "num_citations": 793,
+        "num_citations": 794,
         "author_pub_id": "fiZryxEAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -7142,7 +7184,7 @@
         "title": "Rigorous design of distillation columns: Integration of disjunctive programming and process simulators",
         "pub_year": "2005",
         "citation": "Industrial & engineering chemistry research 44 (17), 6760-6775, 2005",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "fiZryxEAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -7170,7 +7212,7 @@
         "title": "Risk management for a global supply chain planning under uncertainty: models and algorithms",
         "pub_year": "2009",
         "citation": "AIChE Journal 55 (4), 931-946, 2009",
-        "num_citations": 304,
+        "num_citations": 307,
         "author_pub_id": "fiZryxEAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -7183,7 +7225,7 @@
         "title": "Risk-based integrated production scheduling and electricity procurement for continuous power-intensive processes",
         "pub_year": "2016",
         "citation": "Computers & chemical engineering 86, 90-105, 2016",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "fiZryxEAAAAJ:v6PuF9mNY3oC"
     },
     {
@@ -7299,7 +7341,7 @@
         "title": "Scheduling and feed quality optimization of concentrate raw materials in the copper refining industry",
         "pub_year": "2018",
         "citation": "Industrial & Engineering Chemistry Research 57 (34), 11686-11701, 2018",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "fiZryxEAAAAJ:6fxomyk5x4cC"
     },
     {
@@ -7341,7 +7383,7 @@
         "title": "Scheduling optimization under uncertainty—an alternative approach",
         "pub_year": "2003",
         "citation": "Computers & Chemical Engineering 27 (4), 469-490, 2003",
-        "num_citations": 182,
+        "num_citations": 184,
         "author_pub_id": "fiZryxEAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -7355,7 +7397,7 @@
         "title": "Scope for industrial applications of production scheduling models and solution methods",
         "pub_year": "2014",
         "citation": "Computers & Chemical Engineering 62, 161-193, 2014",
-        "num_citations": 611,
+        "num_citations": 615,
         "author_pub_id": "fiZryxEAAAAJ:BPS1z4jHU5cC"
     },
     {
@@ -7512,7 +7554,7 @@
         "title": "Simultaneous cyclic scheduling and control of a multiproduct CSTR",
         "pub_year": "2006",
         "citation": "Industrial & engineering chemistry research 45 (20), 6698-6712, 2006",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "fiZryxEAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -7540,7 +7582,7 @@
         "title": "Simultaneous cyclic scheduling and optimal control of polymerization reactors",
         "pub_year": "2007",
         "citation": "AIChE journal 53 (9), 2301-2315, 2007",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "fiZryxEAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -7554,7 +7596,7 @@
         "title": "Simultaneous design, scheduling, and optimal control of a methyl‐methacrylate continuous polymerization reactor",
         "pub_year": "2008",
         "citation": "AIChE Journal 54 (12), 3160-3170, 2008",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "fiZryxEAAAAJ:rmuvC79q63oC"
     },
     {
@@ -7568,7 +7610,7 @@
         "title": "Simultaneous optimisation and heat integration of evaporation systems including mechanical vapour recompression and background process",
         "pub_year": "2018",
         "citation": "Energy 158, 1160-1191, 2018",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "fiZryxEAAAAJ:Vxkav03X4woC"
     },
     {
@@ -7582,7 +7624,7 @@
         "title": "Simultaneous optimization and heat integration based on rigorous process simulations",
         "pub_year": "2014",
         "citation": "Computer Aided Chemical Engineering 34, 477-482, 2014",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "fiZryxEAAAAJ:SEKBqlyTJecC"
     },
     {
@@ -7603,7 +7645,7 @@
         "title": "Simultaneous optimization and heat integration of chemical processes",
         "pub_year": "1986",
         "citation": "AIChE Journal 32 (1), 123-138, 1986",
-        "num_citations": 515,
+        "num_citations": 519,
         "author_pub_id": "fiZryxEAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -7631,7 +7673,7 @@
         "title": "Simultaneous optimization models for heat integration—II. Heat exchanger network synthesis",
         "pub_year": "1990",
         "citation": "Computers & chemical engineering 14 (10), 1165-1184, 1990",
-        "num_citations": 1441,
+        "num_citations": 1445,
         "author_pub_id": "fiZryxEAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -7645,7 +7687,7 @@
         "title": "Simultaneous planning and scheduling of single-stage multi-product continuous plants with parallel lines",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (11), 2664-2683, 2008",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "fiZryxEAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -7666,7 +7708,7 @@
         "title": "Simultaneous production and distribution of industrial gas supply-chains",
         "pub_year": "2014",
         "citation": "Computers & chemical engineering 69, 39-58, 2014",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "fiZryxEAAAAJ:yCjxvIMm6_oC"
     },
     {
@@ -7680,14 +7722,14 @@
         "title": "Simultaneous retrofit and heat integration of chemical processes",
         "pub_year": "2008",
         "citation": "Industrial & engineering chemistry research 47 (15), 5512-5528, 2008",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "fiZryxEAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Simultaneous scheduling and control of multiproduct continuous parallel lines",
         "pub_year": "2010",
         "citation": "Industrial & Engineering Chemistry Research 49 (17), 7909-7921, 2010",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "fiZryxEAAAAJ:3htObqc8RwsC"
     },
     {
@@ -7791,7 +7833,7 @@
         "title": "Solution strategies for multistage stochastic programming with endogenous uncertainties",
         "pub_year": "2011",
         "citation": "Computers & Chemical Engineering 35 (11), 2235-2247, 2011",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "fiZryxEAAAAJ:uDGL6kOW6j0C"
     },
     {
@@ -7852,7 +7894,7 @@
         "title": "State-of-the-art review of optimization methods for short-term scheduling of batch processes",
         "pub_year": "2006",
         "citation": "Computers & chemical engineering 30 (6-7), 913-946, 2006",
-        "num_citations": 1077,
+        "num_citations": 1082,
         "author_pub_id": "fiZryxEAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -7880,7 +7922,7 @@
         "title": "Stochastic inventory management for tactical process planning under uncertainties: MINLP models and algorithms",
         "pub_year": "2011",
         "citation": "AIChE Journal 57 (5), 1250-1277, 2011",
-        "num_citations": 138,
+        "num_citations": 139,
         "author_pub_id": "fiZryxEAAAAJ:WZBGuue-350C"
     },
     {
@@ -7901,7 +7943,7 @@
         "title": "Stochastic programming models for optimal shale well development and refracturing planning under uncertainty",
         "pub_year": "2017",
         "citation": "AIChE Journal 63 (11), 4799-4813, 2017",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "fiZryxEAAAAJ:FwTEoIZreccC"
     },
     {
@@ -7929,7 +7971,7 @@
         "title": "Strategic planning, design, and development of the shale gas supply chain network",
         "pub_year": "2014",
         "citation": "AIChE Journal 60 (6), 2122-2142, 2014",
-        "num_citations": 161,
+        "num_citations": 165,
         "author_pub_id": "fiZryxEAAAAJ:wkm4DBaukwsC"
     },
     {
@@ -7984,7 +8026,7 @@
         "title": "Structural considerations and modeling in the synthesis of heat-integrated− thermally coupled distillation sequences",
         "pub_year": "2006",
         "citation": "Industrial & engineering chemistry research 45 (25), 8454-8474, 2006",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "fiZryxEAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -8005,7 +8047,7 @@
         "title": "Study of Different Formulations for the Multiperiod Blending Problem Applied to Lithium Recovery from Produced Water",
         "pub_year": "2023",
         "citation": "Computer Aided Chemical Engineering 52, 1861-1866, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "fiZryxEAAAAJ:YK4ucWkmU_UC"
     },
     {
@@ -8054,7 +8096,7 @@
         "title": "Supplier selection in the processed food industry under uncertainty",
         "pub_year": "2016",
         "citation": "European Journal of Operational Research 252 (3), 801-814, 2016",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "fiZryxEAAAAJ:Dmoar05iI2YC"
     },
     {
@@ -8089,7 +8131,7 @@
         "title": "Surrogate-model based MILP for the optimal design of ethylene production from shale gas",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 141, 107015, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "fiZryxEAAAAJ:bxbQgRQgr4sC"
     },
     {
@@ -8200,7 +8242,7 @@
         "title": "Synthesis of flexible heat exchanger networks for multiperiod operation",
         "pub_year": "1986",
         "citation": "Computers & chemical engineering 10 (2), 153-168, 1986",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "fiZryxEAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -8291,14 +8333,14 @@
         "title": "Systematic methods for chemical process design",
         "pub_year": "1997",
         "citation": "Prentice Hall, Old Tappan, NJ (United States), 1997",
-        "num_citations": 2154,
+        "num_citations": 2158,
         "author_pub_id": "fiZryxEAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Systematic modeling of discrete‐continuous optimization models through generalized disjunctive programming",
         "pub_year": "2013",
         "citation": "AIChE Journal 59 (9), 3276-3295, 2013",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "fiZryxEAAAAJ:GYcXSSpN504C"
     },
     {
@@ -8352,7 +8394,7 @@
         "title": "Temporal decomposition scheme for nonlinear multisite production planning and distribution models",
         "pub_year": "2003",
         "citation": "Industrial & engineering chemistry research 42 (13), 3045-3055, 2003",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "fiZryxEAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -8429,7 +8471,7 @@
         "title": "Time representations and mathematical models for process scheduling problems",
         "pub_year": "2011",
         "citation": "Computers & Chemical Engineering 35 (6), 1038-1063, 2011",
-        "num_citations": 99,
+        "num_citations": 98,
         "author_pub_id": "fiZryxEAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -8532,7 +8574,7 @@
         "title": "Using regularization and second order information in outer approximation for convex MINLP",
         "pub_year": "2020",
         "citation": "Mathematical Programming 180 (1), 285-310, 2020",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "fiZryxEAAAAJ:wyCGhLAOp5UC"
     },
     {
@@ -8553,7 +8595,7 @@
         "title": "Water network optimization with wastewater regeneration models",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (45), 17680-17695, 2014",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "fiZryxEAAAAJ:Q3-QASNKTMEC"
     },
     {
@@ -8567,7 +8609,7 @@
         "title": "Water targeting models for simultaneous flowsheet optimization",
         "pub_year": "2013",
         "citation": "Industrial & Engineering Chemistry Research 52 (9), 3209-3224, 2013",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "fiZryxEAAAAJ:In6cVmBjs0IC"
     },
     {

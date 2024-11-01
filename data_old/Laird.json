@@ -52,7 +52,7 @@
         "title": "A new approach for facility siting using mapping risks on a plant grid area and optimization",
         "pub_year": "2010",
         "citation": "Journal of Loss Prevention in the Process Industries 23 (6), 824-830, 2010",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "0B3gfuoAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A quantitative assessment on the placement practices of gas detectors in the process industries",
         "pub_year": "2015",
         "citation": "Journal of Loss Prevention in the Process Industries 35, 339-351, 2015",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "0B3gfuoAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1136,
+        "num_citations": 1140,
         "author_pub_id": "0B3gfuoAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Contamination source determination for water networks",
         "pub_year": "2005",
         "citation": "Journal of Water Resources Planning and Management 131 (2), 125-134, 2005",
-        "num_citations": 232,
+        "num_citations": 233,
         "author_pub_id": "0B3gfuoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -241,14 +241,14 @@
         "title": "Exploring benefits of linear solver parallelism on modern nonlinear optimization applications",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1909.08104, 2019",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "0B3gfuoAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Fast implementations and rigorous models: Can both be accommodated in NMPC?",
         "pub_year": "2008",
         "citation": "International Journal of Robust and Nonlinear Control: IFAC‐Affiliated …, 2008",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "0B3gfuoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "Interior-point decomposition approaches for parallel solution of large-scale nonlinear parameter estimation problems",
         "pub_year": "2008",
         "citation": "Chemical Engineering Science 63 (19), 4834-4845, 2008",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "0B3gfuoAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Linear model decision trees as surrogates in optimization of engineering applications",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 178, 108347, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "0B3gfuoAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -353,14 +353,14 @@
         "title": "OMLT: Optimization & machine learning toolkit",
         "pub_year": "2022",
         "citation": "Journal of Machine Learning Research 23 (349), 1-8, 2022",
-        "num_citations": 73,
+        "num_citations": 77,
         "author_pub_id": "0B3gfuoAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Optimal design of cryogenic air separation columns under uncertainty",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (9), 1377-1384, 2010",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "0B3gfuoAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -430,28 +430,28 @@
         "title": "Perspectives on the integration between first-principles and data-driven modeling",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 166, 107898, 2022",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "0B3gfuoAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Proactive operations and investment planning via stochastic optimization to enhance power systems’ extreme weather resilience",
         "pub_year": "2021",
         "citation": "Journal of Infrastructure Systems 27 (2), 04021004, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "0B3gfuoAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2017",
         "citation": "Springer 67, 277, 2017",
-        "num_citations": 1458,
+        "num_citations": 1466,
         "author_pub_id": "0B3gfuoAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2021",
         "citation": "Springer 67 (s 32), 2021",
-        "num_citations": 482,
+        "num_citations": 511,
         "author_pub_id": "0B3gfuoAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -521,7 +521,7 @@
         "title": "Sensor location for nonlinear dynamic systems via observability analysis and MAX-DET optimization",
         "pub_year": "2013",
         "citation": "Computers & Chemical Engineering 48, 105-112, 2013",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "0B3gfuoAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -577,7 +577,7 @@
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
         "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021",
-        "num_citations": 81,
+        "num_citations": 90,
         "author_pub_id": "0B3gfuoAAAAJ:N5tVd3kTz84C"
     },
     {

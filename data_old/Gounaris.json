@@ -10,14 +10,14 @@
         "title": "A customized branch-and-bound approach for irregular shape nesting",
         "pub_year": "2018",
         "citation": "Journal of Global Optimization 71, 935-955, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "CINe7CgAAAAJ:X5YyAB84Iw4C"
     },
     {
         "title": "A decomposition algorithm for the consistent traveling salesman problem with vehicle idling",
         "pub_year": "2018",
         "citation": "Transportation Science 52 (2), 386-401, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "CINe7CgAAAAJ:AFmTUeZ1pmEC"
     },
     {
@@ -80,7 +80,7 @@
         "title": "A scenario decomposition algorithm for strategic time window assignment vehicle routing problems",
         "pub_year": "2018",
         "citation": "Transportation Research Part B: Methodological 117, 296-317, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "CINe7CgAAAAJ:j5aT6aphRxQC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Adsorption of fermentation inhibitors from lignocellulosic biomass hydrolyzates for improved ethanol yield and value-added product recovery",
         "pub_year": "2009",
         "citation": "Microporous and Mesoporous Materials 122 (1), 143-148, 2009",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "CINe7CgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -149,14 +149,14 @@
         "title": "Computational characterization of zeolite porous networks: an automated approach",
         "pub_year": "2011",
         "citation": "Physical Chemistry Chemical Physics 13 (38), 17339-17358, 2011",
-        "num_citations": 262,
+        "num_citations": 265,
         "author_pub_id": "CINe7CgAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Computational comparison of piecewise− linear relaxations for pooling problems",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (12), 5742-5766, 2009",
-        "num_citations": 173,
+        "num_citations": 175,
         "author_pub_id": "CINe7CgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Convex relaxation for solving posynomial programs",
         "pub_year": "2010",
         "citation": "Journal of Global Optimization 46 (1), 147-154, 2010",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "CINe7CgAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Designing networks with resiliency to edge failures using two-stage robust optimization",
         "pub_year": "2019",
         "citation": "European Journal of Operational Research 279 (3), 704-720, 2019",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "CINe7CgAAAAJ:q1zXlPLtbUIC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Estimating the marginal cost to deliver to individual customers",
         "pub_year": "2023",
         "citation": "Optimization and Engineering 24 (4), 2409-2447, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "CINe7CgAAAAJ:NU-BerS4NX4C"
     },
     {
@@ -275,7 +275,7 @@
         "title": "Global optimization of gas lifting operations: A comparative study of piecewise linear formulations",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (13), 6098-6104, 2009",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "CINe7CgAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "K-adaptability in two-stage mixed-integer robust optimization",
         "pub_year": "2020",
         "citation": "Mathematical Programming Computation 12, 193-224, 2020",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "CINe7CgAAAAJ:CMvovTBb2okC"
     },
     {
@@ -352,7 +352,7 @@
         "title": "Multi‐stage adjustable robust optimization for process scheduling under uncertainty",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (5), 1646-1667, 2016",
-        "num_citations": 147,
+        "num_citations": 148,
         "author_pub_id": "CINe7CgAAAAJ:qCpRzq7zkD8C"
     },
     {
@@ -408,7 +408,7 @@
         "title": "Rational design of shape selective separation and catalysis—II: Mathematical model and computational studies",
         "pub_year": "2006",
         "citation": "Chemical engineering science 61 (24), 7949-7962, 2006",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "CINe7CgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -422,7 +422,7 @@
         "title": "Robust Multiperiod Vehicle Routing Under Customer Order Uncertainty",
         "pub_year": "2021",
         "citation": "Operations Research 69 (1), 30-60, 2021",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "CINe7CgAAAAJ:oYLFIHfuHKwC"
     },
     {
@@ -436,14 +436,14 @@
         "title": "Robust optimization of a broad class of heterogeneous vehicle routing problems under demand uncertainty",
         "pub_year": "2020",
         "citation": "INFORMS Journal on Computing 32 (3), 661-681, 2020",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "CINe7CgAAAAJ:qPeb-qHga9sC"
     },
     {
         "title": "Robust vehicle routing under uncertainty via branch-price-and-cut",
         "pub_year": "2021",
         "citation": "Optimization and Engineering, 1-54, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "CINe7CgAAAAJ:pUxgyZctzPYC"
     },
     {
@@ -464,7 +464,7 @@
         "title": "Special issue on vehicle routing and scheduling: recent trends and advances",
         "pub_year": "2013",
         "citation": "Optimization Letters 7, 1399-1403, 2013",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "CINe7CgAAAAJ:hfzGNhXhx5MC"
     },
     {
@@ -491,7 +491,7 @@
         "title": "The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty",
         "pub_year": "2013",
         "citation": "Operations Research 61 (3), 677-693, 2013",
-        "num_citations": 262,
+        "num_citations": 265,
         "author_pub_id": "CINe7CgAAAAJ:mVmsd5A6BfQC"
     },
     {

@@ -17,7 +17,7 @@
         "title": "A Computational Investigation of Hydrogen Production from Methane Steam Reactor",
         "pub_year": "2015",
         "citation": "CHEMICAL ENGINEERING TRANSACTIONS 45, 2015",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "pk31kMgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "Effect of Packing Nonuniformity at the Fiber Bundle–Case Interface on Performance of Hollow Fiber Membrane Gas Separation Modules",
         "pub_year": "2022",
         "citation": "Membranes 12 (11), 1139, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "pk31kMgAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Hollow fiber membrane contactors for post-combustion carbon capture: A review of modeling approaches",
         "pub_year": "2020",
         "citation": "Membranes 10 (12), 382, 2020",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "pk31kMgAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Hydrogenation behavior in rectangular metal hydride tanks under effective heat management processes for green building applications",
         "pub_year": "2018",
         "citation": "Energy 142, 518-530, 2018",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "pk31kMgAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -272,6 +272,20 @@
         "author_pub_id": "pk31kMgAAAAJ:qxL8FJ1GzNcC"
     },
     {
+        "title": "Optimal Design of Intensified Towers for CO2 Capture with Internal, Printed Heat Exchangers",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:mB3voiENLucC"
+    },
+    {
+        "title": "Optimal Design of Intensified Towers for CO2 Capture with Internal, Printed Heat Exchangers",
+        "pub_year": "2024",
+        "citation": "Systems & Controls Transactions 3, 222-228, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:HDshCWvjkbEC"
+    },
+    {
         "title": "Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering",
         "pub_year": "2024",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
@@ -296,7 +310,7 @@
         "title": "Solvents for Membrane-Based Post-Combustion CO2 Capture for Potential Application in the Marine Environment",
         "pub_year": "2022",
         "citation": "Applied sciences 12 (12), 6100, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "pk31kMgAAAAJ:Se3iqnhoufwC"
     },
     {
