@@ -24,28 +24,28 @@
         "title": "Accelerated discovery of CO2 electrocatalysts using active machine learning",
         "pub_year": "2020",
         "citation": "Nature 581 (7807), 178-183, 2020",
-        "num_citations": 1046,
+        "num_citations": 1069,
         "author_pub_id": "E0tlVgQAAAAJ:w2UhwfzvF0QC"
     },
     {
         "title": "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution",
         "pub_year": "2018",
         "citation": "Nature Catalysis 1 (9), 696-703, 2018",
-        "num_citations": 690,
+        "num_citations": 705,
         "author_pub_id": "E0tlVgQAAAAJ:qsWQJNntlusC"
     },
     {
         "title": "Adapting OC20-trained EquiformerV2 models for high-entropy materials",
         "pub_year": "2024",
         "citation": "The Journal of Physical Chemistry C 128 (27), 11190-11195, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "E0tlVgQAAAAJ:vD2iS2Kej30C"
     },
     {
         "title": "AdsorbML: a leap in efficiency for adsorption energy calculations using generalizable machine learning potentials",
         "pub_year": "2023",
         "citation": "npj Computational Materials 9 (1), 172, 2023",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "E0tlVgQAAAAJ:MGPUR4WVBMEC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "An introduction to electrocatalyst design using machine learning for renewable energy storage",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.09435, 2020",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "E0tlVgQAAAAJ:Vztgr1qGG8IC"
     },
     {
@@ -87,21 +87,21 @@
         "title": "Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set",
         "pub_year": "2023",
         "citation": "Journal of Chemical Information and Modeling 63 (24), 7642-7654, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "E0tlVgQAAAAJ:ufKn5pxu7C0C"
     },
     {
         "title": "Automated discovery and construction of surface phase diagrams using machine learning",
         "pub_year": "2016",
         "citation": "The journal of physical chemistry letters 7 (19), 3931-3935, 2016",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "E0tlVgQAAAAJ:WzTVkKNmPSkC"
     },
     {
         "title": "Beyond independent error assumptions in large GNN atomistic models",
         "pub_year": "2023",
         "citation": "The Journal of Chemical Physics 158 (21), 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "E0tlVgQAAAAJ:WMtz-WDmgKQC"
     },
     {
@@ -122,35 +122,35 @@
         "title": "CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.02078, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "E0tlVgQAAAAJ:ZysSsiWj_g4C"
     },
     {
         "title": "Catlas: an automated framework for catalyst discovery demonstrated for direct syngas conversion",
         "pub_year": "2022",
         "citation": "Catalysis Science & Technology 12 (20), 6256-6267, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "E0tlVgQAAAAJ:5LPo_wSKItgC"
     },
     {
         "title": "Charge transfer at junctions of a single layer of graphene and a metallic single walled carbon nanotube",
         "pub_year": "2013",
         "citation": "Small 9 (11), 1954-1963, 2013",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "E0tlVgQAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Chemical Properties from Graph Neural Network-Predicted Electron Densities",
         "pub_year": "2023",
         "citation": "The Journal of Physical Chemistry C 127 (48), 23459-23466, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "E0tlVgQAAAAJ:CCeGMaHljPEC"
     },
     {
         "title": "Cluster-MLP: An Active Learning Genetic Algorithm Framework for Accelerated Discovery of Global Minimum Configurations of Pure and Alloyed Nanoclusters",
         "pub_year": "2023",
         "citation": "Journal of Chemical Information and Modeling 63 (20), 6192-6197, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "E0tlVgQAAAAJ:j8pvxH-kN2QC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Computational catalyst discovery: Active classification through myopic multiscale sampling",
         "pub_year": "2021",
         "citation": "The Journal of Chemical Physics 154 (12), 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "E0tlVgQAAAAJ:8uzoZH4hB9AC"
     },
     {
@@ -185,28 +185,28 @@
         "title": "Convolutional neural network of atomic surface structures to predict binding energies for high-throughput screening of catalysts",
         "pub_year": "2019",
         "citation": "The journal of physical chemistry letters 10 (15), 4401-4408, 2019",
-        "num_citations": 209,
+        "num_citations": 212,
         "author_pub_id": "E0tlVgQAAAAJ:MDX3w3dAD3YC"
     },
     {
         "title": "Copper silver thin films with metastable miscibility for oxygen reduction electrocatalysis in alkaline electrolytes",
         "pub_year": "2018",
         "citation": "ACS Applied Energy Materials 1 (5), 1990-1999, 2018",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "E0tlVgQAAAAJ:SpPTWFSNUtQC"
     },
     {
         "title": "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy",
         "pub_year": "2021",
         "citation": "Machine Learning: Science and Technology 2 (4), 045018, 2021",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "E0tlVgQAAAAJ:wGzT3bKASkAC"
     },
     {
         "title": "Detailed microkinetics for the oxidation of exhaust gas emissions through automated mechanism generation",
         "pub_year": "2022",
         "citation": "ACS Catalysis 12 (18), 11137-11151, 2022",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "E0tlVgQAAAAJ:4QKQTXcH0q8C"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Discovery of acid-stable oxygen evolution catalysts: high-throughput computational screening of equimolar bimetallic oxides",
         "pub_year": "2020",
         "citation": "ACS applied materials & interfaces 12 (34), 38256-38265, 2020",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "E0tlVgQAAAAJ:PVqtIyvKoSUC"
     },
     {
@@ -287,8 +287,9 @@
         "author_pub_id": "E0tlVgQAAAAJ:CMvovTBb2okC"
     },
     {
-        "title": "Enumeration of Surface Site Nuclearity and Shape in a Database of Intermetallic Low-Index Surface Facets",
-        "citation": "Available at SSRN 4921171, 0",
+        "title": "Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets",
+        "pub_year": "2024",
+        "citation": "Journal of Catalysis, 115795, 2024",
         "num_citations": 0,
         "author_pub_id": "E0tlVgQAAAAJ:nOiSByfp82kC"
     },
@@ -296,35 +297,35 @@
         "title": "FINETUNA: fine-tuning accelerated molecular simulations",
         "pub_year": "2022",
         "citation": "Machine Learning: Science and Technology 3 (3), 03LT01, 2022",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "E0tlVgQAAAAJ:8RAEygVn5_EC"
     },
     {
         "title": "Fine-tuned language models generate stable inorganic materials as text",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2402.04379, 2024",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "E0tlVgQAAAAJ:It0W0vAlS5QC"
     },
     {
         "title": "From molecules to materials: Pre-training large generalizable models for atomic property prediction",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.16802, 2023",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "E0tlVgQAAAAJ:IHkkN1K1AlAC"
     },
     {
         "title": "GemNet-OC: developing graph neural networks for large and diverse molecular simulation datasets",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2204.02782, 2022",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "E0tlVgQAAAAJ:Gb6Hms-Uo9kC"
     },
     {
         "title": "Generalization of graph-based active learning relaxation strategies across materials",
         "pub_year": "2024",
         "citation": "Machine Learning: Science and Technology 5 (2), 025018, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "E0tlVgQAAAAJ:iKswqCX-FLkC"
     },
     {
@@ -338,14 +339,14 @@
         "title": "High throughput multiscale modeling for design of experiments, catalysts, and reactors: Application to hydrogen production from ammonia",
         "pub_year": "2010",
         "citation": "Chemical Engineering Science 65 (1), 240-246, 2010",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "E0tlVgQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "How do graph networks generalize to large and diverse molecular systems",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv 2204, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "E0tlVgQAAAAJ:NtGNdKbuCngC"
     },
     {
@@ -366,21 +367,21 @@
         "title": "Low dimensional carbon materials for applications in mass and energy transport",
         "pub_year": "2014",
         "citation": "Chemistry of Materials 26 (1), 172-183, 2014",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "E0tlVgQAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Machine-Learning Methods Enable Exhaustive Searches for Active Bimetallic Facets and Reveal Active Site Motifs for CO2 Reduction",
         "pub_year": "2017",
         "citation": "Acs Catalysis 7 (10), 6600-6608, 2017",
-        "num_citations": 379,
+        "num_citations": 386,
         "author_pub_id": "E0tlVgQAAAAJ:sbeIDTyQOFgC"
     },
     {
         "title": "Methods for comparing uncertainty quantifications for material property predictions",
         "pub_year": "2020",
         "citation": "Machine Learning: Science and Technology 1 (2), 025006, 2020",
-        "num_citations": 192,
+        "num_citations": 197,
         "author_pub_id": "E0tlVgQAAAAJ:EBV337fEn3EC"
     },
     {
@@ -394,14 +395,14 @@
         "title": "Modelling and development of photoelectrochemical reactor for H2 production",
         "pub_year": "2012",
         "citation": "International Journal of Hydrogen Energy 37 (3), 2911-2923, 2012",
-        "num_citations": 93,
+        "num_citations": 97,
         "author_pub_id": "E0tlVgQAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Molecular recognition using corona phase complexes made of synthetic polymers adsorbed on carbon nanotubes",
         "pub_year": "2013",
         "citation": "Nature nanotechnology 8 (12), 959-968, 2013",
-        "num_citations": 339,
+        "num_citations": 344,
         "author_pub_id": "E0tlVgQAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -412,24 +413,31 @@
         "author_pub_id": "E0tlVgQAAAAJ:LkGwnXOMwfcC"
     },
     {
+        "title": "Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.12771, 2024",
+        "num_citations": 0,
+        "author_pub_id": "E0tlVgQAAAAJ:rpSJNIKeXWsC"
+    },
+    {
         "title": "Open catalyst 2020 (OC20) dataset and community challenges",
         "pub_year": "2021",
         "citation": "Acs Catalysis 11 (10), 6059-6072, 2021",
-        "num_citations": 489,
+        "num_citations": 508,
         "author_pub_id": "E0tlVgQAAAAJ:cRMvf6lLvU8C"
     },
     {
         "title": "Open challenges in developing generalizable large-scale machine-learning models for catalyst discovery",
         "pub_year": "2022",
         "citation": "ACS Catalysis 12 (14), 8572-8581, 2022",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "E0tlVgQAAAAJ:kO05sadLmrgC"
     },
     {
         "title": "Optimization-based design of active and stable nanostructured surfaces",
         "pub_year": "2019",
         "citation": "The Journal of Physical Chemistry C 123 (48), 29209-29218, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "E0tlVgQAAAAJ:bXQfdp6S9ecC"
     },
     {
@@ -457,14 +465,14 @@
         "title": "Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution",
         "pub_year": "2024",
         "citation": "Journal of the American Chemical Society, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "E0tlVgQAAAAJ:xa5BkEQK8BgC"
     },
     {
         "title": "Practical deep-learning representation for fast heterogeneous catalyst screening",
         "pub_year": "2020",
         "citation": "The journal of physical chemistry letters 11 (9), 3185-3191, 2020",
-        "num_citations": 86,
+        "num_citations": 91,
         "author_pub_id": "E0tlVgQAAAAJ:l6Q3WhenKVUC"
     },
     {
@@ -475,18 +483,18 @@
         "author_pub_id": "E0tlVgQAAAAJ:XtJa11BXPS4C"
     },
     {
-        "title": "Predicting Intermetallic Surface Energies with High-Throughput DFT and Convolutional Neural Networks",
+        "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
+        "pub_year": "2022",
+        "citation": "Oxidation of Metals 98 (5), 429-450, 2022",
+        "num_citations": 6,
+        "author_pub_id": "E0tlVgQAAAAJ:N6_Y7JlWxwsC"
+    },
+    {
+        "title": "Predicting intermetallic surface energies with high-throughput dft and convolutional neural networks",
         "pub_year": "2019",
         "citation": "",
         "num_citations": 1,
         "author_pub_id": "E0tlVgQAAAAJ:uAPFzskPt0AC"
-    },
-    {
-        "title": "Predicting Oxidation Behavior of Multi-Principal Element Alloys by Machine Learning Methods",
-        "pub_year": "2022",
-        "citation": "Oxidation of Metals 98 (5), 429-450, 2022",
-        "num_citations": 5,
-        "author_pub_id": "E0tlVgQAAAAJ:N6_Y7JlWxwsC"
     },
     {
         "title": "Quantitative theory of adsorptive separation for the electronic sorting of single-walled carbon nanotubes",
@@ -506,21 +514,21 @@
         "title": "Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials",
         "pub_year": "2022",
         "citation": "Machine Learning: Science and Technology 3 (4), 045028, 2022",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "E0tlVgQAAAAJ:i91s68tWr-MC"
     },
     {
         "title": "Rotation invariant graph neural networks using spin convolutions",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2106.09575, 2021",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "E0tlVgQAAAAJ:wuD5JclIwkYC"
     },
     {
         "title": "Screening of bimetallic electrocatalysts for water purification with machine learning",
         "pub_year": "2022",
         "citation": "The Journal of chemical physics 157 (7), 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "E0tlVgQAAAAJ:oldoQiaHq2UC"
     },
     {
@@ -540,7 +548,7 @@
         "title": "Spherical channels for modeling atomic interactions",
         "pub_year": "2022",
         "citation": "Advances in Neural Information Processing Systems 35, 8054-8067, 2022",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "E0tlVgQAAAAJ:NU-BerS4NX4C"
     },
     {
@@ -568,7 +576,7 @@
         "title": "The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts",
         "pub_year": "2023",
         "citation": "ACS Catalysis 13 (5), 3066-3084, 2023",
-        "num_citations": 120,
+        "num_citations": 127,
         "author_pub_id": "E0tlVgQAAAAJ:VnuxuLaQPLMC"
     },
     {
@@ -582,7 +590,7 @@
         "title": "The Open DAC 2023 dataset and challenges for sorbent discovery in direct air capture",
         "pub_year": "2024",
         "citation": "ACS Central Science 10 (5), 923-941, 2024",
-        "num_citations": 11,
+        "num_citations": 16,
         "author_pub_id": "E0tlVgQAAAAJ:yZoBfgUKqwcC"
     },
     {
@@ -603,14 +611,14 @@
         "title": "To address surface reaction network complexity using scaling relations machine learning and DFT calculations",
         "pub_year": "2017",
         "citation": "Nature communications 8 (1), 14621, 2017",
-        "num_citations": 533,
+        "num_citations": 543,
         "author_pub_id": "E0tlVgQAAAAJ:BJtnxTr0fRcC"
     },
     {
         "title": "Toward a design of active oxygen evolution catalysts: insights from automated density functional theory calculations and machine learning",
         "pub_year": "2019",
         "citation": "Acs Catalysis 9 (9), 7651-7659, 2019",
-        "num_citations": 152,
+        "num_citations": 157,
         "author_pub_id": "E0tlVgQAAAAJ:i_7YvbSbtFEC"
     },
     {
@@ -624,7 +632,7 @@
         "title": "Transfer learning using attentions across atomic systems with graph neural networks (TAAG)",
         "pub_year": "2022",
         "citation": "The Journal of Chemical Physics 156 (18), 2022",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "E0tlVgQAAAAJ:pUxgyZctzPYC"
     },
     {

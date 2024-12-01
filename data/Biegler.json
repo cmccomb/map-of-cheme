@@ -3,7 +3,7 @@
         "title": " Direction Interior Point Method for Semidefinite Programming",
         "pub_year": "2018",
         "citation": "SIAM Journal on Optimization 28 (1), 693-734, 2018",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ymFxqWQAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -245,7 +245,7 @@
         "title": "A fast computational framework for large-scale moving horizon estimation",
         "pub_year": "2007",
         "citation": "IFAC Proceedings Volumes 40 (5), 19-28, 2007",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "ymFxqWQAAAAJ:X4-KO54GjGYC"
     },
     {
@@ -259,7 +259,7 @@
         "title": "A fast, fully distributed nonlinear model predictive control algorithm with parametric sensitivity through Jacobi iteration",
         "pub_year": "2022",
         "citation": "Journal of Process Control 110, 133-153, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ymFxqWQAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -273,7 +273,7 @@
         "title": "A framework for efficient large scale equation-oriented flowsheet optimization",
         "pub_year": "2015",
         "citation": "Computers & Chemical Engineering 72, 3-20, 2015",
-        "num_citations": 195,
+        "num_citations": 198,
         "author_pub_id": "ymFxqWQAAAAJ:-6RzNnnwWf8C"
     },
     {
@@ -287,7 +287,7 @@
         "title": "A mixed integer linear programming approach for the design of chemical process families",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 183, 108620, 2024",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "ymFxqWQAAAAJ:uPCvBZYD9qUC"
     },
     {
@@ -308,7 +308,7 @@
         "title": "A moving horizon estimator for processes with multi-rate measurements: A nonlinear programming sensitivity approach",
         "pub_year": "2012",
         "citation": "Journal of Process Control 22 (4), 677-688, 2012",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "ymFxqWQAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -371,7 +371,7 @@
         "title": "A nonlinear industrial model predictive controller using integrated PLS and neural net state-space model",
         "pub_year": "2001",
         "citation": "Control Engineering Practice 9 (2), 125-133, 2001",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "ymFxqWQAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -413,7 +413,7 @@
         "title": "A perspective on nonlinear model predictive control",
         "pub_year": "2021",
         "citation": "Korean Journal of Chemical Engineering 38 (7), 1317-1332, 2021",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "ymFxqWQAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -553,7 +553,7 @@
         "title": "A superstructure‐based optimal synthesis of PSA cycles for post‐combustion CO2 capture",
         "pub_year": "2010",
         "citation": "AIChE journal 56 (7), 1813-1828, 2010",
-        "num_citations": 207,
+        "num_citations": 208,
         "author_pub_id": "ymFxqWQAAAAJ:eI34FqJmdUoC"
     },
     {
@@ -581,14 +581,14 @@
         "title": "A tool to analyze robust stability for constrained nonlinear mpc",
         "pub_year": "2008",
         "citation": "Journal of Process Control 18 (3-4), 383-390, 2008",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "ymFxqWQAAAAJ:DJbcl8HfkQkC"
     },
     {
         "title": "A tool to analyze robust stability for model predictive controllers",
         "pub_year": "1999",
         "citation": "Journal of Process Control 9 (3), 233-246, 1999",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "ymFxqWQAAAAJ:maZDTaKrznsC"
     },
     {
@@ -602,14 +602,14 @@
         "title": "A trust region filter method for glass box/black box optimization",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (9), 3124-3136, 2016",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "ymFxqWQAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "A trust region framework for heat exchanger network synthesis with detailed individual heat exchanger designs",
         "pub_year": "2021",
         "citation": "Computers & chemical engineering 153, 107447, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ymFxqWQAAAAJ:adHtZc2wMuEC"
     },
     {
@@ -637,14 +637,14 @@
         "title": "A trust-region framework for constrained optimization using reduced order modeling",
         "pub_year": "2013",
         "citation": "Optimization and Engineering 14, 3-35, 2013",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "ymFxqWQAAAAJ:vxA22ZmNLkoC"
     },
     {
         "title": "A trust-region framework for real-time optimization with structural process-model mismatch",
         "pub_year": "2020",
         "citation": "Vietnam Journal of Mathematics 48, 809-830, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ymFxqWQAAAAJ:U0iAMwwPxtsC"
     },
     {
@@ -707,7 +707,7 @@
         "title": "Active set vs. interior point strategies for model predictive control",
         "pub_year": "2000",
         "citation": "Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No …, 2000",
-        "num_citations": 173,
+        "num_citations": 171,
         "author_pub_id": "ymFxqWQAAAAJ:FiytvqdAVhgC"
     },
     {
@@ -735,7 +735,7 @@
         "title": "Adaptive scenario generation for multistage NMPC with shrinking horizons",
         "pub_year": "2019",
         "citation": "IFAC-PapersOnLine 52 (1), 586-591, 2019",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ymFxqWQAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -763,7 +763,7 @@
         "title": "Advanced optimization strategies for integrated dynamic process operations",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 114, 3-13, 2018",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "ymFxqWQAAAAJ:9NZAP19TdFAC"
     },
     {
@@ -784,14 +784,14 @@
         "title": "Advanced step nonlinear model predictive control for air separation units",
         "pub_year": "2009",
         "citation": "Journal of Process Control 19 (4), 678-685, 2009",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "ymFxqWQAAAAJ:AFXcoJnoRH0C"
     },
     {
         "title": "Advanced step nonlinear model predictive control for two-stage thermo mechanical pulping processes",
         "pub_year": "2011",
         "citation": "IFAC Proceedings Volumes 44 (1), 3653-3658, 2011",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ymFxqWQAAAAJ:gVv57TyPmFsC"
     },
     {
@@ -812,7 +812,7 @@
         "title": "Advanced-multi-step moving horizon estimation for large-scale nonlinear systems",
         "pub_year": "2022",
         "citation": "Journal of Process Control 116, 122-135, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ymFxqWQAAAAJ:ZysSsiWj_g4C"
     },
     {
@@ -847,7 +847,7 @@
         "title": "Advanced-step multistage nonlinear model predictive control: robustness and stability",
         "pub_year": "2020",
         "citation": "Journal of Process Control 85, 15-29, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "ymFxqWQAAAAJ:KsTgnNRry18C"
     },
     {
@@ -868,7 +868,7 @@
         "title": "Advances in nonlinear programming concepts for process control",
         "pub_year": "1998",
         "citation": "Journal of Process Control 8 (5-6), 301-311, 1998",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "ymFxqWQAAAAJ:Tfl4UtY-dJUC"
     },
     {
@@ -882,28 +882,28 @@
         "title": "Advances in sensitivity-based nonlinear model predictive control and dynamic real-time optimization",
         "pub_year": "2015",
         "citation": "Journal of Process Control 30, 104-116, 2015",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "ymFxqWQAAAAJ:-jrNzM816MMC"
     },
     {
         "title": "Advances in simultaneous strategies for dynamic process optimization",
         "pub_year": "2002",
         "citation": "Chemical engineering science 57 (4), 575-593, 2002",
-        "num_citations": 605,
+        "num_citations": 607,
         "author_pub_id": "ymFxqWQAAAAJ:PVqtIyvKoSUC"
     },
     {
         "title": "Advantages of nonlinear-programming-based methodologies for inequality path-constrained optimal control problems—a numerical study",
         "pub_year": "2008",
         "citation": "SIAM Journal on Scientific Computing 30 (2), 957-981, 2008",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "ymFxqWQAAAAJ:ziOE8S1-AIUC"
     },
     {
         "title": "Aggregate models based on improved group methods for simulation and optimization of distillation systems",
         "pub_year": "2010",
         "citation": "Computers & chemical engineering 34 (8), 1312-1319, 2010",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "ymFxqWQAAAAJ:Z5m8FVwuT1cC"
     },
     {
@@ -992,7 +992,7 @@
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1144,
+        "num_citations": 1148,
         "author_pub_id": "ymFxqWQAAAAJ:Vno172sVVMwC"
     },
     {
@@ -1104,7 +1104,7 @@
         "title": "An interior point method for mathematical programs with complementarity constraints (MPCCs)",
         "pub_year": "2005",
         "citation": "SIAM Journal on Optimization 15 (3), 720-750, 2005",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "ymFxqWQAAAAJ:OR75R8vi5nAC"
     },
     {
@@ -1125,14 +1125,14 @@
         "title": "An optimization model for assessment of membrane-based post-combustion gas upcycling into hydrogen or syngas",
         "pub_year": "2018",
         "citation": "Journal of Membrane Science 563, 83-92, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "ymFxqWQAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "An optimization model for the treatment of perfluorocarboxylic acids considering membrane preconcentration and BDD electrooxidation",
         "pub_year": "2019",
         "citation": "Water research 164, 114954, 2019",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "ymFxqWQAAAAJ:z_wVstp3MssC"
     },
     {
@@ -1160,7 +1160,7 @@
         "title": "An overview of simultaneous strategies for dynamic optimization",
         "pub_year": "2007",
         "citation": "Chemical Engineering and Processing: Process Intensification 46 (11), 1043-1053, 2007",
-        "num_citations": 677,
+        "num_citations": 682,
         "author_pub_id": "ymFxqWQAAAAJ:M_lZXyI38BkC"
     },
     {
@@ -1202,7 +1202,7 @@
         "title": "Application of optimization algorithms to nonlinear MPC",
         "pub_year": "2002",
         "citation": "IFAC Proceedings Volumes 35 (1), 369-374, 2002",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "ymFxqWQAAAAJ:zUl2_INMlC4C"
     },
     {
@@ -1256,7 +1256,7 @@
         "title": "Assessment and future directions of nonlinear model predictive control",
         "pub_year": "2007",
         "citation": "Springer 358 (7), 33, 2007",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "ymFxqWQAAAAJ:1r-w4gtu6w8C"
     },
     {
@@ -1385,6 +1385,13 @@
         "author_pub_id": "ymFxqWQAAAAJ:I2jIoRS3jIgC"
     },
     {
+        "title": "CFD modeling of high-flux plate-and-frame membrane modules for industrial carbon capture",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ymFxqWQAAAAJ:wlzmIqt2EaEC"
+    },
+    {
         "title": "COFIR: coarse and fine image registration",
         "pub_year": "2007",
         "citation": "Real-Time PDE-Constrained Optimization, 37-49, 2007",
@@ -1484,7 +1491,7 @@
         "title": "Coal oxycombustion power plant optimization using first principles and surrogate boiler models",
         "pub_year": "2014",
         "citation": "Energy Procedia 63, 352-361, 2014",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "ymFxqWQAAAAJ:PQEM9vzQD9gC"
     },
     {
@@ -1512,7 +1519,7 @@
         "title": "Computational Fluid Dynamics and Trust-Region Methods to Optimize Carbon Capture Plants with Membrane Contactors",
         "pub_year": "2024",
         "citation": "Computer Aided Chemical Engineering 53, 175-180, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ymFxqWQAAAAJ:DUFsPKDdMi0C"
     },
     {
@@ -1526,14 +1533,14 @@
         "title": "Conflict-based model predictive control for scalable multi-robot motion planning",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 14562 …, 2024",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ymFxqWQAAAAJ:4E1Y8I9HL1wC"
     },
     {
         "title": "Constrained particle filter approach to approximate the arrival cost in moving horizon estimation",
         "pub_year": "2011",
         "citation": "Journal of Process Control 21 (6), 909-919, 2011",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "ymFxqWQAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1561,7 +1568,7 @@
         "title": "Contact-implicit trajectory optimization using orthogonal collocation",
         "pub_year": "2019",
         "citation": "IEEE Robotics and Automation Letters 4 (2), 2242-2249, 2019",
-        "num_citations": 92,
+        "num_citations": 95,
         "author_pub_id": "ymFxqWQAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1596,7 +1603,7 @@
         "title": "Control and optimization strategies for thermo-mechanical pulping processes: Nonlinear model predictive control",
         "pub_year": "2011",
         "citation": "Journal of Process Control 21 (4), 519-528, 2011",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "ymFxqWQAAAAJ:DBa1UEJaJKAC"
     },
     {
@@ -1624,14 +1631,14 @@
         "title": "Convergence rates for direct transcription of optimal control problems using collocation at Radau points",
         "pub_year": "2008",
         "citation": "Computational Optimization and Applications 41, 81-126, 2008",
-        "num_citations": 270,
+        "num_citations": 268,
         "author_pub_id": "ymFxqWQAAAAJ:oAywNP-vUhwC"
     },
     {
         "title": "Convergence rates for direct transcription of optimal control problems with final-time equality constraints using collocation at Radau points",
         "pub_year": "2006",
         "citation": "2006 American Control Conference, 7 pp., 2006",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "ymFxqWQAAAAJ:DXE8ND7PrJAC"
     },
     {
@@ -1659,7 +1666,7 @@
         "title": "D-RM Builder: A software tool for generating fast and accurate nonlinear dynamic reduced models from high-fidelity models",
         "pub_year": "2016",
         "citation": "Computers & Chemical Engineering 94, 60-74, 2016",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "ymFxqWQAAAAJ:CMvovTBb2okC"
     },
     {
@@ -1707,7 +1714,7 @@
         "title": "Decomposition algorithms for on-line estimation with nonlinear models",
         "pub_year": "1995",
         "citation": "Computers & chemical engineering 19 (10), 1031-1039, 1995",
-        "num_citations": 66,
+        "num_citations": 65,
         "author_pub_id": "ymFxqWQAAAAJ:3MwzVuqRcA0C"
     },
     {
@@ -1728,7 +1735,7 @@
         "title": "Demand‐based optimization of a chlorobenzene process with high‐fidelity and surrogate reactor models under trust region strategies",
         "pub_year": "2021",
         "citation": "AIChE Journal 67 (1), e17054, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ymFxqWQAAAAJ:1EqfMoDn7-AC"
     },
     {
@@ -1790,14 +1797,14 @@
         "title": "Development of a first-principles hybrid boiler model for oxy-combustion power generation system",
         "pub_year": "2016",
         "citation": "International Journal of Greenhouse Gas Control 46, 136-157, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "ymFxqWQAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Development of moving window state and parameter estimators under maximum likelihood and Bayesian frameworks",
         "pub_year": "2017",
         "citation": "Journal of Process Control 60, 48-67, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "ymFxqWQAAAAJ:rqnDXT1GswoC"
     },
     {
@@ -1836,6 +1843,13 @@
         "author_pub_id": "ymFxqWQAAAAJ:roLk4NBRz8UC"
     },
     {
+        "title": "Distillation Column Optimization: A formal method using stage-to stage computations and distributed streams",
+        "pub_year": "2024",
+        "citation": "Chemical Engineering Science, 120875, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ymFxqWQAAAAJ:ZYsTHYU9jrMC"
+    },
+    {
         "title": "Distributed Dynamic optimization Scheme based on Cooperative Differential Games",
         "pub_year": "2019",
         "citation": "2019 Chinese Automation Congress (CAC), 1933-1938, 2019",
@@ -1860,7 +1874,7 @@
         "title": "Distributed stream method for tray optimization",
         "pub_year": "2002",
         "citation": "AIChE Journal 48 (3), 582-595, 2002",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "ymFxqWQAAAAJ:0izLItjtcgwC"
     },
     {
@@ -2021,7 +2035,7 @@
         "title": "Dynamic optimization approach to coordinate industrial production and cogeneration operation under electricity price fluctuations",
         "pub_year": "2021",
         "citation": "Computers & Chemical Engineering 149, 107292, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ymFxqWQAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -2112,7 +2126,7 @@
         "title": "Dynamic optimization of natural gas pipeline networks with demand and composition uncertainty",
         "pub_year": "2020",
         "citation": "Chemical Engineering Science 215, 115449, 2020",
-        "num_citations": 54,
+        "num_citations": 57,
         "author_pub_id": "ymFxqWQAAAAJ:k_IJM867U9cC"
     },
     {
@@ -2133,7 +2147,7 @@
         "title": "Dynamic optimization with complementarity constraints: Smoothing for direct shooting",
         "pub_year": "2020",
         "citation": "Computers & Chemical Engineering 139, 106891, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ymFxqWQAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -2147,7 +2161,7 @@
         "title": "Dynamic real-time optimization under uncertainty of a hydroformylation mini-plant",
         "pub_year": "2017",
         "citation": "Computers & Chemical Engineering 106, 836-848, 2017",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "ymFxqWQAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -2216,7 +2230,7 @@
         "title": "Economic nonlinear model predictive control for periodic optimal operation of gas pipeline networks",
         "pub_year": "2013",
         "citation": "Computers & Chemical Engineering 52, 90-99, 2013",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "ymFxqWQAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -2265,7 +2279,7 @@
         "title": "Efficient nonlinear programming algorithms for chemical process control and operations",
         "pub_year": "2007",
         "citation": "IFIP Conference on System Modeling and Optimization, 21-35, 2007",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ymFxqWQAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -2279,7 +2293,7 @@
         "title": "Efficient trust region filter modeling strategies for computationally expensive black-box optimization",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 189, 108816, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ymFxqWQAAAAJ:koF6b02d8EEC"
     },
     {
@@ -2412,7 +2426,7 @@
         "title": "Fast and reliable calibration of solid substrate fermentation kinetic models using advanced non-linear programming techniques",
         "pub_year": "2007",
         "citation": "Electronic Journal of Biotechnology 10 (1), 48-60, 2007",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ymFxqWQAAAAJ:HIFyuExEbWQC"
     },
     {
@@ -2426,7 +2440,7 @@
         "title": "Fast economic model predictive control based on NLP-sensitivities",
         "pub_year": "2014",
         "citation": "Journal of Process Control 24 (8), 1260-1272, 2014",
-        "num_citations": 108,
+        "num_citations": 107,
         "author_pub_id": "ymFxqWQAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -2454,7 +2468,7 @@
         "title": "Fast offset-free nonlinear model predictive control based on moving horizon estimation",
         "pub_year": "2010",
         "citation": "Industrial & Engineering Chemistry Research 49 (17), 7882-7890, 2010",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "ymFxqWQAAAAJ:EsEWqaRxkBgC"
     },
     {
@@ -2496,7 +2510,7 @@
         "title": "Finite difference heat-transfer modeling for continuous casting",
         "pub_year": "1990",
         "citation": "Metallurgical transactions B 21, 761-770, 1990",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "ymFxqWQAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -2524,7 +2538,7 @@
         "title": "Formulating data-driven surrogate models for process optimization",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 179, 108411, 2023",
-        "num_citations": 20,
+        "num_citations": 26,
         "author_pub_id": "ymFxqWQAAAAJ:gFrPXmx1TSsC"
     },
     {
@@ -2682,14 +2696,14 @@
         "title": "Heat exchanger network synthesis with detailed exchanger designs: Part 1. A discretized differential algebraic equation model for shell and tube heat exchanger design",
         "pub_year": "2021",
         "citation": "AIChE Journal 67 (1), e17056, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "ymFxqWQAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Heat exchanger network synthesis with detailed exchanger designs—2. Hybrid optimization strategy for synthesis of heat exchanger networks",
         "pub_year": "2021",
         "citation": "AIChE Journal 67 (1), e17057, 2021",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ymFxqWQAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -2771,7 +2785,7 @@
         "title": "Implications of dimensional analysis in bioreactor models: Parameter estimation and identifiability",
         "pub_year": "2021",
         "citation": "Chemical Engineering Journal 417, 129220, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ymFxqWQAAAAJ:GYcXSSpN504C"
     },
     {
@@ -2806,7 +2820,7 @@
         "title": "Including CFD rigorous models in the optimal design of carbon capture plants through trust-region methods",
         "pub_year": "2024",
         "citation": "Chemical Engineering Science 286, 119646, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "ymFxqWQAAAAJ:jKT558fuBk8C"
     },
     {
@@ -2820,7 +2834,7 @@
         "title": "Incorporating joint confidence regions into design under uncertainty",
         "pub_year": "1999",
         "citation": "Computers & Chemical Engineering 23 (10), 1563-1575, 1999",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "ymFxqWQAAAAJ:wE-fMHVdjMkC"
     },
     {
@@ -2888,7 +2902,7 @@
         "title": "Integrated optimization strategies for dynamic process operations",
         "pub_year": "2017",
         "citation": "Theoretical Foundations of Chemical Engineering 51, 910-927, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ymFxqWQAAAAJ:NxmKEeNBbOMC"
     },
     {
@@ -2916,7 +2930,7 @@
         "title": "Integrating self-optimizing control and real-time optimization using zone control MPC",
         "pub_year": "2015",
         "citation": "Journal of Process Control 34, 35-48, 2015",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ymFxqWQAAAAJ:sszUF3NjhM4C"
     },
     {
@@ -2972,7 +2986,7 @@
         "title": "Interior-point decomposition approaches for parallel solution of large-scale nonlinear parameter estimation problems",
         "pub_year": "2008",
         "citation": "Chemical Engineering Science 63 (19), 4834-4845, 2008",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "ymFxqWQAAAAJ:yJjnfzR0HrkC"
     },
     {
@@ -3089,7 +3103,7 @@
         "title": "Kinetic model development and Bayesian uncertainty quantification for the complete reduction of Fe-based oxygen carriers with CH4, CO, and H2 for chemical looping combustion",
         "pub_year": "2022",
         "citation": "Chemical Engineering Science 252, 117512, 2022",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "ymFxqWQAAAAJ:m92CDrhVnKEC"
     },
     {
@@ -3130,7 +3144,7 @@
         "title": "Large scale inequality constrained optimization and control",
         "pub_year": "1998",
         "citation": "IEEE Control Systems Magazine 18 (6), 59-68, 1998",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "ymFxqWQAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -3231,7 +3245,7 @@
         "title": "Large-scale PDE-constrained optimization: an introduction",
         "pub_year": "2003",
         "citation": "Large-scale PDE-constrained optimization, 3-13, 2003",
-        "num_citations": 286,
+        "num_citations": 290,
         "author_pub_id": "ymFxqWQAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -3273,7 +3287,7 @@
         "title": "Large-scale nonlinear programming using IPOPT: An integrating framework for enterprise-wide dynamic optimization",
         "pub_year": "2009",
         "citation": "Computers & Chemical Engineering 33 (3), 575-582, 2009",
-        "num_citations": 708,
+        "num_citations": 722,
         "author_pub_id": "ymFxqWQAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -3322,7 +3336,7 @@
         "title": "Large‐scale optimization strategies for pressure swing adsorption cycle synthesis",
         "pub_year": "2012",
         "citation": "AIChE journal 58 (12), 3777-3791, 2012",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "ymFxqWQAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -3350,7 +3364,7 @@
         "title": "Line search filter methods for nonlinear programming: Motivation and global convergence",
         "pub_year": "2005",
         "citation": "SIAM Journal on Optimization 16 (1), 1-31, 2005",
-        "num_citations": 656,
+        "num_citations": 658,
         "author_pub_id": "ymFxqWQAAAAJ:xm0LlTxljI0C"
     },
     {
@@ -3378,7 +3392,7 @@
         "title": "Lyapunov stability of economically oriented NMPC for cyclic processes",
         "pub_year": "2011",
         "citation": "Journal of Process Control 21 (4), 501-509, 2011",
-        "num_citations": 239,
+        "num_citations": 240,
         "author_pub_id": "ymFxqWQAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -3488,7 +3502,7 @@
         "title": "Mathematical programs with equilibrium constraints (MPECs) in process engineering",
         "pub_year": "2003",
         "citation": "Computers & chemical engineering 27 (10), 1381-1392, 2003",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "ymFxqWQAAAAJ:jlhcAiayVhoC"
     },
     {
@@ -3509,14 +3523,14 @@
         "title": "Membrane-based carbon capture process optimization using CFD modeling",
         "pub_year": "2024",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ymFxqWQAAAAJ:nroGzMJTTpEC"
     },
     {
         "title": "Mixed-integer approach for obtaining unique solutions in source inversion of water networks",
         "pub_year": "2006",
         "citation": "Journal of Water Resources Planning and Management 132 (4), 242-251, 2006",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "ymFxqWQAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -3593,9 +3607,9 @@
         "author_pub_id": "ymFxqWQAAAAJ:eq2jaN3J8jMC"
     },
     {
-        "title": "Modeling and Scaling-up of Membrane Modules Leveraging Dimensional Analysis.",
+        "title": "Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis",
         "pub_year": "2024",
-        "citation": "2024 AIChE Annual Meeting, 2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
         "num_citations": 0,
         "author_pub_id": "ymFxqWQAAAAJ:onKP9CxGSkIC"
     },
@@ -3631,7 +3645,7 @@
         "title": "Modeling multistream heat exchangers with and without phase changes for simultaneous optimization and heat integration",
         "pub_year": "2012",
         "citation": "AIChE Journal 58 (1), 190-204, 2012",
-        "num_citations": 107,
+        "num_citations": 106,
         "author_pub_id": "ymFxqWQAAAAJ:F2UWTTQJPOcC"
     },
     {
@@ -3699,7 +3713,7 @@
         "title": "Moving horizon estimator for nonlinear and non-Gaussian stochastic disturbances",
         "pub_year": "2022",
         "citation": "Journal of Process Control 116, 234-254, 2022",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "ymFxqWQAAAAJ:nU66GSXDKhoC"
     },
     {
@@ -3838,7 +3852,7 @@
         "title": "Multistage NMPC with on-line generated scenario trees: Application to a semi-batch polymerization process",
         "pub_year": "2019",
         "citation": "Journal of Process Control 80, 167-179, 2019",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "ymFxqWQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -3956,7 +3970,7 @@
         "title": "Next generation multi-scale process systems engineering framework",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ymFxqWQAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -4052,7 +4066,7 @@
     {
         "title": "Nonlinear model predictive control for mode‐switching operation of reversible solid oxide cell systems",
         "pub_year": "2024",
-        "citation": "AIChE Journal, e18550, 2024",
+        "citation": "AIChE Journal 70 (11), e18550, 2024",
         "num_citations": 0,
         "author_pub_id": "ymFxqWQAAAAJ:dhpJJ7xvgBgC"
     },
@@ -4095,7 +4109,7 @@
         "title": "Nonlinear parameter estimation: a case study comparison",
         "pub_year": "1986",
         "citation": "AIChE Journal 32 (1), 29-45, 1986",
-        "num_citations": 266,
+        "num_citations": 267,
         "author_pub_id": "ymFxqWQAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -4123,7 +4137,7 @@
         "title": "Nonlinear programming strategies for dynamic chemical process optimization",
         "pub_year": "2014",
         "citation": "Theoretical Foundations of Chemical Engineering 48, 541-554, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "ymFxqWQAAAAJ:G1UMdFYMoxkC"
     },
     {
@@ -4151,7 +4165,7 @@
         "title": "Nonlinear programming: concepts, algorithms, and applications to chemical processes",
         "pub_year": "2010",
         "citation": "Society for Industrial and Applied Mathematics, 2010",
-        "num_citations": 1502,
+        "num_citations": 1506,
         "author_pub_id": "ymFxqWQAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -4227,7 +4241,7 @@
         "title": "On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming",
         "pub_year": "2006",
         "citation": "Mathematical programming 106, 25-57, 2006",
-        "num_citations": 11073,
+        "num_citations": 11172,
         "author_pub_id": "ymFxqWQAAAAJ:VnuxuLaQPLMC"
     },
     {
@@ -4262,7 +4276,7 @@
         "title": "On-line implementation of nonlinear MPC: an experimental case study",
         "pub_year": "2001",
         "citation": "Control Engineering Practice 9 (8), 847-857, 2001",
-        "num_citations": 147,
+        "num_citations": 146,
         "author_pub_id": "ymFxqWQAAAAJ:gKiMpY-AVTkC"
     },
     {
@@ -4276,7 +4290,7 @@
         "title": "On-line state estimation of nonlinear dynamic systems with gross errors",
         "pub_year": "2014",
         "citation": "Computers & chemical engineering 70, 149-159, 2014",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "ymFxqWQAAAAJ:4Yq6kJLCcecC"
     },
     {
@@ -4290,7 +4304,7 @@
         "title": "Operational cost optimization of a full-scale SWRO system under multi-parameter variable conditions",
         "pub_year": "2015",
         "citation": "Desalination 355, 124-140, 2015",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "ymFxqWQAAAAJ:OP4eGU-M3BUC"
     },
     {
@@ -4304,7 +4318,7 @@
         "title": "Optimal Active Catalyst and Inert Distribution in Catalytic Packed Bed Reactors: ortho-Xylene Oxidation",
         "pub_year": "2013",
         "citation": "Industrial & Engineering Chemistry Research 52 (44), 15311-15320, 2013",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "ymFxqWQAAAAJ:Nw_I7GeUguwC"
     },
     {
@@ -4450,7 +4464,7 @@
         "title": "Optimal operation of solid-oxide electrolysis cells considering long-term chemical degradation",
         "pub_year": "2024",
         "citation": "Energy Conversion and Management 319, 118950, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ymFxqWQAAAAJ:oXKBmVzQOggC"
     },
     {
@@ -4471,14 +4485,14 @@
         "title": "Optimal process design with model parameter uncertainty and process variability",
         "pub_year": "2003",
         "citation": "AIChE Journal 49 (2), 438-449, 2003",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "ymFxqWQAAAAJ:MGPUR4WVBMEC"
     },
     {
         "title": "Optimal sensitivity based on IPOPT",
         "pub_year": "2012",
         "citation": "Mathematical Programming Computation 4, 307-331, 2012",
-        "num_citations": 166,
+        "num_citations": 168,
         "author_pub_id": "ymFxqWQAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -4617,7 +4631,7 @@
         "title": "Optimization of IGCC processes with reduced order CFD models",
         "pub_year": "2011",
         "citation": "Computers & chemical engineering 35 (9), 1705-1717, 2011",
-        "num_citations": 61,
+        "num_citations": 65,
         "author_pub_id": "ymFxqWQAAAAJ:t-hv7AR41mYC"
     },
     {
@@ -4645,7 +4659,7 @@
         "title": "Optimization of Pressure Swing Adsorption and Fractionated Vacuum Pressure Swing Adsorption Processes for CO2 Capture",
         "pub_year": "2005",
         "citation": "Industrial & engineering chemistry research 44 (21), 8084-8094, 2005",
-        "num_citations": 246,
+        "num_citations": 248,
         "author_pub_id": "ymFxqWQAAAAJ:LhH-TYMQEocC"
     },
     {
@@ -4750,7 +4764,7 @@
         "title": "Optimization of pressure swing adsorption via a trust-region filter algorithm and equilibrium theory",
         "pub_year": "2021",
         "citation": "Computers & Chemical Engineering 151, 107340, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ymFxqWQAAAAJ:vnF2_uLGgtgC"
     },
     {
@@ -4792,14 +4806,14 @@
         "title": "Optimization strategies for produced water networks with integrated desalination facilities",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 187, 108738, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ymFxqWQAAAAJ:9VeumLvkZSQC"
     },
     {
         "title": "Optimization strategies for simulated moving bed and PowerFeed processes",
         "pub_year": "2006",
         "citation": "AIChE Journal 52 (4), 1343-1350, 2006",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "ymFxqWQAAAAJ:jgBuDB5drN8C"
     },
     {
@@ -4876,7 +4890,7 @@
         "title": "Optimizing process economics online using model predictive control",
         "pub_year": "2013",
         "citation": "Computers & Chemical Engineering 58, 334-343, 2013",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "ymFxqWQAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -4981,14 +4995,14 @@
         "title": "Parameter estimation with improved model prediction for over-parametrized nonlinear systems",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 157, 107601, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ymFxqWQAAAAJ:otzGkya1bYkC"
     },
     {
         "title": "Parameters estimation and model discrimination for solid-liquid reactions in batch processes",
         "pub_year": "2018",
         "citation": "Chemical Engineering Science 187, 455-469, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ymFxqWQAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -5002,7 +5016,7 @@
         "title": "Part II. Future perspective on optimization",
         "pub_year": "2004",
         "citation": "Computers & Chemical Engineering 28 (8), 1193-1218, 2004",
-        "num_citations": 281,
+        "num_citations": 283,
         "author_pub_id": "ymFxqWQAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -5030,7 +5044,7 @@
         "title": "Predicting the performance of an industrial furnace using Gaussian process and linear regression: A comparison",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 181, 108513, 2024",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "ymFxqWQAAAAJ:YGhAHpnIhDoC"
     },
     {
@@ -5058,7 +5072,7 @@
         "title": "Predictive optimal control for thermo-mechanical pulping processes with multi-stage low consistency refining",
         "pub_year": "2013",
         "citation": "Journal of process control 23 (7), 1001-1011, 2013",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "ymFxqWQAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -5154,7 +5168,7 @@
         "title": "Process optimization and working fluid mixture design for organic Rankine cycles (ORCs) recovering compression heat in oxy-combustion power plants",
         "pub_year": "2018",
         "citation": "Energy Conversion and Management 175, 132-141, 2018",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "ymFxqWQAAAAJ:zCSUwVk65WsC"
     },
     {
@@ -5188,7 +5202,7 @@
         "title": "QPSchur: a dual, active-set, Schur-complement method for large-scale and structured convex quadratic programming",
         "pub_year": "2006",
         "citation": "Optimization and Engineering 7, 5-32, 2006",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "ymFxqWQAAAAJ:BPS1z4jHU5cC"
     },
     {
@@ -5202,7 +5216,7 @@
         "title": "Quadratic programming methods for reduced hessian SQP",
         "pub_year": "1994",
         "citation": "Computers & chemical engineering 18 (9), 817-832, 1994",
-        "num_citations": 316,
+        "num_citations": 318,
         "author_pub_id": "ymFxqWQAAAAJ:LGlY6t8CeOMC"
     },
     {
@@ -5293,14 +5307,14 @@
         "title": "Real-time PDE-constrained Optimization",
         "pub_year": "2007",
         "citation": "Society for Industrial and Applied Mathematics, 2007",
-        "num_citations": 110,
+        "num_citations": 109,
         "author_pub_id": "ymFxqWQAAAAJ:BJtnxTr0fRcC"
     },
     {
         "title": "Real-time refinery optimization with reduced-order fluidized catalytic cracker model and surrogate-based trust region filter method",
         "pub_year": "2021",
         "citation": "Computers & Chemical Engineering 153, 107455, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "ymFxqWQAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -5356,7 +5370,7 @@
         "title": "Recent advances in simulation and optimal design of pressure swing adsorption systems",
         "pub_year": "2005",
         "citation": "Separation & Purification Reviews 33 (1), 1-39, 2005",
-        "num_citations": 104,
+        "num_citations": 107,
         "author_pub_id": "ymFxqWQAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -5370,7 +5384,7 @@
         "title": "Redescending estimators for data reconciliation and parameter estimation",
         "pub_year": "2001",
         "citation": "Computers & Chemical Engineering 25 (11-12), 1585-1599, 2001",
-        "num_citations": 181,
+        "num_citations": 183,
         "author_pub_id": "ymFxqWQAAAAJ:yqoGN6RLRZoC"
     },
     {
@@ -5398,7 +5412,7 @@
         "title": "Reduced order model based on principal component analysis for process simulation and optimization",
         "pub_year": "2009",
         "citation": "Energy & Fuels 23 (3), 1695-1706, 2009",
-        "num_citations": 141,
+        "num_citations": 142,
         "author_pub_id": "ymFxqWQAAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -5475,7 +5489,7 @@
         "title": "Retrospective on optimization",
         "pub_year": "2004",
         "citation": "Computers & Chemical Engineering 28 (8), 1169-1192, 2004",
-        "num_citations": 871,
+        "num_citations": 876,
         "author_pub_id": "ymFxqWQAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -5489,7 +5503,7 @@
         "title": "Rigorous optimization-based synthesis of distillation cascades without integer variables",
         "pub_year": "2014",
         "citation": "Computer aided chemical engineering 33, 55-60, 2014",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "ymFxqWQAAAAJ:qe6vwMD2xtsC"
     },
     {
@@ -5593,7 +5607,7 @@
         "title": "Robustly stable economic NMPC for non-dissipative stage costs",
         "pub_year": "2017",
         "citation": "Journal of Process Control 57, 116-126, 2017",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "ymFxqWQAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -5677,7 +5691,7 @@
         "title": "Self-stabilizing economic model predictive control without pre-calculated steady-state optima: Stability and robustness",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 178, 108349, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ymFxqWQAAAAJ:pxXbYLTb8EgC"
     },
     {
@@ -5719,7 +5733,7 @@
         "title": "Sensitivity-based hierarchical distributed model predictive control of nonlinear processes",
         "pub_year": "2019",
         "citation": "Journal of Process Control 84, 146-167, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "ymFxqWQAAAAJ:GJVTs2krol4C"
     },
     {
@@ -5761,7 +5775,7 @@
         "title": "Simulation and optimal design of multiple‐bed pressure swing adsorption systems",
         "pub_year": "2004",
         "citation": "AIChE Journal 50 (11), 2904-2917, 2004",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "ymFxqWQAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -5782,7 +5796,7 @@
         "title": "Simulation and optimization of pressure‐swing adsorption systems for air separation",
         "pub_year": "2003",
         "citation": "AIChE Journal 49 (5), 1140-1157, 2003",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "ymFxqWQAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -5831,7 +5845,7 @@
         "title": "Simultaneous design and NMPC control under uncertainty and structural decisions: A discrete‐steepest descent algorithm",
         "pub_year": "2023",
         "citation": "AIChE Journal 69 (11), e18188, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ymFxqWQAAAAJ:RJNGbXJAtMsC"
     },
     {
@@ -5852,14 +5866,14 @@
         "title": "Simultaneous mixed-integer dynamic optimization for integrated design and control",
         "pub_year": "2007",
         "citation": "Computers & chemical engineering 31 (5-6), 588-600, 2007",
-        "num_citations": 145,
+        "num_citations": 146,
         "author_pub_id": "ymFxqWQAAAAJ:OBSaB-F7qqsC"
     },
     {
         "title": "Simultaneous modular simulation and optimization",
         "pub_year": "1983",
         "citation": "Carnegie Mellon University, 1983",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "ymFxqWQAAAAJ:YB4bud6kWLwC"
     },
     {
@@ -5880,7 +5894,7 @@
         "title": "Simultaneous optimization and solution methods for batch reactor control profiles",
         "pub_year": "1989",
         "citation": "Computers & Chemical Engineering 13 (1-2), 49-62, 1989",
-        "num_citations": 452,
+        "num_citations": 454,
         "author_pub_id": "ymFxqWQAAAAJ:GiYFt9mpioMC"
     },
     {
@@ -5936,7 +5950,7 @@
         "title": "Simultaneous strategies for data reconciliation and gross error detection of nonlinear systems",
         "pub_year": "1991",
         "citation": "Computers & chemical engineering 15 (10), 679-690, 1991",
-        "num_citations": 268,
+        "num_citations": 269,
         "author_pub_id": "ymFxqWQAAAAJ:WMtz-WDmgKQC"
     },
     {
@@ -6020,7 +6034,7 @@
         "title": "Stability of a class of discrete-time nonlinear recursive observers",
         "pub_year": "2010",
         "citation": "Journal of Process Control 20 (10), 1150-1160, 2010",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ymFxqWQAAAAJ:1tZ8xJnm2c8C"
     },
     {
@@ -6153,7 +6167,7 @@
         "title": "Surrogate equations of state for equation-oriented optimization of polymerization processes",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 781-786, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ymFxqWQAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -6167,7 +6181,7 @@
         "title": "Synthesis of Combined Heat and Mass Exchange Networks Via a Trust Region Filter Optimisation Algorithm Including Detailed Unit Designs",
         "pub_year": "2021",
         "citation": "Computer Aided Chemical Engineering 50, 13-18, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ymFxqWQAAAAJ:s9ia6_kGH2AC"
     },
     {
@@ -6229,7 +6243,7 @@
         "title": "Systematic methods for chemical process design",
         "pub_year": "1997",
         "citation": "Prentice Hall, Old Tappan, NJ (United States), 1997",
-        "num_citations": 2158,
+        "num_citations": 2163,
         "author_pub_id": "ymFxqWQAAAAJ:AFmTUeZ1pmEC"
     },
     {
@@ -6278,7 +6292,7 @@
         "title": "Technology advances for dynamic real-time optimization",
         "pub_year": "2009",
         "citation": "Computer Aided Chemical Engineering 27, 1-6, 2009",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "ymFxqWQAAAAJ:Aul-kAQHnToC"
     },
     {
@@ -6299,7 +6313,7 @@
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
         "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "ymFxqWQAAAAJ:XUvXOeBm_78C"
     },
     {
@@ -6312,7 +6326,7 @@
         "title": "The advanced-step NMPC controller: Optimality, stability and robustness",
         "pub_year": "2009",
         "citation": "Automatica 45 (1), 86-93, 2009",
-        "num_citations": 483,
+        "num_citations": 485,
         "author_pub_id": "ymFxqWQAAAAJ:B2rIPIGFPLEC"
     },
     {
@@ -6321,6 +6335,13 @@
         "citation": "Advances in chemical engineering 40, 59-118, 2011",
         "num_citations": 20,
         "author_pub_id": "ymFxqWQAAAAJ:mel-f30kHHgC"
+    },
+    {
+        "title": "The trust region filter strategy: Survey of a rigorous approach for optimization with surrogate models",
+        "pub_year": "2024",
+        "citation": "Digital Chemical Engineering, 100197, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ymFxqWQAAAAJ:JdL-Xu2nR38C"
     },
     {
         "title": "The ℓ1—exact penalty-barrier phase for degenerate nonlinear programming problems in ipopt",
@@ -6388,7 +6409,7 @@
         "title": "Tracking the necessary conditions of optimality with changing set of active constraints using a barrier-penalty function",
         "pub_year": "2008",
         "citation": "Computers & Chemical Engineering 32 (3), 572-579, 2008",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "ymFxqWQAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -6502,7 +6523,7 @@
         "title": "pyomo.dae: a modeling and automatic discretization framework for optimization with differential and algebraic equations",
         "pub_year": "2018",
         "citation": "Mathematical Programming Computation 10, 187-223, 2018",
-        "num_citations": 106,
+        "num_citations": 109,
         "author_pub_id": "ymFxqWQAAAAJ:D_tqNUsBuKoC"
     },
     {

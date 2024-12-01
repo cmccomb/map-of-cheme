@@ -10,7 +10,7 @@
         "title": "A Kaizen Programming algorithm for multi-output regression based on a heterogeneous island model",
         "pub_year": "2023",
         "citation": "Neural computing and applications 35 (13), 9299-9317, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8xQ5wR4AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "A genetic programming approach for construction of surrogate models",
         "pub_year": "2019",
         "citation": "Computer Aided Chemical Engineering 47, 451-456, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "8xQ5wR4AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Analyzing Hydrogen Production Capacities to Seize Renewable Energy Surplus",
         "pub_year": "2020",
         "citation": "Computer Aided Chemical Engineering 48, 1549-1554, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "8xQ5wR4AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -135,14 +135,14 @@
         "title": "Continuous production of 5-hydroxymethylfurfural from fructose: a design case study",
         "pub_year": "2010",
         "citation": "Energy & Environmental Science 3 (10), 1560-1572, 2010",
-        "num_citations": 193,
+        "num_citations": 195,
         "author_pub_id": "8xQ5wR4AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Coupling time varying power sources to production of green-hydrogen: a superstructure based approach for technology selection and optimal design",
         "pub_year": "2022",
         "citation": "Chemical Engineering Research and Design 183, 235-249, 2022",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "8xQ5wR4AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -198,14 +198,14 @@
         "title": "Developing process designs for biorefineries—Definitions, categories, and unit operations",
         "pub_year": "2020",
         "citation": "Energies 13 (6), 1493, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "8xQ5wR4AAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Development of a machine learning-based soft sensor for an oil refinery’s distillation column",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 161, 107756, 2022",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "8xQ5wR4AAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -232,7 +232,7 @@
         "title": "Economic assessment of temperature swing adsorption systems as Claus tail gas clean up units",
         "pub_year": "2015",
         "citation": "Chemical Engineering Science 126, 186-195, 2015",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "8xQ5wR4AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "Engineering aspects of hydrothermal pretreatment: From batch to continuous operation, scale-up and pilot reactor under biorefinery concept",
         "pub_year": "2020",
         "citation": "Bioresource technology 299, 122685, 2020",
-        "num_citations": 305,
+        "num_citations": 312,
         "author_pub_id": "8xQ5wR4AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -316,7 +316,7 @@
         "title": "Green hydrogen production: Process design and capacity expansion integrating economic and operational autonomy objectives",
         "pub_year": "2023",
         "citation": "Industrial & Engineering Chemistry Research 63 (1), 358-370, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "8xQ5wR4AAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -382,6 +382,13 @@
         "author_pub_id": "8xQ5wR4AAAAJ:4DMP91E08xMC"
     },
     {
+        "title": "Machine Learning and Process Systems Engineering for Sustainable Chemical Processes-A Short Review",
+        "pub_year": "2024",
+        "citation": "Current Opinion in Green and Sustainable Chemistry, 100982, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8xQ5wR4AAAAJ:cFHS6HbyZ2cC"
+    },
+    {
         "title": "Multi-Objective Optimization of an Integrated Cluster for Methanol Production",
         "pub_year": "2024",
         "citation": "2024 AIChE Annual Meeting, 2024",
@@ -406,7 +413,7 @@
         "title": "On the kinetics of the isomerization of glucose to fructose using Sn-Beta",
         "pub_year": "2014",
         "citation": "Chemical Engineering Science 116, 235-242, 2014",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "8xQ5wR4AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -448,7 +455,7 @@
         "title": "Optimal retrofitting of conventional oil refinery into sustainable bio‐refinery under uncertainty",
         "pub_year": "2024",
         "citation": "AIChE Journal 70 (4), e18371, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8xQ5wR4AAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -503,7 +510,7 @@
         "title": "Proceedings of the 3rd IPLeiria’s International Health Congress: Leiria, Portugal. 6-7 May 2016",
         "pub_year": "2016",
         "citation": "BMC Health Services Research 16, 111-242, 2016",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "8xQ5wR4AAAAJ:35N4QoGY0k4C"
     },
     {

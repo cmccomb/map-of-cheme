@@ -3,7 +3,7 @@
         "title": "A giant leap for womankind",
         "pub_year": "2019",
         "citation": "Nat Med 25 (704-707), 31036882, 2019",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "_7HjzLYAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -17,7 +17,7 @@
         "title": "Ancestry of cells must be considered in bioengineering",
         "pub_year": "2022",
         "citation": "Nature Reviews Materials 7 (1), 2-4, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "_7HjzLYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -72,7 +72,7 @@
         "title": "High-capacity poly (2-oxazoline) formulation of TLR 7/8 agonist extends survival in a chemo-insensitive, metastatic model of lung adenocarcinoma",
         "pub_year": "2020",
         "citation": "Science advances 6 (25), eaba5542, 2020",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "_7HjzLYAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -106,7 +106,7 @@
         "title": "Measuring and Modeling Macrophage Growth using a Lab-on-CMOS Capacitance Sensing Microsystem",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.01. 27.525955, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "_7HjzLYAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -176,7 +176,7 @@
         "title": "Rapid growth in the COVID-19 era",
         "pub_year": "2021",
         "citation": "Mrs Bulletin, 1-7, 2021",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "_7HjzLYAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -185,6 +185,13 @@
         "citation": "bioRxiv, 2024.05. 28.595900, 2024",
         "num_citations": 0,
         "author_pub_id": "_7HjzLYAAAAJ:4TOpqqG69KYC"
+    },
+    {
+        "title": "Scoping Review of Pre-clinical and Translational Studies on Macrophage Polarization in Nanoparticle-based Cancer Immunotherapy",
+        "pub_year": "2021",
+        "citation": "OSF, 2021",
+        "num_citations": 3,
+        "author_pub_id": "_7HjzLYAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Single Cell Tracking of Neural Progenitors labeled in vivo with Micron Sized Particles of Iron Oxide (MPIO) into Specific Layers of the Olfactory Bulb",
@@ -203,7 +210,7 @@
         "title": "TRAIL-coated leukocytes that kill cancer cells in the circulation",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (3), 930-935, 2014",
-        "num_citations": 233,
+        "num_citations": 235,
         "author_pub_id": "_7HjzLYAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -217,14 +224,14 @@
         "title": "Targeted delivery of siRNA lipoplexes to cancer cells using macrophage transient horizontal gene transfer",
         "pub_year": "2019",
         "citation": "Advanced Science 6 (21), 1900582, 2019",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "_7HjzLYAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "The role of extracellular vesicles in the pathogenesis and treatment of autoimmune disorders",
         "pub_year": "2021",
         "citation": "Frontiers in Immunology 12, 566299, 2021",
-        "num_citations": 45,
+        "num_citations": 49,
         "author_pub_id": "_7HjzLYAAAAJ:_FxGoFyzp5QC"
     },
     {
