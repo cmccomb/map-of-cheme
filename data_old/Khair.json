@@ -66,7 +66,7 @@
         "title": "A squirmer across Reynolds numbers",
         "pub_year": "2016",
         "citation": "Journal of Fluid Mechanics 796, 233-256, 2016",
-        "num_citations": 104,
+        "num_citations": 107,
         "author_pub_id": "PInIkl8AAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Breaking electrolyte symmetry in induced-charge electro-osmosis",
         "pub_year": "2020",
         "citation": "Journal of Fluid Mechanics 905, A20, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PInIkl8AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -135,7 +135,7 @@
         "title": "Characterization of the nonlinear electrophoretic behavior of colloidal particles in a microfluidic channel",
         "pub_year": "2023",
         "citation": "Analytical Chemistry 95 (16), 6740-6747, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "PInIkl8AAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -167,10 +167,17 @@
         "author_pub_id": "PInIkl8AAAAJ:WF5omc3nYNoC"
     },
     {
+        "title": "Convective Instability Driven By the Interfacial Reaction of Oppositely Charged Surfactants Meeting at an Oil–Water Interface",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:Y5dfb0dijaUC"
+    },
+    {
         "title": "Coupling electrokinetics and rheology: electrophoresis in non-Newtonian fluids",
         "pub_year": "2012",
         "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 85 (1 …, 2012",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "PInIkl8AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -184,7 +191,7 @@
         "title": "Determination of charge carrier concentration in doped nonpolar liquids by impedance spectroscopy in the presence of charge adsorption",
         "pub_year": "2016",
         "citation": "Journal of colloid and interface science 469, 325-337, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "PInIkl8AAAAJ:4DMP91E08xMC"
     },
     {
@@ -212,14 +219,14 @@
         "title": "Diffusiophoresis of charged colloidal particles in the limit of very high salinity",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (37), 18257-18262, 2019",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "PInIkl8AAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Diffusiophoresis of colloidal particles in neutral solute gradients at finite Péclet number",
         "pub_year": "2013",
         "citation": "Journal of Fluid Mechanics 731, 64-94, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "PInIkl8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -233,7 +240,7 @@
         "title": "Diffusiophoretic Transport of Charged Colloids in Ionic Surfactant Gradients Entirely below versus Entirely above the Critical Micelle Concentration",
         "pub_year": "2024",
         "citation": "Langmuir 40 (19), 10143-10156, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PInIkl8AAAAJ:t6usbXjVLHcC"
     },
     {
@@ -254,7 +261,7 @@
         "title": "Dispersion in steady and time-oscillatory two-dimensional flows through a parallel-plate channel",
         "pub_year": "2019",
         "citation": "Physics of Fluids 31 (2), 2019",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "PInIkl8AAAAJ:ldfaerwXgEUC"
     },
     {
@@ -282,7 +289,7 @@
         "title": "Drop deformation during diffusiophoresis",
         "pub_year": "2022",
         "citation": "Journal of Fluid Mechanics 949, A17, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "PInIkl8AAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -310,7 +317,7 @@
         "title": "Dynamics of a self-diffusiophoretic particle in shear flow",
         "pub_year": "2014",
         "citation": "Physical Review E 90 (1), 013030, 2014",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "PInIkl8AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -331,7 +338,7 @@
         "title": "Dynamics of forced and unforced autophoretic particles",
         "pub_year": "2022",
         "citation": "Journal of Fluid Mechanics 948, A41, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PInIkl8AAAAJ:8AbLer7MMksC"
     },
     {
@@ -345,14 +352,14 @@
         "title": "Effect of polymer/surfactant complexation on diffusiophoresis of colloids in surfactant concentration gradients",
         "pub_year": "2023",
         "citation": "Journal of Colloid and Interface Science 642, 169-181, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PInIkl8AAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Effect of speed fluctuations on the collective dynamics of active disks",
         "pub_year": "2023",
         "citation": "Soft Matter 19 (40), 7764-7774, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "PInIkl8AAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -408,7 +415,7 @@
         "title": "Expansions at small Reynolds numbers for the locomotion of a spherical squirmer",
         "pub_year": "2014",
         "citation": "Physics of Fluids 26 (1), 2014",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "PInIkl8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -429,7 +436,7 @@
         "title": "Formation of charge carriers in liquids",
         "pub_year": "2017",
         "citation": "Advances in colloid and interface science 244, 21-35, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "PInIkl8AAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -443,7 +450,7 @@
         "title": "Gelatin‐Based Ingestible Impedance Sensor to Evaluate Gastrointestinal Epithelial Barriers",
         "pub_year": "2023",
         "citation": "Advanced Materials 35 (17), 2211581, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PInIkl8AAAAJ:D_sINldO8mEC"
     },
     {
@@ -478,7 +485,7 @@
         "title": "Influence of ion sterics on diffusiophoresis and electrophoresis in concentrated electrolytes",
         "pub_year": "2017",
         "citation": "Physical Review Fluids 2 (1), 014201, 2017",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "PInIkl8AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -534,7 +541,7 @@
         "title": "Macrotransport theory for diffusiophoretic colloids and chemotactic microorganisms",
         "pub_year": "2021",
         "citation": "Journal of Fluid Mechanics 917, A52, 2021",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "PInIkl8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -569,7 +576,7 @@
         "title": "Migration of an electrophoretic particle in a weakly inertial or viscoelastic shear flow",
         "pub_year": "2020",
         "citation": "Physical Review Fluids 5 (3), 033702, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "PInIkl8AAAAJ:f2IySw72cVMC"
     },
     {
@@ -611,14 +618,14 @@
         "title": "Nonlinear electrophoresis of colloidal particles",
         "pub_year": "2022",
         "citation": "Current Opinion in Colloid & Interface Science 59, 101587, 2022",
-        "num_citations": 39,
+        "num_citations": 42,
         "author_pub_id": "PInIkl8AAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Nonlinear electrophoretic velocity of a spherical colloidal particle",
         "pub_year": "2023",
         "citation": "Journal of Fluid Mechanics 968, A14, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PInIkl8AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -660,7 +667,7 @@
         "title": "On the bulk viscosity of suspensions",
         "pub_year": "2006",
         "citation": "Journal of Fluid Mechanics 554, 109-123, 2006",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "PInIkl8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -741,9 +748,10 @@
         "author_pub_id": "PInIkl8AAAAJ:HE397vMXCloC"
     },
     {
-        "title": "Self‐organized Patterns in Non‐reciprocal Active Droplet Systems",
-        "citation": "Angewandte Chemie International Edition, e202409382, 0",
-        "num_citations": 0,
+        "title": "Self‐Organized Patterns in Non‐Reciprocal Active Droplet Systems",
+        "pub_year": "2024",
+        "citation": "Angewandte Chemie International Edition, e202409382, 2024",
+        "num_citations": 1,
         "author_pub_id": "PInIkl8AAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -757,7 +765,7 @@
         "title": "Single particle motion in colloidal dispersions: a simple model for active and nonlinear microrheology",
         "pub_year": "2006",
         "citation": "Journal of Fluid Mechanics 557, 73-117, 2006",
-        "num_citations": 140,
+        "num_citations": 141,
         "author_pub_id": "PInIkl8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -861,7 +869,7 @@
     {
         "title": "The influence of active agent motility on SIRS epidemiological dynamics",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2406.01865, 2024",
+        "citation": "Soft Matter, 2024",
         "num_citations": 0,
         "author_pub_id": "PInIkl8AAAAJ:Mojj43d5GZwC"
     },
@@ -869,7 +877,7 @@
         "title": "The influence of hydrodynamic slip on the electrophoretic mobility of a spherical colloidal particle",
         "pub_year": "2009",
         "citation": "Physics of Fluids 21 (4), 2009",
-        "num_citations": 152,
+        "num_citations": 153,
         "author_pub_id": "PInIkl8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -883,14 +891,14 @@
         "title": "The lift force on a charged sphere that translates and rotates in an electrolyte",
         "pub_year": "2019",
         "citation": "Electrophoresis 40 (18-19), 2407-2414, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "PInIkl8AAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "The role of surface charge convection in the electrohydrodynamics and breakup of prolate drops",
         "pub_year": "2017",
         "citation": "Journal of Fluid Mechanics 833, 29-53, 2017",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "PInIkl8AAAAJ:hMod-77fHWUC"
     },
     {
@@ -911,7 +919,7 @@
         "title": "Tuning chemotactic and diffusiophoretic spreading via hydrodynamic flows",
         "pub_year": "2022",
         "citation": "Soft Matter 18 (9), 1896-1910, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "PInIkl8AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -952,7 +960,7 @@
         "title": "“Microviscoelasticity” of colloidal dispersions",
         "pub_year": "2005",
         "citation": "Journal of Rheology 49 (6), 1449-1481, 2005",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "PInIkl8AAAAJ:UeHWp8X0CEIC"
     }
 ]

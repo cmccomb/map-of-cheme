@@ -17,7 +17,7 @@
         "title": "An in-depth survey of the oil spill literature since 1968: Long term trends and changes since Deepwater Horizon",
         "pub_year": "2016",
         "citation": "Marine pollution bulletin 113 (1-2), 371-379, 2016",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "aYUS1DkAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 230,
+        "num_citations": 235,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -116,6 +116,13 @@
         "citation": "Materials Today Communications 27, 102185, 2021",
         "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:p__nRnzSRKYC"
+    },
+    {
+        "title": "Designing a Magnetically Responsive Microbial Nanoculture System",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Developing a Functional Microbial Nanoculture System to Assess the Growth Dynamics of S. Aureus and P. Aeruginosa",
@@ -219,7 +226,7 @@
         "title": "Films of Bacteria at Interfaces (FBI): Remodeling of Fluid Interfaces by Pseudomonas aeruginosa",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 17864, 2017",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "aYUS1DkAAAAJ:35r97b3x0nAC"
     },
     {
@@ -233,7 +240,7 @@
         "title": "Films of bacteria at interfaces",
         "pub_year": "2017",
         "citation": "Advances in colloid and interface science 247, 561-572, 2017",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "aYUS1DkAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -338,7 +345,7 @@
         "title": "Mucoid Coating Provides a Growth Advantage to Pseudomonas aeruginosa at Oil–Water Interfaces",
         "pub_year": "2022",
         "citation": "ACS Applied Bio Materials 5 (5), 1868-1878, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -356,10 +363,17 @@
         "author_pub_id": "aYUS1DkAAAAJ:b1wdh0AR-JQC"
     },
     {
+        "title": "Nanocultures As an Assessment Tool for Microbial Dynamics",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:hCrLmN-GePgC"
+    },
+    {
         "title": "One-step generation of cell-encapsulating compartments via polyelectrolyte complexation in an aqueous two phase system",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (38), 25603-25611, 2016",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "aYUS1DkAAAAJ:Fu2w8maKXqMC"
     },
     {

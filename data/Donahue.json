@@ -37,14 +37,14 @@
         "title": "A dual‐chamber method for quantifying the effects of atmospheric perturbations on secondary organic aerosol formation from biomass burning emissions",
         "pub_year": "2017",
         "citation": "Journal of Geophysical Research: Atmospheres 122 (11), 6043-6058, 2017",
-        "num_citations": 52,
+        "num_citations": 55,
         "author_pub_id": "ILambBMAAAAJ:QUX0mv85b1cC"
     },
     {
         "title": "A naming convention for atmospheric organic aerosol",
         "pub_year": "2014",
         "citation": "Atmospheric Chemistry and Physics 14 (11), 5825-5839, 2014",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "ILambBMAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -72,7 +72,7 @@
         "title": "A semiempirical correlation between enthalpy of vaporization and saturation concentration for organic aerosol",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (2), 743-748, 2010",
-        "num_citations": 178,
+        "num_citations": 180,
         "author_pub_id": "ILambBMAAAAJ:blknAaTinKkC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "A two-dimensional volatility basis set: 1. organic-aerosol mixing thermodynamics",
         "pub_year": "2011",
         "citation": "Atmospheric Chemistry and Physics 11 (7), 3303-3318, 2011",
-        "num_citations": 708,
+        "num_citations": 714,
         "author_pub_id": "ILambBMAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -100,14 +100,14 @@
         "title": "A two-dimensional volatility basis set–Part 2: Diagnostics of organic-aerosol evolution",
         "pub_year": "2012",
         "citation": "Atmospheric Chemistry and Physics 12 (2), 615-634, 2012",
-        "num_citations": 590,
+        "num_citations": 595,
         "author_pub_id": "ILambBMAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Absorptivity of brown carbon in fresh and photo-chemically aged biomass-burning emissions",
         "pub_year": "2013",
         "citation": "Atmospheric Chemistry and Physics 13 (15), 7683-7693, 2013",
-        "num_citations": 362,
+        "num_citations": 366,
         "author_pub_id": "ILambBMAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -116,6 +116,13 @@
         "citation": "Geophysical Research Letters 28 (20), 3863-3866, 2001",
         "num_citations": 59,
         "author_pub_id": "ILambBMAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Activity Measurements Constrain Anticipated Growth of Isoprene-Derived Particles in the Upper Troposphere",
+        "pub_year": "2024",
+        "citation": "AGU24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ILambBMAAAAJ:J4E9jCG1tHUC"
     },
     {
         "title": "Adsorptive uptake of water by semisolid secondary organic aerosols",
@@ -182,7 +189,7 @@
         "title": "Aerosol optical tweezers constrain the morphology evolution of liquid-liquid phase-separated atmospheric particles",
         "pub_year": "2020",
         "citation": "Chem 6 (1), 204-220, 2020",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "ILambBMAAAAJ:bVQMTfhMCi4C"
     },
     {
@@ -209,14 +216,14 @@
         "title": "Aging of biogenic secondary organic aerosol via gas-phase OH radical reactions",
         "pub_year": "2012",
         "citation": "Proceedings of the National Academy of Sciences 109 (34), 13503-13508, 2012",
-        "num_citations": 280,
+        "num_citations": 281,
         "author_pub_id": "ILambBMAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "Aging of organic aerosol: Bridging the gap between laboratory and field studies",
         "pub_year": "2007",
         "citation": "Annu. Rev. Phys. Chem. 58 (1), 321-352, 2007",
-        "num_citations": 582,
+        "num_citations": 583,
         "author_pub_id": "ILambBMAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -237,7 +244,7 @@
         "title": "Air pollution and air quality",
         "pub_year": "2018",
         "citation": "Green Chemistry, 151-176, 2018",
-        "num_citations": 28,
+        "num_citations": 31,
         "author_pub_id": "ILambBMAAAAJ:eGYfIraVYiQC"
     },
     {
@@ -263,17 +270,17 @@
     },
     {
         "title": "Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules",
+        "pub_year": "2024",
+        "citation": "Atmospheric measurement techniques 17 (17), 5413-5428, 2024",
+        "num_citations": 2,
+        "author_pub_id": "ILambBMAAAAJ:1xBWf43XMUgC"
+    },
+    {
+        "title": "Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules",
         "pub_year": "2023",
         "citation": "Atmospheric measurement techniques discussions 2023, 1-29, 2023",
         "num_citations": 2,
         "author_pub_id": "ILambBMAAAAJ:mVC4hKzE2FoC"
-    },
-    {
-        "title": "Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules",
-        "pub_year": "2024",
-        "citation": "Atmospheric measurement techniques 17 (17), 5413-5428, 2024",
-        "num_citations": 1,
-        "author_pub_id": "ILambBMAAAAJ:1xBWf43XMUgC"
     },
     {
         "title": "An Experimental Method for Testing Reactivity Models: A High-Pressure Discharge− Flow Study of H+ Alkene and Haloalkene Reactions",
@@ -307,14 +314,14 @@
         "title": "Aqueous phase oxidation of sulphur dioxide by ozone in cloud droplets",
         "pub_year": "2016",
         "citation": "Atmospheric chemistry and physics 16 (3), 1693-1712, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "ILambBMAAAAJ:-mN3Mh-tlDkC"
     },
     {
         "title": "Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer",
         "pub_year": "2024",
         "citation": "Environmental science: atmospheres 4 (2), 265-274, 2024",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ILambBMAAAAJ:I9gX6wnfuA8C"
     },
     {
@@ -390,7 +397,7 @@
         "title": "Atmospheric new particle formation from the CERN CLOUD experiment",
         "pub_year": "2023",
         "citation": "Nature Geoscience 16 (11), 948-957, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "ILambBMAAAAJ:htyGaKyDgHMC"
     },
     {
@@ -404,7 +411,7 @@
         "title": "Atmospheric organic particulate matter: From smoke to secondary organic aerosol",
         "pub_year": "2009",
         "citation": "Atmospheric Environment 43 (1), 94-106, 2009",
-        "num_citations": 408,
+        "num_citations": 413,
         "author_pub_id": "ILambBMAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -425,7 +432,7 @@
         "title": "Atmospheric volatile organic compound measurements during the Pittsburgh Air Quality Study: Results, interpretation, and quantification of primary and secondary contributions",
         "pub_year": "2005",
         "citation": "Journal of Geophysical Research: Atmospheres 110 (D7), 2005",
-        "num_citations": 196,
+        "num_citations": 197,
         "author_pub_id": "ILambBMAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -459,7 +466,7 @@
         "title": "Brownness of organics in aerosols from biomass burning linked to their black carbon content",
         "pub_year": "2014",
         "citation": "Nature Geoscience 7 (9), 647-650, 2014",
-        "num_citations": 520,
+        "num_citations": 524,
         "author_pub_id": "ILambBMAAAAJ:nZcligLrVowC"
     },
     {
@@ -473,7 +480,7 @@
         "title": "Can highly oxidized organics contribute to atmospheric new particle formation?",
         "pub_year": "2016",
         "citation": "The Journal of Physical Chemistry A 120 (9), 1452-1458, 2016",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "ILambBMAAAAJ:XUvXOeBm_78C"
     },
     {
@@ -487,7 +494,7 @@
         "title": "Carbon oxidation state as a metric for describing the chemistry of atmospheric organic aerosol",
         "pub_year": "2011",
         "citation": "Nature chemistry 3 (2), 133-139, 2011",
-        "num_citations": 982,
+        "num_citations": 992,
         "author_pub_id": "ILambBMAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -501,7 +508,7 @@
         "title": "Causes and importance of new particle formation in the present‐day and preindustrial atmospheres",
         "pub_year": "2017",
         "citation": "Journal of Geophysical Research: Atmospheres 122 (16), 8739-8760, 2017",
-        "num_citations": 314,
+        "num_citations": 321,
         "author_pub_id": "ILambBMAAAAJ:65Yg0jNCQDAC"
     },
     {
@@ -555,7 +562,7 @@
         "title": "Chemical composition of nanoparticles from -pinene nucleation and the influence of isoprene and relative humidity at low temperature",
         "pub_year": "2021",
         "citation": "Atmospheric chemistry and physics 21 (22), 17099-17114, 2021",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ILambBMAAAAJ:bXQfdp6S9ecC"
     },
     {
@@ -589,7 +596,7 @@
         "title": "Cloud condensation nuclei activation of limited solubility organic aerosol",
         "pub_year": "2006",
         "citation": "Atmospheric environment 40 (4), 605-617, 2006",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "ILambBMAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -610,7 +617,7 @@
         "title": "Cloud–aerosol–turbulence interactions: Science priorities and concepts for a large-scale laboratory facility",
         "pub_year": "2020",
         "citation": "Bulletin of the American Meteorological Society 101 (7), E1026-E1035, 2020",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "ILambBMAAAAJ:R22Rs3tN8aoC"
     },
     {
@@ -673,7 +680,7 @@
         "title": "Constraining particle evolution from wall losses, coagulation, and condensation-evaporation in smog-chamber experiments: optimal estimation based on size distribution measurements",
         "pub_year": "2008",
         "citation": "Aerosol Science and Technology 42 (12), 1001-1015, 2008",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "ILambBMAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -708,7 +715,7 @@
         "title": "Constraining the volatility distribution and gas-particle partitioning of combustion aerosols using isothermal dilution and thermodenuder measurements",
         "pub_year": "2009",
         "citation": "Environmental science & technology 43 (13), 4750-4756, 2009",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "ILambBMAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -729,14 +736,14 @@
         "title": "Contribution of brown carbon and lensing to the direct radiative effect of carbonaceous aerosols from biomass and biofuel burning emissions",
         "pub_year": "2015",
         "citation": "Journal of Geophysical Research: Atmospheres 120 (19), 10,285-10,296, 2015",
-        "num_citations": 206,
+        "num_citations": 207,
         "author_pub_id": "ILambBMAAAAJ:wKETBy42zhYC"
     },
     {
         "title": "Contribution of motor vehicle emissions to organic carbon and fine particle mass in Pittsburgh, Pennsylvania: Effects of varying source profiles and seasonal trends in ambient …",
         "pub_year": "2006",
         "citation": "Atmospheric Environment 40 (40), 8002-8019, 2006",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "ILambBMAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -749,14 +756,14 @@
         "title": "Controlled OH radical production via ozone-alkene reactions for use in aerosol aging studies",
         "pub_year": "2007",
         "citation": "Environmental science & technology 41 (7), 2357-2363, 2007",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "ILambBMAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Coupled partitioning, dilution, and chemical aging of semivolatile organics",
         "pub_year": "2006",
         "citation": "Environmental science & technology 40 (8), 2635-2643, 2006",
-        "num_citations": 1470,
+        "num_citations": 1475,
         "author_pub_id": "ILambBMAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -797,7 +804,7 @@
         "title": "Determination of the collision rate coefficient between charged iodic acid clusters and iodic acid using the appearance time method",
         "pub_year": "2021",
         "citation": "Aerosol Science and Technology 55 (2), 231-242, 2021",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "ILambBMAAAAJ:QaSi33NTfwYC"
     },
     {
@@ -902,7 +909,7 @@
         "title": "Effect of secondary organic aerosol coating thickness on the real-time detection and characterization of biomass-burning soot by two particle mass spectrometers",
         "pub_year": "2016",
         "citation": "Atmospheric Measurement Techniques 9 (12), 6117-6137, 2016",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "ILambBMAAAAJ:WAzi4Gm8nLoC"
     },
     {
@@ -937,7 +944,7 @@
         "title": "Effects of nitrogen oxides on the production of reactive oxygen species and environmentally persistent free radicals from α-pinene and naphthalene secondary organic aerosols",
         "pub_year": "2022",
         "citation": "The Journal of Physical Chemistry A 126 (40), 7361-7372, 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "ILambBMAAAAJ:a2necdfpwlEC"
     },
     {
@@ -951,7 +958,7 @@
         "title": "Efficient alkane oxidation under combustion engine and atmospheric conditions",
         "pub_year": "2021",
         "citation": "Communications chemistry 4 (1), 18, 2021",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "ILambBMAAAAJ:g_UdREhPGEoC"
     },
     {
@@ -972,7 +979,7 @@
         "title": "Elemental ratio measurements of organic compounds using aerosol mass spectrometry: characterization, improved calibration, and implications",
         "pub_year": "2015",
         "citation": "Atmospheric Chemistry and Physics 15 (1), 253-272, 2015",
-        "num_citations": 836,
+        "num_citations": 843,
         "author_pub_id": "ILambBMAAAAJ:P7Ujq4OLJYoC"
     },
     {
@@ -986,7 +993,7 @@
         "title": "Emerging investigator series: determination of biphasic core–shell droplet properties using aerosol optical tweezers",
         "pub_year": "2018",
         "citation": "Environmental Science: Processes & Impacts 20 (11), 1512-1523, 2018",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ILambBMAAAAJ:BJrgspguQaEC"
     },
     {
@@ -1021,7 +1028,7 @@
         "title": "Enhanced growth rate of atmospheric particles from sulfuric acid",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (12), 7359-7372, 2020",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "ILambBMAAAAJ:PuOEWVtPfzwC"
     },
     {
@@ -1122,7 +1129,7 @@
         "title": "Evaluation of one-dimensional and two-dimensional volatility basis sets in simulating the aging of secondary organic aerosol with smog-chamber experiments",
         "pub_year": "2015",
         "citation": "Environmental Science & Technology 49 (4), 2245-2254, 2015",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "ILambBMAAAAJ:BJbdYPG6LGMC"
     },
     {
@@ -1157,7 +1164,7 @@
         "title": "Evolution of organic aerosols in the atmosphere",
         "pub_year": "2009",
         "citation": "science 326 (5959), 1525-1529, 2009",
-        "num_citations": 3532,
+        "num_citations": 3552,
         "author_pub_id": "ILambBMAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1248,14 +1255,14 @@
         "title": "Formation and aging of secondary organic aerosol from toluene: changes in chemical composition, volatility, and hygroscopicity",
         "pub_year": "2015",
         "citation": "Atmospheric Chemistry and Physics 15 (14), 8301-8313, 2015",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "ILambBMAAAAJ:7wO8s98CvbsC"
     },
     {
         "title": "Formation of 3-methyl-1, 2, 3-butanetricarboxylic acid via gas phase oxidation of pinonic acid–a mass spectrometric study of SOA aging",
         "pub_year": "2012",
         "citation": "Atmospheric chemistry and physics 12 (3), 1483-1496, 2012",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "ILambBMAAAAJ:M7yex6snE4oC"
     },
     {
@@ -1276,7 +1283,7 @@
         "title": "Formation of condensable organic vapors from anthropogenic and biogenic VOCs is strongly perturbed by NOx in eastern China",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics Discussions 2021, 1-44, 2021",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "ILambBMAAAAJ:RfUwGJFMQ-0C"
     },
     {
@@ -1290,7 +1297,7 @@
         "title": "Formation of highly oxygenated organic molecules from α-pinene ozonolysis: chemical characteristics, mechanism, and kinetic model development",
         "pub_year": "2019",
         "citation": "ACS Earth and Space Chemistry 3 (5), 873-883, 2019",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ILambBMAAAAJ:oTdOBqtIf_kC"
     },
     {
@@ -1304,7 +1311,7 @@
         "title": "Formation of secondary organic aerosol from wildfire emissions enhanced by long-time ageing",
         "pub_year": "2024",
         "citation": "Nature Geoscience 17 (2), 124-129, 2024",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "ILambBMAAAAJ:ujxm2eEBZHIC"
     },
     {
@@ -1345,7 +1352,7 @@
         "title": "Fragmentation vs. functionalization: chemical aging and organic aerosol formation",
         "pub_year": "2011",
         "citation": "Atmospheric Chemistry and Physics 11 (20), 10553-10563, 2011",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "ILambBMAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -1380,7 +1387,7 @@
         "title": "Functionalization vs. fragmentation: n-aldehyde oxidation mechanisms and secondary organic aerosol formation",
         "pub_year": "2010",
         "citation": "Physical Chemistry Chemical Physics 12 (42), 13975-13982, 2010",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "ILambBMAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -1429,21 +1436,21 @@
         "title": "Global atmospheric particle formation from CERN CLOUD measurements",
         "pub_year": "2016",
         "citation": "Science 354 (6316), 1119-1124, 2016",
-        "num_citations": 408,
+        "num_citations": 409,
         "author_pub_id": "ILambBMAAAAJ:w1MjKQ0l0TYC"
     },
     {
         "title": "Global variability in atmospheric new particle formation mechanisms",
         "pub_year": "2024",
         "citation": "Nature, 1-8, 2024",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "ILambBMAAAAJ:eAUscmXIlQ8C"
     },
     {
         "title": "H.; Seinfeld, JH; Surratt, JD; Szmigielski, R.; Wildt",
         "pub_year": "2009",
         "citation": "Atmos. Chem. Phys 9 (14), 5155-5236, 2009",
-        "num_citations": 379,
+        "num_citations": 380,
         "author_pub_id": "ILambBMAAAAJ:rOcdG6UcVlcC"
     },
     {
@@ -1478,7 +1485,7 @@
         "title": "Heterogeneous ice nucleation of viscous secondary organic aerosol produced from ozonolysis of α-pinene",
         "pub_year": "2016",
         "citation": "Atmospheric Chemistry and Physics 16 (10), 6495-6509, 2016",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "ILambBMAAAAJ:Br1UauaknNIC"
     },
     {
@@ -1498,7 +1505,7 @@
         "title": "High concentration of ultrafine particles in the Amazon free troposphere produced by organic new particle formation",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (41), 25344-25351, 2020",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ILambBMAAAAJ:60iIaj97TE0C"
     },
     {
@@ -1512,7 +1519,7 @@
         "title": "High gas-phase methanesulfonic acid production in the OH-initiated oxidation of dimethyl sulfide at low temperatures",
         "pub_year": "2022",
         "citation": "Environmental science & technology 56 (19), 13931-13944, 2022",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "ILambBMAAAAJ:eFf2swCANGcC"
     },
     {
@@ -1546,7 +1553,7 @@
         "title": "Highly oxygenated organic molecules (HOM) from gas-phase autoxidation involving peroxy radicals: A key contributor to atmospheric aerosol",
         "pub_year": "2019",
         "citation": "Chemical reviews 119 (6), 3472-3509, 2019",
-        "num_citations": 661,
+        "num_citations": 670,
         "author_pub_id": "ILambBMAAAAJ:QsKbpXNoaWkC"
     },
     {
@@ -1637,7 +1644,7 @@
         "title": "Increasing contribution of nighttime nitrogen chemistry to wintertime haze formation in Beijing observed during COVID-19 lockdowns",
         "pub_year": "2023",
         "citation": "Nature Geoscience 16 (11), 975-981, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ILambBMAAAAJ:B2rIPIGFPLEC"
     },
     {
@@ -1651,7 +1658,7 @@
         "title": "Insight into acid–base nucleation experiments by comparison of the chemical composition of positive, negative, and neutral clusters",
         "pub_year": "2014",
         "citation": "Environmental science & technology 48 (23), 13675-13684, 2014",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "ILambBMAAAAJ:u-coK7KVo8oC"
     },
     {
@@ -1686,7 +1693,7 @@
         "title": "Interactions of peroxy radicals from monoterpene and isoprene oxidation simulated in the radical volatility basis set",
         "pub_year": "2024",
         "citation": "Environmental science: atmospheres 4 (7), 740-753, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ILambBMAAAAJ:oynPyU19kbsC"
     },
     {
@@ -1742,7 +1749,7 @@
         "title": "Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere",
         "pub_year": "2023",
         "citation": "Science 382 (6676), 1308-1314, 2023",
-        "num_citations": 22,
+        "num_citations": 26,
         "author_pub_id": "ILambBMAAAAJ:u0Mu_IsstPMC"
     },
     {
@@ -1755,7 +1762,7 @@
         "title": "Ion-induced nucleation of pure biogenic particles",
         "pub_year": "2016",
         "citation": "Nature 533 (7604), 521-526, 2016",
-        "num_citations": 696,
+        "num_citations": 700,
         "author_pub_id": "ILambBMAAAAJ:-jrNzM816MMC"
     },
     {
@@ -1776,7 +1783,7 @@
         "title": "Isotope specific kinetics of hydroxyl radical (OH) with water (H2O): Testing models of reactivity and atmospheric fractionation",
         "pub_year": "1997",
         "citation": "The Journal of Physical Chemistry A 101 (8), 1494-1500, 1997",
-        "num_citations": 179,
+        "num_citations": 180,
         "author_pub_id": "ILambBMAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1825,14 +1832,14 @@
         "title": "Laboratory investigation of photochemical oxidation of organic aerosol from wood fires 1: measurement and simulation of organic aerosol evolution",
         "pub_year": "2009",
         "citation": "Atmospheric Chemistry and Physics 9 (4), 1263-1277, 2009",
-        "num_citations": 443,
+        "num_citations": 445,
         "author_pub_id": "ILambBMAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Laboratory investigation of photochemical oxidation of organic aerosol from wood fires 2: analysis of aerosol mass spectrometer data",
         "pub_year": "2009",
         "citation": "Atmospheric Chemistry and Physics 9 (6), 2227-2240, 2009",
-        "num_citations": 183,
+        "num_citations": 184,
         "author_pub_id": "ILambBMAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -1853,7 +1860,7 @@
         "title": "Laboratory measurements of the heterogeneous oxidation of condensed-phase organic molecular makers for meat cooking emissions",
         "pub_year": "2008",
         "citation": "Environmental science & technology 42 (14), 5177-5182, 2008",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ILambBMAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1867,7 +1874,7 @@
         "title": "Laboratory measurements of the oxidation kinetics of organic aerosol mixtures using a relative rate constants approach",
         "pub_year": "2007",
         "citation": "Journal of Geophysical Research: Atmospheres 112 (D4), 2007",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ILambBMAAAAJ:hMod-77fHWUC"
     },
     {
@@ -1881,7 +1888,7 @@
         "title": "Limited secondary organic aerosol production from acyclic oxygenated volatile chemical products",
         "pub_year": "2022",
         "citation": "Environmental Science & Technology 56 (8), 4806-4815, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ILambBMAAAAJ:nWoA1JPTheMC"
     },
     {
@@ -1900,8 +1907,8 @@
     },
     {
         "title": "Low temperature growth of sub 10 nm particles by ammonium nitrate condensation",
-        "pub_year": "2024",
-        "citation": "Environmental Science: Atmospheres, 2024",
+        "pub_year": "2025",
+        "citation": "Environmental Science: Atmospheres, 2025",
         "num_citations": 1,
         "author_pub_id": "ILambBMAAAAJ:GtqhT-R7ZnwC"
     },
@@ -1923,7 +1930,7 @@
         "title": "Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers",
         "pub_year": "2021",
         "citation": "Atmospheric measurement techniques 14 (6), 4187-4202, 2021",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "ILambBMAAAAJ:XAp-VaTZjjwC"
     },
     {
@@ -1936,14 +1943,14 @@
         "title": "Measurement of the collision rate coefficients between atmospheric ions and multiply charged aerosol particles in the CERN CLOUD chamber",
         "pub_year": "2023",
         "citation": "Atmospheric Chemistry and Physics 23 (12), 6703-6718, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ILambBMAAAAJ:8RAEygVn5_EC"
     },
     {
         "title": "Measurement report: Molecular composition and volatility of gaseous organic compounds in a boreal forest: from volatile organic compounds to highly oxygenated organic molecules",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics Discussions 2020, 1-27, 2020",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "ILambBMAAAAJ:uUvzmPk0f8oC"
     },
     {
@@ -2013,7 +2020,7 @@
         "title": "Mobile sources are still an important source of secondary organic aerosol and fine particulate matter in the Los Angeles region",
         "pub_year": "2022",
         "citation": "Environmental Science & Technology 56 (22), 15328-15336, 2022",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "ILambBMAAAAJ:1EqfMoDn7-AC"
     },
     {
@@ -2048,14 +2055,14 @@
         "title": "Modelling the gas–particle partitioning and water uptake of isoprene-derived secondary organic aerosol at high and low relative humidity",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics Discussions 2021, 1-43, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ILambBMAAAAJ:sbeIDTyQOFgC"
     },
     {
         "title": "Molecular characterization of ultrafine particles using extractive electrospray time-of-flight mass spectrometry",
         "pub_year": "2021",
         "citation": "Environmental Science: Atmospheres 1 (6), 434-448, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ILambBMAAAAJ:gV6rEsy15s0C"
     },
     {
@@ -2076,49 +2083,49 @@
         "title": "Molecular composition of oxygenated organic molecules and their contributions to organic aerosol in Beijing",
         "pub_year": "2021",
         "citation": "Environmental Science & Technology 56 (2), 770-778, 2021",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "ILambBMAAAAJ:yJjnfzR0HrkC"
     },
     {
         "title": "Molecular identification of organic vapors driving atmospheric nanoparticle growth",
         "pub_year": "2019",
         "citation": "Nature communications 10 (1), 4442, 2019",
-        "num_citations": 130,
+        "num_citations": 133,
         "author_pub_id": "ILambBMAAAAJ:L24QuVWYgZ0C"
     },
     {
         "title": "Molecular understanding of atmospheric particle formation from sulfuric acid and large oxidized organic molecules",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (43), 17223-17228, 2013",
-        "num_citations": 370,
+        "num_citations": 369,
         "author_pub_id": "ILambBMAAAAJ:QYdC8u9Cj1oC"
     },
     {
         "title": "Molecular understanding of new-particle formation from α-pinene between −50 and +25 °C",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (15), 9183-9207, 2020",
-        "num_citations": 108,
+        "num_citations": 111,
         "author_pub_id": "ILambBMAAAAJ:aDl3D7KC1E4C"
     },
     {
         "title": "Molecular understanding of sulphuric acid–amine particle nucleation in the atmosphere",
         "pub_year": "2013",
         "citation": "Nature 502 (7471), 359-363, 2013",
-        "num_citations": 938,
+        "num_citations": 942,
         "author_pub_id": "ILambBMAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "Molecular understanding of the enhancement in organic aerosol mass at high relative humidity",
         "pub_year": "2023",
         "citation": "Environmental Science & Technology 57 (6), 2297-2309, 2023",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ILambBMAAAAJ:AFXcoJnoRH0C"
     },
     {
         "title": "Molecular understanding of the suppression of new-particle formation by isoprene",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (20), 11809-11821, 2020",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "ILambBMAAAAJ:TGkaJS32XoUC"
     },
     {
@@ -2132,14 +2139,14 @@
         "title": "Moving beyond fine particle mass: high-spatial resolution exposure to source-resolved atmospheric particle number and chemical mixing state",
         "pub_year": "2020",
         "citation": "Environmental health perspectives 128 (1), 017009, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ILambBMAAAAJ:YPNY0knpFBYC"
     },
     {
         "title": "Multi-generation chemical aging of -pinene ozonolysis products by reactions with OH",
         "pub_year": "2018",
         "citation": "Atmospheric Chemistry and Physics 18 (5), 3589-3601, 2018",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ILambBMAAAAJ:NMlhSUseqAsC"
     },
     {
@@ -2202,8 +2209,15 @@
         "title": "Neutral molecular cluster formation of sulfuric acid–dimethylamine observed in real time under atmospheric conditions",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (42), 15019-15024, 2014",
-        "num_citations": 253,
+        "num_citations": 255,
         "author_pub_id": "ILambBMAAAAJ:ZzlSgRqYykMC"
+    },
+    {
+        "title": "New particle formation from isoprene under upper-tropospheric conditions",
+        "pub_year": "2024",
+        "citation": "Nature 636 (8041), 115-123, 2024",
+        "num_citations": 3,
+        "author_pub_id": "ILambBMAAAAJ:VjBpw8Hezy4C"
     },
     {
         "title": "New particle formation in the sulfuric acid-dimethylamine-water system: reevaluation of CLOUD chamber measurements and comparison to an aerosol nucleation and growth model",
@@ -2216,14 +2230,14 @@
         "title": "New particle formation in the sulfuric acid–dimethylamine–water system: reevaluation of CLOUD chamber measurements and comparison to an aerosol nucleation and growth model",
         "pub_year": "2018",
         "citation": "Atmospheric Chemistry and Physics 18 (2), 845-863, 2018",
-        "num_citations": 121,
+        "num_citations": 120,
         "author_pub_id": "ILambBMAAAAJ:EsEWqaRxkBgC"
     },
     {
         "title": "New rate constants for ten OH alkane reactions from 300 to 400 K: An assessment of accuracy",
         "pub_year": "1998",
         "citation": "The Journal of Physical Chemistry A 102 (18), 3121-3126, 1998",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "ILambBMAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -2237,7 +2251,7 @@
         "title": "Nitrate radicals and biogenic volatile organic compounds: oxidation, mechanisms, and organic aerosol",
         "pub_year": "2017",
         "citation": "Atmospheric chemistry and physics 17 (3), 2103-2162, 2017",
-        "num_citations": 399,
+        "num_citations": 404,
         "author_pub_id": "ILambBMAAAAJ:An6A6Jpfc1oC"
     },
     {
@@ -2279,7 +2293,7 @@
         "title": "OH clock determination by proton transfer reaction mass spectrometry at an environmental chamber",
         "pub_year": "2012",
         "citation": "Atmospheric Measurement Techniques 5 (3), 647-656, 2012",
-        "num_citations": 138,
+        "num_citations": 140,
         "author_pub_id": "ILambBMAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -2293,7 +2307,7 @@
         "title": "Observation of viscosity transition in α-pinene secondary organic aerosol",
         "pub_year": "2016",
         "citation": "Atmospheric chemistry and physics 16 (7), 4423-4438, 2016",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "ILambBMAAAAJ:mKu_rENv82IC"
     },
     {
@@ -2342,7 +2356,7 @@
         "title": "On the composition of ammonia–sulfuric-acid ion clusters during aerosol particle formation",
         "pub_year": "2015",
         "citation": "Atmospheric Chemistry and Physics 15 (1), 55-78, 2015",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "ILambBMAAAAJ:artPoR2Yc-kC"
     },
     {
@@ -2363,7 +2377,7 @@
         "title": "Organic aerosol components observed in Northern Hemispheric datasets from Aerosol Mass Spectrometry",
         "pub_year": "2010",
         "citation": "Atmospheric Chemistry and Physics 10 (10), 4625-4641, 2010",
-        "num_citations": 950,
+        "num_citations": 952,
         "author_pub_id": "ILambBMAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -2391,7 +2405,7 @@
         "title": "Organic aerosol processing during winter severe haze episodes in Beijing",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (17-18), 10248-10263, 2019",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ILambBMAAAAJ:FsLZdJ3BAzkC"
     },
     {
@@ -2419,7 +2433,7 @@
         "title": "Organic condensation: a vital link connecting aerosol formation to cloud condensation nuclei (CCN) concentrations",
         "pub_year": "2011",
         "citation": "Atmospheric Chemistry and Physics 11 (8), 3865-3878, 2011",
-        "num_citations": 421,
+        "num_citations": 425,
         "author_pub_id": "ILambBMAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -2433,7 +2447,7 @@
         "title": "Organosulfates from pinene and isoprene over the Pearl River Delta, South China: seasonal variation and implication in formation mechanisms",
         "pub_year": "2014",
         "citation": "Environmental science & technology 48 (16), 9236-9245, 2014",
-        "num_citations": 96,
+        "num_citations": 100,
         "author_pub_id": "ILambBMAAAAJ:OP4eGU-M3BUC"
     },
     {
@@ -2447,7 +2461,7 @@
         "title": "Oxidation products of biogenic emissions contribute to nucleation of atmospheric particles",
         "pub_year": "2014",
         "citation": "Science 344 (6185), 717-721, 2014",
-        "num_citations": 525,
+        "num_citations": 527,
         "author_pub_id": "ILambBMAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -2489,7 +2503,7 @@
         "title": "Ozonolysis of α‐pinene at atmospherically relevant concentrations: Temperature dependence of aerosol mass fractions (yields)",
         "pub_year": "2007",
         "citation": "Journal of Geophysical Research: Atmospheres 112 (D3), 2007",
-        "num_citations": 211,
+        "num_citations": 212,
         "author_pub_id": "ILambBMAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -2510,14 +2524,14 @@
         "title": "Parameterization of secondary organic aerosol mass fractions from smog chamber data",
         "pub_year": "2008",
         "citation": "Atmospheric Environment 42 (10), 2276-2299, 2008",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "ILambBMAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Particle wall-loss correction methods in smog chamber experiments",
         "pub_year": "2018",
         "citation": "Atmospheric Measurement Techniques 11 (12), 6577-6588, 2018",
-        "num_citations": 68,
+        "num_citations": 72,
         "author_pub_id": "ILambBMAAAAJ:1r-w4gtu6w8C"
     },
     {
@@ -2538,7 +2552,7 @@
         "title": "Peroxy radical chemistry and the volatility basis set",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (2), 1183-1199, 2020",
-        "num_citations": 107,
+        "num_citations": 111,
         "author_pub_id": "ILambBMAAAAJ:KTwcwpFFj4wC"
     },
     {
@@ -2547,6 +2561,13 @@
         "citation": "Environmental Science: Atmospheres 1 (2), 79-92, 2021",
         "num_citations": 21,
         "author_pub_id": "ILambBMAAAAJ:Kqc1aDSOPooC"
+    },
+    {
+        "title": "Perturbation of Peroxy Radicals in a Reactive Chemical Ionization Inlet",
+        "pub_year": "2024",
+        "citation": "AGU24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ILambBMAAAAJ:5rMqqAh47xYC"
     },
     {
         "title": "Phase transition observations and discrimination of small cloud particles by light polarization in expansion chamber experiments",
@@ -2559,7 +2580,7 @@
         "title": "Photo-oxidation of aromatic hydrocarbons produces low-volatility organic compounds",
         "pub_year": "2020",
         "citation": "Environmental science & technology 54 (13), 7911-7921, 2020",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "ILambBMAAAAJ:kUhpeDhEZMUC"
     },
     {
@@ -2573,14 +2594,14 @@
         "title": "Photo-oxidation of pinonaldehyde at low NOx: from  chemistry to organic aerosol formation",
         "pub_year": "2013",
         "citation": "Atmospheric Chemistry and Physics 13 (6), 3227-3236, 2013",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "ILambBMAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Photochemical aging of secondary organic aerosols generated from the photooxidation of polycyclic aromatic hydrocarbons in the gas-phase",
         "pub_year": "2015",
         "citation": "Environmental science & technology 49 (9), 5407-5416, 2015",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "ILambBMAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -2608,7 +2629,7 @@
         "title": "Predicting Radical− Molecule Barrier Heights: The Role of the Ionic Surface",
         "pub_year": "1998",
         "citation": "The Journal of Physical Chemistry A 102 (22), 3923-3933, 1998",
-        "num_citations": 98,
+        "num_citations": 97,
         "author_pub_id": "ILambBMAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -2643,7 +2664,7 @@
         "title": "Primary ion diffusion charging and particle wall loss in smog chamber experiments",
         "pub_year": "2020",
         "citation": "Aerosol Science and Technology 54 (9), 1058-1069, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ILambBMAAAAJ:9shLKfS_uJEC"
     },
     {
@@ -2699,14 +2720,14 @@
         "title": "Product analysis of the OH oxidation of isoprene and 1, 3‐butadiene in the presence of NO",
         "pub_year": "2002",
         "citation": "Journal of Geophysical Research: Atmospheres 107 (D15), ACH 8-1-ACH 8-13, 2002",
-        "num_citations": 214,
+        "num_citations": 215,
         "author_pub_id": "ILambBMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Production of secondary organic aerosol during aging of biomass burning smoke from fresh fuels and its relationship to VOC precursors",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (6), 3583-3606, 2019",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "ILambBMAAAAJ:_tF6a-HnqWAC"
     },
     {
@@ -2727,7 +2748,7 @@
         "title": "Quantifying the effect of organic aerosol aging and intermediate-volatility emissions on regional-scale aerosol pollution in China",
         "pub_year": "2016",
         "citation": "Scientific reports 6 (1), 28815, 2016",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "ILambBMAAAAJ:1DsIQWDZLl8C"
     },
     {
@@ -2741,7 +2762,7 @@
         "title": "Rapid growth of new atmospheric particles by nitric acid and ammonia condensation",
         "pub_year": "2020",
         "citation": "Nature 581 (7807), 184-189, 2020",
-        "num_citations": 237,
+        "num_citations": 241,
         "author_pub_id": "ILambBMAAAAJ:WWeOtg8bX_EC"
     },
     {
@@ -2755,7 +2776,7 @@
         "title": "Rapid growth of organic aerosol nanoparticles over a wide tropospheric temperature range",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (37), 9122-9127, 2018",
-        "num_citations": 166,
+        "num_citations": 171,
         "author_pub_id": "ILambBMAAAAJ:m4fbC6XIj1kC"
     },
     {
@@ -2790,7 +2811,7 @@
         "title": "Reactions of atmospheric particulate stabilized Criegee intermediates lead to high-molecular-weight aerosol components",
         "pub_year": "2016",
         "citation": "Environmental science & technology 50 (11), 5702-5710, 2016",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "ILambBMAAAAJ:HGTzPopzzJcC"
     },
     {
@@ -2866,7 +2887,7 @@
         "title": "Rethinking organic aerosols: Semivolatile emissions and photochemical aging",
         "pub_year": "2007",
         "citation": "Science 315 (5816), 1259-1262, 2007",
-        "num_citations": 1968,
+        "num_citations": 1977,
         "author_pub_id": "ILambBMAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2894,7 +2915,7 @@
         "title": "Role of iodine oxoacids in atmospheric aerosol nucleation",
         "pub_year": "2021",
         "citation": "Science 371 (6529), 589-595, 2021",
-        "num_citations": 147,
+        "num_citations": 151,
         "author_pub_id": "ILambBMAAAAJ:WzTVkKNmPSkC"
     },
     {
@@ -2915,7 +2936,7 @@
         "title": "Role of sesquiterpenes in biogenic new particle formation",
         "pub_year": "2023",
         "citation": "Science advances 9 (36), eadi5297, 2023",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ILambBMAAAAJ:WMtz-WDmgKQC"
     },
     {
@@ -2941,14 +2962,14 @@
         "title": "Saturation vapor pressures and transition enthalpies of low-volatility organic molecules of atmospheric relevance: from dicarboxylic acids to complex mixtures",
         "pub_year": "2015",
         "citation": "Chemical reviews 115 (10), 4115-4156, 2015",
-        "num_citations": 243,
+        "num_citations": 247,
         "author_pub_id": "ILambBMAAAAJ:U4n9YNQMCAIC"
     },
     {
         "title": "Secondary Organic Aerosol Formation from High-NOx Photo-Oxidation of Low Volatility Precursors: n-Alkanes",
         "pub_year": "2010",
         "citation": "Environmental science & technology 44 (6), 2029-2034, 2010",
-        "num_citations": 208,
+        "num_citations": 211,
         "author_pub_id": "ILambBMAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -3011,7 +3032,7 @@
         "title": "Secondary organic aerosol formation from intermediate-volatility organic compounds: cyclic, linear, and branched alkanes",
         "pub_year": "2012",
         "citation": "Environmental science & technology 46 (16), 8773-8781, 2012",
-        "num_citations": 213,
+        "num_citations": 214,
         "author_pub_id": "ILambBMAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -3032,7 +3053,7 @@
         "title": "Secondary organic aerosol formed by condensing anthropogenic vapours over China’s megacities",
         "pub_year": "2022",
         "citation": "Nature Geoscience 15 (4), 255-261, 2022",
-        "num_citations": 101,
+        "num_citations": 107,
         "author_pub_id": "ILambBMAAAAJ:Oo1CbQkBAzEC"
     },
     {
@@ -3059,7 +3080,7 @@
         "title": "Secondary organic aerosol production from pinanediol, a semi-volatile surrogate for first-generation oxidation products of monoterpenes",
         "pub_year": "2018",
         "citation": "Atmospheric Chemistry and Physics 18 (9), 6171-6186, 2018",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ILambBMAAAAJ:RuPIJ_LgqDgC"
     },
     {
@@ -3073,7 +3094,7 @@
         "title": "Secondary organic aerosol production from terpene ozonolysis. 2. Effect of NO x concentration",
         "pub_year": "2005",
         "citation": "Environmental Science & Technology 39 (18), 7046-7054, 2005",
-        "num_citations": 338,
+        "num_citations": 340,
         "author_pub_id": "ILambBMAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -3171,7 +3192,7 @@
         "title": "Source apportionment of molecular markers and organic aerosol 1. Polycyclic aromatic hydrocarbons and methodology for data visualization",
         "pub_year": "2006",
         "citation": "Environmental science & technology 40 (24), 7803-7810, 2006",
-        "num_citations": 425,
+        "num_citations": 424,
         "author_pub_id": "ILambBMAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -3245,7 +3266,7 @@
         "title": "Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation",
         "pub_year": "2022",
         "citation": "Nature 605 (7910), 483-489, 2022",
-        "num_citations": 46,
+        "num_citations": 49,
         "author_pub_id": "ILambBMAAAAJ:G36d5HCDkJYC"
     },
     {
@@ -3262,10 +3283,17 @@
         "author_pub_id": "ILambBMAAAAJ:qe6vwMD2xtsC"
     },
     {
+        "title": "Temperature Dependence of Autoxidation and Dimerization in α-Pinene Ozonolysis from-50 to+ 25° C",
+        "pub_year": "2024",
+        "citation": "AGU24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ILambBMAAAAJ:DGzKIA18-3YC"
+    },
+    {
         "title": "Temperature and pressure dependent kinetics of the gas‐phase reaction of the hydroxyl radical with nitrogen dioxide",
         "pub_year": "1999",
         "citation": "Geophysical research letters 26 (6), 687-690, 1999",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "ILambBMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -3286,7 +3314,7 @@
         "title": "Testing frontier orbital control: Kinetics of OH with ethane, propane, and cyclopropane from 180 to 360K",
         "pub_year": "1998",
         "citation": "The Journal of Physical Chemistry A 102 (48), 9847-9857, 1998",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "ILambBMAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -3342,14 +3370,14 @@
         "title": "The contribution of organics to atmospheric nanoparticle growth",
         "pub_year": "2012",
         "citation": "Nature Geoscience 5 (7), 453-458, 2012",
-        "num_citations": 401,
+        "num_citations": 402,
         "author_pub_id": "ILambBMAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "The driving factors of new particle formation and growth in the polluted boundary layer",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics Discussions 2021, 1-28, 2021",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "ILambBMAAAAJ:q0uBw5dMOAkC"
     },
     {
@@ -3363,7 +3391,7 @@
         "title": "The effect of acid–base clustering and ions on the growth of atmospheric nano-particles",
         "pub_year": "2016",
         "citation": "Nature communications 7 (1), 11594, 2016",
-        "num_citations": 157,
+        "num_citations": 156,
         "author_pub_id": "ILambBMAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -3377,14 +3405,14 @@
         "title": "The formation, properties and impact of secondary organic aerosol: current and emerging issues",
         "pub_year": "2009",
         "citation": "Atmospheric chemistry and physics 9 (14), 5155-5236, 2009",
-        "num_citations": 3723,
+        "num_citations": 3746,
         "author_pub_id": "ILambBMAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source",
         "pub_year": "2023",
         "citation": "Nature Chemistry 15 (1), 129-135, 2023",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "ILambBMAAAAJ:NtGNdKbuCngC"
     },
     {
@@ -3419,7 +3447,7 @@
         "title": "The natural atmosphere",
         "pub_year": "2018",
         "citation": "Green Chemistry, 131-150, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "ILambBMAAAAJ:1tZ8xJnm2c8C"
     },
     {
@@ -3447,14 +3475,14 @@
         "title": "The role of low-volatility organic compounds in initial particle growth in the atmosphere",
         "pub_year": "2016",
         "citation": "Nature 533 (7604), 527-531, 2016",
-        "num_citations": 695,
+        "num_citations": 700,
         "author_pub_id": "ILambBMAAAAJ:QyXJ3EUuO1IC"
     },
     {
         "title": "The seasonal variation, characteristics and secondary generation of PM2. 5 in Xi'an, China, especially during pollution events",
         "pub_year": "2022",
         "citation": "Environmental Research 212, 113388, 2022",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ILambBMAAAAJ:17ZO-CJnx_8C"
     },
     {
@@ -3586,7 +3614,7 @@
         "title": "Unspeciated organic emissions from combustion sources and their influence on the secondary organic aerosol budget in the United States",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (29), 10473-10478, 2014",
-        "num_citations": 217,
+        "num_citations": 219,
         "author_pub_id": "ILambBMAAAAJ:OcBU2YAGkTUC"
     },
     {
@@ -3704,14 +3732,14 @@
         "title": "Volatility of secondary organic aerosol during OH radical induced ageing",
         "pub_year": "2011",
         "citation": "Atmospheric chemistry and physics 11 (21), 11055-11067, 2011",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "ILambBMAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Wall effects in smog chamber experiments: A model study",
         "pub_year": "2016",
         "citation": "Aerosol Science and Technology 50 (11), 1180-1200, 2016",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "ILambBMAAAAJ:3bvyWxjaHKcC"
     },
     {
@@ -3746,7 +3774,7 @@
         "title": "Why do organic aerosols exist? Understanding aerosol lifetimes using the two-dimensional volatility basis set",
         "pub_year": "2013",
         "citation": "Environmental Chemistry 10 (3), 151-157, 2013",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "ILambBMAAAAJ:5qfkUJPXOUwC"
     },
     {
@@ -3760,7 +3788,7 @@
         "title": "α-Pinene autoxidation products may not have extremely low saturation vapor pressures despite high O: C ratios",
         "pub_year": "2016",
         "citation": "The Journal of Physical Chemistry A 120 (16), 2569-2582, 2016",
-        "num_citations": 125,
+        "num_citations": 124,
         "author_pub_id": "ILambBMAAAAJ:jE2MZjpN3IcC"
     }
 ]

@@ -3,7 +3,7 @@
         "title": "<? format?> Observation of D 0<? format?>-<? format?> D¯ 0 Oscillations",
         "pub_year": "2013",
         "citation": "Physical Review Letters 110 (10), 101802, 2013",
-        "num_citations": 254,
+        "num_citations": 255,
         "author_pub_id": "AqrJMYIAAAAJ:r_AWSJRzSzQC"
     },
     {
@@ -16,21 +16,21 @@
         "title": "A model-independent Dalitz plot analysis of B±→ DK±with D→ KS0h+ h−(h= π, K) decays and constraints on the CKM angle γ",
         "pub_year": "2012",
         "citation": "Physics Letters B 718 (1), 43-55, 2012",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "AqrJMYIAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "A study of CP violation in B±→ DK±and B±→ Dπ±decays with D→ KS0K±π∓ final states",
         "pub_year": "2014",
         "citation": "Physics Letters B 733, 36-45, 2014",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "AqrJMYIAAAAJ:LPtt_HFRSbwC"
     },
     {
         "title": "A study of the Z production cross-section in pp collisions at  using tau final states",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (1), 1-20, 2013",
-        "num_citations": 104,
+        "num_citations": 107,
         "author_pub_id": "AqrJMYIAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -48,31 +48,38 @@
         "author_pub_id": "AqrJMYIAAAAJ:Ic1VZgkJnDsC"
     },
     {
+        "title": "Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe",
+        "pub_year": "2024",
+        "citation": "EGUsphere 2024, 1-37, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:XDrR66g3YHsC"
+    },
+    {
         "title": "Aerosols in the pre-industrial atmosphere",
         "pub_year": "2017",
         "citation": "Current Climate Change Reports 3, 1-15, 2017",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "AqrJMYIAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Amplitude analysis and branching fraction measurement of ",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (7), 072004, 2013",
-        "num_citations": 164,
+        "num_citations": 166,
         "author_pub_id": "AqrJMYIAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "An Overview of Aerosol‐Cloud Interactions",
         "pub_year": "2023",
         "citation": "Clouds and their Climatic Impacts: Radiation, Circulation, and Precipitation …, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "AqrJMYIAAAAJ:n3vGvpFsckwC"
     },
     {
         "title": "Analysis of the resonant components in ",
         "pub_year": "2012",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 86 (5), 052006, 2012",
-        "num_citations": 272,
+        "num_citations": 274,
         "author_pub_id": "AqrJMYIAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -93,14 +100,14 @@
         "title": "Aqueous phase oxidation of sulphur dioxide by ozone in cloud droplets",
         "pub_year": "2016",
         "citation": "Atmospheric Chemistry and Physics 16 (3), 1693-1712, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "AqrJMYIAAAAJ:i2xiXl-TujoC"
     },
     {
         "title": "Atmospheric new particle formation from the CERN CLOUD experiment",
         "pub_year": "2023",
         "citation": "Nature Geoscience 16 (11), 948-957, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "AqrJMYIAAAAJ:nPTYJWkExTIC"
     },
     {
@@ -128,14 +135,14 @@
         "title": "CRI-HOM: A novel chemical mechanism for simulating highly oxygenated organic molecules (HOMs) in global chemistry–aerosol–climate models",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (18), 10889-10910, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "AqrJMYIAAAAJ:WC9gN4BGCRcC"
     },
     {
         "title": "Causes and importance of new particle formation in the present‐day and preindustrial atmospheres",
         "pub_year": "2017",
         "citation": "Journal of Geophysical Research: Atmospheres 122 (16), 8739-8760, 2017",
-        "num_citations": 314,
+        "num_citations": 321,
         "author_pub_id": "AqrJMYIAAAAJ:4xDN1ZYqzskC"
     },
     {
@@ -170,15 +177,22 @@
         "title": "Cloud adjustments dominate the overall negative aerosol radiative effects of biomass burning aerosols in UKESM1 climate model simulations over the south-eastern Atlantic",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics 21 (1), 17-33, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "AqrJMYIAAAAJ:c_xDhezhKKUC"
     },
     {
         "title": "Cloud adjustments from large-scale smoke-circulation interactions strongly modulate the southeast Atlantic stratocumulus-to-cumulus transition",
         "pub_year": "2022",
         "citation": "Atmospheric Chemistry and Physics Discussions 2022, 1-57, 2022",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "AqrJMYIAAAAJ:eI34FqJmdUoC"
+    },
+    {
+        "title": "Consistent Simulations of Aerosol-Fog Interactions across Scales with the Met Office Unified Model",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:I858iXPj1OkC"
     },
     {
         "title": "Constraining Aerosol-Cloud Adjustments by Uniting Surface Observations with a Perturbed Parameter Ensemble",
@@ -219,42 +233,42 @@
         "title": "Constraints on global aerosol number concentration, SO2 and condensation sink in UKESM1 using ATom measurements",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics 21 (6), 4979-5014, 2021",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "AqrJMYIAAAAJ:hQUaER0FWQ4C"
     },
     {
         "title": "Contribution of regional aerosol nucleation to low-level CCN in an Amazonian deep convective environment: results from a regionally nested global model",
         "pub_year": "2023",
         "citation": "Atmospheric Chemistry and Physics 23 (7), 4431-4461, 2023",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "AqrJMYIAAAAJ:m4fbC6XIj1kC"
     },
     {
         "title": "Delhi Model with Chemistry and aerosol framework (DM‐Chem) for high‐resolution fog forecasting",
         "pub_year": "2021",
         "citation": "Quarterly Journal of the Royal Meteorological Society, 2021",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "AqrJMYIAAAAJ:JWITY9-sCbMC"
     },
     {
         "title": "Determination of  for 7 TeV  Collisions and Measurement <?format ?>of the  Branching Fraction",
         "pub_year": "2011",
         "citation": "Physical Review Letters 107 (21), 211801, 2011",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "AqrJMYIAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "Determination of the  Meson Quantum Numbers",
         "pub_year": "2013",
         "citation": "Physical review letters 110 (22), 222001, 2013",
-        "num_citations": 839,
+        "num_citations": 843,
         "author_pub_id": "AqrJMYIAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Determination of the Sign of the Decay Width Difference in the  System",
         "pub_year": "2012",
         "citation": "Physical Review Letters 108 (24), 241801, 2012",
-        "num_citations": 246,
+        "num_citations": 249,
         "author_pub_id": "AqrJMYIAAAAJ:mB3voiENLucC"
     },
     {
@@ -268,7 +282,7 @@
         "title": "Development of aerosol activation in the double-moment Unified Model and evaluation with CLARIFY measurements",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (18), 10997-11024, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "AqrJMYIAAAAJ:ziOE8S1-AIUC"
     },
     {
@@ -282,14 +296,14 @@
         "title": "Differential branching fraction and angular analysis of the B+→ K+ μ+ μ− decay",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (2), 1-15, 2013",
-        "num_citations": 259,
+        "num_citations": 261,
         "author_pub_id": "AqrJMYIAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Differential branching fraction and angular analysis of the decay B 0→ K∗ 0 μ+ μ−",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (8), 1-31, 2013",
-        "num_citations": 581,
+        "num_citations": 587,
         "author_pub_id": "AqrJMYIAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -303,7 +317,7 @@
         "title": "Effective lifetime measurements in the Bs0→ K+ K−, B0→ K+ π− and Bs0→ π+ K− decays",
         "pub_year": "2014",
         "citation": "Physics Letters B 736, 446-454, 2014",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "AqrJMYIAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -317,7 +331,7 @@
         "title": "Enhanced growth rate of atmospheric particles from sulfuric acid",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (12), 7359-7372, 2020",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "AqrJMYIAAAAJ:HGTzPopzzJcC"
     },
     {
@@ -344,7 +358,7 @@
     {
         "title": "Evidence for the decay",
         "citation": "B0→ J/ψω, 0",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "AqrJMYIAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -358,14 +372,14 @@
         "title": "Evidence for the decay B0→ J/ψω and measurement of the relative branching fractions of Bs0 meson decays to J/ψη and J/ψη′",
         "pub_year": "2013",
         "citation": "Nuclear Physics B 867 (3), 547-566, 2013",
-        "num_citations": 116,
+        "num_citations": 115,
         "author_pub_id": "AqrJMYIAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Evidence for the decay X (3872)→ ψ (2S) γ",
         "pub_year": "2014",
         "citation": "Nuclear Physics B 886, 665-680, 2014",
-        "num_citations": 252,
+        "num_citations": 255,
         "author_pub_id": "AqrJMYIAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -390,10 +404,17 @@
         "author_pub_id": "AqrJMYIAAAAJ:4DMP91E08xMC"
     },
     {
+        "title": "Exploring Process Controls on Global Cloud Droplet Number Concentrations",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:g8uWPOAv7ggC"
+    },
+    {
         "title": "First Evidence for the Decay ",
         "pub_year": "2013",
         "citation": "Physical Review Letters 110 (2), 021801, 2013",
-        "num_citations": 510,
+        "num_citations": 511,
         "author_pub_id": "AqrJMYIAAAAJ:dshw04ExmUIC"
     },
     {
@@ -407,28 +428,28 @@
         "title": "First Evidence of Direct  Violation in Charmless Two-Body Decays of  Mesons",
         "pub_year": "2012",
         "citation": "Physical Review Letters 108 (20), 201601, 2012",
-        "num_citations": 183,
+        "num_citations": 188,
         "author_pub_id": "AqrJMYIAAAAJ:FAceZFleit8C"
     },
     {
         "title": "First Measurement of the -Violating Phase in  Decays",
         "pub_year": "2013",
         "citation": "Physical review letters 110 (24), 241802, 2013",
-        "num_citations": 107,
+        "num_citations": 110,
         "author_pub_id": "AqrJMYIAAAAJ:bKqednn6t2AC"
     },
     {
         "title": "First Observation of  Violation in the Decays of  Mesons",
         "pub_year": "2013",
         "citation": "Physical review letters 110 (22), 221601, 2013",
-        "num_citations": 432,
+        "num_citations": 434,
         "author_pub_id": "AqrJMYIAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "First Observation of the Decay ",
         "pub_year": "2012",
         "citation": "Physical review letters 108 (25), 251802, 2012",
-        "num_citations": 126,
+        "num_citations": 128,
         "author_pub_id": "AqrJMYIAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -449,7 +470,7 @@
         "title": "First evidence for the annihilation decay mode ",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (2), 1-17, 2013",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "AqrJMYIAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -463,7 +484,7 @@
         "title": "First measurement of the charge asymmetry in beauty-quark pair production",
         "pub_year": "2014",
         "citation": "Physical review letters 113 (8), 082003, 2014",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "AqrJMYIAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -484,7 +505,7 @@
         "title": "First observation of Bs0→ J/ψf0 (980) decays",
         "pub_year": "2011",
         "citation": "Physics Letters B 698 (2), 115-122, 2011",
-        "num_citations": 253,
+        "num_citations": 252,
         "author_pub_id": "AqrJMYIAAAAJ:ubry08Y2EpUC"
     },
     {
@@ -498,7 +519,7 @@
         "title": "First observation of the decay ",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (9), 1-14, 2013",
-        "num_citations": 110,
+        "num_citations": 111,
         "author_pub_id": "AqrJMYIAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -512,7 +533,7 @@
         "title": "First observation of the decay B+→ π+ μ+ μ−",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (12), 1-18, 2012",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "AqrJMYIAAAAJ:eflP2zaiRacC"
     },
     {
@@ -526,7 +547,7 @@
         "title": "First observation of the decay B¯ s0→ D0K⁎ 0 and a measurement of the ratio of branching fractions B (B¯ s0→ D0K⁎ 0) B (B¯ 0→ D0ρ0)",
         "pub_year": "2011",
         "citation": "Physics Letters B 706 (1), 32-39, 2011",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "AqrJMYIAAAAJ:HbR8gkJAVGIC"
     },
     {
@@ -540,14 +561,14 @@
         "title": "First observations of ,  and  decays",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (9), 092007, 2013",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "AqrJMYIAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Formation of highly oxygenated organic molecules from α-pinene ozonolysis: chemical characteristics, mechanism, and kinetic model development",
         "pub_year": "2019",
         "citation": "ACS Earth and Space Chemistry 3 (5), 873-883, 2019",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "AqrJMYIAAAAJ:fFSKOagxvKUC"
     },
     {
@@ -568,29 +589,36 @@
         "title": "Global atmospheric particle formation from CERN CLOUD measurements",
         "pub_year": "2016",
         "citation": "Science 354 (6316), 1119-1124, 2016",
-        "num_citations": 408,
+        "num_citations": 409,
         "author_pub_id": "AqrJMYIAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Global variability in atmospheric new particle formation mechanisms",
         "pub_year": "2024",
         "citation": "Nature, 1-8, 2024",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "AqrJMYIAAAAJ:wyM6WWKXmoIC"
     },
     {
         "title": "Heterogeneous ice nucleation of viscous secondary organic aerosol produced from ozonolysis of α-pinene",
         "pub_year": "2016",
         "citation": "Atmospheric Chemistry and Physics 16 (10), 6495-6509, 2016",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "AqrJMYIAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "High concentration of ultrafine particles in the Amazon free troposphere produced by organic new particle formation",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (41), 25344-25351, 2020",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "AqrJMYIAAAAJ:YsrPvlHIBpEC"
+    },
+    {
+        "title": "High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog",
+        "pub_year": "2024",
+        "citation": "EGUsphere 2024, 1-43, 2024",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:Y9VhQm-5nPIC"
     },
     {
         "title": "How and why has extreme hourly precipitation changed in the major urban agglomerations over China?",
@@ -617,7 +645,7 @@
         "title": "Impact of El Niño–Southern Oscillation on the interannual variability of methane and tropospheric ozone",
         "pub_year": "2019",
         "citation": "Atmospheric Chemistry and Physics 19, 8669-8686, 2019",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "AqrJMYIAAAAJ:prdVHNxh-e8C"
     },
     {
@@ -631,14 +659,14 @@
         "title": "Implementation of a Double Moment Cloud Microphysics Scheme in the UK Met Office Regional Numerical Weather Prediction Model",
         "pub_year": "2023",
         "citation": "Quarterly Journal of the Royal Meteorological Society, 2023",
-        "num_citations": 35,
+        "num_citations": 39,
         "author_pub_id": "AqrJMYIAAAAJ:iyewoVqAXLQC"
     },
     {
         "title": "Implications of LHCb measurements and future prospects",
         "pub_year": "2013",
         "citation": "The European Physical Journal C 73, 1-92, 2013",
-        "num_citations": 350,
+        "num_citations": 351,
         "author_pub_id": "AqrJMYIAAAAJ:7wO8s98CvbsC"
     },
     {
@@ -652,8 +680,15 @@
         "title": "Inclusive W and Z production in the forward region at ",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (6), 1-30, 2012",
-        "num_citations": 379,
+        "num_citations": 380,
         "author_pub_id": "AqrJMYIAAAAJ:ZfRJV9d4-WMC"
+    },
+    {
+        "title": "Increased Radiative Forcing from Anthropogenic Ammonia Due to Participation in New Particle Formation",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:kUhpeDhEZMUC"
     },
     {
         "title": "Influence of atmospheric conditions on pure biogenic nucleation in the CLOUD chamber",
@@ -666,7 +701,7 @@
         "title": "Ion-induced nucleation of pure biogenic particles",
         "pub_year": "2016",
         "citation": "Nature 533 (7604), 521-526, 2016",
-        "num_citations": 696,
+        "num_citations": 700,
         "author_pub_id": "AqrJMYIAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -687,27 +722,27 @@
         "title": "Large contribution to secondary organic aerosol from isoprene cloud chemistry",
         "pub_year": "2021",
         "citation": "Science Advances 7 (13), eabe2952, 2021",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "AqrJMYIAAAAJ:lYAcb2jw7qUC"
     },
     {
         "title": "Large simulated radiative effects of smoke in the south-east Atlantic",
         "pub_year": "2018",
         "citation": "Atmospheric Chemistry and Physics 18 (20), 15261-15289, 2018",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "AqrJMYIAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "Limits on neutral Higgs boson production in the forward region in pp collisions at  TeV",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (5), 1-13, 2013",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "AqrJMYIAAAAJ:YsMSGLbcyi4C"
     },
     {
-        "title": "Low temperature growth of sub 10-nm particles by ammonium nitrate condensation",
-        "pub_year": "2024",
-        "citation": "Environmental Science: Atmospheres, 2024",
+        "title": "Low temperature growth of sub 10 nm particles by ammonium nitrate condensation",
+        "pub_year": "2025",
+        "citation": "Environmental Science: Atmospheres, 2025",
         "num_citations": 1,
         "author_pub_id": "AqrJMYIAAAAJ:R22Rs3tN8aoC"
     },
@@ -729,7 +764,7 @@
         "title": "Measurement of  hadron production fractions in 7 TeV  collisions",
         "pub_year": "2012",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 85 (3), 032008, 2012",
-        "num_citations": 706,
+        "num_citations": 714,
         "author_pub_id": "AqrJMYIAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -743,7 +778,7 @@
         "title": "Measurement of  violation and the  meson decay width difference with <?format ?> and  decays",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (11), 112010, 2013",
-        "num_citations": 336,
+        "num_citations": 339,
         "author_pub_id": "AqrJMYIAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -757,28 +792,28 @@
         "title": "Measurement of  violation parameters in  decays",
         "pub_year": "2014",
         "citation": "Physical Review D 90 (11), 112002, 2014",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "AqrJMYIAAAAJ:KNjnJ3z-R6IC"
     },
     {
         "title": "Measurement of B meson production cross-sections in proton-proton collisions at  TeV",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (8), 117, 2013",
-        "num_citations": 236,
+        "num_citations": 239,
         "author_pub_id": "AqrJMYIAAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Measurement of CP asymmetry in D 0→ K− K+ and D 0→ π− π+ decays",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (7), 1-25, 2014",
-        "num_citations": 447,
+        "num_citations": 454,
         "author_pub_id": "AqrJMYIAAAAJ:mUJArPsKIAAC"
     },
     {
         "title": "Measurement of CP observables in B 0→ DK∗ 0 with D→ K+ K−",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (3), 1-15, 2013",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "AqrJMYIAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -792,21 +827,21 @@
         "title": "Measurement of Form-Factor-Independent Observables in the Decay ",
         "pub_year": "2013",
         "citation": "Physical review letters 111 (19), 191801, 2013",
-        "num_citations": 1157,
+        "num_citations": 1162,
         "author_pub_id": "AqrJMYIAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Measurement of J/Ψ production in pp collisions at s√= 7 TeV",
         "pub_year": "2011",
         "citation": "The European Physical Journal C 71 (5), 1645, 2011",
-        "num_citations": 424,
+        "num_citations": 426,
         "author_pub_id": "AqrJMYIAAAAJ:DBa1UEJaJKAC"
     },
     {
         "title": "Measurement of J/ψ polarization in pp collisions at ",
         "pub_year": "2013",
         "citation": "The European Physical Journal C 73, 1-16, 2013",
-        "num_citations": 508,
+        "num_citations": 514,
         "author_pub_id": "AqrJMYIAAAAJ:F9fV5C73w3QC"
     },
     {
@@ -820,49 +855,49 @@
         "title": "Measurement of J/ψ production in pp collisions at ",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (2), 1-17, 2013",
-        "num_citations": 760,
+        "num_citations": 765,
         "author_pub_id": "AqrJMYIAAAAJ:IaI1MmNe2tcC"
     },
     {
         "title": "Measurement of V 0 production ratios in pp collisions at  and 7 TeV",
         "pub_year": "2011",
         "citation": "Journal of High Energy Physics 2011 (8), 1-22, 2011",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "AqrJMYIAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Measurement of b-hadron branching fractions for two-body decays into charmless charged hadrons",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (10), 37, 2012",
-        "num_citations": 169,
+        "num_citations": 171,
         "author_pub_id": "AqrJMYIAAAAJ:zLWjf1WUPmwC"
     },
     {
         "title": "Measurement of b-hadron masses",
         "pub_year": "2012",
         "citation": "Physics Letters B 708 (3-5), 241-248, 2012",
-        "num_citations": 278,
+        "num_citations": 281,
         "author_pub_id": "AqrJMYIAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Measurement of charged particle multiplicities in pp collisions at  in the forward region",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-14, 2012",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "AqrJMYIAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Measurement of mixing and CP violation parameters in two-body charm decays",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (4), 1-21, 2012",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "AqrJMYIAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Measurement of polarization amplitudes and CP asymmetries in B 0→ ϕK*(892) 0",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (5), 1-24, 2014",
-        "num_citations": 82,
+        "num_citations": 85,
         "author_pub_id": "AqrJMYIAAAAJ:KbBQZpvPDL4C"
     },
     {
@@ -897,7 +932,7 @@
         "title": "Measurement of the  Asymmetry in  Decays",
         "pub_year": "2013",
         "citation": "Physical Review Letters 110 (3), 031801, 2013",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "AqrJMYIAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -911,21 +946,21 @@
         "title": "Measurement of the  Branching Fraction and Search <?format ?>for  Decays at the LHCb Experiment",
         "pub_year": "2013",
         "citation": "Physical review letters 111 (10), 101805, 2013",
-        "num_citations": 472,
+        "num_citations": 473,
         "author_pub_id": "AqrJMYIAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Measurement of the  Effective Lifetime in the  Final State",
         "pub_year": "2012",
         "citation": "Physical Review Letters 109 (15), 152002, 2012",
-        "num_citations": 86,
+        "num_citations": 89,
         "author_pub_id": "AqrJMYIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Measurement of the  and  Effective Lifetimes",
         "pub_year": "2014",
         "citation": "Physical review letters 112 (11), 111802, 2014",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "AqrJMYIAAAAJ:8xutWZnSdmoC"
     },
     {
@@ -953,7 +988,7 @@
         "title": "Measurement of the , , and  Baryon Masses",
         "pub_year": "2013",
         "citation": "Physical Review Letters 110 (18), 182001, 2013",
-        "num_citations": 252,
+        "num_citations": 255,
         "author_pub_id": "AqrJMYIAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -988,7 +1023,7 @@
         "title": "Measurement of the B0–B¯ 0 oscillation frequency Δmd with the decays B0→ D− π+ and B0→ J/ψK⁎ 0",
         "pub_year": "2013",
         "citation": "Physics Letters B 719 (4-5), 318-325, 2013",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "AqrJMYIAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -1002,21 +1037,21 @@
         "title": "Measurement of the Bs0→ J/ψKS0 branching fraction",
         "pub_year": "2012",
         "citation": "Physics Letters B 713 (3), 172-179, 2012",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "AqrJMYIAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Measurement of the CKM angle γ from a combination of B±→ Dh±analyses",
         "pub_year": "2013",
         "citation": "Physics Letters B 726 (1-3), 151-163, 2013",
-        "num_citations": 203,
+        "num_citations": 204,
         "author_pub_id": "AqrJMYIAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "Measurement of the CP violating phase ϕs in B¯ s0→ J/ψf0 (980)",
         "pub_year": "2012",
         "citation": "Physics Letters B 707 (5), 497-505, 2012",
-        "num_citations": 87,
+        "num_citations": 86,
         "author_pub_id": "AqrJMYIAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1037,21 +1072,21 @@
         "title": "Measurement of the Ds+− Ds− production asymmetry in 7 TeV pp collisions",
         "pub_year": "2012",
         "citation": "Physics Letters B 713 (3), 186-195, 2012",
-        "num_citations": 260,
+        "num_citations": 264,
         "author_pub_id": "AqrJMYIAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Measurement of the D±production asymmetry in 7 TeV pp collisions",
         "pub_year": "2013",
         "citation": "Physics Letters B 718 (3), 902-909, 2013",
-        "num_citations": 183,
+        "num_citations": 184,
         "author_pub_id": "AqrJMYIAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "Measurement of the branching fractions of the decays  and ",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (11), 112009, 2013",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "AqrJMYIAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -1072,35 +1107,35 @@
         "title": "Measurement of the cross-section ratio σ (χc2)/σ (χc1) for prompt χc production at s= 7 TeV",
         "pub_year": "2012",
         "citation": "Physics Letters B 714 (2-5), 215-223, 2012",
-        "num_citations": 164,
+        "num_citations": 167,
         "author_pub_id": "AqrJMYIAAAAJ:jgBuDB5drN8C"
     },
     {
         "title": "Measurement of the differential branching fraction of the decay Λb0→ Λμ+ μ−",
         "pub_year": "2013",
         "citation": "Physics Letters B 725 (1-3), 25-35, 2013",
-        "num_citations": 122,
+        "num_citations": 124,
         "author_pub_id": "AqrJMYIAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Measurement of the effective Bs0→ J/ψKS0 lifetime",
         "pub_year": "2013",
         "citation": "Nuclear Physics B 873 (2), 275-292, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "AqrJMYIAAAAJ:PaBasH6fAo0C"
     },
     {
         "title": "Measurement of the effective Bs0→ K+ K− lifetime",
         "pub_year": "2012",
         "citation": "Physics Letters B 707 (3-4), 349-356, 2012",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "AqrJMYIAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Measurement of the flavour-specific CP-violating asymmetry asls in Bs0 decays",
         "pub_year": "2014",
         "citation": "Physics Letters B 728, 607-615, 2014",
-        "num_citations": 193,
+        "num_citations": 194,
         "author_pub_id": "AqrJMYIAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -1114,14 +1149,14 @@
         "title": "Measurement of the fraction of Υ (1S) originating from χb(1P) decays in pp collisions at ",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (11), 1-15, 2012",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "AqrJMYIAAAAJ:6yz0xqPARnAC"
     },
     {
         "title": "Measurement of the fragmentation fraction ratio fs/fd and its dependence on B meson kinematics",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (4), 1-17, 2013",
-        "num_citations": 720,
+        "num_citations": 731,
         "author_pub_id": "AqrJMYIAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -1135,28 +1170,28 @@
         "title": "Measurement of the isospin asymmetry in B → K(*)μ+μ− decays",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (7), 133, 2012",
-        "num_citations": 159,
+        "num_citations": 161,
         "author_pub_id": "AqrJMYIAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Measurement of the polarization amplitudes and triple product asymmetries in the Bs0→ ϕϕ decay",
         "pub_year": "2012",
         "citation": "Physics Letters B 713 (4-5), 369-377, 2012",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "AqrJMYIAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Measurement of the polarization amplitudes in  decays",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 88 (5), 052002, 2013",
-        "num_citations": 198,
+        "num_citations": 203,
         "author_pub_id": "AqrJMYIAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Measurement of the ratio of  branching fractions to  and  final states",
         "pub_year": "2014",
         "citation": "Physical Review D 90 (3), 032009, 2014",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "AqrJMYIAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -1170,7 +1205,7 @@
         "title": "Measurement of the ratio of branching fractions B (B0→ K⁎ 0γ)/B (Bs0→ ϕγ) and the direct CP asymmetry in B0→ K⁎ 0γ",
         "pub_year": "2013",
         "citation": "Nuclear Physics B 867 (1), 1-18, 2013",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "AqrJMYIAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -1184,14 +1219,14 @@
         "title": "Measurement of the relative rate of prompt χc0, χc1 and χc2 production at  TeV",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (10), 115, 2013",
-        "num_citations": 136,
+        "num_citations": 138,
         "author_pub_id": "AqrJMYIAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Measurement of the resonant and  components in  decays",
         "pub_year": "2014",
         "citation": "Physical Review D 90 (1), 012003, 2014",
-        "num_citations": 359,
+        "num_citations": 360,
         "author_pub_id": "AqrJMYIAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -1205,14 +1240,14 @@
         "title": "Measurement of the time-dependent CP asymmetry in B0→ J/ψKS0 decays",
         "pub_year": "2013",
         "citation": "Physics Letters B 721 (1-3), 24-31, 2013",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "AqrJMYIAAAAJ:43bX7VzcjpAC"
     },
     {
         "title": "Measurement of the Ξb− and Ωb− baryon lifetimes",
         "pub_year": "2014",
         "citation": "Physics Letters B 736, 154-162, 2014",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "AqrJMYIAAAAJ:3bvyWxjaHKcC"
     },
     {
@@ -1226,35 +1261,35 @@
         "title": "Measurement of σ (pp→ bb¯ X) at s= 7 TeV in the forward region",
         "pub_year": "2010",
         "citation": "Physics Letters B 694 (3), 209-216, 2010",
-        "num_citations": 679,
+        "num_citations": 681,
         "author_pub_id": "AqrJMYIAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Measurement of ϒ production in pp collisions at ",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-12, 2012",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "AqrJMYIAAAAJ:dAp6zn-oMfAC"
     },
     {
         "title": "Measurement of ϒ production in pp collisions at√ s= 2.76 TeV",
         "pub_year": "2014",
         "citation": "European Physical Journal C 74 (4), 2835, 2014",
-        "num_citations": 188,
+        "num_citations": 189,
         "author_pub_id": "AqrJMYIAAAAJ:AXkvAH5U_nMC"
     },
     {
         "title": "Measurement of – Mixing Parameters and Search for  Violation Using <?format ?> Decays",
         "pub_year": "2013",
         "citation": "Physical review letters 111 (25), 251801, 2013",
-        "num_citations": 176,
+        "num_citations": 178,
         "author_pub_id": "AqrJMYIAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Measurements of  Production and Mass with the  Decay",
         "pub_year": "2012",
         "citation": "Physical Review Letters 109 (23), 232001, 2012",
-        "num_citations": 264,
+        "num_citations": 270,
         "author_pub_id": "AqrJMYIAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -1268,14 +1303,14 @@
         "title": "Measurements of the B + , B 0 ,  meson and  baryon lifetimes",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (4), 1-26, 2014",
-        "num_citations": 220,
+        "num_citations": 224,
         "author_pub_id": "AqrJMYIAAAAJ:F2UWTTQJPOcC"
     },
     {
         "title": "Measurements of the branching fractions and  asymmetries of  <?format ?>and  decays",
         "pub_year": "2012",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 85 (9), 091105, 2012",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "AqrJMYIAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -1303,14 +1338,14 @@
         "title": "Measurements of the branching fractions of the decays  and ",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (6), 1-18, 2012",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "AqrJMYIAAAAJ:F1b5ZUV5XREC"
     },
     {
         "title": "Measurements of the Λb0→ J/ψΛ decay amplitudes and the Λb0 polarisation in pp collisions at s= 7 TeV",
         "pub_year": "2013",
         "citation": "Physics Letters B 724 (1-3), 27-35, 2013",
-        "num_citations": 192,
+        "num_citations": 195,
         "author_pub_id": "AqrJMYIAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1331,35 +1366,35 @@
         "title": "Modeled and observed properties related to the direct aerosol radiative effect of biomass burning aerosol over the southeastern Atlantic",
         "pub_year": "2022",
         "citation": "Atmospheric Chemistry and Physics 22 (1), 1-46, 2022",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "AqrJMYIAAAAJ:OzeSX8-yOCQC"
     },
     {
         "title": "Modeling the smoky troposphere of the southeast Atlantic: a comparison to ORACLES airborne observations from September of 2016",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (19), 11491-11526, 2020",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "AqrJMYIAAAAJ:raTqNPD5sRQC"
     },
     {
         "title": "Modifying the Abdul-Razzak & Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model …",
         "pub_year": "2024",
         "citation": "EGUsphere 2024, 1-20, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "AqrJMYIAAAAJ:aEW5N-EHWIMC"
     },
     {
         "title": "Molecular understanding of new-particle formation from α-pinene between −50 and +25 °C",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (15), 9183-9207, 2020",
-        "num_citations": 106,
-        "author_pub_id": "AqrJMYIAAAAJ:1DsIQWDZLl8C"
+        "num_citations": 111,
+        "author_pub_id": "AqrJMYIAAAAJ:6ZzL7HXColQC"
     },
     {
         "title": "Molecular understanding of the suppression of new-particle formation by isoprene",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (20), 11809-11821, 2020",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "AqrJMYIAAAAJ:O0nohqN1r9EC"
     },
     {
@@ -1373,7 +1408,7 @@
         "title": "NUMAC: Description of the Nested Unified Model With Aerosols and Chemistry, and Evaluation With KORUS‐AQ Data",
         "pub_year": "2023",
         "citation": "Journal of Advances in Modeling Earth Systems 15 (11), e2022MS003457, 2023",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "AqrJMYIAAAAJ:9DLIHnF0jcYC"
     },
     {
@@ -1382,6 +1417,13 @@
         "citation": "102nd American Meteorological Society Annual Meeting, 2022",
         "num_citations": 0,
         "author_pub_id": "AqrJMYIAAAAJ:yY3RG6sOEgwC"
+    },
+    {
+        "title": "New particle formation from isoprene under upper-tropospheric conditions",
+        "pub_year": "2024",
+        "citation": "Nature 636 (8041), 115-123, 2024",
+        "num_citations": 3,
+        "author_pub_id": "AqrJMYIAAAAJ:ifOnle78iJkC"
     },
     {
         "title": "New particle formation in deep convective cloud environment over the Amazon",
@@ -1394,7 +1436,7 @@
         "title": "New particle formation in the atmosphere: From molecular clusters to global climate",
         "pub_year": "2019",
         "citation": "Journal of Geophysical Research: Atmospheres 124 (13), 7098-7146, 2019",
-        "num_citations": 279,
+        "num_citations": 286,
         "author_pub_id": "AqrJMYIAAAAJ:nRpfm8aw39MC"
     },
     {
@@ -1408,7 +1450,7 @@
         "title": "Observation of   Decays and Measurement of the  Mixing Angle",
         "pub_year": "2014",
         "citation": "Physical review letters 112 (9), 091802, 2014",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "AqrJMYIAAAAJ:umqufdRvDiIC"
     },
     {
@@ -1464,14 +1506,14 @@
         "title": "Observation of CP violation in B±→ DK±decays",
         "pub_year": "2012",
         "citation": "Physics Letters B 712 (3), 203-212, 2012",
-        "num_citations": 313,
+        "num_citations": 314,
         "author_pub_id": "AqrJMYIAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Observation of J/ψ-pair production in pp collisions at s= 7 TeV",
         "pub_year": "2012",
         "citation": "Physics Letters B 707 (1), 52-59, 2012",
-        "num_citations": 490,
+        "num_citations": 493,
         "author_pub_id": "AqrJMYIAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1485,7 +1527,7 @@
         "title": "Observation of X (3872) production in pp collisions at s=7~TeV",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-9, 2012",
-        "num_citations": 374,
+        "num_citations": 375,
         "author_pub_id": "AqrJMYIAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -1506,42 +1548,42 @@
         "title": "Observation of associated production of a Z boson with a D meson in the forward region",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (4), 1-17, 2014",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "AqrJMYIAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Observation of double charm production involving open charm in pp collisions at ",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (6), 1-36, 2012",
-        "num_citations": 425,
+        "num_citations": 427,
         "author_pub_id": "AqrJMYIAAAAJ:QYdC8u9Cj1oC"
     },
     {
         "title": "Observation of excited Λ b 0 baryons",
         "pub_year": "2012",
         "citation": "Physical Review Letters 109 (17), 172003, 2012",
-        "num_citations": 178,
+        "num_citations": 181,
         "author_pub_id": "AqrJMYIAAAAJ:q3CdL3IzO_QC"
     },
     {
         "title": "Observation of the Decay B c+<? format?>→<? format?> B s 0 π+",
         "pub_year": "2013",
         "citation": "Physical review letters 111 (18), 181801, 2013",
-        "num_citations": 168,
+        "num_citations": 167,
         "author_pub_id": "AqrJMYIAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Observation of the Resonant Character of the  State",
         "pub_year": "2014",
         "citation": "Physical Review Letters 112 (22), 222002, 2014",
-        "num_citations": 908,
+        "num_citations": 914,
         "author_pub_id": "AqrJMYIAAAAJ:LPZeul_q3PIC"
     },
     {
         "title": "Observation of the decay ",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (7), 071103, 2013",
-        "num_citations": 140,
+        "num_citations": 138,
         "author_pub_id": "AqrJMYIAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1555,28 +1597,28 @@
         "title": "Observation of the decay Bs0→ D¯ 0ϕ",
         "pub_year": "2013",
         "citation": "Physics Letters B 727 (4-5), 403-411, 2013",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "AqrJMYIAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Observation of the suppressed ADS modes B±→[π±K∓ π+ π−] DK±and B±→[π±K∓ π+ π−] Dπ±",
         "pub_year": "2013",
         "citation": "Physics Letters B 723 (1-3), 44-53, 2013",
-        "num_citations": 97,
+        "num_citations": 96,
         "author_pub_id": "AqrJMYIAAAAJ:HtS1dXgVpQUC"
     },
     {
         "title": "Observation of the Λ b 0→ J/ψ pπ− decay",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (7), 2014",
-        "num_citations": 173,
+        "num_citations": 176,
         "author_pub_id": "AqrJMYIAAAAJ:w0F2JDEymm0C"
     },
     {
         "title": "Observation of viscosity transition in α-pinene secondary organic aerosol",
         "pub_year": "2016",
         "citation": "Atmospheric Chemistry and Physics 16 (7), 4423-4438, 2016",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "AqrJMYIAAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -1590,21 +1632,28 @@
         "title": "Observations of Bs0→ ψ (2S) η and B (s) 0→ ψ (2S) π+ π− decays",
         "pub_year": "2013",
         "citation": "Nuclear Physics B 871 (3), 403-419, 2013",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "AqrJMYIAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Opposite-side flavour tagging of B mesons at the LHCb experiment",
         "pub_year": "2012",
         "citation": "The European Physical Journal C 72, 1-16, 2012",
-        "num_citations": 434,
+        "num_citations": 445,
         "author_pub_id": "AqrJMYIAAAAJ:yMeIxYmEMEAC"
+    },
+    {
+        "title": "Origins of the Negative Correlation between Cloud Droplet Number and Liquid Water Path Observed from the North Atlantic",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:U0iAMwwPxtsC"
     },
     {
         "title": "Performance of the LHCb vertex locator",
         "pub_year": "2014",
         "citation": "Journal of Instrumentation 9 (09), P09007, 2014",
-        "num_citations": 690,
+        "num_citations": 696,
         "author_pub_id": "AqrJMYIAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -1625,21 +1674,21 @@
         "title": "Precision Measurement of the  Baryon Lifetime",
         "pub_year": "2013",
         "citation": "Physical review letters 111 (10), 102003, 2013",
-        "num_citations": 152,
+        "num_citations": 154,
         "author_pub_id": "AqrJMYIAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Precision Measurement of the Mass and Lifetime of the  Baryon",
         "pub_year": "2014",
         "citation": "Physical review letters 113 (24), 242002, 2014",
-        "num_citations": 155,
+        "num_citations": 158,
         "author_pub_id": "AqrJMYIAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Precision measurement of D meson mass differences",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (6), 1-17, 2013",
-        "num_citations": 311,
+        "num_citations": 312,
         "author_pub_id": "AqrJMYIAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -1653,14 +1702,14 @@
         "title": "Precision measurement of the ratio of the Λb0 to B¯ 0 lifetimes",
         "pub_year": "2014",
         "citation": "Physics Letters B 734, 122-130, 2014",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "AqrJMYIAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Production of J/ψ and  mesons in pp collisions at  TeV",
         "pub_year": "2013",
         "citation": "Journal of High Energy Physics 2013 (6), 1-31, 2013",
-        "num_citations": 405,
+        "num_citations": 407,
         "author_pub_id": "AqrJMYIAAAAJ:a0OBvERweLwC"
     },
     {
@@ -1674,7 +1723,7 @@
         "title": "Prompt charm production in pp collisions at s= 7TeV",
         "pub_year": "2013",
         "citation": "Nuclear Physics B 871 (1), 1-20, 2013",
-        "num_citations": 709,
+        "num_citations": 714,
         "author_pub_id": "AqrJMYIAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -1695,7 +1744,7 @@
         "title": "Rapid growth of organic aerosol nanoparticles over a wide tropospheric temperature range",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (37), 9122-9127, 2018",
-        "num_citations": 166,
+        "num_citations": 171,
         "author_pub_id": "AqrJMYIAAAAJ:WJVC3Jt7v1AC"
     },
     {
@@ -1730,7 +1779,7 @@
         "title": "Role of sesquiterpenes in biogenic new particle formation",
         "pub_year": "2023",
         "citation": "Science Advances 9 (36), eadi5297, 2023",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "AqrJMYIAAAAJ:1r-w4gtu6w8C"
     },
     {
@@ -1779,14 +1828,14 @@
         "title": "Search for CP violation using T-odd correlations in D 0→ K+ K− π+ π− decays",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (10), 1-21, 2014",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "AqrJMYIAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Search for D (s)+→ π+ μ+ μ− and D (s)+→ π− μ+ μ+ decays",
         "pub_year": "2013",
         "citation": "Physics Letters B 724 (4-5), 203-212, 2013",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "AqrJMYIAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1800,7 +1849,7 @@
         "title": "Search for Majorana Neutrinos in  Decays",
         "pub_year": "2014",
         "citation": "Physical Review Letters 112 (13), 131802, 2014",
-        "num_citations": 241,
+        "num_citations": 246,
         "author_pub_id": "AqrJMYIAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -1821,7 +1870,7 @@
         "title": "Search for the  state in  decays",
         "pub_year": "2012",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 85 (9), 091103, 2012",
-        "num_citations": 184,
+        "num_citations": 186,
         "author_pub_id": "AqrJMYIAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -1835,7 +1884,7 @@
         "title": "Search for the decay ",
         "pub_year": "2013",
         "citation": "Physical Review D—Particles, Fields, Gravitation, and Cosmology 87 (7), 071101, 2013",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "AqrJMYIAAAAJ:fbc8zXXH2BUC"
     },
     {
@@ -1863,7 +1912,7 @@
         "title": "Search for the rare decay D0→ μ+ μ−",
         "pub_year": "2013",
         "citation": "Physics Letters B 725 (1-3), 15-24, 2013",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "AqrJMYIAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -1912,7 +1961,7 @@
         "title": "Searches for CP violation in D+ to K-K+ pi+ decays at the LHCb experiment",
         "pub_year": "2013",
         "citation": "University of Oxford, 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "AqrJMYIAAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -1982,7 +2031,7 @@
         "title": "Source attribution of cloud condensation nuclei and their impact on stratocumulus clouds and radiation in the south-eastern Atlantic",
         "pub_year": "2022",
         "citation": "Atmospheric Chemistry and Physics 22 (16), 10789-10807, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "AqrJMYIAAAAJ:wLxue7F8ec0C"
     },
     {
@@ -2000,17 +2049,24 @@
         "author_pub_id": "AqrJMYIAAAAJ:sfnaS5RM6jYC"
     },
     {
+        "title": "Statistically Constraining Uncertain Climate Model Parameters via Perturbed Parameter Ensemble (PPE) Approach: Application to the Radiative Effects of Biomass Burning Aerosols …",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:Vno172sVVMwC"
+    },
+    {
         "title": "Strong Constraints on the Rare Decays  and ",
         "pub_year": "2012",
         "citation": "Physical review letters 108 (23), 231801, 2012",
-        "num_citations": 309,
+        "num_citations": 310,
         "author_pub_id": "AqrJMYIAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "Studies of beauty baryon decays to  and  final states",
         "pub_year": "2014",
         "citation": "Physical Review D 89 (3), 032001, 2014",
-        "num_citations": 127,
+        "num_citations": 131,
         "author_pub_id": "AqrJMYIAAAAJ:gKiMpY-AVTkC"
     },
     {
@@ -2045,21 +2101,21 @@
         "title": "Study of  production and cold nuclear matter effects in pPb collisions at  = 5 TeV",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (7), 1-19, 2014",
-        "num_citations": 507,
+        "num_citations": 509,
         "author_pub_id": "AqrJMYIAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Study of B0 (s)→ K0Sh+ h′− decays with first observation of B0s→ K0SK±π∓ and B0s→ K0Sπ+ π−",
         "pub_year": "2013",
-        "citation": "Journal of High Energy Physics 2013 (10), Article number 143, 2013",
-        "num_citations": 89,
+        "citation": "Journal of High Energy Physics 10, 143, 2013",
+        "num_citations": 92,
         "author_pub_id": "AqrJMYIAAAAJ:anf4URPfarAC"
     },
     {
         "title": "Study of D sJ decays to  and D 0 K + final states in pp collisions",
         "pub_year": "2012",
         "citation": "Journal of High Energy Physics 2012 (10), 1-17, 2012",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "AqrJMYIAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -2073,7 +2129,7 @@
         "title": "Study of beauty hadron decays into pairs of charm hadrons",
         "pub_year": "2014",
         "citation": "Physical Review Letters 112 (20), 202001, 2014",
-        "num_citations": 178,
+        "num_citations": 177,
         "author_pub_id": "AqrJMYIAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -2094,8 +2150,15 @@
         "title": "Study of the kinematic dependences of Λb0 production in pp collisions and a measurement of the Λb0 → Λc+π− branching fraction",
         "pub_year": "2014",
         "citation": "Journal of High Energy Physics 2014 (8), 143, 2014",
-        "num_citations": 152,
+        "num_citations": 154,
         "author_pub_id": "AqrJMYIAAAAJ:V3AGJWp-ZtQC"
+    },
+    {
+        "title": "Studying the Seeds for Clouds at the CERN Research Labs: Hamish Gordon:[Ressource électronique]",
+        "pub_year": "2017",
+        "citation": "Frontiers for Young Minds 5 (43), 9, 2017",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:lbI08cpqPnQC"
     },
     {
         "title": "Studying the seeds for clouds at the CERN research labs",
@@ -2108,14 +2171,14 @@
         "title": "Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation",
         "pub_year": "2022",
         "citation": "Nature 605 (7910), 483-489, 2022",
-        "num_citations": 46,
+        "num_citations": 49,
         "author_pub_id": "AqrJMYIAAAAJ:Og1tA8FjbJAC"
     },
     {
         "title": "Test of Lepton Universality Using  Decays",
         "pub_year": "2014",
         "citation": "Physical Review Letters 113 (15), 151601, 2014",
-        "num_citations": 1806,
+        "num_citations": 1813,
         "author_pub_id": "AqrJMYIAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -2129,7 +2192,7 @@
         "title": "The CLoud–Aerosol–Radiation interaction and forcing: Year 2017 (CLARIFY-2017) measurement campaign",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics 21 (2), 1049-1084, 2021",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "AqrJMYIAAAAJ:nqdriD65xNoC"
     },
     {
@@ -2143,7 +2206,7 @@
         "title": "The driving factors of new particle formation and growth in the polluted boundary layer",
         "pub_year": "2021",
         "citation": "Atmospheric Chemistry and Physics, 14275–14291, 2021",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "AqrJMYIAAAAJ:z8nqeaKD1nsC"
     },
     {
@@ -2171,7 +2234,7 @@
         "title": "The role of low-volatility organic compounds in initial particle growth in the atmosphere",
         "pub_year": "2016",
         "citation": "Nature 533 (7604), 527-531, 2016",
-        "num_citations": 695,
+        "num_citations": 700,
         "author_pub_id": "AqrJMYIAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -2234,14 +2297,14 @@
         "title": "Untangling causality in midlatitude aerosol–cloud adjustments",
         "pub_year": "2020",
         "citation": "Atmospheric Chemistry and Physics 20 (7), 4085-4103, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "AqrJMYIAAAAJ:Ade32sEp0pkC"
     },
     {
         "title": "Updated measurements of exclusive J/ψ and ψ (2S) production cross-sections in pp collisions at TeV",
         "pub_year": "2014",
         "citation": "Journal of Physics G: Nuclear and Particle Physics 41 (5), 055002, 2014",
-        "num_citations": 304,
+        "num_citations": 306,
         "author_pub_id": "AqrJMYIAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -2257,5 +2320,12 @@
         "citation": "AGU Fall Meeting Abstracts 2019, A53G-06, 2019",
         "num_citations": 0,
         "author_pub_id": "AqrJMYIAAAAJ:PYBJJbyH-FwC"
+    },
+    {
+        "title": "Volatility-Based Aging of Biomass Burning Organic Aerosol in the Unified Model",
+        "pub_year": "2025",
+        "citation": "105th AMS Annual Meeting, 2025",
+        "num_citations": 0,
+        "author_pub_id": "AqrJMYIAAAAJ:VRfTbSk87rEC"
     }
 ]
