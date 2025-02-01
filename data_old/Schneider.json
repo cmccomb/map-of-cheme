@@ -1,5 +1,12 @@
 [
     {
+        "title": "19 Peptide Nucleic Acid (PNA) Conjugates in Biotechnology",
+        "pub_year": "2002",
+        "citation": "Biomimetic Materials And Design: Biointerfacial Strategies, Tissue …, 2002",
+        "num_citations": 0,
+        "author_pub_id": "amrrCWAAAAAJ:uLbwQdceFCQC"
+    },
+    {
         "title": "A 502-Base Free-Solution Electrophoretic DNA Sequencing Method Using End-Attached Wormlike Micelles",
         "pub_year": "2015",
         "citation": "Analytical chemistry 87 (22), 11433-11440, 2015",
@@ -84,6 +91,13 @@
         "author_pub_id": "amrrCWAAAAAJ:u-x6o8ySG0sC"
     },
     {
+        "title": "Autophagy and Akt‐Stimulated Cellular Proliferation Synergistically Improve Antibody Production in CHO Cells",
+        "pub_year": "2024",
+        "citation": "Biotechnology Journal 19 (11), e202400033, 2024",
+        "num_citations": 0,
+        "author_pub_id": "amrrCWAAAAAJ:JQOojiI6XY0C"
+    },
+    {
         "title": "Back-extraction of PNA affinity tags following HIC purification of DNA targets",
         "pub_year": "2005",
         "citation": "American Institute of Chemical Engineers, 2005",
@@ -122,7 +136,7 @@
         "title": "Changes in stiffness and biochemical composition of the pericellular matrix as a function of spatial chondrocyte organisation in osteoarthritic cartilage",
         "pub_year": "2019",
         "citation": "Osteoarthritis and cartilage 27 (5), 823-832, 2019",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "amrrCWAAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -205,7 +219,7 @@
         "title": "Development and characterization of surface chemistries for microfabricated biosensors",
         "pub_year": "1999",
         "citation": "Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films 17 (5 …, 1999",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "amrrCWAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -310,7 +324,7 @@
         "title": "Encyclopedia of surface and colloid science",
         "pub_year": "2002",
         "citation": "CRC press, 2002",
-        "num_citations": 1161,
+        "num_citations": 1163,
         "author_pub_id": "amrrCWAAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -621,7 +635,7 @@
         "title": "Progress toward rapid, at-line N-glycosylation detection and control for recombinant protein expression",
         "pub_year": "2022",
         "citation": "Current Opinion in Biotechnology 78, 102788, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "amrrCWAAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -690,7 +704,7 @@
         "title": "Rosmarinic acid enhances CHO cell productivity and proliferation through activation of the unfolded protein response and the mTOR pathway",
         "pub_year": "2024",
         "citation": "Biotechnology Journal 19 (1), 2300397, 2024",
-        "num_citations": 1,
+        "num_citations": 4,
         "author_pub_id": "amrrCWAAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -863,7 +877,7 @@
         "title": "Use of single analytic tool to quantify both absolute N‐glycosylation and glycan distribution in monoclonal antibodies",
         "pub_year": "2023",
         "citation": "Biotechnology Progress 39 (5), e3365, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "amrrCWAAAAAJ:ye4kPcJQO24C"
     },
     {

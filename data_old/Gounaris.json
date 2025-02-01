@@ -10,7 +10,7 @@
         "title": "A customized branch-and-bound approach for irregular shape nesting",
         "pub_year": "2018",
         "citation": "Journal of Global Optimization 71, 935-955, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "CINe7CgAAAAJ:X5YyAB84Iw4C"
     },
     {
@@ -31,7 +31,7 @@
         "title": "A generalized cutting‐set approach for nonlinear robust optimization in process systems engineering",
         "pub_year": "2021",
         "citation": "AIChE Journal 67 (5), e17175, 2021",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "CINe7CgAAAAJ:zzCxg_vo7cAC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A mathematical optimization framework for the design of nanopatterned surfaces",
         "pub_year": "2016",
         "citation": "AIChE Journal 62 (9), 3250-3263, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "CINe7CgAAAAJ:w2UhwfzvF0QC"
     },
     {
@@ -73,14 +73,14 @@
         "title": "A review of recent advances in global optimization",
         "pub_year": "2009",
         "citation": "Journal of Global Optimization 45, 3-38, 2009",
-        "num_citations": 642,
+        "num_citations": 645,
         "author_pub_id": "CINe7CgAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "A scenario decomposition algorithm for strategic time window assignment vehicle routing problems",
         "pub_year": "2018",
         "citation": "Transportation Research Part B: Methodological 117, 296-317, 2018",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "CINe7CgAAAAJ:j5aT6aphRxQC"
     },
     {
@@ -149,7 +149,7 @@
         "title": "Computational characterization of zeolite porous networks: an automated approach",
         "pub_year": "2011",
         "citation": "Physical Chemistry Chemical Physics 13 (38), 17339-17358, 2011",
-        "num_citations": 265,
+        "num_citations": 267,
         "author_pub_id": "CINe7CgAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -163,21 +163,21 @@
         "title": "Computational discovery of Metal–Organic Frameworks for sustainable energy systems: Open challenges",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 167, 108022, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "CINe7CgAAAAJ:M0j1y4EgrScC"
     },
     {
         "title": "Convex relaxation for solving posynomial programs",
         "pub_year": "2010",
         "citation": "Journal of Global Optimization 46 (1), 147-154, 2010",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "CINe7CgAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Convexity of products of univariate functions and convexification transformations for geometric programming",
         "pub_year": "2008",
         "citation": "Journal of Optimization Theory and Applications 138 (3), 407-427, 2008",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "CINe7CgAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Explicit model predictive controller under uncertainty: An adjustable robust optimization approach",
         "pub_year": "2019",
         "citation": "Journal of Process Control 84, 115-132, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "CINe7CgAAAAJ:9LpHyFPp1DQC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "K-adaptability in two-stage mixed-integer robust optimization",
         "pub_year": "2020",
         "citation": "Mathematical Programming Computation 12, 193-224, 2020",
-        "num_citations": 88,
+        "num_citations": 87,
         "author_pub_id": "CINe7CgAAAAJ:CMvovTBb2okC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Modelling of the performance of industrial HDS reactors using a hybrid neural network approach",
         "pub_year": "2005",
         "citation": "Chemical Engineering and Processing: Process Intensification 44 (5), 505-515, 2005",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "CINe7CgAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -359,7 +359,7 @@
         "title": "Next generation multi-scale process systems engineering framework",
         "pub_year": "2018",
         "citation": "Computer Aided Chemical Engineering 44, 2209-2214, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "CINe7CgAAAAJ:Oo1CbQkBAzEC"
     },
     {
@@ -394,7 +394,7 @@
         "title": "Quantifying the impact of delivery day flexibility on last-mile delivery costs",
         "pub_year": "2022",
         "citation": "Digital Chemical Engineering 5, 100057, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "CINe7CgAAAAJ:NtGNdKbuCngC"
     },
     {
@@ -436,7 +436,7 @@
         "title": "Robust optimization of a broad class of heterogeneous vehicle routing problems under demand uncertainty",
         "pub_year": "2020",
         "citation": "INFORMS Journal on Computing 32 (3), 661-681, 2020",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "CINe7CgAAAAJ:qPeb-qHga9sC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Stereochemically Consistent Reaction Mapping and Identification of Multiple Reaction Mechanisms through Integer Linear Optimization",
         "pub_year": "2012",
         "citation": "Journal of chemical information and modeling 52 (1), 84-92, 2012",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "CINe7CgAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -491,7 +491,7 @@
         "title": "The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty",
         "pub_year": "2013",
         "citation": "Operations Research 61 (3), 677-693, 2013",
-        "num_citations": 266,
+        "num_citations": 269,
         "author_pub_id": "CINe7CgAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -540,7 +540,7 @@
         "title": "Tight convex underestimators for-continuous problems: II. Multivariate functions",
         "pub_year": "2008",
         "citation": "Journal of Global Optimization 42 (1), 69-89, 2008",
-        "num_citations": 88,
+        "num_citations": 90,
         "author_pub_id": "CINe7CgAAAAJ:DIubQTN3OvUC"
     },
     {
@@ -554,7 +554,7 @@
         "title": "Vehicle routing with endogenous learning: Application to offshore plug and abandonment campaign planning",
         "pub_year": "2021",
         "citation": "European Journal of Operational Research 289 (1), 93-106, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "CINe7CgAAAAJ:inmFHauC9wsC"
     }
 ]

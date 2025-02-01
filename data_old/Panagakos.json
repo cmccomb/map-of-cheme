@@ -94,7 +94,7 @@
         "title": "CFD Study of Countercurrent Flow in Triply Periodic Minimal Surfaces with CO2BOL Solvent",
         "pub_year": "2019",
         "citation": "Pacific Northwest National Lab.(PNNL), Richland, WA (United States), 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "pk31kMgAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -153,6 +153,13 @@
         "author_pub_id": "pk31kMgAAAAJ:4TOpqqG69KYC"
     },
     {
+        "title": "Development of Algebraic and Topological-Based Structured Packing Model",
+        "pub_year": "2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:j3f4tGmQtD8C"
+    },
+    {
         "title": "Effect of Packing Nonuniformity at the Fiber Bundle–Case Interface on Performance of Hollow Fiber Membrane Gas Separation Modules",
         "pub_year": "2022",
         "citation": "Membranes 12 (11), 1139, 2022",
@@ -168,8 +175,8 @@
     },
     {
         "title": "Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows",
-        "pub_year": "2024",
-        "citation": "Separation Science and Technology, 1-15, 2024",
+        "pub_year": "2025",
+        "citation": "Separation Science and Technology 60 (2), 267-281, 2025",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:RHpTSmoSYBkC"
     },
@@ -205,14 +212,14 @@
         "title": "Hollow fiber membrane contactors for post-combustion carbon capture: A review of modeling approaches",
         "pub_year": "2020",
         "citation": "Membranes 10 (12), 382, 2020",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "pk31kMgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Hydrodynamics of countercurrent flow in an additive-manufactured column with triply periodic minimal surfaces for carbon dioxide capture",
         "pub_year": "2022",
         "citation": "Chemical Engineering Journal 450, 138124, 2022",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "pk31kMgAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -279,6 +286,12 @@
         "author_pub_id": "pk31kMgAAAAJ:qjMakFHDy7sC"
     },
     {
+        "title": "Multiphase Computational Fluid Dynamics Modeling of Reacting Flows in Absorption Columns for Carbon Capture",
+        "citation": "Available at SSRN 5069595, 0",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:r0BpntZqJG4C"
+    },
+    {
         "title": "NETL Research & Innovation Center-Membrane Capture Media Development",
         "pub_year": "2024",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
@@ -338,7 +351,7 @@
         "title": "Solvents for Membrane-Based Post-Combustion CO2 Capture for Potential Application in the Marine Environment",
         "pub_year": "2022",
         "citation": "Applied sciences 12 (12), 6100, 2022",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "pk31kMgAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -349,9 +362,9 @@
         "author_pub_id": "pk31kMgAAAAJ:Zph67rFs4hoC"
     },
     {
-        "title": "Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3d-Printed Intensified Packing",
+        "title": "Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3D-Printed Intensified Packing",
         "pub_year": "2024",
-        "citation": "2024 AIChE Annual Meeting, 2024",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2024",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:qUcmZB5y_30C"
     },

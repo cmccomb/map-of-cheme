@@ -17,7 +17,7 @@
         "title": "An in-depth survey of the oil spill literature since 1968: Long term trends and changes since Deepwater Horizon",
         "pub_year": "2016",
         "citation": "Marine pollution bulletin 113 (1-2), 371-379, 2016",
-        "num_citations": 108,
+        "num_citations": 111,
         "author_pub_id": "aYUS1DkAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 237,
+        "num_citations": 242,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -107,7 +107,7 @@
         "title": "Demonstration of direct ocean carbon capture using encapsulated solvents",
         "pub_year": "2023",
         "citation": "Chemical Engineering Journal 470, 144140, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "aYUS1DkAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -249,6 +249,12 @@
         "citation": "2022 AIChE Annual Meeting, 2022",
         "num_citations": 0,
         "author_pub_id": "aYUS1DkAAAAJ:k8Z6L05lTy4C"
+    },
+    {
+        "title": "How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?",
+        "citation": "Nanomedicine (London, England), 1-3, 0",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:5qfkUJPXOUwC"
     },
     {
         "title": "Investigating the Interfacial and Metabolic Properties of Bacteria at Hexadecane-Water Interfaces",
@@ -449,14 +455,14 @@
         "title": "The effect of charge screening for cationic surfactants on the rigidity of interfacial nanoparticle assemblies",
         "pub_year": "2025",
         "citation": "Journal of Colloid and Interface Science 678, 201-208, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "aYUS1DkAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
         "pub_year": "2020",
         "citation": "Biofilm 2, 100012, 2020",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "aYUS1DkAAAAJ:ML0RJ9NH7IQC"
     },
     {
