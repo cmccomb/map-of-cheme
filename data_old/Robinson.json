@@ -50,7 +50,7 @@
         "title": "Advances in nanodisc platforms for membrane protein purification",
         "pub_year": "2023",
         "citation": "Trends in Biotechnology 41 (8), 1041-1054, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "NnIC2iAAAAAJ:foquWX3nUaYC"
     },
     {
@@ -230,7 +230,7 @@
         "title": "BiP clustering facilitates protein folding in the endoplasmic reticulum",
         "pub_year": "2014",
         "citation": "PLOS Computational Biology 10 (7), e1003675, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "NnIC2iAAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -272,7 +272,7 @@
         "title": "Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement",
         "pub_year": "2017",
         "citation": "Biotechnology journal 12 (1), 1600105, 2017",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "NnIC2iAAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -342,7 +342,7 @@
         "title": "Cholesterol Dependent Activity of the Adenosine A2A Receptor Is Modulated via the Cholesterol Consensus Motif",
         "pub_year": "2022",
         "citation": "Molecules 27 (11), 3529, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "NnIC2iAAAAAJ:tYavs44e6CUC"
     },
     {
@@ -398,7 +398,7 @@
         "title": "Computational design and biophysical characterization of aggregation-resistant point mutations for γD crystallin illustrate a balance of conformational stability and intrinsic …",
         "pub_year": "2011",
         "citation": "Biochemistry 50 (5), 628-639, 2011",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "NnIC2iAAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -496,7 +496,7 @@
         "title": "Controlling the glycosylation profile in mAbs using time-dependent media supplementation",
         "pub_year": "2017",
         "citation": "Antibodies 7 (1), 1, 2017",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "NnIC2iAAAAAJ:blknAaTinKkC"
     },
     {
@@ -627,7 +627,7 @@
         "title": "Driving forces for nonnative protein aggregation and approaches to predict aggregation-prone regions",
         "pub_year": "2017",
         "citation": "Annual review of chemical and biomolecular engineering 8 (1), 139-159, 2017",
-        "num_citations": 78,
+        "num_citations": 81,
         "author_pub_id": "NnIC2iAAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -767,7 +767,7 @@
         "title": "Exceptional total and functional yields of the human adenosine (A2a) receptor expressed in the yeast Saccharomyces cerevisiae",
         "pub_year": "2006",
         "citation": "Protein expression and purification 46 (2), 204-211, 2006",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "NnIC2iAAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -869,6 +869,13 @@
         "author_pub_id": "NnIC2iAAAAAJ:9vf0nzSNQJEC"
     },
     {
+        "title": "Functional dynamics of G protein-coupled receptors reveal new routes for drug discovery",
+        "pub_year": "2025",
+        "citation": "Nature Reviews Drug Discovery, 1-25, 2025",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:_axFR9aDTf0C"
+    },
+    {
         "title": "G-Protein Coupled Receptors: Protein Engineering Approaches to Improve Expression and Determine Protein-Protein Interactions",
         "pub_year": "2022",
         "citation": "2022 AIChE Annual Meeting, 2022",
@@ -893,7 +900,7 @@
         "title": "Heparan sulfate proteoglycans (HSPGs) serve as the mediator between monomeric tau and its subsequent intracellular ERK1/2 pathway activation",
         "pub_year": "2022",
         "citation": "Journal of Molecular Neuroscience 72 (4), 772-791, 2022",
-        "num_citations": 21,
+        "num_citations": 25,
         "author_pub_id": "NnIC2iAAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -907,7 +914,7 @@
         "title": "Heterologous GPCR expression: a bottleneck to obtaining crystal structures",
         "pub_year": "2007",
         "citation": "Biotechnology progress 23 (3), 540-547, 2007",
-        "num_citations": 176,
+        "num_citations": 177,
         "author_pub_id": "NnIC2iAAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -963,7 +970,7 @@
         "title": "Identification of manipulated variables for a glycosylation control strategy",
         "pub_year": "2014",
         "citation": "Biotechnology and bioengineering 111 (10), 1957-1970, 2014",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "NnIC2iAAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -1107,18 +1114,25 @@
         "author_pub_id": "NnIC2iAAAAAJ:1yQoGdGgb4wC"
     },
     {
-        "title": "Ligand Binding Kinetics to Evaluate Function and Stability of A2AR in Nanodiscs",
+        "title": "Ligand binding kinetics of A2AR nanodiscs using fluorescence anisotropy",
+        "pub_year": "2024",
+        "citation": "Biophysical Journal 123 (3), 344a, 2024",
+        "num_citations": 0,
+        "author_pub_id": "NnIC2iAAAAAJ:FPJr55Dyh1AC"
+    },
+    {
+        "title": "Ligand binding kinetics to evaluate the function and stability of A2AR in nanodiscs",
         "pub_year": "2024",
         "citation": "Biophysical Journal, 2024",
         "num_citations": 0,
         "author_pub_id": "NnIC2iAAAAAJ:86PQX7AUzd4C"
     },
     {
-        "title": "Ligand binding kinetics of A2AR nanodiscs using fluorescence anisotropy",
+        "title": "Machine Learning Driven Quantitation of Viable Capsids for Gene Therapy Applications",
         "pub_year": "2024",
-        "citation": "Biophysical Journal 123 (3), 344a, 2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
         "num_citations": 0,
-        "author_pub_id": "NnIC2iAAAAAJ:FPJr55Dyh1AC"
+        "author_pub_id": "NnIC2iAAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Managing and characterizing monoclonal antibody glycosylation.",
@@ -1270,7 +1284,7 @@
         "title": "Nuclear translocation of the unliganded glucocorticoid receptor is influenced by membrane fluidity, but not A2AR agonism",
         "pub_year": "2020",
         "citation": "Steroids 160, 108641, 2020",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "NnIC2iAAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1347,7 +1361,7 @@
         "title": "PDI Improves Secretion of Redox‐Inactive β‐Glucosidase",
         "pub_year": "2007",
         "citation": "Biotechnology progress 23 (2), 364-369, 2007",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "NnIC2iAAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -1396,7 +1410,7 @@
         "title": "Protein disulfide isomerase, but not binding protein, overexpression enhances secretion of a non‐disulfide‐bonded protein in yeast",
         "pub_year": "2004",
         "citation": "Biotechnology and bioengineering 85 (3), 340-350, 2004",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "NnIC2iAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -1458,7 +1472,7 @@
         "title": "Rapid refolding and polishing of single-chain antibodies from Escherichia coli inclusion bodies",
         "pub_year": "2002",
         "citation": "Protein expression and purification 26 (2), 301-308, 2002",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "NnIC2iAAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -1479,7 +1493,7 @@
         "title": "Recombinant protein expression and purification: a comprehensive review of affinity tags and microbial applications",
         "pub_year": "2012",
         "citation": "Biotechnology journal 7 (5), 620-634, 2012",
-        "num_citations": 665,
+        "num_citations": 675,
         "author_pub_id": "NnIC2iAAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1618,7 +1632,7 @@
         "title": "Strategies to enhance productivity and modify product quality in therapeutic proteins",
         "pub_year": "2018",
         "citation": "Current opinion in chemical engineering 22, 81-88, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "NnIC2iAAAAAJ:mVmsd5A6BfQC"
     },
     {

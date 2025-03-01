@@ -21,7 +21,14 @@
         "author_pub_id": "pk31kMgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
-        "title": "A Computational Investigation of the Effect of Packing Structural Features on the Performance of Carbon Capture for Solvent-Based Post-Combustion Applications",
+        "title": "A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture",
+        "pub_year": "2023",
+        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "pk31kMgAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+        "title": "A computational investigation of the effect of packing structural features on the performance of carbon capture for solvent-based post-combustion applications",
         "pub_year": "2023",
         "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023",
         "num_citations": 2,
@@ -82,13 +89,6 @@
         "citation": "2023 AIChE Annual Meeting, 2023",
         "num_citations": 1,
         "author_pub_id": "pk31kMgAAAAJ:YOwf2qJgpHMC"
-    },
-    {
-        "title": "CFD Simulations for Post-Combustion Carbon Capture",
-        "pub_year": "2023",
-        "citation": "National Energy Technology Laboratory (NETL), Pittsburgh, PA, Morgantown, WV …, 2023",
-        "num_citations": 0,
-        "author_pub_id": "pk31kMgAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "CFD Study of Countercurrent Flow in Triply Periodic Minimal Surfaces with CO2BOL Solvent",
@@ -160,13 +160,6 @@
         "author_pub_id": "pk31kMgAAAAJ:j3f4tGmQtD8C"
     },
     {
-        "title": "Effect of Packing Nonuniformity at the Fiber Bundle–Case Interface on Performance of Hollow Fiber Membrane Gas Separation Modules",
-        "pub_year": "2022",
-        "citation": "Membranes 12 (11), 1139, 2022",
-        "num_citations": 6,
-        "author_pub_id": "pk31kMgAAAAJ:hqOjcs7Dif8C"
-    },
-    {
         "title": "Effect of Packing Nonuniformity on the Performance of Hollow Fiber Membrane Gas Separation Modules Fabricated from Fiber Tows",
         "pub_year": "2022",
         "citation": "2022 AIChE Annual Meeting, 2022",
@@ -179,6 +172,13 @@
         "citation": "Separation Science and Technology 60 (2), 267-281, 2025",
         "num_citations": 0,
         "author_pub_id": "pk31kMgAAAAJ:RHpTSmoSYBkC"
+    },
+    {
+        "title": "Effect of packing nonuniformity at the fiber bundle–case interface on performance of hollow fiber membrane gas separation modules",
+        "pub_year": "2022",
+        "citation": "Membranes 12 (11), 1139, 2022",
+        "num_citations": 8,
+        "author_pub_id": "pk31kMgAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Experimental Verification of Hollow Fiber Module Performance for Flue Gas Separation Using 3D Printing",
@@ -212,21 +212,21 @@
         "title": "Hollow fiber membrane contactors for post-combustion carbon capture: A review of modeling approaches",
         "pub_year": "2020",
         "citation": "Membranes 10 (12), 382, 2020",
-        "num_citations": 40,
+        "num_citations": 43,
         "author_pub_id": "pk31kMgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Hydrodynamics of countercurrent flow in an additive-manufactured column with triply periodic minimal surfaces for carbon dioxide capture",
         "pub_year": "2022",
         "citation": "Chemical Engineering Journal 450, 138124, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "pk31kMgAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Hydrogenation behavior in rectangular metal hydride tanks under effective heat management processes for green building applications",
         "pub_year": "2018",
         "citation": "Energy 142, 518-530, 2018",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "pk31kMgAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -282,7 +282,7 @@
         "title": "Multi-component optical sensing of high temperature gas streams using functional oxide integrated silica based optical fiber sensors",
         "pub_year": "2018",
         "citation": "Sensors and Actuators B: Chemical 255, 357-365, 2018",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "pk31kMgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Polymer-stable magnesium nanocomposites prepared by laser ablation for efficient hydrogen storage",
         "pub_year": "2013",
         "citation": "International journal of hydrogen energy 38 (26), 11530-11535, 2013",
-        "num_citations": 108,
+        "num_citations": 107,
         "author_pub_id": "pk31kMgAAAAJ:Y0pCki6q_DkC"
     },
     {
