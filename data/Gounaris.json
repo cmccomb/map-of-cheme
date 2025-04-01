@@ -10,7 +10,7 @@
         "title": "A customized branch-and-bound approach for irregular shape nesting",
         "pub_year": "2018",
         "citation": "Journal of Global Optimization 71, 935-955, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "CINe7CgAAAAJ:X5YyAB84Iw4C"
     },
     {
@@ -31,7 +31,7 @@
         "title": "A generalized cutting‐set approach for nonlinear robust optimization in process systems engineering",
         "pub_year": "2021",
         "citation": "AIChE Journal 67 (5), e17175, 2021",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "CINe7CgAAAAJ:zzCxg_vo7cAC"
     },
     {
@@ -66,14 +66,14 @@
         "title": "A priority rule for scheduling shared due dates in the resource-constrained project scheduling problem",
         "pub_year": "2023",
         "citation": "Computers & Industrial Engineering 183, 109442, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "CINe7CgAAAAJ:1EqfMoDn7-AC"
     },
     {
         "title": "A review of recent advances in global optimization",
         "pub_year": "2009",
         "citation": "Journal of Global Optimization 45, 3-38, 2009",
-        "num_citations": 654,
+        "num_citations": 655,
         "author_pub_id": "CINe7CgAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Adsorption of fermentation inhibitors from lignocellulosic biomass hydrolyzates for improved ethanol yield and value-added product recovery",
         "pub_year": "2009",
         "citation": "Microporous and Mesoporous Materials 122 (1), 143-148, 2009",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "CINe7CgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -106,7 +106,8 @@
     },
     {
         "title": "Advances in Robust Optimization and Opportunities for Process Operations",
-        "citation": "",
+        "pub_year": "2017",
+        "citation": "Proceedings of the Foundations of Computer-Aided Process Operations/Chemical …, 2017",
         "num_citations": 0,
         "author_pub_id": "CINe7CgAAAAJ:WIXB4To3Tx4C"
     },
@@ -149,14 +150,14 @@
         "title": "Computational characterization of zeolite porous networks: an automated approach",
         "pub_year": "2011",
         "citation": "Physical Chemistry Chemical Physics 13 (38), 17339-17358, 2011",
-        "num_citations": 273,
+        "num_citations": 274,
         "author_pub_id": "CINe7CgAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Computational comparison of piecewise− linear relaxations for pooling problems",
         "pub_year": "2009",
         "citation": "Industrial & Engineering Chemistry Research 48 (12), 5742-5766, 2009",
-        "num_citations": 183,
+        "num_citations": 185,
         "author_pub_id": "CINe7CgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -170,7 +171,7 @@
         "title": "Convex relaxation for solving posynomial programs",
         "pub_year": "2010",
         "citation": "Journal of Global Optimization 46 (1), 147-154, 2010",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "CINe7CgAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -191,7 +192,7 @@
         "title": "Designing networks with resiliency to edge failures using two-stage robust optimization",
         "pub_year": "2019",
         "citation": "European Journal of Operational Research 279 (3), 704-720, 2019",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "CINe7CgAAAAJ:q1zXlPLtbUIC"
     },
     {
@@ -226,7 +227,7 @@
         "title": "Estimation of diffusion anisotropy in microporous crystalline materials and optimization of crystal orientation in membranes",
         "pub_year": "2013",
         "citation": "The Journal of Chemical Physics 139 (12), 2013",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "CINe7CgAAAAJ:DQNrXyjhriIC"
     },
     {
@@ -296,14 +297,14 @@
         "title": "K-adaptability in two-stage mixed-integer robust optimization",
         "pub_year": "2020",
         "citation": "Mathematical Programming Computation 12, 193-224, 2020",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "CINe7CgAAAAJ:CMvovTBb2okC"
     },
     {
         "title": "MatOpt: A Python Package for Nanomaterials Design Using Discrete Optimization",
         "pub_year": "2022",
         "citation": "Journal of Chemical Information and Modeling 62 (2), 295-308, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "CINe7CgAAAAJ:4QKQTXcH0q8C"
     },
     {
@@ -317,7 +318,7 @@
         "title": "Methodology and applications of robust optimization",
         "pub_year": "2022",
         "citation": "Optimization and Engineering 23 (4), 1761-1764, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "CINe7CgAAAAJ:AFXcoJnoRH0C"
     },
     {
@@ -338,7 +339,7 @@
         "title": "Multi-mode Resource Constrained Project Scheduling with Alternative Prerequisites: New Models and Computational Studies",
         "pub_year": "2019",
         "citation": "Industrial & Engineering Chemistry Research 58 (39), 18253-18266, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "CINe7CgAAAAJ:3vbIHxFL9FgC"
     },
     {
@@ -415,21 +416,21 @@
         "title": "Rational design of shape selective separations and catalysis: Lattice relaxation and effective aperture size",
         "pub_year": "2010",
         "citation": "AIChE Journal 56 (3), 611-632, 2010",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "CINe7CgAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Robust Multiperiod Vehicle Routing Under Customer Order Uncertainty",
         "pub_year": "2021",
         "citation": "Operations Research 69 (1), 30-60, 2021",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "CINe7CgAAAAJ:oYLFIHfuHKwC"
     },
     {
         "title": "Robust optimization for decision-making under endogenous uncertainty",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 111, 252-266, 2018",
-        "num_citations": 77,
+        "num_citations": 80,
         "author_pub_id": "CINe7CgAAAAJ:c1AJUTjuCtUC"
     },
     {
@@ -457,7 +458,7 @@
         "title": "Search methods for inorganic materials crystal structure prediction",
         "pub_year": "2022",
         "citation": "Current Opinion in Chemical Engineering 35, 100726, 2022",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "CINe7CgAAAAJ:kO05sadLmrgC"
     },
     {
@@ -491,7 +492,7 @@
         "title": "The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty",
         "pub_year": "2013",
         "citation": "Operations Research 61 (3), 677-693, 2013",
-        "num_citations": 268,
+        "num_citations": 270,
         "author_pub_id": "CINe7CgAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -540,7 +541,7 @@
         "title": "Tight convex underestimators for-continuous problems: II. Multivariate functions",
         "pub_year": "2008",
         "citation": "Journal of Global Optimization 42 (1), 69-89, 2008",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "CINe7CgAAAAJ:DIubQTN3OvUC"
     },
     {

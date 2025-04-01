@@ -17,20 +17,20 @@
         "title": "An in-depth survey of the oil spill literature since 1968: Long term trends and changes since Deepwater Horizon",
         "pub_year": "2016",
         "citation": "Marine pollution bulletin 113 (1-2), 371-379, 2016",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "aYUS1DkAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Assessing the performance of wax-based microsorbents for oil remediation",
         "pub_year": "2021",
         "citation": "Colloids and Surfaces A: Physicochemical and Engineering Aspects 627, 127227, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Author correction: films of Bacteria at interfaces (fBi): Remodeling of fluid interfaces by Pseudomonas aeruginosa",
         "pub_year": "2019",
-        "citation": "Scientific Reports 9, 2019",
+        "citation": "Scientific Reports 9, 17809, 2019",
         "num_citations": 0,
         "author_pub_id": "aYUS1DkAAAAJ:epqYDVWIO7EC"
     },
@@ -45,7 +45,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 242,
+        "num_citations": 234,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "Carbon nanomaterials‐based electrically conductive scaffolds for tissue engineering applications",
         "pub_year": "2024",
         "citation": "MedComm–Biomaterials and Applications 3 (2), e76, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "aYUS1DkAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 84,
+        "num_citations": 88,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Design of a well-defined poly (dimethylsiloxane)-based microbial nanoculture system",
         "pub_year": "2021",
         "citation": "Materials Today Communications 27, 102185, 2021",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "aYUS1DkAAAAJ:p__nRnzSRKYC"
     },
     {
@@ -197,7 +197,7 @@
     {
         "title": "Electrochemical Strategy for Eradicating Fluconazole-Tolerant Candida albicans Using Implantable Titanium",
         "pub_year": "2019",
-        "citation": "ACS applied materials & interfaces 11 (44), 40997-41008, 2019",
+        "citation": "ACS Applied Materials & Interfaces 11 (44), 40997-41008, 2019",
         "num_citations": 7,
         "author_pub_id": "aYUS1DkAAAAJ:uc_IGeMz5qoC"
     },
@@ -219,14 +219,14 @@
         "title": "Eradication of Pseudomonas aeruginosacells by cathodic electrochemical currents delivered with graphite electrodes",
         "pub_year": "2016",
         "citation": "Acta Biomaterialia 50 (1 March 2017), 344–352, 2016",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "aYUS1DkAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Films of Bacteria at Interfaces (FBI): Remodeling of Fluid Interfaces by Pseudomonas aeruginosa",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 17864, 2017",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "aYUS1DkAAAAJ:35r97b3x0nAC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Films of bacteria at interfaces",
         "pub_year": "2017",
         "citation": "Advances in colloid and interface science 247, 561-572, 2017",
-        "num_citations": 82,
+        "num_citations": 85,
         "author_pub_id": "aYUS1DkAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -252,7 +252,8 @@
     },
     {
         "title": "How could emerging nanomedicine-based tuberculosis treatments outperform conventional approaches?",
-        "citation": "Nanomedicine (London, England), 1-3, 0",
+        "pub_year": "2025",
+        "citation": "Nanomedicine, 1-3, 2025",
         "num_citations": 0,
         "author_pub_id": "aYUS1DkAAAAJ:5qfkUJPXOUwC"
     },
@@ -285,10 +286,17 @@
         "author_pub_id": "aYUS1DkAAAAJ:zLWjf1WUPmwC"
     },
     {
+        "title": "Lipid Nanoparticle Delivery System for Normalization of Tumor Microenvironment and Tumor Vascular Structure",
+        "pub_year": "2025",
+        "citation": "Biomaterials Research, 2025",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:PVjk1bu6vJQC"
+    },
+    {
         "title": "Material properties of interfacial films of mucoid and nonmucoid Pseudomonas aeruginosa isolates",
         "pub_year": "2020",
         "citation": "Acta Biomaterialia 118, 129-140, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -330,7 +338,7 @@
         "title": "Microbial nanoculture as an artificial microniche",
         "pub_year": "2016",
         "citation": "Scientific reports 6 (1), 30578, 2016",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "aYUS1DkAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -379,7 +387,7 @@
         "title": "One-step generation of cell-encapsulating compartments via polyelectrolyte complexation in an aqueous two phase system",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (38), 25603-25611, 2016",
-        "num_citations": 85,
+        "num_citations": 84,
         "author_pub_id": "aYUS1DkAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -462,7 +470,7 @@
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
         "pub_year": "2020",
         "citation": "Biofilm 2, 100012, 2020",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "aYUS1DkAAAAJ:ML0RJ9NH7IQC"
     },
     {

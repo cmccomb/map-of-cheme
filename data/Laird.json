@@ -31,7 +31,7 @@
         "title": "A mathematical programming approach for the optimal placement of flame detectors in petrochemical facilities",
         "pub_year": "2019",
         "citation": "Process Safety and Environmental Protection 132, 47-58, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "0B3gfuoAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A multitree approach for global solution of ACOPF problems using piecewise outer approximations",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 114, 145-157, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "0B3gfuoAAAAJ:738O_yMBCRsC"
     },
     {
@@ -101,14 +101,14 @@
         "title": "A stochastic programming approach for gas detector placement using CFD-based dispersion simulations",
         "pub_year": "2012",
         "citation": "Computers & Chemical Engineering 47, 194-201, 2012",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "0B3gfuoAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "A stochastic programming approach for the optimal placement of gas detectors: unavailability and voting strategies",
         "pub_year": "2014",
         "citation": "Industrial & Engineering Chemistry Research 53 (13), 5355-5365, 2014",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "0B3gfuoAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -122,7 +122,7 @@
         "title": "An algorithmic framework for convex mixed integer nonlinear programs",
         "pub_year": "2008",
         "citation": "Discrete optimization 5 (2), 186-204, 2008",
-        "num_citations": 1157,
+        "num_citations": 1158,
         "author_pub_id": "0B3gfuoAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -136,7 +136,7 @@
         "title": "An implicit function formulation for optimization of discretized index-1 differential algebraic systems",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 168, 108042, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "0B3gfuoAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -150,14 +150,14 @@
         "title": "An optimization-based framework to define the probabilistic design space of pharmaceutical processes with model uncertainty",
         "pub_year": "2019",
         "citation": "Processes 7 (2), 96, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "0B3gfuoAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Benchmarking ADMM in nonconvex NLPs",
         "pub_year": "2018",
         "citation": "Computers & Chemical Engineering 119, 315-325, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "0B3gfuoAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -213,14 +213,14 @@
         "title": "Effect of specific non-pharmaceutical intervention policies on SARS-CoV-2 transmission in the counties of the United States",
         "pub_year": "2021",
         "citation": "Nature communications 12 (1), 3560, 2021",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "0B3gfuoAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Efficient parallel solution of large-scale nonlinear dynamic optimization problems",
         "pub_year": "2014",
         "citation": "Computational Optimization and Applications 59, 667-688, 2014",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "0B3gfuoAAAAJ:mB3voiENLucC"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Interior-point decomposition approaches for parallel solution of large-scale nonlinear parameter estimation problems",
         "pub_year": "2008",
         "citation": "Chemical Engineering Science 63 (19), 4834-4845, 2008",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "0B3gfuoAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -360,7 +360,7 @@
         "title": "Linear model decision trees as surrogates in optimization of engineering applications",
         "pub_year": "2023",
         "citation": "Computers & Chemical Engineering 178, 108347, 2023",
-        "num_citations": 22,
+        "num_citations": 26,
         "author_pub_id": "0B3gfuoAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -416,7 +416,7 @@
         "title": "OMLT: Optimization & machine learning toolkit",
         "pub_year": "2022",
         "citation": "Journal of Machine Learning Research 23 (349), 1-8, 2022",
-        "num_citations": 105,
+        "num_citations": 107,
         "author_pub_id": "0B3gfuoAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Optimal design of cryogenic air separation columns under uncertainty",
         "pub_year": "2010",
         "citation": "Computers & Chemical Engineering 34 (9), 1377-1384, 2010",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "0B3gfuoAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -521,21 +521,21 @@
         "title": "Perspectives on the integration between first-principles and data-driven modeling",
         "pub_year": "2022",
         "citation": "Computers & Chemical Engineering 166, 107898, 2022",
-        "num_citations": 90,
+        "num_citations": 96,
         "author_pub_id": "0B3gfuoAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "PharmaPy: An object-oriented tool for the development of hybrid pharmaceutical flowsheets",
         "pub_year": "2021",
         "citation": "Computers & chemical engineering 153, 107408, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "0B3gfuoAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow",
         "pub_year": "2024",
         "citation": "International Journal of Electrical Power & Energy Systems 157, 109741, 2024",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "0B3gfuoAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -549,7 +549,7 @@
         "title": "Process superstructure optimization through discrete steepest descent optimization: a GDP analysis and applications in process intensification",
         "pub_year": "2022",
         "citation": "Computer Aided Chemical Engineering 49, 1279-1284, 2022",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "0B3gfuoAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -577,14 +577,14 @@
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2017",
         "citation": "Springer 67, 277, 2017",
-        "num_citations": 1526,
+        "num_citations": 1538,
         "author_pub_id": "0B3gfuoAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Pyomo-optimization modeling in python",
         "pub_year": "2021",
         "citation": "Springer 67 (s 32), 2021",
-        "num_citations": 662,
+        "num_citations": 682,
         "author_pub_id": "0B3gfuoAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -598,7 +598,7 @@
         "title": "Real-time feasible multi-objective optimization based nonlinear model predictive control of particle size and shape in a batch crystallization process",
         "pub_year": "2017",
         "citation": "Control Engineering Practice 69, 1-8, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "0B3gfuoAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -633,7 +633,7 @@
         "title": "Robust state estimation of feeding–blending systems in continuous pharmaceutical manufacturing",
         "pub_year": "2018",
         "citation": "Chemical Engineering Research and Design 134, 140-153, 2018",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "0B3gfuoAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -654,14 +654,14 @@
         "title": "Scripting custom workflows",
         "pub_year": "2021",
         "citation": "Pyomo—Optimization modeling in python, 67-81, 2021",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "0B3gfuoAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "Second-order multiplier updates to accelerate admm methods in optimization under uncertainty",
         "pub_year": "2019",
         "citation": "Computer Aided Chemical Engineering 47, 239-244, 2019",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "0B3gfuoAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -738,7 +738,7 @@
         "title": "The IDAES process modeling framework and model library—Flexibility for process simulation and optimization",
         "pub_year": "2021",
         "citation": "Journal of advanced manufacturing and processing 3 (3), e10095, 2021",
-        "num_citations": 101,
+        "num_citations": 107,
         "author_pub_id": "0B3gfuoAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -752,14 +752,14 @@
         "title": "Tightening McCormick relaxations toward global solution of the ACOPF problem",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 814-817, 2018",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "0B3gfuoAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Utilizing modern computer architectures to solve mathematical optimization problems: A survey",
         "pub_year": "2024",
         "citation": "Computers & Chemical Engineering 184, 108627, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "0B3gfuoAAAAJ:z_wVstp3MssC"
     },
     {

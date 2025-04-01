@@ -17,7 +17,7 @@
         "title": "A continuum approach to predicting electrophoretic mobility reversals",
         "pub_year": "2014",
         "citation": "Journal of Fluid Mechanics 752, R1, 2014",
-        "num_citations": 46,
+        "num_citations": 48,
         "author_pub_id": "PInIkl8AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -66,7 +66,7 @@
         "title": "A squirmer across Reynolds numbers",
         "pub_year": "2016",
         "citation": "Journal of Fluid Mechanics 796, 233-256, 2016",
-        "num_citations": 109,
+        "num_citations": 112,
         "author_pub_id": "PInIkl8AAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Asymptotic analysis of double-carrier, space-charge-limited transport in organic light-emitting diodes",
         "pub_year": "2013",
         "citation": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering …, 2013",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "PInIkl8AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -123,6 +123,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "PInIkl8AAAAJ:a0OBvERweLwC"
+    },
+    {
+        "title": "Chaotic Dynamics of an Autophoretic Particle",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Chaotic dynamics of an autophoretic particle",
@@ -163,7 +170,7 @@
         "title": "Concentration polarization and second-kind electrokinetic instability at an ion-selective surface admitting normal flow",
         "pub_year": "2011",
         "citation": "Physics of Fluids 23 (7), 2011",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "PInIkl8AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -177,7 +184,7 @@
         "title": "Coupling electrokinetics and rheology: electrophoresis in non-Newtonian fluids",
         "pub_year": "2012",
         "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 85 (1 …, 2012",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "PInIkl8AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -226,7 +233,7 @@
         "title": "Diffusiophoresis of colloidal particles in neutral solute gradients at finite Péclet number",
         "pub_year": "2013",
         "citation": "Journal of Fluid Mechanics 731, 64-94, 2013",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "PInIkl8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -240,7 +247,7 @@
         "title": "Diffusiophoretic transport of charged colloids in ionic surfactant gradients entirely below versus entirely above the critical micelle concentration",
         "pub_year": "2024",
         "citation": "Langmuir 40 (19), 10143-10156, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "PInIkl8AAAAJ:t6usbXjVLHcC"
     },
     {
@@ -289,7 +296,7 @@
         "title": "Drop deformation during diffusiophoresis",
         "pub_year": "2022",
         "citation": "Journal of Fluid Mechanics 949, A17, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PInIkl8AAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -310,7 +317,7 @@
         "title": "Dynamic interfacial tension measurement under electric fields allows detection of charge carriers in nonpolar liquids",
         "pub_year": "2020",
         "citation": "Journal of Colloid and Interface Science 567, 18-27, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "PInIkl8AAAAJ:D03iK_w7-QYC"
     },
     {
@@ -352,7 +359,7 @@
         "title": "Effect of polymer/surfactant complexation on diffusiophoresis of colloids in surfactant concentration gradients",
         "pub_year": "2023",
         "citation": "Journal of Colloid and Interface Science 642, 169-181, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "PInIkl8AAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -415,7 +422,7 @@
         "title": "Expansions at small Reynolds numbers for the locomotion of a spherical squirmer",
         "pub_year": "2014",
         "citation": "Physics of Fluids 26 (1), 2014",
-        "num_citations": 72,
+        "num_citations": 74,
         "author_pub_id": "PInIkl8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -443,7 +450,7 @@
         "title": "Fundamental aspects of concentration polarization arising from nonuniform electrokinetic transport",
         "pub_year": "2008",
         "citation": "Physics of Fluids 20 (8), 2008",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "PInIkl8AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -468,6 +475,20 @@
         "author_pub_id": "PInIkl8AAAAJ:eJXPG6dFmWUC"
     },
     {
+        "title": "Hydrodynamic Memory and Quincke Rotation",
+        "pub_year": "2022",
+        "citation": "2022 AIChE Annual Meeting, 2022",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:JoZmwDi-zQgC"
+    },
+    {
+        "title": "Hydrodynamic memory and Quincke rotation",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.03420, 2025",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:tkaPQYYpVKoC"
+    },
+    {
         "title": "Hydrodynamic slip significantly alters chaotic advection and scattering of small particles",
         "pub_year": "2022",
         "citation": "Physical Review Fluids 7 (8), 084504, 2022",
@@ -478,28 +499,28 @@
         "title": "Inertial bifurcation of the equilibrium position of a neutrally-buoyant circular cylinder in shear flow between parallel walls",
         "pub_year": "2020",
         "citation": "Physical Review Research 2 (1), 013009, 2020",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "PInIkl8AAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Influence of ion sterics on diffusiophoresis and electrophoresis in concentrated electrolytes",
         "pub_year": "2017",
         "citation": "Physical Review Fluids 2 (1), 014201, 2017",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "PInIkl8AAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Interfacially-adsorbed particles enhance the self-propulsion of oil droplets in aqueous surfactant",
         "pub_year": "2021",
         "citation": "Soft Matter 17 (28), 6742-6750, 2021",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "PInIkl8AAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Ion steric effects on electrophoresis of a colloidal particle",
         "pub_year": "2009",
         "citation": "Journal of fluid mechanics 640, 343-356, 2009",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "PInIkl8AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -541,7 +562,7 @@
         "title": "Macrotransport theory for diffusiophoretic colloids and chemotactic microorganisms",
         "pub_year": "2021",
         "citation": "Journal of Fluid Mechanics 917, A52, 2021",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "PInIkl8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -590,7 +611,7 @@
         "title": "Moving ion fronts in mixed ionic‐electronic conducting polymer films",
         "pub_year": "2015",
         "citation": "AIChE Journal 61 (4), 1447-1454, 2015",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "PInIkl8AAAAJ:4TOpqqG69KYC"
     },
     {
@@ -604,7 +625,7 @@
         "title": "Nonequilibrium structure formation in electrohydrodynamic emulsions",
         "pub_year": "2023",
         "citation": "Soft Matter 19 (47), 9179-9194, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "PInIkl8AAAAJ:bnK-pcrLprsC"
     },
     {
@@ -618,14 +639,14 @@
         "title": "Nonlinear electrophoresis of colloidal particles",
         "pub_year": "2022",
         "citation": "Current Opinion in Colloid & Interface Science 59, 101587, 2022",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "PInIkl8AAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Nonlinear electrophoretic velocity of a spherical colloidal particle",
         "pub_year": "2023",
         "citation": "Journal of Fluid Mechanics 968, A14, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "PInIkl8AAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -667,7 +688,7 @@
         "title": "On the bulk viscosity of suspensions",
         "pub_year": "2006",
         "citation": "Journal of Fluid Mechanics 554, 109-123, 2006",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "PInIkl8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -730,14 +751,14 @@
         "title": "Role of Stefan–Maxwell fluxes in the dynamics of concentrated electrolytes",
         "pub_year": "2018",
         "citation": "Soft Matter 14 (41), 8267-8275, 2018",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "PInIkl8AAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Self-generated electrokinetic fluid flows during pseudomorphic mineral replacement reactions",
         "pub_year": "2016",
         "citation": "Langmuir 32 (21), 5233-5240, 2016",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "PInIkl8AAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -776,6 +797,13 @@
         "author_pub_id": "PInIkl8AAAAJ:J-pR_7NvFogC"
     },
     {
+        "title": "Spontaneous locomotion of a symmetric squirmer (vol 983, R3, 2024)",
+        "pub_year": "2024",
+        "citation": "JOURNAL OF FLUID MECHANICS 995, 2024",
+        "num_citations": 0,
+        "author_pub_id": "PInIkl8AAAAJ:_B80troHkn4C"
+    },
+    {
         "title": "Spontaneous locomotion of a symmetric squirmer–CORRIGENDUM",
         "pub_year": "2024",
         "citation": "Journal of Fluid Mechanics 995, E1, 2024",
@@ -800,7 +828,7 @@
         "title": "Strong deformation of the thick electric double layer around a charged particle during sedimentation or electrophoresis",
         "pub_year": "2018",
         "citation": "Langmuir 34 (3), 876-885, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "PInIkl8AAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -842,7 +870,7 @@
         "title": "The dynamics and rheology of a dilute suspension of hydrodynamically Janus spheres in a linear flow",
         "pub_year": "2009",
         "citation": "Journal of fluid mechanics 633, 233-269, 2009",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "PInIkl8AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -877,7 +905,7 @@
         "title": "The influence of hydrodynamic slip on the electrophoretic mobility of a spherical colloidal particle",
         "pub_year": "2009",
         "citation": "Physics of Fluids 21 (4), 2009",
-        "num_citations": 156,
+        "num_citations": 158,
         "author_pub_id": "PInIkl8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -919,7 +947,7 @@
         "title": "Tuning chemotactic and diffusiophoretic spreading via hydrodynamic flows",
         "pub_year": "2022",
         "citation": "Soft Matter 18 (9), 1896-1910, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "PInIkl8AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -940,7 +968,7 @@
         "title": "Use of electrochemical impedance spectroscopy to determine double-layer capacitance in doped nonpolar liquids",
         "pub_year": "2015",
         "citation": "Journal of colloid and interface science 449, 2-12, 2015",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "PInIkl8AAAAJ:Se3iqnhoufwC"
     },
     {

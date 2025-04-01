@@ -38,7 +38,7 @@
         "title": "2D Ising model for enantiomer adsorption on achiral surfaces: L-and D-aspartic acid on Cu (111)",
         "pub_year": "2022",
         "citation": "Entropy 24 (4), 565, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ZejbkR4AAAAJ:UmS_249rOGwC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Adsorbate induced kink formation in straight step edges on Cu (5 3 3) and Cu (2 2 1)",
         "pub_year": "2004",
         "citation": "Surface science 563 (1-3), 217-224, 2004",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "ZejbkR4AAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -161,10 +161,17 @@
         "author_pub_id": "ZejbkR4AAAAJ:lgwcVrK6X84C"
     },
     {
+        "title": "Adsorption induced autoamplification of enantiomeric excess",
+        "pub_year": "2014",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 248, 2014",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:eI34FqJmdUoC"
+    },
+    {
         "title": "Adsorption of chiral alcohols on “chiral” metal surfaces",
         "pub_year": "1996",
         "citation": "Langmuir 12 (10), 2483-2487, 1996",
-        "num_citations": 399,
+        "num_citations": 401,
         "author_pub_id": "ZejbkR4AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -322,6 +329,13 @@
         "author_pub_id": "ZejbkR4AAAAJ:BzfGm06jWhQC"
     },
     {
+        "title": "BOUNDARY LUBRICATION OF COPPER-COPPER INTERFACES BY FLUORINATED ALCOHOLS",
+        "pub_year": "1994",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 207, 126-COLL, 1994",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:2vr6o8x5NLkC"
+    },
+    {
         "title": "Bonding of Ethers and Alcohols to a-CNx Films",
         "pub_year": "1999",
         "citation": "Langmuir 15 (5), 1709-1715, 1999",
@@ -339,7 +353,7 @@
         "title": "Breaking the barrier to biomolecule limit-of-detection via 3D printed multi-length-scale graphene-coated electrodes",
         "pub_year": "2021",
         "citation": "Nature Communications 12 (1), 7077, 2021",
-        "num_citations": 60,
+        "num_citations": 64,
         "author_pub_id": "ZejbkR4AAAAJ:IsPWOBWtZBwC"
     },
     {
@@ -513,7 +527,7 @@
         "title": "Chiral metal surfaces for enantioselective processes",
         "pub_year": "2020",
         "citation": "Nature Materials 19 (9), 939-945, 2020",
-        "num_citations": 74,
+        "num_citations": 78,
         "author_pub_id": "ZejbkR4AAAAJ:kF1pexMAQbMC"
     },
     {
@@ -541,7 +555,7 @@
         "title": "Chiral surfaces: accomplishments and challenges",
         "pub_year": "2010",
         "citation": "ACS nano 4 (1), 5-10, 2010",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "ZejbkR4AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -750,14 +764,14 @@
         "title": "Dual decomposition pathways for L-aspartic acid on Ni (100)",
         "pub_year": "2022",
         "citation": "Surface Science 717, 121980, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZejbkR4AAAAJ:PkcyUWeTMh0C"
     },
     {
         "title": "Dynamics of charging of muscovite mica: measurement and modeling",
         "pub_year": "2009",
         "citation": "Langmuir 25 (3), 1475-1481, 2009",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "ZejbkR4AAAAJ:rO6llkc54NcC"
     },
     {
@@ -799,7 +813,7 @@
         "title": "Effect of humidity on lubricated carbon overcoats",
         "pub_year": "2002",
         "citation": "Tribology Letters 12, 105-109, 2002",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ZejbkR4AAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -834,7 +848,7 @@
         "title": "Effects of conformational isomerism on the desorption kinetics of n-alkanes from graphite",
         "pub_year": "2001",
         "citation": "The Journal of Chemical Physics 115 (14), 6737-6751, 2001",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "ZejbkR4AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -876,7 +890,7 @@
         "title": "Enantiomeric separations of chiral pharmaceuticals using chirally modified tetrahexahedral Au nanoparticles",
         "pub_year": "2016",
         "citation": "Surface Science 648, 29-34, 2016",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ZejbkR4AAAAJ:XoXfffV-tXoC"
     },
     {
@@ -901,9 +915,9 @@
         "author_pub_id": "ZejbkR4AAAAJ:rbm3iO8VlycC"
     },
     {
-        "title": "Enantioselective Separation on Naturally Chiral Metal Surfaces: d,l‐Aspartic Acid on Cu(3,1,17)R&S Surfaces",
+        "title": "Enantioselective Separation on Naturally Chiral Metal Surfaces: d,l-Aspartic Acid on Cu(3,1,17) R& S Surfaces.",
         "pub_year": "2013",
-        "citation": "Angewandte Chemie International Edition 52 (12), 3394-3397, 2013",
+        "citation": "Angewandte Chemie 125 (12), 2013",
         "num_citations": 83,
         "author_pub_id": "ZejbkR4AAAAJ:k_IJM867U9cC"
     },
@@ -946,7 +960,7 @@
         "title": "Enantioselective separation on a naturally chiral surface",
         "pub_year": "2004",
         "citation": "Journal of the American Chemical Society 126 (45), 14988-14994, 2004",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "ZejbkR4AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -960,7 +974,7 @@
         "title": "Enantioselective separation on chiral Au nanoparticles",
         "pub_year": "2010",
         "citation": "Journal of the American Chemical Society 132 (25), 8575-8580, 2010",
-        "num_citations": 169,
+        "num_citations": 170,
         "author_pub_id": "ZejbkR4AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1037,7 +1051,7 @@
         "title": "Enantiospecific Desorption of R- and S-Propylene Oxide from a Chiral Cu(643) Surface",
         "pub_year": "2001",
         "citation": "Journal of the American Chemical Society 123 (32), 7953-7954, 2001",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "ZejbkR4AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1079,7 +1093,7 @@
         "title": "Enantiospecific desorption of chiral compounds from chiral Cu (643) and achiral Cu (111) surfaces",
         "pub_year": "2002",
         "citation": "Journal of the American Chemical Society 124 (10), 2384-2392, 2002",
-        "num_citations": 178,
+        "num_citations": 179,
         "author_pub_id": "ZejbkR4AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1158,6 +1172,13 @@
         "citation": "Chemical Communications 52 (98), 14125-14128, 2016",
         "num_citations": 24,
         "author_pub_id": "ZejbkR4AAAAJ:fbc8zXXH2BUC"
+    },
+    {
+        "title": "FLUORINATED ALCOHOLS ON CLEAN AND PREOXIDIZED CU (111) SURFACES-FT-IRAS AND TPD STUDIES",
+        "pub_year": "1994",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 207, 150-COLL, 1994",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:ji7lAbPyDbYC"
     },
     {
         "title": "FLUORINE SUBSTITUTION EFFECTS ON THE COUPLING OF ETHYL GROUPS ON A AG (111) SURFACE",
@@ -1261,14 +1282,14 @@
         "title": "Friction anisotropy at Ni (100)/Ni (100) interfaces",
         "pub_year": "2000",
         "citation": "Langmuir 16 (22), 8343-8351, 2000",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "ZejbkR4AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Friction anisotropy at Pd (100)/Pd (100) interfaces",
         "pub_year": "2004",
         "citation": "Langmuir 20 (5), 1680-1687, 2004",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "ZejbkR4AAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1380,7 +1401,7 @@
         "title": "High performance flexible temperature sensors via nanoparticle printing",
         "pub_year": "2019",
         "citation": "ACS Applied Nano Materials 2 (5), 3280-3291, 2019",
-        "num_citations": 58,
+        "num_citations": 61,
         "author_pub_id": "ZejbkR4AAAAJ:Dem6FJhTUoYC"
     },
     {
@@ -1464,7 +1485,7 @@
         "title": "Humidity Effects on PFPE Lubricant Bonding to a-CHx Overcoats",
         "pub_year": "2000",
         "citation": "Langmuir 16 (16), 6628-6635, 2000",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "ZejbkR4AAAAJ:mB3voiENLucC"
     },
     {
@@ -1555,7 +1576,7 @@
         "title": "Influence of the molten SrCl2 treatment on the surface structure and photochemical reactivities of SrTiO3",
         "pub_year": "2023",
         "citation": "Applied Surface Science 638, 158111, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZejbkR4AAAAJ:__bU50VfleQC"
     },
     {
@@ -1569,7 +1590,7 @@
         "title": "Initial Oxidation of Cu(hkl) Surfaces Vicinal to Cu(111): A High-Throughput Study of Structure Sensitivity",
         "pub_year": "2012",
         "citation": "The Journal of Physical Chemistry C 116 (30), 16054-16062, 2012",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "ZejbkR4AAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -1715,7 +1736,7 @@
         "title": "Kinetics and Mechanism of Oligomer Desorption from Surfaces:  n-Alkanes on Graphite",
         "pub_year": "2002",
         "citation": "The Journal of Physical Chemistry B 106 (51), 13231-13241, 2002",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "ZejbkR4AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1729,7 +1750,7 @@
         "title": "Kinetics and energetics of oligomer desorption from surfaces",
         "pub_year": "2001",
         "citation": "Physical review letters 86 (19), 4338, 2001",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "ZejbkR4AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1980,7 +2001,7 @@
         "title": "Nucleation of boron nitride on Ni (100) surfaces",
         "pub_year": "1997",
         "citation": "Materials Science and Engineering: B 46 (1-3), 84-88, 1997",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ZejbkR4AAAAJ:NJ774b8OgUMC"
     },
     {
@@ -2008,7 +2029,7 @@
         "title": "Organofunctional silanes as adhesion promoters: direct characterization of the polymer/silane interphase",
         "pub_year": "1992",
         "citation": "Journal of adhesion science and technology 6 (2), 307-316, 1992",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "ZejbkR4AAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -2103,6 +2124,13 @@
         "author_pub_id": "ZejbkR4AAAAJ:2tRrZ1ZAMYUC"
     },
     {
+        "title": "PROBING SURFACE TRANSITION-STATES",
+        "pub_year": "1993",
+        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 205, 339-COLL, 1993",
+        "num_citations": 0,
+        "author_pub_id": "ZejbkR4AAAAJ:m4fbC6XIj1kC"
+    },
+    {
         "title": "PdAgAu alloy with high resistance to corrosion by H2S",
         "pub_year": "2012",
         "citation": "international journal of hydrogen energy 37 (23), 18547-18555, 2012",
@@ -2113,7 +2141,7 @@
         "title": "PdCuAu ternary alloy membranes: Hydrogen permeation properties in the presence of H2S",
         "pub_year": "2015",
         "citation": "Journal of membrane science 479, 246-255, 2015",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "ZejbkR4AAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -2141,7 +2169,7 @@
         "title": "Polymers at Interfaces: Using Atom Transfer Radical Polymerization in the Controlled Growth of Homopolymers and Block Copolymers from Silicon Surfaces in the Absence of …",
         "pub_year": "1999",
         "citation": "Macromolecules 32 (26), 8716 –8724, 1999",
-        "num_citations": 1282,
+        "num_citations": 1285,
         "author_pub_id": "ZejbkR4AAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -2253,7 +2281,7 @@
         "title": "Secondary neutral mass spectrometry studies of germanium-silane coupling agent-polymer interphases",
         "pub_year": "1990",
         "citation": "Journal of adhesion science and technology 4 (1), 597-601, 1990",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ZejbkR4AAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -2344,7 +2372,7 @@
         "title": "Straight-chain alcohol adsorption of the silver (110) surface",
         "pub_year": "1991",
         "citation": "The Journal of Physical Chemistry 95 (19), 7433-7437, 1991",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "ZejbkR4AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -2518,7 +2546,7 @@
         "title": "Surface chemistry for enantioselective catalysis",
         "pub_year": "2015",
         "citation": "Catalysis Letters 145, 220-232, 2015",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "ZejbkR4AAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -2553,7 +2581,7 @@
         "title": "Surface segregation in a polycrystalline Pd70Cu30 alloy hydrogen purification membrane",
         "pub_year": "2008",
         "citation": "Surface Science 602 (1), 375-382, 2008",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "ZejbkR4AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -2616,7 +2644,7 @@
         "title": "Synthesis of nanorods with Ni cores and porous silica coatings",
         "pub_year": "2011",
         "citation": "Catalysis letters 141, 491-497, 2011",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ZejbkR4AAAAJ:VLnqNzywnoUC"
     },
     {
@@ -2721,7 +2749,7 @@
         "title": "The adsorption and coadsorption of sulfur and carbon monoxide on rhenium single crystal surfaces",
         "pub_year": "1988",
         "citation": "Surface Science 204 (1-2), 1-25, 1988",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "ZejbkR4AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -2840,7 +2868,7 @@
         "title": "The real structure of naturally chiral Cu {643}",
         "pub_year": "2008",
         "citation": "The Journal of Physical Chemistry C 112 (30), 11086-11089, 2008",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "ZejbkR4AAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -2861,7 +2889,7 @@
         "title": "The surface chemistry of alkyl and arylphosphate vapor phase lubricants on Fe foil",
         "pub_year": "2002",
         "citation": "Tribology international 35 (9), 579-590, 2002",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "ZejbkR4AAAAJ:hMod-77fHWUC"
     },
     {
@@ -2917,7 +2945,7 @@
         "title": "The. beta.-hydride elimination mechanism in adsorbed alkyl groups",
         "pub_year": "1993",
         "citation": "Journal of the American Chemical Society 115 (14), 6277-6283, 1993",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "ZejbkR4AAAAJ:Tyk-4Ss8FVUC"
     },
     {
